@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Files Produced — Last 48 Hours | Antigravity</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg:#0d0f14;--surface:#13161e;--card:#1a1e2a;--border:#252a38;--border2:#2e3447;
+      --text:#e2e8f0;--muted:#8b95aa;--accent:#6c63ff;--accent2:#a78bfa;
+      --green:#22d3a0;--red:#f87171;--amber:#fbbf24;--blue:#60a5fa;
+      --pink:#f472b6;--cyan:#22d3ee;--orange:#fb923c;
+    }
+    *{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:'Inter',sans-serif;background:var(--bg);color:var(--text);min-height:100vh;padding:0 0 60px}
+
+    .header{background:linear-gradient(135deg,#0d0f14 0%,#1a1330 50%,#0d1220 100%);border-bottom:1px solid var(--border);padding:36px 48px 28px;position:sticky;top:0;z-index:100;backdrop-filter:blur(12px)}
+    .header-inner{max-width:1400px;margin:0 auto}
+    .header-top{display:flex;align-items:center;gap:16px;margin-bottom:6px}
+    .logo-dot{width:10px;height:10px;border-radius:50%;background:var(--accent);box-shadow:0 0 12px var(--accent);animation:pulse 2s infinite}
+    @keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
+    h1{font-size:24px;font-weight:700;letter-spacing:-.5px}
+    h1 span{color:var(--accent2)}
+    .meta{font-size:13px;color:var(--muted);margin-top:4px;display:flex;gap:20px;align-items:center;flex-wrap:wrap}
+    .meta strong{color:var(--text)}
+    .badge-total{background:var(--accent);color:#fff;font-size:12px;font-weight:600;padding:2px 10px;border-radius:20px}
+    .badge-new{background:var(--green);color:#0d1a14;font-size:11px;font-weight:700;padding:2px 8px;border-radius:20px}
+
+    .toolbar{max-width:1400px;margin:0 auto;padding:18px 48px 0;display:flex;gap:12px;flex-wrap:wrap;align-items:center}
+    .search-wrap{position:relative;flex:1;min-width:220px}
+    .search-wrap input{width:100%;background:var(--card);border:1px solid var(--border2);border-radius:10px;padding:10px 16px 10px 40px;color:var(--text);font-size:14px;font-family:'Inter',sans-serif;outline:none;transition:border-color .2s}
+    .search-wrap input:focus{border-color:var(--accent)}
+    .search-wrap svg{position:absolute;left:13px;top:50%;transform:translateY(-50%);opacity:.4}
+    .search-wrap input::placeholder{color:var(--muted)}
+    .filter-tabs{display:flex;gap:6px;flex-wrap:wrap}
+    .tab{padding:7px 14px;border-radius:8px;border:1px solid var(--border2);background:transparent;color:var(--muted);font-size:13px;font-weight:500;cursor:pointer;transition:all .15s;font-family:'Inter',sans-serif}
+    .tab:hover{border-color:var(--accent);color:var(--text)}
+    .tab.active{background:var(--accent);border-color:var(--accent);color:#fff}
+
+    .main{max-width:1400px;margin:0 auto;padding:28px 48px 0}
+
+    .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:10px;margin-bottom:32px}
+    .stat-card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:14px 16px;display:flex;flex-direction:column;gap:4px}
+    .stat-card .label{font-size:10px;color:var(--muted);text-transform:uppercase;letter-spacing:.8px}
+    .stat-card .value{font-size:20px;font-weight:700}
+    .stat-card .sub{font-size:10px;color:var(--muted)}
+
+    .section{margin-bottom:32px}
+    .section-header{display:flex;align-items:center;gap:10px;margin-bottom:10px;padding-bottom:8px;border-bottom:1px solid var(--border)}
+    .section-icon{font-size:16px}
+    .section-title{font-size:14px;font-weight:600}
+    .section-count{font-size:11px;color:var(--muted);background:var(--border);padding:2px 8px;border-radius:20px}
+    .new-badge{font-size:10px;font-weight:700;color:var(--green);background:rgba(34,211,160,.12);border:1px solid rgba(34,211,160,.25);padding:1px 7px;border-radius:10px}
+
+    .file-table{width:100%;border-collapse:collapse}
+    .file-table thead tr{background:var(--surface)}
+    .file-table thead th{text-align:left;padding:9px 12px;font-size:10px;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.7px;border-bottom:1px solid var(--border)}
+    .file-table tbody tr{border-bottom:1px solid var(--border);transition:background .12s}
+    .file-table tbody tr:hover{background:var(--card)}
+    .file-table tbody tr.hidden{display:none}
+    .file-table tbody tr.is-new{border-left:2px solid var(--green)}
+    .file-table td{padding:9px 12px;font-size:12.5px;vertical-align:middle}
+    .file-table td.num{color:var(--muted);font-size:11px;width:38px}
+    .file-table td.name{font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--text)}
+    .file-table td.name .path-prefix{color:var(--muted)}
+    .file-table td.name .new-star{color:var(--green);font-size:10px;margin-left:6px;font-family:'Inter',sans-serif;font-weight:700}
+    .file-table td.size{color:var(--muted);font-size:11px;white-space:nowrap}
+    .file-table td.link-cell{width:72px}
+
+    .fmt{display:inline-block;padding:2px 7px;border-radius:5px;font-size:10.5px;font-weight:600;font-family:'JetBrains Mono',monospace;white-space:nowrap}
+    .fmt-md  {background:#1e3a5f;color:#60a5fa;border:1px solid #2563eb44}
+    .fmt-html{background:#3a1e1e;color:#f87171;border:1px solid #ef444444}
+    .fmt-png {background:#1e3a2a;color:#4ade80;border:1px solid #22c55e44}
+    .fmt-jpeg{background:#1e3a2a;color:#34d399;border:1px solid #22c55e44}
+    .fmt-webp{background:#2a1e3a;color:#c084fc;border:1px solid #a855f744}
+    .fmt-pdf {background:#3a2a1e;color:#fb923c;border:1px solid #f9731644}
+    .fmt-mp4 {background:#3a1e2a;color:#f472b6;border:1px solid #ec489944}
+    .fmt-docx{background:#1e2a3a;color:#38bdf8;border:1px solid #0ea5e944}
+    .fmt-py  {background:#2a3a1e;color:#a3e635;border:1px solid #84cc1644}
+
+    .open-link{display:inline-flex;align-items:center;gap:5px;color:var(--accent2);font-size:11.5px;font-weight:500;text-decoration:none;padding:3px 9px;border-radius:6px;border:1px solid transparent;transition:all .15s}
+    .open-link:hover{border-color:var(--accent2);background:rgba(167,139,250,.1)}
+
+    .section-group-label{font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:1.5px;color:var(--muted);padding:6px 0 12px;margin-top:10px}
+
+    #no-results{display:none;text-align:center;padding:48px;color:var(--muted);font-size:14px}
+
+    .footer{max-width:1400px;margin:36px auto 0;padding:0 48px;border-top:1px solid var(--border);padding-top:18px}
+    .footer-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(90px,1fr));gap:8px}
+    .fmt-stat{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:9px 12px;display:flex;justify-content:space-between;align-items:center}
+    .fmt-stat .key{font-size:11px;font-family:'JetBrains Mono',monospace;color:var(--muted)}
+    .fmt-stat .val{font-size:14px;font-weight:700}
+
+    @media(max-width:768px){.header,.toolbar,.main,.footer{padding-left:16px;padding-right:16px}.stats{grid-template-columns:repeat(3,1fr)}}
+  </style>
+</head>
+<body>
+
+<header class="header">
+  <div class="header-inner">
+    <div class="header-top">
+      <div class="logo-dot"></div>
+      <h1>Files Produced — <span>Last 48 Hours</span></h1>
+    </div>
+    <div class="meta">
+      <span>📅 Period: <strong>2026-04-08 → 2026-04-10</strong></span>
+      <span>🕐 Updated: <strong>13:27 EST, 10 April 2026</strong></span>
+      <span class="badge-total">135 Files Total</span>
+      <span class="badge-new">+24 New</span>
+    </div>
+  </div>
+</header>
+
+<div class="toolbar">
+  <div class="search-wrap">
+    <svg width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+    <input type="text" id="search" placeholder="Search files…" oninput="filterFiles()" />
+  </div>
+  <div class="filter-tabs">
+    <button class="tab active" onclick="filterTab('all',this)">All 135</button>
+    <button class="tab" onclick="filterTab('new',this)">⭐ New +24</button>
+    <button class="tab" onclick="filterTab('workspace',this)">Workspace</button>
+    <button class="tab" onclick="filterTab('brain',this)">Brain</button>
+    <button class="tab" onclick="filterTab('md',this)">.md</button>
+    <button class="tab" onclick="filterTab('png',this)">.png</button>
+    <button class="tab" onclick="filterTab('pdf',this)">.pdf</button>
+    <button class="tab" onclick="filterTab('html',this)">.html</button>
+    <button class="tab" onclick="filterTab('mp4',this)">.mp4</button>
+  </div>
+</div>
+
+<div class="main">
+
+  <!-- STATS -->
+  <div class="stats">
+    <div class="stat-card"><span class="label">Total Files</span><span class="value" style="color:var(--accent2)">135</span><span class="sub">+24 new</span></div>
+    <div class="stat-card"><span class="label">.md Docs</span><span class="value" style="color:var(--blue)">44</span><span class="sub">+7 new</span></div>
+    <div class="stat-card"><span class="label">.png Images</span><span class="value" style="color:var(--green)">48</span><span class="sub">+4 new</span></div>
+    <div class="stat-card"><span class="label">.html Pages</span><span class="value" style="color:var(--red)">13</span><span class="sub">+7 new</span></div>
+    <div class="stat-card"><span class="label">.pdf Reports</span><span class="value" style="color:var(--orange)">10</span><span class="sub">+2 new</span></div>
+    <div class="stat-card"><span class="label">.mp4 Videos</span><span class="value" style="color:var(--pink)">5</span></div>
+    <div class="stat-card"><span class="label">.webp</span><span class="value" style="color:var(--accent2)">6</span></div>
+    <div class="stat-card"><span class="label">.py Scripts</span><span class="value" style="color:var(--muted)">3</span><span class="sub">+1 new</span></div>
+    <div class="stat-card"><span class="label">.docx</span><span class="value" style="color:var(--cyan)">1</span></div>
+    <div class="stat-card"><span class="label">.jpeg</span><span class="value" style="color:var(--muted)">2</span></div>
+  </div>
+
+  <div id="no-results">No files match your search.</div>
+
+  <!-- ═══ WORKSPACE ═══ -->
+  <div class="section-group-label">🗂️ Workspace Files — <code style="font-size:10px;color:var(--muted)">C:\ANTIGRAVITY PROJECTS\VELYON - LEGAL COMMAND CENTER\</code></div>
+
+  <!-- Wincham SSL -->
+  <div class="section" data-group="workspace">
+    <div class="section-header">
+      <span class="section-icon">🔴</span>
+      <span class="section-title" style="color:#f87171">Wincham SSL Forensic Audit</span>
+      <span class="section-count">24 files</span>
+    </div>
+    <table class="file-table"><thead><tr><th>#</th><th>File</th><th>Format</th><th>Size</th><th>Link</th></tr></thead><tbody>
+      <tr data-group="workspace" data-fmt="md"><td class="num">1</td><td class="name">WINCHAM_SSL_BREACH_FULL_REPORT</td><td><span class="fmt fmt-md">.md</span></td><td class="size">23 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/WINCHAM_SSL_BREACH_FULL_REPORT.md">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="md"><td class="num">2</td><td class="name"><span class="path-prefix">Wincham SSL Breach / </span>WINCHAM_SSL_BREACH_FULL_REPORT</td><td><span class="fmt fmt-md">.md</span></td><td class="size">33 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Wincham%20SSL%20Breach/WINCHAM_SSL_BREACH_FULL_REPORT.md">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="md"><td class="num">3</td><td class="name"><span class="path-prefix">Wincham SSL Breach / </span>WINCHAM_MASTER_REPORT_WITH_EVIDENCE</td><td><span class="fmt fmt-md">.md</span></td><td class="size">45 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Wincham%20SSL%20Breach/WINCHAM_MASTER_REPORT_WITH_EVIDENCE.md">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="png"><td class="num">4</td><td class="name"><span class="path-prefix">evidence / </span>adremaccs_cert_details</td><td><span class="fmt fmt-png">.png</span></td><td class="size">65 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Wincham%20SSL%20Breach/evidence/adremaccs_cert_details_1775814908538.png">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="png"><td class="num">5</td><td class="name"><span class="path-prefix">evidence / </span>adremaccs_com_home</td><td><span class="fmt fmt-png">.png</span></td><td class="size">237 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Wincham%20SSL%20Breach/evidence/adremaccs_com_home_1775813274169.png">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="png"><td class="num">6</td><td class="name"><span class="path-prefix">evidence / </span>adremaccs_homepage_ssl_status</td><td><span class="fmt fmt-png">.png</span></td><td class="size">243 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Wincham%20SSL%20Breach/evidence/adremaccs_homepage_ssl_status_1775814152743.png">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="png"><td class="num">7</td><td class="name"><span class="path-prefix">evidence / </span>adremaccs_ssllabs_report</td><td><span class="fmt fmt-png">.png</span></td><td class="size">52 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Wincham%20SSL%20Breach/evidence/adremaccs_ssllabs_report_1775814164733.png">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="png"><td class="num">8</td><td class="name"><span class="path-prefix">evidence / </span>wincham_com_cert_details</td><td><span class="fmt fmt-png">.png</span></td><td class="size">66 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Wincham%20SSL%20Breach/evidence/wincham_com_cert_details_1775814879909.png">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="png"><td class="num">9</td><td class="name"><span class="path-prefix">evidence / </span>wincham_es_dns_error</td><td><span class="fmt fmt-png">.png</span></td><td class="size">32 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Wincham%20SSL%20Breach/evidence/wincham_es_dns_error_1775813568983.png">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="png"><td class="num">10</td><td class="name"><span class="path-prefix">evidence / </span>wincham_homepage_ssl_status</td><td><span class="fmt fmt-png">.png</span></td><td class="size">444 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Wincham%20SSL%20Breach/evidence/wincham_homepage_ssl_status_1775814099950.png">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="webp"><td class="num">11</td><td class="name"><span class="path-prefix">evidence / </span>wincham_ssl_audit_all_sites</td><td><span class="fmt fmt-webp">.webp</span></td><td class="size">12 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Wincham%20SSL%20Breach/evidence/wincham_ssl_audit_all_sites_1775813138152.webp">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="png"><td class="num">12</td><td class="name"><span class="path-prefix">evidence / </span>wincham_ssllabs_report</td><td><span class="fmt fmt-png">.png</span></td><td class="size">66 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Wincham%20SSL%20Breach/evidence/wincham_ssllabs_report_1775814106305.png">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="png"><td class="num">13</td><td class="name"><span class="path-prefix">evidence / </span>wincham_wayback_machine_calendar</td><td><span class="fmt fmt-png">.png</span></td><td class="size">71 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Wincham%20SSL%20Breach/evidence/wincham_wayback_machine_calendar_1775814385844.png">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="png"><td class="num">14</td><td class="name"><span class="path-prefix">evidence / </span>winchamgroup_com_dns_error</td><td><span class="fmt fmt-png">.png</span></td><td class="size">32 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Wincham%20SSL%20Breach/evidence/winchamgroup_com_dns_error_1775813646782.png">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="png"><td class="num">15</td><td class="name"><span class="path-prefix">evidence / </span>winchamiht_com_error</td><td><span class="fmt fmt-png">.png</span></td><td class="size">34 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Wincham%20SSL%20Breach/evidence/winchamiht_com_error_1775813185920.png">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="png"><td class="num">16</td><td class="name"><span class="path-prefix">evidence / </span>winchamiht_error_page</td><td><span class="fmt fmt-png">.png</span></td><td class="size">34 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Wincham%20SSL%20Breach/evidence/winchamiht_error_page_1775814111979.png">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="png"><td class="num">17</td><td class="name"><span class="path-prefix">evidence / </span>winchamiht_failed_assessment</td><td><span class="fmt fmt-png">.png</span></td><td class="size">102 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Wincham%20SSL%20Breach/evidence/winchamiht_failed_assessment_1775814924389.png">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="png"><td class="num">18</td><td class="name"><span class="path-prefix">evidence / </span>winchampropertyshop_com_home</td><td><span class="fmt fmt-png">.png</span></td><td class="size">245 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Wincham%20SSL%20Breach/evidence/winchampropertyshop_com_home_1775813239061.png">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="png"><td class="num">19</td><td class="name"><span class="path-prefix">evidence / </span>winchampropertyshop_homepage_ssl_status</td><td><span class="fmt fmt-png">.png</span></td><td class="size">566 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Wincham%20SSL%20Breach/evidence/winchampropertyshop_homepage_ssl_status_1775814137081.png">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="png"><td class="num">20</td><td class="name"><span class="path-prefix">evidence / </span>winchampropertyshop_ssllabs_report</td><td><span class="fmt fmt-png">.png</span></td><td class="size">69 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Wincham%20SSL%20Breach/evidence/winchampropertyshop_ssllabs_report_1775814143055.png">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="png"><td class="num">21</td><td class="name"><span class="path-prefix">evidence / </span>winchamukcompany_cert_details</td><td><span class="fmt fmt-png">.png</span></td><td class="size">67 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Wincham%20SSL%20Breach/evidence/winchamukcompany_cert_details_1775814888041.png">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="png"><td class="num">22</td><td class="name"><span class="path-prefix">evidence / </span>winchamukcompany_com_home</td><td><span class="fmt fmt-png">.png</span></td><td class="size">690 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Wincham%20SSL%20Breach/evidence/winchamukcompany_com_home_1775813225549.png">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="png"><td class="num">23</td><td class="name"><span class="path-prefix">evidence / </span>winchamukcompany_homepage_ssl_status</td><td><span class="fmt fmt-png">.png</span></td><td class="size">688 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Wincham%20SSL%20Breach/evidence/winchamukcompany_homepage_ssl_status_1775814122035.png">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="png"><td class="num">24</td><td class="name"><span class="path-prefix">evidence / </span>winchamukcompany_ssllabs_report</td><td><span class="fmt fmt-png">.png</span></td><td class="size">67 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Wincham%20SSL%20Breach/evidence/winchamukcompany_ssllabs_report_1775814127365.png">↗ Open</a></td></tr>
+    </tbody></table>
+  </div>
+
+  <!-- Los Romeros Property -->
+  <div class="section" data-group="workspace">
+    <div class="section-header">
+      <span class="section-icon">🏠</span>
+      <span class="section-title" style="color:#fb923c">Los Romeros — Property Sale Documents</span>
+      <span class="section-count">13 files</span>
+    </div>
+    <table class="file-table"><thead><tr><th>#</th><th>File</th><th>Format</th><th>Size</th><th>Link</th></tr></thead><tbody>
+      <tr data-group="workspace" data-fmt="html"><td class="num">25</td><td class="name">Completion_Statement</td><td><span class="fmt fmt-html">.html</span></td><td class="size">24 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Completion_Statement.html">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="mp4"><td class="num">26</td><td class="name">1. The_Wincham_Scheme_Fraud_Overview_video_1</td><td><span class="fmt fmt-mp4">.mp4</span></td><td class="size">39 MB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Los%20Romeros%20-%20Wincham%20sale%20of%20Spanish%20property/1.%20The_Wincham_Scheme_Fraud_%20Overview_video_1.mp4">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="mp4"><td class="num">27</td><td class="name">2. WINCHAM_SCHEME_SIC_CODE-MISCLASIFICATION</td><td><span class="fmt fmt-mp4">.mp4</span></td><td class="size">55 MB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Los%20Romeros%20-%20Wincham%20sale%20of%20Spanish%20property/2.%20WINCHAM_SCHEME_SIC_CODE-MISCLASIFICATION.mp4">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="mp4"><td class="num">28</td><td class="name">3. The_Wincham_Indictment</td><td><span class="fmt fmt-mp4">.mp4</span></td><td class="size">59 MB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Los%20Romeros%20-%20Wincham%20sale%20of%20Spanish%20property/3.%20The_Wincham_Indictment.mp4">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="mp4"><td class="num">29</td><td class="name">4. LOS_ROMOEROS — CLOSING_COSTS</td><td><span class="fmt fmt-mp4">.mp4</span></td><td class="size">29 MB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Los%20Romeros%20-%20Wincham%20sale%20of%20Spanish%20property/4.%20LOS_ROMOEROS_-_WINCHAM_-_CLOSING_COSTS_-_SALE_OF_SPANISH_PROPER.mp4">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="mp4"><td class="num">30</td><td class="name">5. LOS_ROMOEROS — OVERVIEW_VIDEO_2</td><td><span class="fmt fmt-mp4">.mp4</span></td><td class="size">57 MB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Los%20Romeros%20-%20Wincham%20sale%20of%20Spanish%20property/5.%20LOS_ROMOEROS_-_WINCHAM_-_CLOSING_COSTS_-_SALE_OF_SPANISH_OVERVIEW_VIDEO_2.mp4">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="pdf"><td class="num">31</td><td class="name">6. Los_Romores_Transaction_Audit (1)</td><td><span class="fmt fmt-pdf">.pdf</span></td><td class="size">9 MB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Los%20Romeros%20-%20Wincham%20sale%20of%20Spanish%20property/6.%20Los_Romores_Transaction_Audit%20(1).pdf">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="pdf"><td class="num">32</td><td class="name">Los Romeros Ltd — Lanzarote Property Sale Full Financial Breakdown</td><td><span class="fmt fmt-pdf">.pdf</span></td><td class="size">1.9 MB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Los%20Romeros%20-%20Wincham%20sale%20of%20Spanish%20property/Los%20Romeros%20Limited%20-%20Lanzarote%20Property%20Sale-%20Full%20financial%20breakdown.%20%20.pdf">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="pdf"><td class="num">33</td><td class="name">Transaction_Audit_and_Capital_Transition</td><td><span class="fmt fmt-pdf">.pdf</span></td><td class="size">13 MB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Los%20Romeros%20-%20Wincham%20sale%20of%20Spanish%20property/Transaction_Audit_and_Capital_Transition.pdf">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="pdf"><td class="num">34</td><td class="name">Web Pages Velyon — Phil Harrison Claims Against Wincham</td><td><span class="fmt fmt-pdf">.pdf</span></td><td class="size">123 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Los%20Romeros%20-%20Wincham%20sale%20of%20Spanish%20property/Web%20pages%20Velyon%20has%20been%20created%20to%20assist%20Los%20Romeros%20Limited%20with%20this%20assistance%20in%20the%20sale%20of%20the%20Spanish%20property%20that%20Los%20Romeros%20owns%20and%20Phil%20Harrison's%20claims%20against%20Wincham.pdf">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="pdf"><td class="num">35</td><td class="name">Wincham_Fraud_Exposed v2</td><td><span class="fmt fmt-pdf">.pdf</span></td><td class="size">9.9 MB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Los%20Romeros%20-%20Wincham%20sale%20of%20Spanish%20property/Wincham_Fraud_Exposed%20v2%20.pdf">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="pdf"><td class="num">36</td><td class="name">Wincham_Fraud_Exposed_PRESENTATION_TO_UK_CMC</td><td><span class="fmt fmt-pdf">.pdf</span></td><td class="size">9.9 MB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Los%20Romeros%20-%20Wincham%20sale%20of%20Spanish%20property/Wincham_Fraud_Exposed_PRESENTATION_TO_UK_CMC_CLAIMS_MANAGMENT_COMPANIESpdf.pdf">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="pdf"><td class="num">37</td><td class="name">michael-harper</td><td><span class="fmt fmt-pdf">.pdf</span></td><td class="size">234 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Los%20Romeros%20-%20Wincham%20sale%20of%20Spanish%20property/michael-harper.pdf">↗ Open</a></td></tr>
+    </tbody></table>
+  </div>
+
+  <!-- Wincham Sales Agreement (NEW) -->
+  <div class="section" data-group="workspace">
+    <div class="section-header">
+      <span class="section-icon">⚖️</span>
+      <span class="section-title" style="color:#f87171">Los Romeros — Wincham Sales Agreement Forensic Files</span>
+      <span class="section-count">3 files</span>
+      <span class="new-badge">NEW</span>
+    </div>
+    <table class="file-table"><thead><tr><th>#</th><th>File</th><th>Format</th><th>Size</th><th>Link</th></tr></thead><tbody>
+      <tr data-group="workspace" data-fmt="md" data-isnew="1" class="is-new"><td class="num">38</td><td class="name">Inventory_Annexe_Forensic_Briefing<span class="new-star">★ NEW</span></td><td><span class="fmt fmt-md">.md</span></td><td class="size">7.8 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Los%20Romeros%20Limited%20-%20Wincham%20-%20Sales%20Agreement%20Files/Inventory_Annexe_Forensic_Briefing.md">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="md" data-isnew="1" class="is-new"><td class="num">39</td><td class="name">Los Romeros Limited - Wincham Sales Agreement - Fee Overcharge Report<span class="new-star">★ NEW</span></td><td><span class="fmt fmt-md">.md</span></td><td class="size">13 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Los%20Romeros%20Limited%20-%20Wincham%20-%20Sales%20Agreement%20Files/Los%20Romeros%20Limited%20-%20Wincham%20Sales%20Agreement%20-%20Fee%20Overcharge%20Report.md">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="md" data-isnew="1" class="is-new"><td class="num">40</td><td class="name">Los_Romeros_Ltd-wincham - sales agreement fees - payment to Wincham UK<span class="new-star">★ NEW</span></td><td><span class="fmt fmt-md">.md</span></td><td class="size">11 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Los%20Romeros%20Limited%20-%20Wincham%20-%20Sales%20Agreement%20Files/Los_Romeros_Ltd-wincham%20-%20sales%20agreement%20fees%20-%20payment%20to%20Wincham%20UK%20-%20sales%20agreement%20with%20Wincham%20Spanish%20Services%20SL.md">↗ Open</a></td></tr>
+    </tbody></table>
+  </div>
+
+  <!-- Los Romeros Brand -->
+  <div class="section" data-group="workspace">
+    <div class="section-header">
+      <span class="section-icon">🦁</span>
+      <span class="section-title" style="color:#fbbf24">Los Romeros — Brand Identity</span>
+      <span class="section-count">10 files</span>
+    </div>
+    <table class="file-table"><thead><tr><th>#</th><th>File</th><th>Format</th><th>Size</th><th>Link</th></tr></thead><tbody>
+      <tr data-group="workspace" data-fmt="md"><td class="num">41</td><td class="name">Los_Romeros_Brand_Guidelines</td><td><span class="fmt fmt-md">.md</span></td><td class="size">3 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Los_Romeros_Brand_Guidelines.md">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="md"><td class="num">42</td><td class="name">Los_Romeros_Brand_Kit</td><td><span class="fmt fmt-md">.md</span></td><td class="size">3 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Los_Romeros_Brand_Kit.md">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="md"><td class="num">43</td><td class="name">Los_Romeros_Brand_Style_Guide</td><td><span class="fmt fmt-md">.md</span></td><td class="size">4 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Los_Romeros_Brand_Style_Guide.md">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="jpeg"><td class="num">44</td><td class="name">Los_Romeros_Logo (light)</td><td><span class="fmt fmt-jpeg">.jpeg</span></td><td class="size">252 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Los_Romeros_Logo.jpeg">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="png"><td class="num">45</td><td class="name">Los_Romeros_Logo (light)</td><td><span class="fmt fmt-png">.png</span></td><td class="size">299 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Los_Romeros_Logo.png">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="jpeg"><td class="num">46</td><td class="name">Los_Romeros_Logo_Dark</td><td><span class="fmt fmt-jpeg">.jpeg</span></td><td class="size">278 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Los_Romeros_Logo_Dark.jpeg">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="png"><td class="num">47</td><td class="name">Los_Romeros_Logo_Dark</td><td><span class="fmt fmt-png">.png</span></td><td class="size">306 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Los_Romeros_Logo_Dark.png">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="html"><td class="num">48</td><td class="name">los-romeros-logo</td><td><span class="fmt fmt-html">.html</span></td><td class="size">6 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/los-romeros-logo.html">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="py"><td class="num">49</td><td class="name">export_logos</td><td><span class="fmt fmt-py">.py</span></td><td class="size">2 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/export_logos.py">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="py"><td class="num">50</td><td class="name">fix_encoding</td><td><span class="fmt fmt-py">.py</span></td><td class="size">474 B</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/fix_encoding.py">↗ Open</a></td></tr>
+    </tbody></table>
+  </div>
+
+  <!-- Brand Command Central (NEW) -->
+  <div class="section" data-group="workspace">
+    <div class="section-header">
+      <span class="section-icon">🎨</span>
+      <span class="section-title" style="color:#fbbf24">Los Romeros — Brand Command Central</span>
+      <span class="section-count">11 files</span>
+      <span class="new-badge">NEW</span>
+    </div>
+    <table class="file-table"><thead><tr><th>#</th><th>File</th><th>Format</th><th>Size</th><th>Link</th></tr></thead><tbody>
+      <tr data-group="workspace" data-fmt="html" data-isnew="1" class="is-new"><td class="num">51</td><td class="name">Los Romeros-brand-command-central-index<span class="new-star">★</span></td><td><span class="fmt fmt-html">.html</span></td><td class="size">12 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/LosRomeros-BrandCommandCentral/Los%20Romeros-brand-command-central-index.html">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="html" data-isnew="1" class="is-new"><td class="num">52</td><td class="name">Los_Romeros-Brand_Command_Centre<span class="new-star">★</span></td><td><span class="fmt fmt-html">.html</span></td><td class="size">12 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/LosRomeros-BrandCommandCentral/Los_Romeros-Brand%20_Command%20_Centre..html">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="html" data-isnew="1" class="is-new"><td class="num">53</td><td class="name">brand-guidelines<span class="new-star">★</span></td><td><span class="fmt fmt-html">.html</span></td><td class="size">25 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/LosRomeros-BrandCommandCentral/brand-guidelines.html">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="html" data-isnew="1" class="is-new"><td class="num">54</td><td class="name">brand-kit<span class="new-star">★</span></td><td><span class="fmt fmt-html">.html</span></td><td class="size">30 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/LosRomeros-BrandCommandCentral/brand-kit.html">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="html" data-isnew="1" class="is-new"><td class="num">55</td><td class="name">los_romeros_brand_command_center_index<span class="new-star">★</span></td><td><span class="fmt fmt-html">.html</span></td><td class="size">26 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/LosRomeros-BrandCommandCentral/los_romeros_brand_command_center_index.html">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="html" data-isnew="1" class="is-new"><td class="num">56</td><td class="name">style-guide<span class="new-star">★</span></td><td><span class="fmt fmt-html">.html</span></td><td class="size">38 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/LosRomeros-BrandCommandCentral/style-guide.html">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="png" data-isnew="1" class="is-new"><td class="num">57</td><td class="name"><span class="path-prefix">assets / </span>Los_Romeros_Logo<span class="new-star">★</span></td><td><span class="fmt fmt-png">.png</span></td><td class="size">299 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/LosRomeros-BrandCommandCentral/assets/Los_Romeros_Logo.png">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="png" data-isnew="1" class="is-new"><td class="num">58</td><td class="name"><span class="path-prefix">assets / </span>Los_Romeros_Logo_Dark<span class="new-star">★</span></td><td><span class="fmt fmt-png">.png</span></td><td class="size">306 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/LosRomeros-BrandCommandCentral/assets/Los_Romeros_Logo_Dark.png">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="png" data-isnew="1" class="is-new"><td class="num">59</td><td class="name"><span class="path-prefix">assets / </span>brand_guidelines<span class="new-star">★</span></td><td><span class="fmt fmt-png">.png</span></td><td class="size">940 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/LosRomeros-BrandCommandCentral/assets/brand_guidelines.png">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="png" data-isnew="1" class="is-new"><td class="num">60</td><td class="name"><span class="path-prefix">assets / </span>brand_kit<span class="new-star">★</span></td><td><span class="fmt fmt-png">.png</span></td><td class="size">716 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/LosRomeros-BrandCommandCentral/assets/brand_kit.png">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="png" data-isnew="1" class="is-new"><td class="num">61</td><td class="name"><span class="path-prefix">assets / </span>style_guide<span class="new-star">★</span></td><td><span class="fmt fmt-png">.png</span></td><td class="size">890 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/LosRomeros-BrandCommandCentral/assets/style_guide.png">↗ Open</a></td></tr>
+    </tbody></table>
+  </div>
+
+  <!-- Velyon Brand -->
+  <div class="section" data-group="workspace">
+    <div class="section-header">
+      <span class="section-icon">💎</span>
+      <span class="section-title" style="color:#a78bfa">Velyon — Brand &amp; Design</span>
+      <span class="section-count">6 files</span>
+    </div>
+    <table class="file-table"><thead><tr><th>#</th><th>File</th><th>Format</th><th>Size</th><th>Link</th></tr></thead><tbody>
+      <tr data-group="workspace" data-fmt="md"><td class="num">62</td><td class="name">Brand_Guidelines (Velyon)</td><td><span class="fmt fmt-md">.md</span></td><td class="size">4.7 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Brand_Guidelines.md">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="md"><td class="num">63</td><td class="name">Brand_Kit (Velyon)</td><td><span class="fmt fmt-md">.md</span></td><td class="size">3.2 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Brand_Kit.md">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="md"><td class="num">64</td><td class="name">Style_Guide (Velyon)</td><td><span class="fmt fmt-md">.md</span></td><td class="size">4.1 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Style_Guide.md">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="html"><td class="num">65</td><td class="name">Velyon_Design_System</td><td><span class="fmt fmt-html">.html</span></td><td class="size">25 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Velyon_Design_System.html">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="png" data-isnew="1" class="is-new"><td class="num">66</td><td class="name">VELYON LOGO - Hi Res - Transparent<span class="new-star">★ NEW</span></td><td><span class="fmt fmt-png">.png</span></td><td class="size">458 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/VELYON%20LOGO%20-%20Hi%20Res%20-%20Transparent.png">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="png" data-isnew="1" class="is-new"><td class="num">67</td><td class="name">velyon-logo-web-site-image<span class="new-star">★ NEW</span></td><td><span class="fmt fmt-png">.png</span></td><td class="size">31 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/velyon-logo-web-site-image.png">↗ Open</a></td></tr>
+    </tbody></table>
+  </div>
+
+  <!-- Velyon Marketing -->
+  <div class="section" data-group="workspace">
+    <div class="section-header">
+      <span class="section-icon">🚀</span>
+      <span class="section-title" style="color:#60a5fa">Velyon — Marketing &amp; PRD</span>
+      <span class="section-count">4 files</span>
+    </div>
+    <table class="file-table"><thead><tr><th>#</th><th>File</th><th>Format</th><th>Size</th><th>Link</th></tr></thead><tbody>
+      <tr data-group="workspace" data-fmt="html"><td class="num">68</td><td class="name">index (Marketing Dashboard)</td><td><span class="fmt fmt-html">.html</span></td><td class="size">25 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/index.html">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="html" data-isnew="1" class="is-new"><td class="num">69</td><td class="name">velyon_marketing_report<span class="new-star">★ NEW</span></td><td><span class="fmt fmt-html">.html</span></td><td class="size">31 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/velyon_marketing_report.html">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="docx"><td class="num">70</td><td class="name">VELYON PRD (PRODUCT REQUIREMENTS DOCUMENT)</td><td><span class="fmt fmt-docx">.docx</span></td><td class="size">202 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/VELYON%20-%20LEGAL%20COMMAND%20CENTER%20-%20PRODUCT%20REQUIREMENTS%20DOCUMENT%20(PRD).docx">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="md" data-isnew="1" class="is-new"><td class="num">71</td><td class="name">prd<span class="new-star">★ NEW</span></td><td><span class="fmt fmt-md">.md</span></td><td class="size">248 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/prd.md">↗ Open</a></td></tr>
+    </tbody></table>
+  </div>
+
+  <!-- Prompts & Tooling -->
+  <div class="section" data-group="workspace">
+    <div class="section-header">
+      <span class="section-icon">⚙️</span>
+      <span class="section-title" style="color:#22d3ee">Prompts, Tooling &amp; Inventory</span>
+      <span class="section-count">9 files</span>
+    </div>
+    <table class="file-table"><thead><tr><th>#</th><th>File</th><th>Format</th><th>Size</th><th>Link</th></tr></thead><tbody>
+      <tr data-group="workspace" data-fmt="md"><td class="num">72</td><td class="name">ultimate-html-builder-prompt</td><td><span class="fmt fmt-md">.md</span></td><td class="size">6 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/ultimate-html-builder-prompt.md">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="md"><td class="num">73</td><td class="name"><span class="path-prefix">docs / </span>ultimate-html-builder-prompt</td><td><span class="fmt fmt-md">.md</span></td><td class="size">6 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/docs/ultimate-html-builder-prompt.md">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="html"><td class="num">74</td><td class="name">Ultimate_Prompt_Landing</td><td><span class="fmt fmt-html">.html</span></td><td class="size">54 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Ultimate_Prompt_Landing.html">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="pdf" data-isnew="1" class="is-new"><td class="num">75</td><td class="name">Antigravity Capabilities — MCP Servers &amp; Skills<span class="new-star">★ NEW</span></td><td><span class="fmt fmt-pdf">.pdf</span></td><td class="size">425 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Antigravity%20Capabilities%20_%20MCP_SERVERS_SKILLS.pdf">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="pdf" data-isnew="1" class="is-new"><td class="num">76</td><td class="name">App Development Process and Framework<span class="new-star">★ NEW</span></td><td><span class="fmt fmt-pdf">.pdf</span></td><td class="size">95 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/App%20Development%20Process%20and%20Framework.pdf">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="md" data-isnew="1" class="is-new"><td class="num">77</td><td class="name">Antigravity_Files_Produced_Last_48hrs<span class="new-star">★</span></td><td><span class="fmt fmt-md">.md</span></td><td class="size">24 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Antigravity_Files_Produced_Last_48hrs.md">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="html" data-isnew="1" class="is-new"><td class="num">78</td><td class="name">Antigravity_Files_Produced_Last_48hrs<span class="new-star">★</span></td><td><span class="fmt fmt-html">.html</span></td><td class="size">64 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Antigravity_Files_Produced_Last_48hrs.html">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="pdf" data-isnew="1" class="is-new"><td class="num">79</td><td class="name">Antigravity_Files_Produced_Last_48hrs<span class="new-star">★</span></td><td><span class="fmt fmt-pdf">.pdf</span></td><td class="size">17 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/Antigravity_Files_Produced_Last_48hrs.pdf">↗ Open</a></td></tr>
+      <tr data-group="workspace" data-fmt="py" data-isnew="1" class="is-new"><td class="num">80</td><td class="name">generate_inventory_pdf<span class="new-star">★ NEW</span></td><td><span class="fmt fmt-py">.py</span></td><td class="size">22 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/ANTIGRAVITY%20PROJECTS/VELYON%20-%20LEGAL%20COMMAND%20CENTER/generate_inventory_pdf.py">↗ Open</a></td></tr>
+    </tbody></table>
+  </div>
+
+  <!-- ═══ BRAIN ═══ -->
+  <div class="section-group-label" style="margin-top:32px">🧠 Brain Files — <code style="font-size:10px;color:var(--muted)">C:\Users\Dean Harrison\.gemini\antigravity\brain\</code></div>
+
+  <!-- Brain Wincham -->
+  <div class="section" data-group="brain">
+    <div class="section-header"><span class="section-icon">🔴</span><span class="section-title" style="color:#f87171">Wincham SSL — Brain Artifacts</span><span class="section-count" style="font-size:9px">3c7d8d20</span></div>
+    <table class="file-table"><thead><tr><th>#</th><th>File</th><th>Format</th><th>Size</th><th>Link</th></tr></thead><tbody>
+      <tr data-group="brain" data-fmt="md"><td class="num">81</td><td class="name">WINCHAM_MASTER_INVESTIGATION_FILE</td><td><span class="fmt fmt-md">.md</span></td><td class="size">108 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/3c7d8d20-bd32-4754-8aae-eb005b0f1460/artifacts/WINCHAM_MASTER_INVESTIGATION_FILE.md">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="md"><td class="num">82</td><td class="name">WINCHAM_SSL_BREACH_FULL_REPORT</td><td><span class="fmt fmt-md">.md</span></td><td class="size">23 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/3c7d8d20-bd32-4754-8aae-eb005b0f1460/artifacts/WINCHAM_SSL_BREACH_FULL_REPORT.md">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="md"><td class="num">83</td><td class="name">WINCHAM_SSL_UPDATED_EVIDENCE_ADDENDUM</td><td><span class="fmt fmt-md">.md</span></td><td class="size">17 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/3c7d8d20-bd32-4754-8aae-eb005b0f1460/artifacts/WINCHAM_SSL_UPDATED_EVIDENCE_ADDENDUM.md">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="md"><td class="num">84</td><td class="name">wincham_investigation_report</td><td><span class="fmt fmt-md">.md</span></td><td class="size">4 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/3c7d8d20-bd32-4754-8aae-eb005b0f1460/artifacts/wincham_investigation_report.md">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="md"><td class="num">85</td><td class="name">implementation_plan</td><td><span class="fmt fmt-md">.md</span></td><td class="size">6.5 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/3c7d8d20-bd32-4754-8aae-eb005b0f1460/implementation_plan.md">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="md"><td class="num">86</td><td class="name">task</td><td><span class="fmt fmt-md">.md</span></td><td class="size">693 B</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/3c7d8d20-bd32-4754-8aae-eb005b0f1460/task.md">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="webp"><td class="num">87</td><td class="name">wincham_ssl_screenshot_verify</td><td><span class="fmt fmt-webp">.webp</span></td><td class="size">1 MB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/3c7d8d20-bd32-4754-8aae-eb005b0f1460/wincham_ssl_screenshot_verify_1775814082041.webp">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="webp"><td class="num">88</td><td class="name">wincham_ssl_cert_dates</td><td><span class="fmt fmt-webp">.webp</span></td><td class="size">360 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/3c7d8d20-bd32-4754-8aae-eb005b0f1460/wincham_ssl_cert_dates_1775814861359.webp">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="webp"><td class="num">89</td><td class="name">wincham_ssl_audit_all_sites</td><td><span class="fmt fmt-webp">.webp</span></td><td class="size">12 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/3c7d8d20-bd32-4754-8aae-eb005b0f1460/wincham_ssl_audit_all_sites_1775813138152.webp">↗ Open</a></td></tr>
+    </tbody></table>
+  </div>
+
+  <!-- Brain Los Romeros -->
+  <div class="section" data-group="brain">
+    <div class="section-header"><span class="section-icon">🦁</span><span class="section-title" style="color:#fbbf24">Los Romeros Brand — Brain Artifacts</span><span class="section-count" style="font-size:9px">7e7ab63d</span></div>
+    <table class="file-table"><thead><tr><th>#</th><th>File</th><th>Format</th><th>Size</th><th>Link</th></tr></thead><tbody>
+      <tr data-group="brain" data-fmt="md"><td class="num">90</td><td class="name">implementation_plan</td><td><span class="fmt fmt-md">.md</span></td><td class="size">4 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/7e7ab63d-9d25-45a8-bf99-77ccd2810299/implementation_plan.md">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="md"><td class="num">91</td><td class="name">task</td><td><span class="fmt fmt-md">.md</span></td><td class="size">361 B</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/7e7ab63d-9d25-45a8-bf99-77ccd2810299/task.md">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="md"><td class="num">92</td><td class="name">walkthrough</td><td><span class="fmt fmt-md">.md</span></td><td class="size">3.3 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/7e7ab63d-9d25-45a8-bf99-77ccd2810299/walkthrough.md">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="png"><td class="num">93</td><td class="name">los_romeros_icon (AI generated)</td><td><span class="fmt fmt-png">.png</span></td><td class="size">229 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/7e7ab63d-9d25-45a8-bf99-77ccd2810299/los_romeros_icon_1775828663068.png">↗ Open</a></td></tr>
+    </tbody></table>
+  </div>
+
+  <!-- Brain Velyon Brand -->
+  <div class="section" data-group="brain">
+    <div class="section-header"><span class="section-icon">💎</span><span class="section-title" style="color:#a78bfa">Velyon Brand — Brain Artifacts</span><span class="section-count" style="font-size:9px">b60bf113</span></div>
+    <table class="file-table"><thead><tr><th>#</th><th>File</th><th>Format</th><th>Size</th><th>Link</th></tr></thead><tbody>
+      <tr data-group="brain" data-fmt="md"><td class="num">94</td><td class="name">Brand_Guidelines</td><td><span class="fmt fmt-md">.md</span></td><td class="size">4.7 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/b60bf113-5e16-46dc-9768-c981a870cd41/Brand_Guidelines.md">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="md"><td class="num">95</td><td class="name">Brand_Kit</td><td><span class="fmt fmt-md">.md</span></td><td class="size">3.2 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/b60bf113-5e16-46dc-9768-c981a870cd41/Brand_Kit.md">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="md"><td class="num">96</td><td class="name">Style_Guide</td><td><span class="fmt fmt-md">.md</span></td><td class="size">4.1 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/b60bf113-5e16-46dc-9768-c981a870cd41/Style_Guide.md">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="md"><td class="num">97</td><td class="name">implementation_plan</td><td><span class="fmt fmt-md">.md</span></td><td class="size">3.1 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/b60bf113-5e16-46dc-9768-c981a870cd41/implementation_plan.md">↗ Open</a></td></tr>
+    </tbody></table>
+  </div>
+
+  <!-- Brain Velyon Marketing (abbreviated for length) -->
+  <div class="section" data-group="brain">
+    <div class="section-header"><span class="section-icon">🚀</span><span class="section-title" style="color:#60a5fa">Velyon Marketing — Brain Images</span><span class="section-count" style="font-size:9px">6816cd9b · 23 files</span></div>
+    <table class="file-table"><thead><tr><th>#</th><th>File</th><th>Format</th><th>Size</th><th>Link</th></tr></thead><tbody>
+      <tr data-group="brain" data-fmt="png"><td class="num">98</td><td class="name">diagram_revenue_multiplier</td><td><span class="fmt fmt-png">.png</span></td><td class="size">1.1 MB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/6816cd9b-cede-4edc-bc70-d10c5f001637/diagram_revenue_multiplier_1775773091375.png">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="png"><td class="num">99</td><td class="name">diagram_unclog_pipeline</td><td><span class="fmt fmt-png">.png</span></td><td class="size">967 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/6816cd9b-cede-4edc-bc70-d10c5f001637/diagram_unclog_pipeline_1775773120911.png">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="png"><td class="num">100</td><td class="name">diagram_remove_busywork</td><td><span class="fmt fmt-png">.png</span></td><td class="size">834 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/6816cd9b-cede-4edc-bc70-d10c5f001637/diagram_remove_busywork_1775773138244.png">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="png"><td class="num">101</td><td class="name">diagram_revenue_funnel</td><td><span class="fmt fmt-png">.png</span></td><td class="size">870 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/6816cd9b-cede-4edc-bc70-d10c5f001637/diagram_revenue_funnel_1775773153977.png">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="png"><td class="num">102</td><td class="name">diagram_support_triage</td><td><span class="fmt fmt-png">.png</span></td><td class="size">1 MB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/6816cd9b-cede-4edc-bc70-d10c5f001637/diagram_support_triage_1775773173325.png">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="png"><td class="num">103</td><td class="name">diagram_roi_gauge</td><td><span class="fmt fmt-png">.png</span></td><td class="size">519 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/6816cd9b-cede-4edc-bc70-d10c5f001637/diagram_roi_gauge_1775773203199.png">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="png"><td class="num">104</td><td class="name">diagram_human_machine_symbiosis</td><td><span class="fmt fmt-png">.png</span></td><td class="size">702 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/6816cd9b-cede-4edc-bc70-d10c5f001637/diagram_human_machine_symbiosis_1775773227544.png">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="png"><td class="num">105</td><td class="name">diagram_break_bottleneck</td><td><span class="fmt fmt-png">.png</span></td><td class="size">829 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/6816cd9b-cede-4edc-bc70-d10c5f001637/diagram_break_bottleneck_1775773246450.png">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="png"><td class="num">106</td><td class="name">diagram_command_center_ui</td><td><span class="fmt fmt-png">.png</span></td><td class="size">667 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/6816cd9b-cede-4edc-bc70-d10c5f001637/diagram_command_center_ui_1775773264033.png">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="png"><td class="num">107</td><td class="name">diagram_elevate_workforce</td><td><span class="fmt fmt-png">.png</span></td><td class="size">819 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/6816cd9b-cede-4edc-bc70-d10c5f001637/diagram_elevate_workforce_1775773277265.png">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="png"><td class="num">108</td><td class="name">diagram_data_mesh_network</td><td><span class="fmt fmt-png">.png</span></td><td class="size">975 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/6816cd9b-cede-4edc-bc70-d10c5f001637/diagram_data_mesh_network_1775773295562.png">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="png"><td class="num">109</td><td class="name">human_supply_chain</td><td><span class="fmt fmt-png">.png</span></td><td class="size">793 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/6816cd9b-cede-4edc-bc70-d10c5f001637/human_supply_chain_1775771754388.png">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="png"><td class="num">110</td><td class="name">human_customer_success</td><td><span class="fmt fmt-png">.png</span></td><td class="size">714 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/6816cd9b-cede-4edc-bc70-d10c5f001637/human_customer_success_1775772617190.png">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="png"><td class="num">111</td><td class="name">human_operations_director</td><td><span class="fmt fmt-png">.png</span></td><td class="size">800 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/6816cd9b-cede-4edc-bc70-d10c5f001637/human_operations_director_1775772676496.png">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="png"><td class="num">112</td><td class="name">human_strategic_boardroom</td><td><span class="fmt fmt-png">.png</span></td><td class="size">787 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/6816cd9b-cede-4edc-bc70-d10c5f001637/human_strategic_boardroom_1775772787280.png">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="png"><td class="num">113</td><td class="name">human_executive_dashboard</td><td><span class="fmt fmt-png">.png</span></td><td class="size">727 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/6816cd9b-cede-4edc-bc70-d10c5f001637/human_executive_dashboard_1775625407406.png">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="png"><td class="num">114</td><td class="name">human_financial_analyst</td><td><span class="fmt fmt-png">.png</span></td><td class="size">753 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/6816cd9b-cede-4edc-bc70-d10c5f001637/human_financial_analyst_1775625436557.png">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="png"><td class="num">115</td><td class="name">human_healthcare_admin</td><td><span class="fmt fmt-png">.png</span></td><td class="size">660 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/6816cd9b-cede-4edc-bc70-d10c5f001637/human_healthcare_admin_1775625422520.png">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="png"><td class="num">116</td><td class="name">human_legal_command</td><td><span class="fmt fmt-png">.png</span></td><td class="size">717 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/6816cd9b-cede-4edc-bc70-d10c5f001637/human_legal_command_1775625506737.png">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="png"><td class="num">117</td><td class="name">human_manufacturing_leader</td><td><span class="fmt fmt-png">.png</span></td><td class="size">777 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/6816cd9b-cede-4edc-bc70-d10c5f001637/human_manufacturing_leader_1775625485932.png">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="png"><td class="num">118</td><td class="name">human_sales_closer</td><td><span class="fmt fmt-png">.png</span></td><td class="size">827 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/6816cd9b-cede-4edc-bc70-d10c5f001637/human_sales_closer_1775625665045.png">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="md"><td class="num">119</td><td class="name">implementation_plan</td><td><span class="fmt fmt-md">.md</span></td><td class="size">3 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/6816cd9b-cede-4edc-bc70-d10c5f001637/implementation_plan.md">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="md"><td class="num">120</td><td class="name">task</td><td><span class="fmt fmt-md">.md</span></td><td class="size">475 B</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/6816cd9b-cede-4edc-bc70-d10c5f001637/task.md">↗ Open</a></td></tr>
+    </tbody></table>
+  </div>
+
+  <!-- Brain PRD -->
+  <div class="section" data-group="brain">
+    <div class="section-header"><span class="section-icon">📄</span><span class="section-title" style="color:#22d3ee">Velyon PRD — Brain Artifacts</span><span class="section-count" style="font-size:9px">f6746040</span></div>
+    <table class="file-table"><thead><tr><th>#</th><th>File</th><th>Format</th><th>Size</th><th>Link</th></tr></thead><tbody>
+      <tr data-group="brain" data-fmt="md"><td class="num">121</td><td class="name">VELYON_PRD_V2</td><td><span class="fmt fmt-md">.md</span></td><td class="size">18 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/f6746040-75f6-40a1-b9b7-e7bd25838218/scratch/VELYON_PRD_V2.md">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="md"><td class="num">122</td><td class="name">VELYON_PRD_V3</td><td><span class="fmt fmt-md">.md</span></td><td class="size">15 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/f6746040-75f6-40a1-b9b7-e7bd25838218/scratch/VELYON_PRD_V3.md">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="md"><td class="num">123</td><td class="name">VELYON_PRD_V4</td><td><span class="fmt fmt-md">.md</span></td><td class="size">37 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/f6746040-75f6-40a1-b9b7-e7bd25838218/scratch/VELYON_PRD_V4.md">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="md"><td class="num">124</td><td class="name">VELYON_PRD_V5</td><td><span class="fmt fmt-md">.md</span></td><td class="size">40 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/f6746040-75f6-40a1-b9b7-e7bd25838218/scratch/VELYON_PRD_V5.md">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="md"><td class="num">125</td><td class="name">VELYON_PRD_Part1</td><td><span class="fmt fmt-md">.md</span></td><td class="size">5 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/f6746040-75f6-40a1-b9b7-e7bd25838218/scratch/VELYON_PRD_Part1.md">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="md"><td class="num">126</td><td class="name">VELYON_PRD_Part2</td><td><span class="fmt fmt-md">.md</span></td><td class="size">4.4 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/f6746040-75f6-40a1-b9b7-e7bd25838218/scratch/VELYON_PRD_Part2.md">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="md"><td class="num">127</td><td class="name">VELYON_PRD_Part3</td><td><span class="fmt fmt-md">.md</span></td><td class="size">8.6 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/f6746040-75f6-40a1-b9b7-e7bd25838218/scratch/VELYON_PRD_Part3.md">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="md"><td class="num">128</td><td class="name">implementation_plan</td><td><span class="fmt fmt-md">.md</span></td><td class="size">2.9 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/f6746040-75f6-40a1-b9b7-e7bd25838218/implementation_plan.md">↗ Open</a></td></tr>
+    </tbody></table>
+  </div>
+
+  <!-- Brain Cloud -->
+  <div class="section" data-group="brain">
+    <div class="section-header"><span class="section-icon">☁️</span><span class="section-title" style="color:#22d3a0">Google Cloud Setup — Brain Assets</span><span class="section-count" style="font-size:9px">3fcb15b9</span></div>
+    <table class="file-table"><thead><tr><th>#</th><th>File</th><th>Format</th><th>Size</th><th>Link</th></tr></thead><tbody>
+      <tr data-group="brain" data-fmt="webp"><td class="num">129</td><td class="name">gcloud_sdk_download</td><td><span class="fmt fmt-webp">.webp</span></td><td class="size">558 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/3fcb15b9-7da1-470e-a4dd-87bb276c92cd/gcloud_sdk_download_1775789902751.webp">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="webp"><td class="num">130</td><td class="name">gcloud_install_page</td><td><span class="fmt fmt-webp">.webp</span></td><td class="size">366 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/3fcb15b9-7da1-470e-a4dd-87bb276c92cd/gcloud_install_page_1775790014703.webp">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="png"><td class="num">131</td><td class="name">gcloud_sdk_windows_install</td><td><span class="fmt fmt-png">.png</span></td><td class="size">274 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/3fcb15b9-7da1-470e-a4dd-87bb276c92cd/gcloud_sdk_windows_install_1775790061791.png">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="png"><td class="num">132</td><td class="name">installer_download_page</td><td><span class="fmt fmt-png">.png</span></td><td class="size">20 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/3fcb15b9-7da1-470e-a4dd-87bb276c92cd/installer_download_page_1775789994457.png">↗ Open</a></td></tr>
+    </tbody></table>
+  </div>
+
+  <!-- Brain This Session -->
+  <div class="section" data-group="brain">
+    <div class="section-header"><span class="section-icon">📋</span><span class="section-title" style="color:#a78bfa">This Session — Brain Artifacts</span><span class="section-count" style="font-size:9px">8fa50b03 · NEW</span><span class="new-badge">NEW</span></div>
+    <table class="file-table"><thead><tr><th>#</th><th>File</th><th>Format</th><th>Size</th><th>Link</th></tr></thead><tbody>
+      <tr data-group="brain" data-fmt="md" data-isnew="1" class="is-new"><td class="num">133</td><td class="name">files_produced_last_48hrs<span class="new-star">★</span></td><td><span class="fmt fmt-md">.md</span></td><td class="size">24 KB</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/8fa50b03-4baa-452f-8000-2961513ddef6/files_produced_last_48hrs.md">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="png" data-isnew="1" class="is-new"><td class="num">134</td><td class="name">media__1775832218256 (screenshot)<span class="new-star">★</span></td><td><span class="fmt fmt-png">.png</span></td><td class="size">—</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/8fa50b03-4baa-452f-8000-2961513ddef6/media__1775832218256.png">↗ Open</a></td></tr>
+      <tr data-group="brain" data-fmt="md" data-isnew="1" class="is-new"><td class="num">135</td><td class="name">implementation_plan<span class="new-star">★</span></td><td><span class="fmt fmt-md">.md</span></td><td class="size">—</td><td class="link-cell"><a class="open-link" href="file:///C:/Users/Dean%20Harrison/.gemini/antigravity/brain/8fa50b03-4baa-452f-8000-2961513ddef6/implementation_plan.md">↗ Open</a></td></tr>
+    </tbody></table>
+  </div>
+
+</div>
+
+<!-- FOOTER -->
+<div class="footer">
+  <div class="section-group-label" style="padding-bottom:10px">📊 Format Summary</div>
+  <div class="footer-grid">
+    <div class="fmt-stat"><span class="key" style="color:#60a5fa">.md</span><span class="val" style="color:#60a5fa">44</span></div>
+    <div class="fmt-stat"><span class="key" style="color:#4ade80">.png</span><span class="val" style="color:#4ade80">48</span></div>
+    <div class="fmt-stat"><span class="key" style="color:#f87171">.html</span><span class="val" style="color:#f87171">13</span></div>
+    <div class="fmt-stat"><span class="key" style="color:#fb923c">.pdf</span><span class="val" style="color:#fb923c">10</span></div>
+    <div class="fmt-stat"><span class="key" style="color:#c084fc">.webp</span><span class="val" style="color:#c084fc">6</span></div>
+    <div class="fmt-stat"><span class="key" style="color:#f472b6">.mp4</span><span class="val" style="color:#f472b6">5</span></div>
+    <div class="fmt-stat"><span class="key" style="color:#34d399">.jpeg</span><span class="val" style="color:#34d399">2</span></div>
+    <div class="fmt-stat"><span class="key" style="color:#a3e635">.py</span><span class="val" style="color:#a3e635">3</span></div>
+    <div class="fmt-stat"><span class="key" style="color:#38bdf8">.docx</span><span class="val" style="color:#38bdf8">1</span></div>
+    <div class="fmt-stat"><span class="key">Total</span><span class="val" style="color:var(--accent2)">135</span></div>
+  </div>
+  <p style="font-size:11px;color:var(--muted);margin-top:18px;text-align:center;">Generated by Antigravity · VELYON Legal Command Center · Updated 13:27 EST, 10 April 2026 · +24 files since last update</p>
+</div>
+
+<script>
+  let activeTab='all';
+  function filterFiles(){
+    const q=document.getElementById('search').value.toLowerCase();
+    const rows=document.querySelectorAll('tr[data-group]');
+    let visible=0;
+    rows.forEach(row=>{
+      const name=row.querySelector('.name')?.textContent.toLowerCase()||'';
+      const fmt=row.dataset.fmt||'';
+      const grp=row.dataset.group||'';
+      const isNew=row.dataset.isnew==='1';
+      const matchSearch=!q||name.includes(q);
+      const matchTab=activeTab==='all'||(activeTab==='new'&&isNew)||activeTab===grp||activeTab===fmt;
+      if(matchSearch&&matchTab){row.classList.remove('hidden');visible++;}
+      else{row.classList.add('hidden');}
+    });
+    document.getElementById('no-results').style.display=visible===0?'block':'none';
+    document.querySelectorAll('.section').forEach(sec=>{
+      const vis=sec.querySelectorAll('tbody tr:not(.hidden)').length;
+      sec.style.display=vis===0?'none':'';
+    });
+  }
+  function filterTab(tab,el){
+    activeTab=tab;
+    document.querySelectorAll('.tab').forEach(t=>t.classList.remove('active'));
+    el.classList.add('active');
+    filterFiles();
+  }
+</script>
+</body>
+</html>
