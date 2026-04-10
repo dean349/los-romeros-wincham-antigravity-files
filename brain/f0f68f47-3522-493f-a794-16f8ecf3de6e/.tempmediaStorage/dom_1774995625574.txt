@@ -1,0 +1,171 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to main content
+Accessibility help
+Accessibility feedback
+[0] (63,57)<a aria-label='Go to Google Home' href='https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwi-1bP6lcuTAxWCA9sEHR_lJ2cQPAgJ' id='logo' title='Go to Google Home' />
+[1] (292,57)<textarea aria-label='Search' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (477,57)<div  />
+	[3] (476,57)<div aria-label=' Clear' class='vOY7J M2vV3' role='button' />
+		[4] (476,57)<span  />
+	[5] (488,57)<span  />
+[6] (501,57)<div aria-label='Search by voice' class='XDyW0e' role='button' />
+[7] (522,57)<div aria-label='Search by image' class='nDcEnd' role='button' />
+[8] (546,57)<button aria-label='Search' class='HZVG1b Tg7LZd' />
+	[9] (542,57)<div  />
+		[10] (542,57)<span  />
+[11] (956,57)<a aria-label='Google apps' class='gb_B' href='https://www.google.com/intl/en/about/products?tab=wh' role='button' />
+[12] (979,57)<a aria-label='Google Account: Dean Harrison  
+(dean@onelifesm.com)' class='gb_B gb_0a' href='https://accounts.google.com/SignOutOptions?hl=en&continue=https://www.google.com/search%3Fq%3Dsite:facebook.com%2B%2522Wincham%2522%2Bcomplaints%2BOR%2Bproblems%2BOR%2Bunhappy%2BOR%2Bscam%2BOR%2Bvictim&ec=futura_srp_og_si_72236_p' role='button' />
+[13] (134,124)<a class='XVMlrc C6AK7c' href='/search?q=site:facebook.com+%22Wincham%22+complaints+OR+problems+OR+unhappy+OR+scam+OR+victim&sca_esv=47ddced43427c821&sxsrf=ANbL-n40ClecmgYLkyHr3XgEcn5e3Subnw:1774995618202&udm=50&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3vxYI1tojT_24H7Q4iMwclRY3wEKpNQ5Wykbz5I1RBh_3MJDqoC8sd-Ng2GZ1qLhQmNX3gCBcPsLZ6eeAV55YuV87fgA31-fO3K8ZMlLRxC0XQdDBK90VNYMQrTXGTI8C_HDt8Z_-WO1_qMWq8AlS2tzV7I-dWIAFy3-dVWc37cD-UhOVQ&aep=1&ntc=1&sa=X&ved=2ahUKEwi-1bP6lcuTAxWCA9sEHR_lJ2cQ2J8OegQICxAE' />
+	[14] (134,124)<div  />
+		[15] (134,133)<div  />
+			[16] (134,127)<span >AI Mode />
+[17] (165,124)<a class='C6AK7c' role='link' />
+	All
+[18] (194,124)<a class='C6AK7c' href='/search?sca_esv=47ddced43427c821&sxsrf=ANbL-n40ClecmgYLkyHr3XgEcn5e3Subnw:1774995618202&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3vxYI1tojT_24H7Q4iMwclRY3wEKpNQ5Wykbz5I1RBh_3MJDqoC8sd-Ng2GZ1qLhQmNX3gCBcPsLZ6eeAV55YuV87fgA31-fO3K8ZMlLRxC0XQdDBK90VNYMQrTXGTI8C_HDt8Z_-WO1_qMWq8AlS2tzV7I-dWIAFy3-dVWc37cD-UhOVQ&q=site:facebook.com+%22Wincham%22+complaints+OR+problems+OR+unhappy+OR+scam+OR+victim&sa=X&ved=2ahUKEwi-1bP6lcuTAxWCA9sEHR_lJ2cQtKgLegQIExAB' />
+	[19] (194,124)<div  />
+		[20] (194,133)<span >Images />
+[21] (241,124)<a class='C6AK7c' href='/search?sca_esv=47ddced43427c821&sxsrf=ANbL-n40ClecmgYLkyHr3XgEcn5e3Subnw:1774995618202&udm=39&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3vxYI1tojT_24H7Q4iMwclRY3wEKpNQ5Wykbz5I1RBh_3MJDqoC8sd-Ng2GZ1qLhQmNX3gCBcPsLZ6eeAV55YuV87fgA31-fO3K8ZMlLRxC0XQdDBK90VNYMQrTXGTI8C_HDt8Z_-WO1_qMWq8AlS2tzV7I-dWIAFy3-dVWc37cD-UhOVQ&q=site:facebook.com+%22Wincham%22+complaints+OR+problems+OR+unhappy+OR+scam+OR+victim&sa=X&ved=2ahUKEwi-1bP6lcuTAxWCA9sEHR_lJ2cQs6gLegQIEhAB' />
+	[22] (241,124)<div  />
+		[23] (241,133)<span >Short videos />
+[24] (284,124)<a class='C6AK7c' href='/search?sca_esv=47ddced43427c821&sxsrf=ANbL-n40ClecmgYLkyHr3XgEcn5e3Subnw:1774995618202&q=site:facebook.com+%22Wincham%22+complaints+OR+problems+OR+unhappy+OR+scam+OR+victim&tbm=nws&source=lnms&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3vxYI1tojT_24H7Q4iMwclRY3wEKpNQ5Wykbz5I1RBh_3MJDqoC8sd-Ng2GZ1qLhQmNX3gCBcPsLZ6eeAV55YuV87fgA31-fO3K8ZMlLRxC0XQdDBK90VNYMQrTXGTI8C_HDt8Z_-WO1_qMWq8AlS2tzV7I-dWIAFy3-dVWc37cD-UhOVQ&sa=X&ved=2ahUKEwi-1bP6lcuTAxWCA9sEHR_lJ2cQ0pQJegQIDxAB' />
+	[25] (284,124)<div  />
+		[26] (284,133)<span >News />
+[27] (317,124)<a class='C6AK7c' href='/search?sca_esv=47ddced43427c821&sxsrf=ANbL-n40ClecmgYLkyHr3XgEcn5e3Subnw:1774995618202&udm=7&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3vxYI1tojT_24H7Q4iMwclRY3wEKpNQ5Wykbz5I1RBh_3MJDqoC8sd-Ng2GZ1qLhQmNX3gCBcPsLZ6eeAV55YuV87fgA31-fO3K8ZMlLRxC0XQdDBK90VNYMQrTXGTI8C_HDt8Z_-WO1_qMWq8AlS2tzV7I-dWIAFy3-dVWc37cD-UhOVQ&q=site:facebook.com+%22Wincham%22+complaints+OR+problems+OR+unhappy+OR+scam+OR+victim&sa=X&ved=2ahUKEwi-1bP6lcuTAxWCA9sEHR_lJ2cQtKgLegQIEBAB' />
+	[28] (317,124)<div  />
+		[29] (317,133)<span >Videos />
+[30] (354,124)<a class='C6AK7c' href='/search?sca_esv=47ddced43427c821&sxsrf=ANbL-n40ClecmgYLkyHr3XgEcn5e3Subnw:1774995618202&udm=18&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3vxYI1tojT_24H7Q4iMwclRY3wEKpNQ5Wykbz5I1RBh_3MJDqoC8sd-Ng2GZ1qLhQmNX3gCBcPsLZ6eeAV55YuV87fgA31-fO3K8ZMlLRxC0XQdDBK90VNYMQrTXGTI8C_HDt8Z_-WO1_qMWq8AlS2tzV7I-dWIAFy3-dVWc37cD-UhOVQ&q=site:facebook.com+%22Wincham%22+complaints+OR+problems+OR+unhappy+OR+scam+OR+victim&sa=X&ved=2ahUKEwi-1bP6lcuTAxWCA9sEHR_lJ2cQs6gLegQIERAB' />
+	[31] (354,124)<div  />
+		[32] (354,133)<span >Forums />
+[33] (393,124)<div class='mTpL7c' role='button' />
+	[34] (393,124)<div  />
+		[35] (393,133)<div  />
+			[36] (388,127)<span >More />
+			[37] (402,127)<span  />
+[38] (432,124)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[39] (432,124)<div  />
+		[40] (432,133)<div  />
+			[41] (428,127)<span >Tools />
+			[42] (441,127)<span  />
+Search Results
+Web results
+[43] (124,243)<img  />
+[44] (250,221)<a class='zReHs' href='https://www.facebook.com/groups/CongetonNewsAndViews/posts/3258251477812321/' />
+	[45] (255,241)<h3 >Has anybody locally had the misfortune to deal with ... />
+	[46] (194,203)<div  />
+		[47] (194,203)<div  />
+			[48] (127,203)<span  />
+				[49] (127,203)<div  />
+					[50] (127,203)<img  />
+			[51] (204,203)<div  />
+				[52] (204,194)<div  />
+					[53] (204,194)<span >Facebook · Congleton News and Views />
+				[54] (204,214)<div  />
+					[55] (177,214)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>3 comments  ·  2 years ago />
+[56] (279,213)<div aria-label='About this result' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[57] (279,213)<span  />
+		[58] (279,214)<span  />
+Just a big shout-out for
+Wincham
+Tyres yesterday. Great job done (nail in tyre) , courteous staff and lovely customer-care qualities. Not a ...
+[59] (268,298)<a class='vzmbzf' href='https://www.facebook.com/groups/CongetonNewsAndViews/posts/3258251477812321/#:~:text=Just%20a%20big%20shout%2Dout%20for,and%20support%20your%20local%20companies.' />
+	[60] (268,298)<span >Read more />
+[61] (124,403)<img  />
+[62] (263,381)<a class='zReHs' href='https://www.facebook.com/100064453583692/posts/latest-scamthe-police-have-asked-us-to-share-the-details-of-this-latest-scam-ple/1134767425348366/' />
+	[63] (268,401)<h3 >Latest scam The police have asked us to share the details ... />
+	[64] (184,363)<div  />
+		[65] (184,363)<div  />
+			[66] (127,363)<span  />
+				[67] (127,363)<div  />
+					[68] (127,363)<img  />
+			[69] (195,363)<div  />
+				[70] (195,354)<div  />
+					[71] (195,354)<span >Facebook · Wincham Parish Post />
+				[72] (195,374)<div  />
+					[73] (181,374)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>10+ reactions  ·  9 months ago />
+[74] (259,373)<div aria-label='About this result' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[75] (259,373)<span  />
+		[76] (259,374)<span  />
+Please take care. Any concerns call 999. In a car park. The
+victim
+...
+Wincham
+Parish Post. Jun 17, 2025󰞋󱟠. 󳄫. Latest
+scam
+The police have ...
+[77] (284,458)<a class='vzmbzf' href='https://www.facebook.com/100064453583692/posts/latest-scamthe-police-have-asked-us-to-share-the-details-of-this-latest-scam-ple/1134767425348366/#:~:text=Wincham%20Parish%20Post,details%20of%20this%20latest%20scam.' />
+	[78] (284,458)<span >Read more />
+[79] (124,564)<img  />
+[80] (184,542)<a class='zReHs' href='https://www.facebook.com/100064453583692/posts/1241672067991234/' />
+	[81] (179,562)<h3 >Wincham Parish Post />
+	[82] (184,524)<div  />
+		[83] (184,524)<div  />
+			[84] (127,524)<span  />
+				[85] (127,524)<div  />
+					[86] (127,524)<img  />
+			[87] (195,524)<div  />
+				[88] (195,515)<div  />
+					[89] (195,515)<span >Facebook · Wincham Parish Post />
+				[90] (195,535)<div  />
+					[91] (160,535)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>5 months ago />
+[92] (259,534)<div aria-label='About this result' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[93] (259,534)<span  />
+		[94] (259,535)<span  />
+⚠️
+SCAM
+ALERT ⚠️ We have been made aware of reports of ... Opening Day: Friday 27th March    Location:
+Wincham
+44 Shelley ...
+[95] (248,619)<a class='vzmbzf' href='https://www.facebook.com/100064453583692/posts/1241672067991234/#:~:text=%E2%9A%A0%EF%B8%8F%20SCAM%20ALERT%20%E2%9A%A0%EF%B8%8F%20We,made%20aware%20of%20reports%20of&text=%F0%9F%92%95%20%F0%9F%93%85%20Opening%20Day%3A%20Friday,plenty%20of%20cake%20to%20celebrate!' />
+	[96] (248,619)<span >Read more />
+[97] (124,725)<img  />
+[98] (171,703)<a class='zReHs' href='https://www.facebook.com/gary.lucas.365/posts/i-have-seen-a-post-here-on-facebook-telling-prospective-parents-not-to-send-thei/10230478353886776/' />
+	[99] (156,723)<h3 >Gary Lucas />
+	[100] (171,686)<div  />
+		[101] (171,686)<div  />
+			[102] (127,686)<span  />
+				[103] (127,686)<div  />
+					[104] (127,686)<img  />
+			[105] (181,686)<div  />
+				[106] (181,676)<div  />
+					[107] (181,676)<span >Facebook · Gary Lucas />
+				[108] (181,696)<div  />
+					[109] (181,696)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>20+ reactions  ·  6 months ago />
+[110] (232,695)<div aria-label='About this result' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[111] (232,695)<span  />
+		[112] (232,696)<span  />
+I have seen a post here on Facebook telling prospective parents not to send their children to
+Wincham
+school. It was frankly an awful rant ...
+[113] (124,885)<img  />
+[114] (184,863)<a class='zReHs' href='https://www.facebook.com/100064453583692/posts/sad-newspost-from-a-local-residentsomeone-has-just-witnessed-a-little-black-and-/1026239402867836/' />
+	[115] (179,883)<h3 >Wincham Parish Post />
+	[116] (184,845)<div  />
+		[117] (184,845)<div  />
+			[118] (127,845)<span  />
+				[119] (127,845)<div  />
+					[120] (127,845)<img  />
+			[121] (195,845)<div  />
+				[122] (195,836)<div  />
+					[123] (195,836)<span >Facebook · Wincham Parish Post />
+				[124] (195,856)<div  />
+					[125] (177,856)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>60+ reactions  ·  1 year ago />
+[126] (259,855)<div aria-label='About this result' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[127] (259,855)<span  />
+		[128] (259,856)<span  />
+Wincham
+Parish Post. Jan 28, 2025󰞋󱟠. 󳄫. Sad news ***Post from a ... Sue Cook there's
+complaints
+about cars parking half on the pavement ...
+[129] (342,940)<a class='vzmbzf' href='https://www.facebook.com/100064453583692/posts/sad-newspost-from-a-local-residentsomeone-has-just-witnessed-a-little-black-and-/1026239402867836/#:~:text=Wincham%20Parish%20Post,Sad%20news%20***Post%20from%20a&text=Sue%20Cook%20there's%20complaints%20about,slows%20the%20traffic%20down%20sometimes.' />
+	[130] (342,940)<span >Read more />
+[131] (435,884)<a href='https://www.facebook.com/100064453583692/posts/sad-newspost-from-a-local-residentsomeone-has-just-witnessed-a-little-black-and-/1026239402867836/' />
+	[132] (435,884)<div  />
+		[133] (435,884)<img  />
+[134] (193,997)<div  />
+	[135] (193,997)<span >Facebook · Safe Pickmere Lake />
+
+</current_dom>

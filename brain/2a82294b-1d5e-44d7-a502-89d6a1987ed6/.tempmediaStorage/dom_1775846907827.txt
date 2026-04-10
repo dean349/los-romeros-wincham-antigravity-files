@@ -1,0 +1,104 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (484,13)<a href='Default.aspx'>Home />
+|
+[1] (565,13)<a href='#'>Services />
+|
+[2] (682,13)<a href='http://www.wincham.com/mtt.asp'>Meet the Team />
+|
+[3] (809,13)<a href='http://www.wincham.com/contactus.asp'>Contact Us />
+|
+[4] (927,13)<a href='http://www.winchamiht.com/winchamsupport/WRS.exe'>Live Support />
+Welcome! Philip and Beryl
+10/Apr/2026
+[5] (390,114)<a href='referral.aspx' />
+	[6] (390,82)<img  />
+	[7] (390,121)<font  />
+		[8] (390,121)<b >Refer a Friend />
+[9] (538,130)<a href='Default.aspx' />
+	[10] (538,106)<img  />
+	[11] (538,136)<b >Home />
+[12] (699,130)<a href='profile.aspx' />
+	[13] (699,106)<img  />
+	[14] (699,136)<b >Account Settings />
+[15] (860,130)<a href='../Logout.aspx?t=4' />
+	[16] (860,106)<img  />
+	[17] (860,136)<b >Logout />
+Your are here:
+[18] (188,164)<a href='default.aspx'>Home />
+/
+[19] (262,164)<a href='casedetail.aspx?cid=WI-13211'>WI-13211 />
+/ Messages
+Case #: WI-13211
+(Company Purchases Case)
+[20] (140,261)<a href='clientcompany.aspx?cid=WI-13211' />
+	[21] (140,261)<b >Los Romeros Limited />
+[22] (106,340)<a href='casedetail.aspx?cid=WI-13211'>Case Detail />
+	[23] (100,317)<img  />
+[24] (119,410)<a href='ViewProposal.aspx?cid=WI-13211'>Tax Illustration />
+	[25] (100,386)<img  />
+[26] (132,479)<a href='infosheetsview.aspx?cid=WI-13211'>Information Sheets />
+	[27] (100,455)<img  />
+[28] (102,548)<a href='clientnotes.aspx?cid=WI-13211'>Messages />
+	[29] (100,524)<img  />
+[30] (106,617)<a href='clientcasedocs.aspx?cid=WI-13211'>Documents />
+	[31] (100,593)<img  />
+[32] (120,686)<a href='clientcompany.aspx?cid=WI-13211'>Company Detail />
+	[33] (100,663)<img  />
+[34] (134,756)<a href='clientcashbook.aspx?cid=WI-13211'>Company Cash Book />
+	[35] (100,732)<img  />
+::       Case Messages Section     ::
+[36] (589,366)<fieldset  />
+	[37] (817,215)<legend >Add New Message / Note />
+		Add New Message / Note
+	1.  Message Type:
+	[38] (499,251)<select id='ntype_ddl' />
+	*
+	2.  Message Description:
+	Please use plain text. Avoid using char e.g: , ' ; : "  / <> {} .  
+                                Maximum allowed characters 5000
+	[39] (589,358)<textarea class='reqtxt1' id='note_txt' />
+	3.  Send Message to:
+	[40] (404,437)<input id='AllNoteProfs_chkl_0' />
+	[41] (498,439)<label >Mark Roach (Case Director) />
+	[42] (643,437)<input id='AllNoteProfs_chkl_2' />
+	[43] (744,439)<label >Helen Barnett (Case Director) />
+	[44] (404,456)<input id='AllNoteProfs_chkl_1' />
+	[45] (521,458)<label >Spanish Consultant (Case Director) />
+	[46] (752,502)<input class='btn' id='sub_btn' />
+Filter by Messages type:
+[47] (507,547)<select id='ntypefilter_ddl' />
+1
+[48] (315,596)<a href='javascript:__doPostBack('GVNotes','Page$2')'>2 />
+[49] (350,596)<a href='javascript:__doPostBack('GVNotes','Page$3')'>3 />
+Dated :
+30/Jan/2026
+Message Type:
+General Note
+Added By :
+Case Director
+Sent to :    
+                        (
+Helen Barnett(Case Director),
+)
+£300 for Fiscal Rep in Spain received with thanks
+Dated :
+19/Jan/2026
+Message Type:
+General Note
+Added By :
+Case Director
+Sent to :    
+                        (
+)
+Dear Mr. Harrison
+Los Romeros Limited
+Please find attached an invoice for £300 including VAT for the Wincham Fee in respect of the Fiscal Representation in Spain for your UK Company from the 1st January 2026 until 31st December 2026.
+Any Company that operates in Spain is required to have a Fiscal Representative who is a Gestor/Accountant approved by the Hacienda (Spanish Tax office).
+To view number of options to pay our £300 fees please click on following link or copy and paste following link to your Web/Internet browser.
+https://tax.wincham.com/mpayments.aspx?wp=1dbzHaSi1qbkhhUUZbEpIQ%3d%3d&inv=MTL5C8D0VLNc3OVaamGy7Q%3d%3d
+You can also access payment options by simply logging into your secure online Wincham Case Management System by using your username and password.
+
+</current_dom>

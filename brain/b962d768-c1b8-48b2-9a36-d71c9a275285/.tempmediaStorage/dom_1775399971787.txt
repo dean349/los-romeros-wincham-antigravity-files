@@ -1,0 +1,33 @@
+Simple, Intelligent, Professional Services
+[0] (108,225)<a href='home.asp'>Home />
+[1] (178,225)<a >About Us />
+	[2] (200,225)<span  />
+[3] (260,225)<a >Services />
+	[4] (280,225)<span  />
+[5] (358,225)<a >Meet The Team />
+	[6] (396,225)<span  />
+[7] (458,225)<a href='contactus.asp'>Contact Us />
+[8] (567,225)<a class='aselected' href='brexit.asp' />
+	[9] (565,224)<img  />
+Spanish Inheritance Tax
+Wincham Consultants Ltd supply owners or prospective buyers of Spanish property legal and Taxation advice to structure the ownership of their Spanish property to significantly limit themselves and their Beneficiaries from Spanish tax liabilities.
+Whether you currently own a property in Spain, are about to purchase one or own the property in an offshore or Spanish SL Company, we have a solution and method to help to transfer your property into a UK Limited Company to remove Inheritance Tax in Spain.
+Not only have Wincham, market leaders in the provision of Spanish Consultancy Services, been operating in Spain for almost 20 years but we own a portfolio of properties using the UK Company structure and would not recommend our clients use any methods that we had not proven ourselves.
+[10] (199,793)<a href='https://tax.wincham.com/bannertracking.aspx?icode=441335' />
+	[11] (199,793)<b >Please click here to vist www.winchamiht.com />
+User Login
+Login Email:
+[12] (777,447)<input class='txtinput placeholder' id='loginemail_txt' />
+Password:
+[13] (777,539)<input class='txtinput placeholder' id='loginpwd_txt' />
+[14] (716,605)<button class='btn btn-1 boxh'>Login />
+[15] (826,583)<a href='javascript:void(0)'>Forgotten Password />
+[16] (826,619)<a href='enquiry.asp'>Register As a Client />
+[17] (829,655)<a href='https://tax.wincham.com/registerAgent.aspx'>Register As an Agent />
+Enquiry Form
+[18] (777,860)<input class='txtinput placeholder' id='fname' placeholder='First Name' />
+*
+[19] (777,925)<input class='txtinput placeholder' id='lname' placeholder='Last Name' />
+*
+[20] (777,989)<input class='txtinput placeholder' id='email' placeholder='Email' />
+*

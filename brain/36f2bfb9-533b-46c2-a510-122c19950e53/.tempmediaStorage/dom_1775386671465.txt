@@ -1,0 +1,54 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (203,-8)<a href='iht.asp'>Spanish Inheritance Tax />
+[1] (190,30)<a href='fx.asp'>Currency Exchange />
+[2] (189,68)<a href='corporateservices.asp'>Corporate Services />
+[3] (152,169)<a href='login.asp' title='Debt collection services' />
+	[4] (152,169)<b >News Updates />
+[5] (217,229)<a href='news.asp?e=0'>Capital Gains Tax (CGT) Hike />
+[6] (221,267)<a href='news.asp?e=1'>Spanish Taxes on the Increase />
+[7] (142,368)<a href='login.asp' title='Debt collection services' />
+	[8] (142,368)<b >User Login />
+[9] (155,437)<a href='meettheteam.asp' title='Meet The Team' />
+	[10] (155,437)<b >Meet The Team />
+[11] (142,507)<a href='contactus.asp' title='Contact Us' />
+	[12] (142,507)<b >Contact Us />
+Enquiry Form
+[13] (777,147)<input class='txtinput placeholder' id='fname' placeholder='First Name' />
+*
+[14] (777,211)<input class='txtinput placeholder' id='lname' placeholder='Last Name' />
+*
+[15] (777,276)<input class='txtinput placeholder' id='email' placeholder='Email' />
+*
+[16] (777,340)<input class='txtinput placeholder' id='phone' placeholder='Contact Number' />
+*
+[17] (774,402)<select class='txtinput placeholder' id='srv_ddl' />
+[18] (777,465)<input class='txtinput placeholder' id='hear_txt' placeholder='How did you hear about us?' />
+*
+[19] (777,535)<textarea class='txtinput placeholder' id='enq' placeholder='Enquiry' />
+[20] (721,659)<button class='btn btn-1 boxh'>Submit />
+* = mandatory field
+[21] (720,820)<a class='normaltip' href='https://www.facebook.com/WinchamInternationalLtd' title='Facebook' />
+	[22] (720,778)<img  />
+[23] (770,820)<a class='normaltip' href='https://twitter.com/#!/Wincham_Int_Ltd' title='Twitter' />
+	[24] (770,778)<img  />
+[25] (820,820)<a class='normaltip' href='http://www.linkedin.com/company/wincham-international-ltd?goback=.nmp_*1_*1_*1_*1_*1_*1.npe_*1_en*4US_*1_*1_*1_*1' title='Linkedin' />
+	[26] (820,778)<img  />
+[27] (869,820)<a href='http://20120602142641/skype:mizra.khalid?call' />
+	[28] (869,778)<img  />
+[29] (357,904)<a href='contactus.asp'>Contact Us />
+|
+[30] (452,904)<a href='tnc.asp'>Terms and Conditions />
+|
+[31] (567,904)<a href='Privacy_Statement.asp'>Privacy Statement />
+|
+[32] (648,904)<a href='sitemap.asp'>Site Map />
+Wincham International Limited ©2012
+UK Office Address:
+Wincham House | Greenfield Farm Trading Estate | Congleton | Cheshire | CW12 4TR
+UK Tel: +44 (0)1260 299 700 | UK Fax: +44 (0)1260 281 260 | Email:
+[33] (898,983)<a href='http://20120602142641/mailto:info@wincham.com'>info@wincham.com />
+
+</current_dom>

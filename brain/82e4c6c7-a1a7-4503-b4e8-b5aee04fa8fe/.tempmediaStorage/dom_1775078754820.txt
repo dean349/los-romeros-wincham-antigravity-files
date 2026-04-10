@@ -1,0 +1,180 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (19,30)<button aria-label='Guide' class='style-scope yt-icon-button' id='button' />
+	[1] (19,30)<yt-icon  />
+[2] (61,30)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube Home' />
+	[3] (61,30)<div  />
+		[4] (61,30)<ytd-logo  />
+			[5] (61,30)<yt-icon  />
+[6] (470,30)<div  />
+	[7] (467,30)<form  />
+		[8] (467,30)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='Search' role='combobox' />
+	[9] (601,30)<div  />
+		[10] (601,30)<button aria-label='Clear search query' class='ytSearchboxComponentClearButton' />
+			[11] (601,30)<yt-touch-feedback-shape  />
+				[12] (601,30)<div  />
+[13] (626,30)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='Search' />
+	[14] (626,30)<span  />
+[15] (662,30)<button aria-label='Search with your voice' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[16] (662,30)<yt-touch-feedback-shape  />
+		[17] (662,30)<div  />
+[18] (244,90)<button class='ytChipShapeButtonReset' role='tab' />
+	[19] (244,90)<div >All />
+		All
+		[20] (244,90)<yt-touch-feedback-shape  />
+			[21] (244,90)<div  />
+[22] (275,90)<button class='ytChipShapeButtonReset' role='tab' />
+	[23] (275,90)<div >Shorts />
+		Shorts
+		[24] (275,90)<yt-touch-feedback-shape  />
+			[25] (275,90)<div  />
+[26] (314,90)<button class='ytChipShapeButtonReset' role='tab' />
+	[27] (314,90)<div >Videos />
+		Videos
+		[28] (314,90)<yt-touch-feedback-shape  />
+			[29] (314,90)<div  />
+[30] (360,90)<button class='ytChipShapeButtonReset' role='tab' />
+	[31] (360,90)<div >Unwatched />
+		Unwatched
+		[32] (360,90)<yt-touch-feedback-shape  />
+			[33] (360,90)<div  />
+[34] (409,90)<button class='ytChipShapeButtonReset' role='tab' />
+	[35] (409,90)<div >Watched />
+		Watched
+		[36] (409,90)<yt-touch-feedback-shape  />
+			[37] (409,90)<div  />
+[38] (470,90)<button class='ytChipShapeButtonReset' role='tab' />
+	[39] (470,90)<div >Recently uploaded />
+		Recently uploaded
+		[40] (470,90)<yt-touch-feedback-shape  />
+			[41] (470,90)<div  />
+[42] (524,90)<button class='ytChipShapeButtonReset' role='tab' />
+	[43] (524,90)<div >Live />
+		Live
+		[44] (524,90)<yt-touch-feedback-shape  />
+			[45] (524,90)<div  />
+[46] (859,91)<button aria-label='Search filters' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-trailing yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	Filters
+	[47] (859,91)<yt-touch-feedback-shape  />
+		[48] (859,91)<div  />
+[49] (363,275)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=Mr_AApjfhEw&pp=ygU5aG93IHRvIHNlYXJjaCBnbWFpbCBmaW5kIG9sZCBlbWFpbHMgYmVnaW5uZXIgc3RlcCBieSBzdGVw' id='thumbnail' />
+	[50] (363,423)<yt-image  />
+		[51] (363,275)<img  />
+	[52] (480,408)<ytd-thumbnail-overlay-time-status-renderer  />
+		[53] (481,408)<div  />
+			[54] (481,408)<badge-shape aria-label='1 minute, 15 seconds' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[55] (481,408)<div >1:15 />
+[56] (693,188)<div  />
+	[57] (693,146)<div  />
+		[58] (693,136)<div  />
+			[59] (594,136)<h3  />
+				[60] (594,136)<a aria-label='How To Find Old Emails In Gmail - Full Guide 1 minute, 15 seconds' class='yt-simple-endpoint style-scope ytd-video-renderer' href='/watch?v=Mr_AApjfhEw&pp=ygU5aG93IHRvIHNlYXJjaCBnbWFpbCBmaW5kIG9sZCBlbWFpbHMgYmVnaW5uZXIgc3RlcCBieSBzdGVw' id='video-title' title='How To Find Old Emails In Gmail - Full Guide' />
+					[61] (594,136)<yt-formatted-string >How To Find Old Emails In Gmail - Full Guide />
+		[62] (693,160)<ytd-video-meta-block  />
+			[63] (693,160)<div  />
+				[64] (534,160)<div  />
+					[65] (516,160)<span >49K views />
+					[66] (548,160)<span >1 year ago />
+	[67] (693,197)<div  />
+		[68] (510,197)<a aria-label='Go to channel GuideRealm' class='style-scope ytd-video-renderer' href='/@GuideRealmVideos' id='channel-thumbnail' />
+			[69] (508,196)<yt-img-shadow  />
+				[70] (508,196)<img  />
+		[71] (540,197)<ytd-channel-name  />
+			[72] (535,197)<div  />
+				[73] (535,197)<div  />
+					[74] (535,197)<yt-formatted-string  />
+						[75] (535,197)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@GuideRealmVideos'>GuideRealm />
+			[76] (557,197)<ytd-badge-supported-renderer  />
+				[77] (557,197)<div  />
+					[78] (558,197)<badge-shape aria-label='Verified' class='yt-badge-shape yt-badge-shape--default yt-badge-shape--no-text yt-badge-shape--modern yt-badge-shape--typography' role='img' />
+						[79] (557,197)<div  />
+	[80] (693,235)<div  />
+		[81] (681,235)<yt-formatted-string  />
+			[82] (521,235)<span >Learn how to />
+			[83] (560,235)<span >find old emails />
+			[84] (584,235)<span >in />
+			[85] (596,235)<span >gmail />
+			[86] (732,235)<span >in this video. For more videos like this then please leave a like. GuideRealm is the home of ... />
+[87] (363,597)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=xA7fUaPpuyQ&pp=ygU5aG93IHRvIHNlYXJjaCBnbWFpbCBmaW5kIG9sZCBlbWFpbHMgYmVnaW5uZXIgc3RlcCBieSBzdGVw' id='thumbnail' />
+	[88] (363,746)<yt-image  />
+		[89] (363,597)<img  />
+[90] (693,557)<div  />
+	[91] (693,468)<div  />
+		[92] (693,459)<div  />
+			[93] (611,459)<h3  />
+				[94] (611,459)<a aria-label='How to Find Old Emails in Gmail | Step-by-Step Guide 2 minutes, 17 seconds' class='yt-simple-endpoint style-scope ytd-video-renderer' href='/watch?v=xA7fUaPpuyQ&pp=ygU5aG93IHRvIHNlYXJjaCBnbWFpbCBmaW5kIG9sZCBlbWFpbHMgYmVnaW5uZXIgc3RlcCBieSBzdGVw' id='video-title' title='How to Find Old Emails in Gmail | Step-by-Step Guide' />
+					[95] (611,459)<yt-formatted-string >How to Find Old Emails in Gmail | Step-by-Step Guide />
+		[96] (693,483)<ytd-video-meta-block  />
+			[97] (693,483)<div  />
+				[98] (540,483)<div  />
+					[99] (516,483)<span >423 views />
+					[100] (554,483)<span >11 months ago />
+	[101] (693,520)<div  />
+		[102] (510,520)<a aria-label='Go to channel Delft Stack' class='style-scope ytd-video-renderer' href='/@delftstack' id='channel-thumbnail' />
+			[103] (508,519)<yt-img-shadow  />
+				[104] (508,519)<img  />
+		[105] (534,520)<ytd-channel-name  />
+			[106] (534,520)<div  />
+				[107] (534,520)<div  />
+					[108] (534,520)<yt-formatted-string  />
+						[109] (534,520)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@delftstack'>Delft Stack />
+	[110] (693,558)<div  />
+		[111] (673,558)<yt-formatted-string  />
+			[112] (520,558)<span >Struggling to />
+			[113] (547,558)<span >locate />
+			[114] (561,558)<span >an />
+			[115] (579,558)<span >old email />
+			[116] (602,558)<span >in your />
+			[117] (621,558)<span >Gmail />
+			[118] (737,558)<span >inbox? Whether it's a forgotten receipt, an important conversation, or a lost ... />
+	[119] (693,586)<ytd-badge-supported-renderer  />
+		[120] (508,586)<div  />
+			[121] (508,586)<badge-shape aria-label='Closed captions' class='yt-badge-shape yt-badge-shape--default yt-badge-shape--typography' role='img' />
+				[122] (508,586)<div >CC />
+	[123] (693,637)<div  />
+		[124] (693,637)<ytd-expandable-metadata-renderer  />
+			[125] (693,637)<div  />
+				[126] (683,637)<div  />
+					[127] (520,637)<div  />
+						[128] (520,637)<yt-img-shadow  />
+							[129] (520,637)<img  />
+					[130] (554,637)<div  />
+						[131] (554,637)<yt-formatted-string  />
+							[132] (541,637)<span >5 />
+							[133] (556,637)<span >chapters />
+					[134] (717,637)<div class='style-scope ytd-expandable-metadata-renderer' id='collapsed-title' role='button' />
+						[135] (716,647)<yt-formatted-string >Introduction | How to use the Gmail search bar | Accessing “All Mail” to browse everything | Viewing your oldest emails first | Checking Trash and Spam folders />
+				[136] (872,637)<div  />
+					[137] (872,637)<div  />
+						[138] (872,637)<ytd-button-renderer  />
+							[139] (872,637)<yt-button-shape  />
+								[140] (872,637)<button aria-label='More' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+									[141] (872,637)<yt-touch-feedback-shape  />
+										[142] (872,637)<div  />
+[143] (363,920)<ad-text-image-view-model  />
+	[144] (363,920)<div  />
+		[145] (363,920)<span >How To Recover All My Emails />
+[146] (693,812)<feed-ad-metadata-view-model  />
+	[147] (693,812)<div  />
+		[148] (687,796)<span  />
+			[149] (684,824)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' />
+				[150] (684,824)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' href='https://www.google.com/aclk?sa=L&ai=DChsSEwjF47PQy82TAxWCi8IIHaH6HhMYACICCAEQABoCamY&co=1&ase=2&gclid=EAIaIQobChMIxeOz0MvNkwMVgovCCB2h-h4TEAEYASAAEgLMoPD_BwE&num=1&cid=CAASZeRoFI_w0Oz-BZBBefB4GsCJvN29nP-GxbEpHoSpNNLdR5P0TFK8pLYoyRfJxSst_nEJ0qCnZi8gL5CDv_jooFPD_5uYnLgZlROBSsj8RYWVQDikWrvRFMomH_DDUqLA4yeMK4hF&cce=2&category=acrcp_v1_32&sig=AOD64_1oiiqpUfmtxmooXnv0EB_lOCWvjg&adurl=https://marketads9.com/get-account-help-m1/%3Fgad_source%3D2%26gad_campaignid%3D22266949845&ms=[CLICK_MS]&nx=[NX]&ny=[NY]&nb=0'>Email Login Assistant - Cant Get into Your Email? Get Help Online 24/7 from Email Professionals Now. Get your email Login issues resolved & receive emails back in your inbox. Instant Resolution. Expert Assistance. Services: Email Login Issues, Change Password, Yahoo Reset Specialist. />
+		[151] (687,842)<div  />
+			[152] (520,847)<ad-badge-view-model  />
+				[153] (520,847)<badge-shape  />
+					[154] (517,847)<div >Sponsored />
+			[155] (596,847)<ad-details-line-view-model  />
+				[156] (596,847)<span class='yt-core-attributed-string ytwAdDetailsLineViewModelHostTextStyleStandard yt-core-attributed-string--white-space-pre-wrap' role='text'>https://www.marketads9.com/email/help />
+	[157] (880,780)<div  />
+		[158] (880,780)<button-view-model  />
+			[159] (880,780)<button aria-label='My Ad Center' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+				[160] (880,780)<yt-touch-feedback-shape  />
+					[161] (880,780)<div  />
+Email Account login
+Email Login Setting
+Contact Us
+Services Offered
+
+</current_dom>

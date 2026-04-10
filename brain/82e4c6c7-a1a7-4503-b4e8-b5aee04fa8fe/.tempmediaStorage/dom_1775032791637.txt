@@ -1,0 +1,55 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+10 Jan 2020
+AP01
+Appointment
+of Mrs Beryl Harrison as a director on 9 January 2020
+[0] (719,15)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzI1NDMyMjU4MWFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+of Mrs Beryl Harrison as a director on 9 January 2020
+ - link opens in a new window  - 2 pages />
+	Appointment
+	of Mrs Beryl Harrison as a director on 9 January 2020
+ - link opens in a new window  - 2 pages
+(2 pages)
+10 Jan 2020
+AP01
+Appointment
+of Mr Philip Anthony Harrison as a director on 9 January 2020
+[1] (719,95)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzI1NDMyMjQyN2FkaXF6a2N4/document?format=pdf&download=0'>View PDF
+of Mr Philip Anthony Harrison as a director on 9 January 2020
+ - link opens in a new window  - 2 pages />
+	Appointment
+	of Mr Philip Anthony Harrison as a director on 9 January 2020
+ - link opens in a new window  - 2 pages
+(2 pages)
+[2] (213,223)<a aria-label='Page 1' class='govuk-link govuk-pagination__link' href='/company/06993349/filing-history?page=1' id='pageNo1'>1 />
+[3] (242,223)<a aria-label='Page 2' class='govuk-link govuk-pagination__link' href='/company/06993349/filing-history?page=2' id='pageNo2'>2 />
+[4] (272,223)<a aria-label='Page 3' class='govuk-link govuk-pagination__link' href='/company/06993349/filing-history?page=3' id='pageNo3'>3 />
+[5] (321,223)<a class='govuk-link govuk-pagination__link' href='/company/06993349/filing-history?page=2' id='next-page'>Next />
+	Next
+	page
+[6] (264,539)<a class='govuk-link govuk-link--inverse' href='https://www.smartsurvey.co.uk/s/getcompanyinformation/'>Tell us what you think of this service
+(link opens a new window) />
+	(link opens a new window)
+[7] (729,539)<a class='govuk-link secondary-customer-insights govuk-link--inverse' href='/help/feedback?sourceurl=https://find-and-update.company-information.service.gov.uk/company/06993349/filing-history?page=1' id='feedback-link'>Is there anything wrong with this page?
+(link opens a new window) />
+	(link opens a new window)
+Support links
+[8] (202,845)<a class='govuk-footer__link' href='https://www.gov.uk/guidance/search-the-companies-house-register'>Policies
+Link opens in new tab />
+	Link opens in new tab
+[9] (250,845)<a class='govuk-footer__link' href='/help/cookies'>Cookies />
+[10] (305,845)<a class='govuk-footer__link' href='https://www.gov.uk/find-contact-details-companies-house'>Contact us
+Link opens in new tab />
+	Link opens in new tab
+[11] (395,845)<a class='govuk-footer__link' href='/help/accessibility-statement'>Accessibility statement />
+[12] (486,845)<a class='govuk-footer__link' href='https://developer.companieshouse.gov.uk/'>Developers
+Link opens in new tab />
+	Link opens in new tab
+Built by
+[13] (262,904)<a class='govuk-footer__link' href='https://www.gov.uk/government/organisations/companies-house'>Companies House />
+[14] (774,829)<a class='govuk-footer__link govuk-footer__copyright-logo underline' href='https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/'>© Crown copyright />
+
+</current_dom>

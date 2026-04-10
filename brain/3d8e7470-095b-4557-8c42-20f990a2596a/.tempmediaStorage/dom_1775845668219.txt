@@ -1,0 +1,95 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (484,13)<a href='Default.aspx'>Home />
+|
+[1] (565,13)<a href='#'>Services />
+|
+[2] (682,13)<a href='http://www.wincham.com/mtt.asp'>Meet the Team />
+|
+[3] (809,13)<a href='http://www.wincham.com/contactus.asp'>Contact Us />
+|
+[4] (927,13)<a href='http://www.winchamiht.com/winchamsupport/WRS.exe'>Live Support />
+Welcome! Philip and Beryl
+10/Apr/2026
+[5] (390,114)<a href='referral.aspx' />
+	[6] (390,82)<img  />
+	[7] (390,121)<font  />
+		[8] (390,121)<b >Refer a Friend />
+[9] (538,130)<a href='Default.aspx' />
+	[10] (538,106)<img  />
+	[11] (538,136)<b >Home />
+[12] (699,130)<a href='profile.aspx' />
+	[13] (699,106)<img  />
+	[14] (699,136)<b >Account Settings />
+[15] (860,130)<a href='../Logout.aspx?t=4' />
+	[16] (860,106)<img  />
+	[17] (860,136)<b >Logout />
+Your are here:
+[18] (188,164)<a href='default.aspx'>Home />
+/
+[19] (262,164)<a href='casedetail.aspx?cid=WI-25863'>WI-25863 />
+/ Case Detail
+Case #: WI-25863
+(Property Sales Case)
+[20] (106,328)<a href='casedetail.aspx?cid=WI-25863'>Case Detail />
+	[21] (100,304)<img  />
+[22] (132,397)<a href='infosheetsview.aspx?cid=WI-25863'>Information Sheets />
+	[23] (100,373)<img  />
+[24] (102,466)<a href='clientnotes.aspx?cid=WI-25863'>Messages />
+	[25] (100,442)<img  />
+[26] (106,535)<a href='clientcasedocs.aspx?cid=WI-25863'>Documents />
+	[27] (100,512)<img  />
+::       Case Details     ::
+Case No.:
+WI-25863
+(
+Property Sales
+Case)
+[28] (720,240)<a href='clientcases.aspx?cid=WI-25863' />
+	[29] (720,221)<img  />
+[30] (797,221)<a href='clientcases.aspx?cid=WI-25863' />
+	[31] (797,221)<b >Edit Case Detail />
+[32] (589,398)<fieldset  />
+	[33] (813,270)<legend >Property Detail />
+		Property Detail
+	Estimated Value of Property:
+	€
+	315000
+	Property Location:
+	Spain - Canary Islands
+	Town/Region in the Country:
+	Lanzarote
+	Property Address:
+	SC 154 SHANGRILA PARK C/ SUIZA 20 85, PALMAS (LAS) PLAYA BLANCA
+	Estimated Value of your Estate in the UK (£):
+	£0 - 150,000
+	Do you have a mortgage?
+	Outstanding Mortgage?
+	€NA
+	Would you like information on our staged payment option?
+[34] (589,610)<fieldset  />
+	[35] (753,570)<legend >Owner and Beneficiaries Details />
+		Owner and Beneficiaries Details
+	No of Owners:
+	1
+	Primary Beneficiaries:
+	0
+	Contingent Beneficiaries:
+	0
+Wincham Group of Companies ©2026
+UK Office Address:
+Wincham House | Greenfield Farm Trading Estate | Congleton | Cheshire | CW12 4TR
+UK Tel: +44 (0)1260 299 700 | Email:
+[36] (329,710)<a href='mailto:info@wincham.com'>info@wincham.com />
+Spain Office Address :
+Calpe, 03710 | Alicante | Spain
+Spain Tel: 0034 965 830 991 | Email:
+[37] (324,753)<a href='mailto:info@wincham.com'>info@wincham.com />
+Marbella Office Address :
+Avda Ricardo Soriano 72 - Portal B - Planta 1a | Marbella, 29601 | Costa del Sol | Spain
+Spain Tel: 0034 965 830 991 | Spain Fax: 0034 965 838 329 | Email:
+[38] (543,796)<a href='mailto:info@wincham.com'>info@wincham.com />
+
+</current_dom>

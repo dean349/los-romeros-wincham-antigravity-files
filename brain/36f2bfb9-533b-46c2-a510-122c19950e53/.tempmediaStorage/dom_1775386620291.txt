@@ -1,0 +1,40 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Simple, Intelligent, Professional Services
+[0] (108,335)<a class='aselected' href='index.asp'>Home />
+[1] (174,335)<a href='aboutus.asp'>About Us />
+[2] (247,335)<a >Services />
+[3] (324,335)<a href='login.asp'>User Login />
+[4] (419,335)<a href='mtt.asp'>Meet The Team />
+[5] (515,335)<a href='contactus.asp'>Contact Us />
+[6] (596,446)<a href='#fragment-1' />
+	[7] (593,442)<span >Wincham International />
+[8] (596,540)<a href='#fragment-2' />
+	[9] (567,536)<span >Accountancy />
+[10] (596,642)<a href='#fragment-3' />
+	[11] (570,653)<span >UK & Spanish Properties />
+[12] (596,744)<a href='#fragment-4' />
+	[13] (574,741)<span >Wills & Probate />
+[14] (596,846)<a href='#fragment-5' />
+	[15] (598,843)<span >Spanish Inheritance Tax />
+[16] (596,948)<a href='#fragment-6' />
+	[17] (586,945)<span >Currency Exchange />
+[18] (152,826)<a href='aboutus.asp'>Wincham International Ltd />
+Wincham International Ltd is a legal, taxation and accountancy practice, specialising in clients with international assets. Based in Congleton, Cheshire (UK) and Calpe, Alicante (Spain) and with combined experience of over 65 years our professionals are leaders in their field and dedicated to exceptional client service.
+[19] (474,964)<a class='midbtn' href='aboutus.asp'>Read More />
+User Login
+Login Email:
+[20] (777,557)<input class='txtinput placeholder' id='loginemail_txt' />
+Password:
+[21] (777,649)<input class='txtinput placeholder' id='loginpwd_txt' />
+[22] (716,715)<button class='btn btn-1 boxh'>Login />
+[23] (826,693)<a href='javascript:void(0)'>Forgotten Password />
+[24] (826,729)<a href='enquiry.asp'>Register As a Client />
+[25] (829,765)<a href='https://tax.wincham.com/registerAgent.aspx'>Register As an Agent />
+Enquiry Form
+[26] (777,971)<input class='txtinput placeholder' id='fname' placeholder='First Name' />
+*
+
+</current_dom>

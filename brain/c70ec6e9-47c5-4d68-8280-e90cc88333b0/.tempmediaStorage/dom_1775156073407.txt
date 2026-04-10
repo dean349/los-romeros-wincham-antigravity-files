@@ -1,0 +1,200 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+[0] (17,35)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,35)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (69,35)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/dean349' />
+	[3] (69,35)<span >dean349 />
+[4] (150,35)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/dean349/lanzarote-repatriation-explainer' />
+	[5] (150,35)<span >lanzarote-repatriation-explainer />
+[6] (766,35)<button aria-label='Search or jump to…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[7] (766,35)<span  />
+		[8] (773,35)<span >Type
+to search />
+			Type
+			/
+			to search
+[9] (828,35)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[10] (842,35)<button aria-label='Open Copilot…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_54jpb_' />
+[11] (874,35)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[12] (870,35)<span  />
+[13] (900,35)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[14] (921,35)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[15] (942,35)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[16] (963,35)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ styles-module__notificationIndicator__D_jL0 prc-Button-IconButton-fyge7' href='/notifications' />
+[17] (983,35)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[18] (983,35)<img  />
+Repository navigation
+[19] (27,83)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/lanzarote-repatriation-explainer' />
+	[20] (17,83)<span  />
+	[21] (34,83)<span >Code />
+[22] (71,83)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/lanzarote-repatriation-explainer/issues' />
+	[23] (59,83)<span  />
+	[24] (77,83)<span >Issues />
+[25] (127,83)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/lanzarote-repatriation-explainer/pulls' />
+	[26] (104,83)<span  />
+	[27] (133,83)<span >Pull requests />
+[28] (185,83)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/lanzarote-repatriation-explainer/actions' />
+	[29] (171,83)<span  />
+	[30] (191,83)<span >Actions />
+[31] (236,83)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/lanzarote-repatriation-explainer/projects' />
+	[32] (220,83)<span  />
+	[33] (242,83)<span >Projects />
+[34] (281,83)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/lanzarote-repatriation-explainer/wiki' />
+	[35] (272,83)<span  />
+	[36] (287,83)<span >Wiki />
+[37] (346,83)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/lanzarote-repatriation-explainer/security' />
+	[38] (311,83)<span  />
+	[39] (352,83)<span >Security and quality />
+[40] (417,83)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/lanzarote-repatriation-explainer/pulse' />
+	[41] (402,83)<span  />
+	[42] (423,83)<span >Insights />
+[43] (468,83)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/lanzarote-repatriation-explainer/settings' />
+	[44] (453,83)<span  />
+	[45] (474,83)<span >Settings />
+Commits
+Branch selector
+[46] (194,219)<button aria-label='main branch' class='prc-Button-ButtonBase-9n-Xk RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-commits' />
+	[47] (194,219)<span  />
+		[48] (188,219)<span  />
+			[49] (188,219)<div  />
+				[50] (178,219)<div  />
+				[51] (193,219)<div  />
+					[52] (193,219)<span >main />
+User selector
+[53] (733,219)<button class='prc-Button-ButtonBase-9n-Xk' id='_R_7jl9b_' />
+	[54] (728,219)<span  />
+		[55] (728,219)<span  />
+			[56] (728,219)<div  />
+				[57] (712,219)<div  />
+				[58] (734,219)<div  />
+					[59] (734,219)<span >All users />
+[60] (801,219)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[61] (801,219)<span  />
+		[62] (801,219)<span >All time />
+Commit History
+Commits on Apr 2, 2026
+[63] (350,316)<span  />
+	[64] (350,316)<a class='color-fg-default' href='/dean349/lanzarote-repatriation-explainer/commit/d44905fd571b28e50bf54d78e8fedaf3c6a1d2e3' title='Add submodule configurations for various projectsmodules to resolve build error'>Add submodule configurations for various projectsmodules to resolve build error />
+[65] (203,344)<a class='Link__StyledLink-sc-1syctfj-0 prc-Link-Link-9ZwDx' href='/dean349' />
+	[66] (202,345)<img  />
+[67] (222,344)<a aria-label='commits by dean349' class='Link__StyledLink-sc-1syctfj-0 gwQJTg AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx' href='/dean349/lanzarote-repatriation-explainer/commits?author=dean349'>dean349 />
+authored
+·
+[68] (319,344)<button aria-label='Status checks: failure' class='prc-Button-ButtonBase-9n-Xk Button__StyledButtonComponent-sc-vqy3e4-0 bqvXvo ChecksStatusBadge-module__ChecksStatusBadgeButton__vTwYt AsyncChecksStatusBadge-module__ChecksStatusBadge__wbwBt' />
+	[69] (319,344)<span  />
+		[70] (324,344)<span >1 / 3 />
+[71] (734,330)<button class='SignedCommitBadge-module__clickableLabel__seodh prc-Label-Label-qG-Zu'>Verified />
+[72] (773,330)<a class='prc-Button-ButtonBase-9n-Xk' href='/dean349/lanzarote-repatriation-explainer/commit/d44905fd571b28e50bf54d78e8fedaf3c6a1d2e3' />
+	[73] (773,330)<span  />
+		[74] (773,330)<span >d44905f />
+[75] (796,330)<div  />
+	[76] (796,330)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' />
+[77] (815,330)<a class='Button Button--iconOnly Button--invisible Button--small' href='/dean349/lanzarote-repatriation-explainer/tree/d44905fd571b28e50bf54d78e8fedaf3c6a1d2e3' />
+[78] (337,387)<span  />
+	[79] (337,387)<a class='color-fg-default' href='/dean349/lanzarote-repatriation-explainer/commit/b7742efffb085a162b36571e4d25de0ce9e430ae' title='feat: add i.AI Lex as 4th live data connection; update all connection counts'>feat: add i.AI Lex as 4th live data connection; update all connection counts />
+Dean Harrison
+committed
+·
+[80] (343,415)<button aria-label='Status checks: failure' class='prc-Button-ButtonBase-9n-Xk Button__StyledButtonComponent-sc-vqy3e4-0 bqvXvo ChecksStatusBadge-module__ChecksStatusBadgeButton__vTwYt AsyncChecksStatusBadge-module__ChecksStatusBadge__wbwBt' />
+	[81] (343,415)<span  />
+		[82] (348,415)<span >1 / 3 />
+[83] (773,401)<a class='prc-Button-ButtonBase-9n-Xk' href='/dean349/lanzarote-repatriation-explainer/commit/b7742efffb085a162b36571e4d25de0ce9e430ae' />
+	[84] (773,401)<span  />
+		[85] (773,401)<span >b7742ef />
+[86] (796,401)<div  />
+	[87] (796,401)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' />
+[88] (815,401)<a class='Button Button--iconOnly Button--invisible Button--small' href='/dean349/lanzarote-repatriation-explainer/tree/b7742efffb085a162b36571e4d25de0ce9e430ae' />
+Commits on Apr 1, 2026
+[89] (405,508)<span  />
+	[90] (405,508)<a class='color-fg-default' href='/dean349/lanzarote-repatriation-explainer/commit/c147950be8917f6cc08aff43a49e4cdf235a5824' title='Complete Starling to Tide migration: eradicate all Starling Bank brand references across all HTML and MD files'>Complete Starling to Tide migration: eradicate all Starling Bank brand references across all HTML and MD files />
+Dean Harrison
+committed
+·
+[91] (326,536)<button aria-label='Status checks: failure' class='prc-Button-ButtonBase-9n-Xk Button__StyledButtonComponent-sc-vqy3e4-0 bqvXvo ChecksStatusBadge-module__ChecksStatusBadgeButton__vTwYt AsyncChecksStatusBadge-module__ChecksStatusBadge__wbwBt' />
+	[92] (326,536)<span  />
+		[93] (332,536)<span >1 / 3 />
+[94] (773,522)<a class='prc-Button-ButtonBase-9n-Xk' href='/dean349/lanzarote-repatriation-explainer/commit/c147950be8917f6cc08aff43a49e4cdf235a5824' />
+	[95] (773,522)<span  />
+		[96] (773,522)<span >c147950 />
+[97] (796,522)<div  />
+	[98] (796,522)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' />
+[99] (815,522)<a class='Button Button--iconOnly Button--invisible Button--small' href='/dean349/lanzarote-repatriation-explainer/tree/c147950be8917f6cc08aff43a49e4cdf235a5824' />
+[100] (279,579)<span  />
+	[101] (279,579)<a class='color-fg-default' href='/dean349/lanzarote-repatriation-explainer/commit/479c184af0a9b02a6d7db8fb808ae4c988d7b1e3' title='Added 25k tax-free exception to Tide guide'>Added 25k tax-free exception to Tide guide />
+Dean Harrison
+committed
+·
+[102] (326,607)<button aria-label='Status checks: success' class='prc-Button-ButtonBase-9n-Xk Button__StyledButtonComponent-sc-vqy3e4-0 eA-Dkmd ChecksStatusBadge-module__ChecksStatusBadgeButton__vTwYt AsyncChecksStatusBadge-module__ChecksStatusBadge__wbwBt' />
+	[103] (326,607)<span  />
+		[104] (332,607)<span >3 / 3 />
+[105] (773,592)<a class='prc-Button-ButtonBase-9n-Xk' href='/dean349/lanzarote-repatriation-explainer/commit/479c184af0a9b02a6d7db8fb808ae4c988d7b1e3' />
+	[106] (773,592)<span  />
+		[107] (773,592)<span >479c184 />
+[108] (796,592)<div  />
+	[109] (796,592)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' />
+[110] (815,592)<a class='Button Button--iconOnly Button--invisible Button--small' href='/dean349/lanzarote-repatriation-explainer/tree/479c184af0a9b02a6d7db8fb808ae4c988d7b1e3' />
+[111] (350,650)<span  />
+	[112] (350,650)<a class='color-fg-default' href='/dean349/lanzarote-repatriation-explainer/commit/c9ce185940f98890cc87742460243c27993e5c51' title='feat: expand savings section to itemised professional fee schedule (27400-52750)'>feat: expand savings section to itemised professional fee schedule (27400-52750) />
+Dean Harrison
+committed
+·
+[113] (330,677)<button aria-label='Status checks: success' class='prc-Button-ButtonBase-9n-Xk Button__StyledButtonComponent-sc-vqy3e4-0 eA-Dkmd ChecksStatusBadge-module__ChecksStatusBadgeButton__vTwYt AsyncChecksStatusBadge-module__ChecksStatusBadge__wbwBt' />
+	[114] (330,677)<span  />
+		[115] (335,677)<span >3 / 3 />
+[116] (773,663)<a class='prc-Button-ButtonBase-9n-Xk' href='/dean349/lanzarote-repatriation-explainer/commit/c9ce185940f98890cc87742460243c27993e5c51' />
+	[117] (773,663)<span  />
+		[118] (773,663)<span >c9ce185 />
+[119] (796,663)<div  />
+	[120] (796,663)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' />
+[121] (815,663)<a class='Button Button--iconOnly Button--invisible Button--small' href='/dean349/lanzarote-repatriation-explainer/tree/c9ce185940f98890cc87742460243c27993e5c51' />
+[122] (350,720)<span  />
+	[123] (350,720)<a class='color-fg-default' href='/dean349/lanzarote-repatriation-explainer/commit/95debcb6d270fd9aac62ef39bade9b3e7ec30bbd' title='feat: update Wincham claim quantum to 86310-149807 (two heads of negligence)'>feat: update Wincham claim quantum to 86310-149807 (two heads of negligence) />
+Dean Harrison
+committed
+·
+[124] (330,748)<button aria-label='Status checks: success' class='prc-Button-ButtonBase-9n-Xk Button__StyledButtonComponent-sc-vqy3e4-0 eA-Dkmd ChecksStatusBadge-module__ChecksStatusBadgeButton__vTwYt AsyncChecksStatusBadge-module__ChecksStatusBadge__wbwBt' />
+	[125] (330,748)<span  />
+		[126] (335,748)<span >3 / 3 />
+[127] (772,734)<a class='prc-Button-ButtonBase-9n-Xk' href='/dean349/lanzarote-repatriation-explainer/commit/95debcb6d270fd9aac62ef39bade9b3e7ec30bbd' />
+	[128] (772,734)<span  />
+		[129] (772,734)<span >95debcb />
+[130] (796,734)<div  />
+	[131] (796,734)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' />
+[132] (815,734)<a class='Button Button--iconOnly Button--invisible Button--small' href='/dean349/lanzarote-repatriation-explainer/tree/95debcb6d270fd9aac62ef39bade9b3e7ec30bbd' />
+Commits on Mar 31, 2026
+[133] (343,841)<span  />
+	[134] (343,841)<a class='color-fg-default' href='/dean349/lanzarote-repatriation-explainer/commit/ffdbe29ffc2ea19a2b2f1f71f5fedad5086bf50e' title='feat: update explainer with 7 AI specialist skills + 3 live MCP data connections'>feat: update explainer with 7 AI specialist skills + 3 live MCP data connections />
+Dean Harrison
+committed
+·
+[135] (330,869)<button aria-label='Status checks: success' class='prc-Button-ButtonBase-9n-Xk Button__StyledButtonComponent-sc-vqy3e4-0 eA-Dkmd ChecksStatusBadge-module__ChecksStatusBadgeButton__vTwYt AsyncChecksStatusBadge-module__ChecksStatusBadge__wbwBt' />
+	[136] (330,869)<span  />
+		[137] (335,869)<span >3 / 3 />
+[138] (773,855)<a class='prc-Button-ButtonBase-9n-Xk' href='/dean349/lanzarote-repatriation-explainer/commit/ffdbe29ffc2ea19a2b2f1f71f5fedad5086bf50e' />
+	[139] (773,855)<span  />
+		[140] (773,855)<span >ffdbe29 />
+[141] (796,855)<div  />
+	[142] (796,855)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' />
+[143] (815,855)<a class='Button Button--iconOnly Button--invisible Button--small' href='/dean349/lanzarote-repatriation-explainer/tree/ffdbe29ffc2ea19a2b2f1f71f5fedad5086bf50e' />
+Commits on Mar 28, 2026
+[144] (286,962)<span  />
+	[145] (286,962)<a class='color-fg-default' href='/dean349/lanzarote-repatriation-explainer/commit/a7cd8b859fc02f26ce808e1fee5378b61aa2800f' title='Make CGT report HTML mobile-first responsive'>Make CGT report HTML mobile-first responsive />
+[146] (203,990)<a class='Link__StyledLink-sc-1syctfj-0 prc-Link-Link-9ZwDx' href='/dean349' />
+	[147] (202,991)<img  />
+[148] (222,990)<a aria-label='commits by dean349' class='Link__StyledLink-sc-1syctfj-0 gwQJTg AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx' href='/dean349/lanzarote-repatriation-explainer/commits?author=dean349'>dean349 />
+committed
+·
+[149] (314,990)<button aria-label='Status checks: success' class='prc-Button-ButtonBase-9n-Xk Button__StyledButtonComponent-sc-vqy3e4-0 eA-Dkmd ChecksStatusBadge-module__ChecksStatusBadgeButton__vTwYt AsyncChecksStatusBadge-module__ChecksStatusBadge__wbwBt' />
+	[150] (314,990)<span  />
+		[151] (319,990)<span >3 / 3 />
+[152] (772,976)<a class='prc-Button-ButtonBase-9n-Xk' href='/dean349/lanzarote-repatriation-explainer/commit/a7cd8b859fc02f26ce808e1fee5378b61aa2800f' />
+	[153] (772,976)<span  />
+		[154] (772,976)<span >a7cd8b8 />
+[155] (796,976)<div  />
+	[156] (796,976)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' />
+[157] (815,976)<a class='Button Button--iconOnly Button--invisible Button--small' href='/dean349/lanzarote-repatriation-explainer/tree/a7cd8b859fc02f26ce808e1fee5378b61aa2800f' />
+
+</current_dom>

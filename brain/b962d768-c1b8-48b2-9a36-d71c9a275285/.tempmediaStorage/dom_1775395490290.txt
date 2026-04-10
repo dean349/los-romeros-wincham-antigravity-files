@@ -1,0 +1,93 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to main content
+Accessibility help
+Accessibility feedback
+[0] (131,102)<a href='https://www.google.com/webhp?hl=en&ictx=2&sa=X&ved=0ahUKEwiZ7JKz59aTAxVilYkEHZDNGdQQPQgL' />
+	[1] (131,83)<img  />
+[2] (403,86)<textarea aria-label='Search' class='gLFyf' id='APjFqb' role='combobox' />
+[3] (614,86)<div  />
+	[4] (612,86)<div aria-label=' Clear' class='vOY7J M2vV3' role='button' />
+		[5] (612,86)<span  />
+	[6] (630,86)<span  />
+[7] (648,86)<div aria-label='Search by voice' class='XDyW0e' role='button' />
+[8] (677,86)<div aria-label='Search by image' class='nDcEnd' role='button' />
+[9] (711,86)<button aria-label='Search' class='HZVG1b Tg7LZd' />
+	[10] (706,86)<div  />
+		[11] (706,86)<span  />
+[12] (939,86)<a aria-label='Google apps' class='gb_B' href='https://www.google.com/intl/en/about/products?tab=wh' role='button' />
+[13] (971,86)<a aria-label='Google Account: Dean Harrison  
+(dean@onelifesm.com)' class='gb_B gb_0a' href='https://accounts.google.com/SignOutOptions?hl=en&continue=https://www.google.com/search%3Fq%3D%2522Wincham%2522%2B%252216.5%2525%2522%2BOR%2B%2522Wincham%2522%2B%252216.5%2522%2Bsavings%2BOR%2B%2522Wincham%2522%2B%252216.5%2522%2Bspain%2Bproperty&ec=futura_srp_og_si_72236_p' role='button' />
+[14] (116,188)<a class='XVMlrc C6AK7c' href='/search?q=%22Wincham%22+%2216.5%25%22+OR+%22Wincham%22+%2216.5%22+savings+OR+%22Wincham%22+%2216.5%22+spain+property&sca_esv=c886fa4b6d8c3132&sxsrf=ANbL-n553I5V5xjDS3JlWWvARaxfJfNS4w:1775395437595&udm=50&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3sbM0Xv-BZKE_VrZb6-djVg-3W0FTREgXoBewgW5Mu3-Xk-W5TokACY5I7DgyhU3EySq8CJUN3tZvsqAgT19ZBRp8VF9ZjtdMineLqnLR_eTg4doak5mjS2Qc6v_Oxh0VY7T4u8euckCJ1TRwRLW1Bxd_IIb1FkvTm-OtvoXzC0povq8nw&aep=1&ntc=1&sa=X&ved=2ahUKEwiZ7JKz59aTAxVilYkEHZDNGdQQ2J8OegQIERAE' />
+	[15] (116,188)<div  />
+		[16] (116,202)<div  />
+			[17] (116,193)<span >AI Mode />
+[18] (159,188)<a class='C6AK7c' role='link' />
+	All
+[19] (199,188)<a class='C6AK7c' href='/search?sca_esv=c886fa4b6d8c3132&sxsrf=ANbL-n553I5V5xjDS3JlWWvARaxfJfNS4w:1775395437595&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3sbM0Xv-BZKE_VrZb6-djVg-3W0FTREgXoBewgW5Mu3-Xk-W5TokACY5I7DgyhU3EySq8CJUN3tZvsqAgT19ZBRp8VF9ZjtdMineLqnLR_eTg4doak5mjS2Qc6v_Oxh0VY7T4u8euckCJ1TRwRLW1Bxd_IIb1FkvTm-OtvoXzC0povq8nw&q=%22Wincham%22+%2216.5%25%22+OR+%22Wincham%22+%2216.5%22+savings+OR+%22Wincham%22+%2216.5%22+spain+property&sa=X&ved=2ahUKEwiZ7JKz59aTAxVilYkEHZDNGdQQtKgLegQIFBAB' />
+	[20] (199,188)<div  />
+		[21] (199,202)<span >Images />
+[22] (249,188)<a class='C6AK7c' href='/search?sca_esv=c886fa4b6d8c3132&sxsrf=ANbL-n553I5V5xjDS3JlWWvARaxfJfNS4w:1775395437595&udm=7&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3sbM0Xv-BZKE_VrZb6-djVg-3W0FTREgXoBewgW5Mu3-Xk-W5TokACY5I7DgyhU3EySq8CJUN3tZvsqAgT19ZBRp8VF9ZjtdMineLqnLR_eTg4doak5mjS2Qc6v_Oxh0VY7T4u8euckCJ1TRwRLW1Bxd_IIb1FkvTm-OtvoXzC0povq8nw&q=%22Wincham%22+%2216.5%25%22+OR+%22Wincham%22+%2216.5%22+savings+OR+%22Wincham%22+%2216.5%22+spain+property&sa=X&ved=2ahUKEwiZ7JKz59aTAxVilYkEHZDNGdQQtKgLegQIFxAB' />
+	[23] (249,188)<div  />
+		[24] (249,202)<span >Videos />
+[25] (299,188)<a class='C6AK7c' href='/search?sca_esv=c886fa4b6d8c3132&sxsrf=ANbL-n553I5V5xjDS3JlWWvARaxfJfNS4w:1775395437595&udm=18&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3sbM0Xv-BZKE_VrZb6-djVg-3W0FTREgXoBewgW5Mu3-Xk-W5TokACY5I7DgyhU3EySq8CJUN3tZvsqAgT19ZBRp8VF9ZjtdMineLqnLR_eTg4doak5mjS2Qc6v_Oxh0VY7T4u8euckCJ1TRwRLW1Bxd_IIb1FkvTm-OtvoXzC0povq8nw&q=%22Wincham%22+%2216.5%25%22+OR+%22Wincham%22+%2216.5%22+savings+OR+%22Wincham%22+%2216.5%22+spain+property&sa=X&ved=2ahUKEwiZ7JKz59aTAxVilYkEHZDNGdQQs6gLegQIFhAB' />
+	[26] (299,188)<div  />
+		[27] (299,202)<span >Forums />
+[28] (347,188)<a class='C6AK7c' href='/search?sca_esv=c886fa4b6d8c3132&sxsrf=ANbL-n553I5V5xjDS3JlWWvARaxfJfNS4w:1775395437595&q=%22Wincham%22+%2216.5%25%22+OR+%22Wincham%22+%2216.5%22+savings+OR+%22Wincham%22+%2216.5%22+spain+property&tbm=nws&source=lnms&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3sbM0Xv-BZKE_VrZb6-djVg-3W0FTREgXoBewgW5Mu3-Xk-W5TokACY5I7DgyhU3EySq8CJUN3tZvsqAgT19ZBRp8VF9ZjtdMineLqnLR_eTg4doak5mjS2Qc6v_Oxh0VY7T4u8euckCJ1TRwRLW1Bxd_IIb1FkvTm-OtvoXzC0povq8nw&sa=X&ved=2ahUKEwiZ7JKz59aTAxVilYkEHZDNGdQQ0pQJegQIFRAB' />
+	[29] (347,188)<div  />
+		[30] (347,202)<span >News />
+[31] (399,188)<a class='C6AK7c' href='/search?sca_esv=c886fa4b6d8c3132&sxsrf=ANbL-n553I5V5xjDS3JlWWvARaxfJfNS4w:1775395437595&udm=28&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3sbM0Xv-BZKE_VrZb6-djVg-3W0FTREgXoBewgW5Mu3-Xk-W5TokACY5I7DgyhU3EySq8CJUN3tZvsqAgT19ZBRp8VF9ZjtdMineLqnLR_eTg4doak5mjS2Qc6v_Oxh0VY7T4u8euckCJ1TRwRLW1Bxd_IIb1FkvTm-OtvoXzC0povq8nw&q=%22Wincham%22+%2216.5%25%22+OR+%22Wincham%22+%2216.5%22+savings+OR+%22Wincham%22+%2216.5%22+spain+property&ved=1t:220175&ictx=111' />
+	[32] (399,188)<div  />
+		[33] (399,202)<span >Shopping />
+[34] (457,188)<div class='mTpL7c' role='button' />
+	[35] (457,188)<div  />
+		[36] (457,202)<div  />
+			[37] (450,193)<span >More />
+			[38] (468,193)<span  />
+[39] (511,188)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[40] (511,188)<div  />
+		[41] (511,202)<div  />
+			[42] (504,193)<span >Tools />
+			[43] (523,193)<span  />
+Search Results
+AI Overview
+[44] (896,303)<div aria-label='About this result' class='Mtffrd' role='button' />
+), a, or in a company address (e.g.,).
+[45] (408,486)<button aria-label='Facebook (+4) - View related links' class='rBl3me IWyTpf pjvauc' />
+	Facebook
+	+4
+Key Findings Related to "Wincham" and "16.5"
+Wincham Wharf (Location):
+mentions Wincham in Northwich, Cheshire. features a 16.5-meter narrowboat for sale from Wincham Wharf.
+Wincham Lane (Address):
+and list businesses located on Wincham Avenue or Wincham Lane, Cheshire.
+Other Contexts:
+mentions Wincham in relation to minerals and mentions a 16.5-hour light cycle in research.
+Facebook
++5
+It is likely the 16.5% figure you are looking for is related to a niche company, offer, or possibly a misinterpretation of a location-based search, such as the boat mentioned in or the file showing a product for Spain. Please re-verify the specific company name or context if possible.
+[46] (746,466)<a aria-label='Two-ring gas hob and built-in oven •12v / 240v fridge/freezer .... Opens in new tab.' class='NDNGvf' href='https://www.facebook.com/groups/710729835734105/posts/3269158569891206/' />
+Two-ring gas hob and built-in oven •12v / 240v fridge/freezer ...
+Apr 16, 2025 —
+... Wincham wharf Location Middlewich Cheshire, Shropshire Union Canal. ... This is “Rosephine” – a 16.5m steel Kompier Spitsgatko...
+Facebook
+[47] (673,542)<div aria-label='About this result' class='xXnAhe' id='snui-atr-cGLSaYHUJ8OxptQP9frBmQo_29' role='button' />
+Minutes of 460th RC meeting held on 27.11.2024 & 28.11.2024
+Nov 28, 2024 —
+wheat manufactured and supplied by Syngenta Espana SA, Spain. The ... Wincham Avenue, Wincham, Northwich,. Cheshire, CW9 6GB, Unit...
+ppqs.gov.in
+Options for reducing mercury use in products and applications ...
+Apr 13, 2006 —
+... 16.5. 2. Liquid mercury. 27 - 33. 7.1. 3. Measuring equipment. 7 - 17. 2.8 ... Wincham Avenue, Wincham, Northwich,. Cheshire C...
+Lightcycle.de
+[48] (500,837)<div aria-label='Show more AI Overview' class='Jzkafd' role='button' />
+	[49] (329,837)<div  />
+		[50] (329,837)<div >Show more />
+			Show more
+			[51] (357,837)<span  />
+[52] (236,988)<div  />
+	[53] (236,988)<span >LGPS Board />
+
+</current_dom>

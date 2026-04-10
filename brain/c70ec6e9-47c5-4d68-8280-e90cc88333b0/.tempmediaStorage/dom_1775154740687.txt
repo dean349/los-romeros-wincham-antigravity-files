@@ -1,0 +1,50 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (373,3)<input id='wiki-pusher-access' />
+[1] (440,3)<label >Restrict editing to collaborators only />
+Public wikis will still be readable by everyone.
+[2] (362,80)<input id='issue-feature' />
+[3] (379,80)<label >Issues />
+Loading
+Issues integrate lightweight task tracking into your repository.
+          Keep projects on track with issue labels and milestones, and reference them in commit messages.
+Get organized with issue templates
+Give contributors issue templates that help you cut through the noise and help them push your project forward.
+[4] (696,209)<a class='btn btn-primary' href='/dean349/lanzarote-repatriation-explainer/issues/templates/edit'>Set up templates />
+[5] (362,316)<input id='repository-funding-links-feature' />
+[6] (391,316)<label >Sponsorships />
+Loading
+Sponsorships help your community know how to financially support this repository.
+Display a "Sponsor" button
+Add links to GitHub Sponsors or third-party methods your repository accepts for financial contributions to your project.
+[7] (686,426)<a class='btn btn-primary' href='/dean349/lanzarote-repatriation-explainer/new/master?repository_funding=1'>Set up sponsor button />
+[8] (362,532)<input id='archive-program-opt-out-feature' />
+[9] (409,532)<label >Preserve this repository />
+Loading
+Include this code in the
+[10] (469,553)<a class='Link--inTextBlock' href='https://archiveprogram.github.com/faq/'>GitHub Archive Program />
+.
+[11] (362,608)<input id='discussions-feature' />
+[12] (388,608)<label >Discussions />
+Loading
+Discussions is the space for your community to have conversations,
+              ask questions and post answers without opening issues.
+Get started with Discussions
+Engage your community by having discussions right in your repository, where your community already lives
+[13] (693,718)<input class='btn btn-primary' />
+[14] (362,826)<input id='memex-projects-feature' />
+[15] (382,826)<label >Projects />
+Loading
+Projects on GitHub are created at the repository owner's level
+              (organization or user) and can be linked to a repository's Projects tab.
+              Projects are suitable for cross-repository development efforts such as
+              feature work, complex product roadmaps or even Issue triage.
+[16] (362,922)<input class='js-toggler-target' id='pr-feature' />
+[17] (390,922)<label >Pull requests />
+Loading
+Pull requests allow others to suggest changes to your repository.
+Pull request permissions
+
+</current_dom>

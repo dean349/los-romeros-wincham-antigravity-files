@@ -1,0 +1,187 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (445,5)<fieldset >Capital />
+	[1] (405,7)<input id='filter-category-capital' />
+	Capital
+	[2] (427,45)<label class='block-label selection-button-checkbox selection-button-checkbox-small govuk-!-margin-bottom-4'>Charges />
+		[3] (405,56)<input id='filter-category-mortgage' />
+[4] (611,5)<fieldset >Incorporation />
+	[5] (516,7)<input id='filter-category-incorporation' />
+	Incorporation
+	[6] (538,45)<label class='block-label selection-button-checkbox selection-button-checkbox-small govuk-!-margin-bottom-4'>Officers />
+		[7] (516,56)<input id='filter-category-officers' />
+Company Results (links open in a new window)
+Date
+(document was filed at Companies House)
+Description
+(of the document filed at Companies House)
+View / Download
+(PDF file, link opens in new window)
+26 Feb 2026
+Termination of appointment
+of Daniel Brendan Warrington as a director on 26 February 2026
+[8] (660,161)<a class='download link-updater-js govuk-link' href='/company/11890453/filing-history/MzUwNzM0MzExOWFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+of Daniel Brendan Warrington as a director on 26 February 2026
+ - link opens in a new window  - 1 page />
+	Termination of appointment
+	of Daniel Brendan Warrington as a director on 26 February 2026
+ - link opens in a new window  - 1 page
+(1 page)
+25 Sep 2025
+Director's details changed
+for Mrs Sarah Elizabeth Cowley on 25 September 2025
+[9] (660,214)<a class='download link-updater-js govuk-link' href='/company/11890453/filing-history/MzQ4MjY4NzUxNmFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+for Mrs Sarah Elizabeth Cowley on 25 September 2025
+ - link opens in a new window  - 2 pages />
+	Director's details changed
+	for Mrs Sarah Elizabeth Cowley on 25 September 2025
+ - link opens in a new window  - 2 pages
+(2 pages)
+27 Jun 2025
+Appointment
+of Mrs Clare Mcnulty as a director on 27 June 2025
+[10] (660,262)<a class='download link-updater-js govuk-link' href='/company/11890453/filing-history/MzQ3MTc5NDg3NmFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+of Mrs Clare Mcnulty as a director on 27 June 2025
+ - link opens in a new window  - 2 pages />
+	Appointment
+	of Mrs Clare Mcnulty as a director on 27 June 2025
+ - link opens in a new window  - 2 pages
+(2 pages)
+27 Jun 2025
+Appointment
+of Mrs Sarah Elizabeth Cowley as a director on 27 June 2025
+[11] (660,309)<a class='download link-updater-js govuk-link' href='/company/11890453/filing-history/MzQ3MTc5NDY1OGFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+of Mrs Sarah Elizabeth Cowley as a director on 27 June 2025
+ - link opens in a new window  - 2 pages />
+	Appointment
+	of Mrs Sarah Elizabeth Cowley as a director on 27 June 2025
+ - link opens in a new window  - 2 pages
+(2 pages)
+14 Apr 2025
+Accounts for a dormant company
+made up to 31 March 2025
+[12] (660,357)<a class='download link-updater-js govuk-link' href='/company/11890453/filing-history/MzQ2MjQ1ODQ2MGFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+made up to 31 March 2025
+ - link opens in a new window  - 2 pages />
+	Accounts for a dormant company
+	made up to 31 March 2025
+ - link opens in a new window  - 2 pages
+(2 pages)
+[13] (671,387)<a class='link-updater-js govuk-link' href='/company/11890453/filing-history/MzQ2MjQ1ODQ2MGFkaXF6a2N4/document?format=xhtml&download=1'>Download iXBRL />
+18 Mar 2025
+Confirmation statement
+made on 18 March 2025 with updates
+[14] (660,425)<a class='download link-updater-js govuk-link' href='/company/11890453/filing-history/MzQ1OTA5NzE2NGFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+made on 18 March 2025 with updates
+ - link opens in a new window  - 4 pages />
+	Confirmation statement
+	made on 18 March 2025 with updates
+ - link opens in a new window  - 4 pages
+(4 pages)
+18 Dec 2024
+Accounts for a dormant company
+made up to 31 March 2024
+[15] (660,472)<a class='download link-updater-js govuk-link' href='/company/11890453/filing-history/MzQ0ODE3Njk5MGFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+made up to 31 March 2024
+ - link opens in a new window  - 2 pages />
+	Accounts for a dormant company
+	made up to 31 March 2024
+ - link opens in a new window  - 2 pages
+(2 pages)
+[16] (671,502)<a class='link-updater-js govuk-link' href='/company/11890453/filing-history/MzQ0ODE3Njk5MGFkaXF6a2N4/document?format=xhtml&download=1'>Download iXBRL />
+19 Apr 2024
+Confirmation statement
+made on 18 March 2024 with updates
+[17] (660,540)<a class='download link-updater-js govuk-link' href='/company/11890453/filing-history/MzQxOTAyNjEwMGFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+made on 18 March 2024 with updates
+ - link opens in a new window  - 3 pages />
+	Confirmation statement
+	made on 18 March 2024 with updates
+ - link opens in a new window  - 3 pages
+(3 pages)
+10 Jan 2024
+Accounts for a dormant company
+made up to 31 March 2023
+[18] (660,587)<a class='download link-updater-js govuk-link' href='/company/11890453/filing-history/MzQwNzE1ODE5NmFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+made up to 31 March 2023
+ - link opens in a new window  - 2 pages />
+	Accounts for a dormant company
+	made up to 31 March 2023
+ - link opens in a new window  - 2 pages
+(2 pages)
+[19] (671,617)<a class='link-updater-js govuk-link' href='/company/11890453/filing-history/MzQwNzE1ODE5NmFkaXF6a2N4/document?format=xhtml&download=1'>Download iXBRL />
+10 Jan 2024
+Registered office address changed
+from Crook Lodge St. Marys York YO30 7DD England to 4 Valley Bridge Parade Scarborough YO11 2PF on 10 January 2024
+[20] (660,660)<a class='download link-updater-js govuk-link' href='/company/11890453/filing-history/MzQwNzE1Nzc1NmFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+from Crook Lodge St. Marys York YO30 7DD England to 4 Valley Bridge Parade Scarborough YO11 2PF on 10 January 2024
+ - link opens in a new window  - 1 page />
+	Registered office address changed
+	from Crook Lodge St. Marys York YO30 7DD England to 4 Valley Bridge Parade Scarborough YO11 2PF on 10 January 2024
+ - link opens in a new window  - 1 page
+(1 page)
+26 May 2023
+Registered office address changed
+from Brook Lodge 26 st. Marys York YO30 7DD England to Crook Lodge St. Marys York YO30 7DD on 26 May 2023
+[21] (660,717)<a class='download link-updater-js govuk-link' href='/company/11890453/filing-history/MzM4MDk4OTE4MWFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+from Brook Lodge 26 st. Marys York YO30 7DD England to Crook Lodge St. Marys York YO30 7DD on 26 May 2023
+ - link opens in a new window  - 1 page />
+	Registered office address changed
+	from Brook Lodge 26 st. Marys York YO30 7DD England to Crook Lodge St. Marys York YO30 7DD on 26 May 2023
+ - link opens in a new window  - 1 page
+(1 page)
+26 May 2023
+Confirmation statement
+made on 18 March 2023 with no updates
+[22] (660,770)<a class='download link-updater-js govuk-link' href='/company/11890453/filing-history/MzM4MDk4ODE5OWFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+made on 18 March 2023 with no updates
+ - link opens in a new window  - 3 pages />
+	Confirmation statement
+	made on 18 March 2023 with no updates
+ - link opens in a new window  - 3 pages
+(3 pages)
+31 Dec 2022
+Micro company accounts
+made up to 31 March 2022
+[23] (660,818)<a class='download link-updater-js govuk-link' href='/company/11890453/filing-history/MzM2NDMyOTQwOWFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+made up to 31 March 2022
+ - link opens in a new window  - 3 pages />
+	Micro company accounts
+	made up to 31 March 2022
+ - link opens in a new window  - 3 pages
+(3 pages)
+[24] (671,847)<a class='link-updater-js govuk-link' href='/company/11890453/filing-history/MzM2NDMyOTQwOWFkaXF6a2N4/document?format=xhtml&download=1'>Download iXBRL />
+26 Apr 2022
+Confirmation statement
+made on 18 March 2022 with updates
+[25] (660,885)<a class='download link-updater-js govuk-link' href='/company/11890453/filing-history/MzMzNzM4NTg5N2FkaXF6a2N4/document?format=pdf&download=0'>View PDF
+made on 18 March 2022 with updates
+ - link opens in a new window  - 4 pages />
+	Confirmation statement
+	made on 18 March 2022 with updates
+ - link opens in a new window  - 4 pages
+(4 pages)
+26 Apr 2022
+Appointment
+of Mr Daniel Brendan Warrington as a director on 4 February 2022
+[26] (660,933)<a class='download link-updater-js govuk-link' href='/company/11890453/filing-history/MzMzNzM4NDkyNmFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+of Mr Daniel Brendan Warrington as a director on 4 February 2022
+ - link opens in a new window  - 2 pages />
+	Appointment
+	of Mr Daniel Brendan Warrington as a director on 4 February 2022
+ - link opens in a new window  - 2 pages
+(2 pages)
+26 Apr 2022
+Termination of appointment
+of Una Warrington as a director on 4 February 2022
+[27] (660,981)<a class='download link-updater-js govuk-link' href='/company/11890453/filing-history/MzMzNzM4NDMyOGFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+of Una Warrington as a director on 4 February 2022
+ - link opens in a new window  - 1 page />
+	Termination of appointment
+	of Una Warrington as a director on 4 February 2022
+ - link opens in a new window  - 1 page
+(1 page)
+
+</current_dom>

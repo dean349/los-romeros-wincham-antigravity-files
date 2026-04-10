@@ -1,0 +1,35 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Already a client?
+Click here to log into your account
+[0] (248,544)<a href='http://tax.wincham.com/CLogin.aspx' title='Click here to log into your private account' />
+	[1] (248,517)<img  />
+Keep the tax man away from your property
+●
+[2] (215,716)<a class='NAVBAR_LEFT' href='about:blank./'>Home />
+●
+[3] (232,754)<a class='NAVBAR_LEFT' href='Costs_&_Savings.html'>Costs & savings />
+Legal & Professional Opinion
+●
+[4] (243,874)<a class='NAVBAR_LEFT' href='Professional_Opinions.html'>Professional Opinions />
+▫
+[5] (225,902)<a class='NAVBAR_LEFT' href='UK_Legal.html'>UK Legal />
+▫
+[6] (231,932)<a class='NAVBAR_LEFT' href='Spain_Legal.html'>Spain Legal />
+▫
+[7] (254,962)<a class='NAVBAR_LEFT' href='UK_accountant.html'>UK accountants opinion />
+Wincham Tax Book Shop
+<< Previous    [1]
+[8] (598,436)<a href='index_2.html'>2 />
+[9] (629,436)<a href='index_2.html'>Next >> />
+Legal & Professional
+Opinion
+"Most estates will be hit with a 40% tax charge unless steps are taken..."
+Joe Howard - Senior Partner of Howard Mathews LLoyd Accountants UK
+"Although the value has increased by £300,000, virtually the whole of that increase has been paid to the Spanish and
+UK
+tax authorities..."
+
+</current_dom>

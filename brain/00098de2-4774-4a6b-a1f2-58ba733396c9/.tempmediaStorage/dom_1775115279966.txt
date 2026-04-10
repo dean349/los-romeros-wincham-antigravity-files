@@ -1,0 +1,198 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (302,41)<a class='govuk-tabs__tab' href='/company/06993349' id='company-overview-tab' role='tab'>Company
+Overview
+for LOS ROMEROS LIMITED (06993349) />
+	Company
+	for LOS ROMEROS LIMITED (06993349)
+[1] (366,41)<a class='govuk-tabs__tab' href='/company/06993349/filing-history' id='filing-history-tab' role='tab'>Filing history
+for LOS ROMEROS LIMITED (06993349) />
+	for LOS ROMEROS LIMITED (06993349)
+[2] (425,41)<a class='govuk-tabs__tab' href='/company/06993349/officers' id='people-tab' role='tab'>People
+for LOS ROMEROS LIMITED (06993349) />
+	for LOS ROMEROS LIMITED (06993349)
+[3] (470,41)<a class='govuk-tabs__tab' href='/company/06993349/more' id='more-tab' role='tab'>More
+for LOS ROMEROS LIMITED (06993349) />
+	for LOS ROMEROS LIMITED (06993349)
+[4] (500,192)<fieldset >Filter by category />
+	Filter by category
+	Filter by category
+	[5] (330,167)<label class='block-label selection-button-checkbox focused selected' />
+		[6] (294,179)<input id='show-filing-type' />
+		[7] (333,167)<strong >Show filing type />
+	[8] (445,201)<fieldset >Confirmation statement filters, selecting an input will reload the page. />
+		Confirmation statement filters, selecting an input will reload the page.
+		[9] (429,143)<label class='block-label selection-button-checkbox selection-button-checkbox-small govuk-!-margin-bottom-4'>Accounts />
+			[10] (405,154)<input id='filter-category-accounts' />
+		[11] (425,192)<label class='block-label selection-button-checkbox selection-button-checkbox-small govuk-!-margin-bottom-4'>Capital />
+			[12] (405,203)<input id='filter-category-capital' />
+		[13] (427,241)<label class='block-label selection-button-checkbox selection-button-checkbox-small govuk-!-margin-bottom-4'>Charges />
+			[14] (405,252)<input id='filter-category-mortgage' />
+	[15] (611,201)<fieldset >Confirmation statement filters, selecting an input will reload the page. />
+		Confirmation statement filters, selecting an input will reload the page.
+		[16] (592,143)<label class='block-label selection-button-checkbox selection-button-checkbox-small govuk-!-margin-bottom-4'>Confirmation statements / Annual returns />
+			[17] (516,154)<input id='filter-category-confirmation-statement' />
+		[18] (547,192)<label class='block-label selection-button-checkbox selection-button-checkbox-small govuk-!-margin-bottom-4'>Incorporation />
+			[19] (516,203)<input id='filter-category-incorporation' />
+		[20] (538,241)<label class='block-label selection-button-checkbox selection-button-checkbox-small govuk-!-margin-bottom-4'>Officers />
+			[21] (516,252)<input id='filter-category-officers' />
+Company Results (links open in a new window)
+Date
+(document was filed at Companies House)
+Type
+Description
+(of the document filed at Companies House)
+View / Download
+(PDF file, link opens in new window)
+28 Apr 2014
+AA
+Total exemption small company accounts
+made up to 31 August 2013
+[22] (657,352)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzA5ODk2NTEyNWFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+made up to 31 August 2013
+ - link opens in a new window  - 6 pages />
+	Total exemption small company accounts
+	made up to 31 August 2013
+ - link opens in a new window  - 6 pages
+(6 pages)
+19 Aug 2013
+AR01
+Annual return
+made up to 18 August 2013 with full list of shareholders
+Statement of capital on 2013-08-19
+GBP 171,734
+[23] (657,415)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzA4MzQ3ODA2M2FkaXF6a2N4/document?format=pdf&download=0'>View PDF
+made up to 18 August 2013 with full list of shareholders
+Statement of capital on 2013-08-19
+- link opens in a new window  - 4 pages />
+	Annual return
+	made up to 18 August 2013 with full list of shareholders
+	Statement of capital on 2013-08-19
+	GBP 171,734
+	- link opens in a new window  - 4 pages
+(4 pages)
+19 Aug 2013
+CH04
+Secretary's details changed
+for Wincham Legal Limited on 10 December 2012
+[24] (657,477)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzA4MzQ3Nzk1MmFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+for Wincham Legal Limited on 10 December 2012
+ - link opens in a new window  - 1 page />
+	Secretary's details changed
+	for Wincham Legal Limited on 10 December 2012
+ - link opens in a new window  - 1 page
+(1 page)
+28 May 2013
+AA
+Total exemption small company accounts
+made up to 31 August 2012
+[25] (657,525)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzA3ODc2Njg0MmFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+made up to 31 August 2012
+ - link opens in a new window  - 3 pages />
+	Total exemption small company accounts
+	made up to 31 August 2012
+ - link opens in a new window  - 3 pages
+(3 pages)
+31 Aug 2012
+AR01
+Annual return
+made up to 18 August 2012 with full list of shareholders
+[26] (657,573)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzA2MzMwODQwNWFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+made up to 18 August 2012 with full list of shareholders
+ - link opens in a new window  - 4 pages />
+	Annual return
+	made up to 18 August 2012 with full list of shareholders
+ - link opens in a new window  - 4 pages
+(4 pages)
+31 Aug 2012
+AP04
+Appointment
+of Wincham Legal Limited as a secretary
+[27] (657,620)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzA2MzMwNzE4NWFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+of Wincham Legal Limited as a secretary
+ - link opens in a new window  - 2 pages />
+	Appointment
+	of Wincham Legal Limited as a secretary
+ - link opens in a new window  - 2 pages
+(2 pages)
+31 Aug 2012
+TM02
+Termination of appointment
+of Companies 4 U Secretaries Limited as a secretary
+[28] (657,673)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzA2MzMwNzE4M2FkaXF6a2N4/document?format=pdf&download=0'>View PDF
+of Companies 4 U Secretaries Limited as a secretary
+ - link opens in a new window  - 1 page />
+	Termination of appointment
+	of Companies 4 U Secretaries Limited as a secretary
+ - link opens in a new window  - 1 page
+(1 page)
+30 May 2012
+AA
+Total exemption small company accounts
+made up to 31 August 2011
+[29] (657,726)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzA1ODM4MTc1NGFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+made up to 31 August 2011
+ - link opens in a new window  - 4 pages />
+	Total exemption small company accounts
+	made up to 31 August 2011
+ - link opens in a new window  - 4 pages
+(4 pages)
+18 Aug 2011
+AR01
+Annual return
+made up to 18 August 2011 with full list of shareholders
+[30] (657,774)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzA0MjI4ODA5OGFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+made up to 18 August 2011 with full list of shareholders
+ - link opens in a new window  - 4 pages />
+	Annual return
+	made up to 18 August 2011 with full list of shareholders
+ - link opens in a new window  - 4 pages
+(4 pages)
+10 Jun 2011
+AP01
+Appointment
+of Bryan Frederick Stockwell as a director
+[31] (657,821)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzAzODYzNTI2MGFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+of Bryan Frederick Stockwell as a director
+ - link opens in a new window  - 2 pages />
+	Appointment
+	of Bryan Frederick Stockwell as a director
+ - link opens in a new window  - 2 pages
+(2 pages)
+10 Jun 2011
+TM01
+Termination of appointment
+of Margaret Purvis as a director
+[32] (657,869)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzAzODYzNTA4MmFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+of Margaret Purvis as a director
+ - link opens in a new window  - 1 page />
+	Termination of appointment
+	of Margaret Purvis as a director
+ - link opens in a new window  - 1 page
+(1 page)
+10 Jun 2011
+TM01
+Termination of appointment
+of Frederick Purvs as a director
+[33] (657,917)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzAzODYzNTAyMWFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+of Frederick Purvs as a director
+ - link opens in a new window  - 1 page />
+	Termination of appointment
+	of Frederick Purvs as a director
+ - link opens in a new window  - 1 page
+(1 page)
+14 Apr 2011
+AA
+Total exemption small company accounts
+made up to 31 August 2010
+[34] (657,965)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzAzNTY0MTA1OWFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+made up to 31 August 2010
+ - link opens in a new window  - 4 pages />
+	Total exemption small company accounts
+	made up to 31 August 2010
+ - link opens in a new window  - 4 pages
+(4 pages)
+
+</current_dom>

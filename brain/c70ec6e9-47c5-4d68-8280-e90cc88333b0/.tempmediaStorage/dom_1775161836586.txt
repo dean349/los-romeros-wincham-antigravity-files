@@ -1,0 +1,29 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+⚖️ Harrison Expert Advisors
+[0] (168,28)<a href='#claim'>The Claim />
+[1] (211,28)<a href='#advisers'>Advisers />
+[2] (252,28)<a href='#data'>Live Data />
+[3] (305,28)<a href='#glo'>GLO Programme />
+[4] (360,28)<a href='#team'>The Team />
+⚖️ Professional Negligence · Wincham Accountants
+🏠 Los Romeros Limited · Lanzarote
+Wincham Claim Overview
+Harrison Expert Advisors
+Seven specialist AI advisers — trained on UK law, cross-border tax, Spanish compliance, and insolvency — working on the Philip Harrison / Los Romeros Limited case around the clock. Zero billable hours.
+7
+Specialist Advisers
+4
+Live Data Connections
+£150k
+Max Claim Value
+1,606
+Victim Database Records
+This doesn't replace a professional's signature on a legal document. What it does is make sure you walk into any lawyer or accountant's office already knowing exactly what they should be doing — and whether their bill is reasonable.
+🔴
+The Wincham Negligence Claim
+Los Romeros Limited — Philip & Beryl Harrison. Two independent heads of professional negligence against Wincham Accountants / Adrem Accounting. Amended Pre-Action Protocol Letter of Claim dated 31 March 2026 — drafted and ready to serve.
+
+</current_dom>

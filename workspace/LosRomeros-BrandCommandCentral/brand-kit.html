@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Brand Kit &mdash; Los Romeros Limited</title>
+  <meta name="description" content="The complete Brand Kit for Los Romeros Limited. Design tokens, colour palettes, typography scales, logo restrictions, and developer implementation specs."/>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet"/>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    :root {
+      --bg-base: #020617;
+      --bg-card: #0f172a;
+      --bg-card-alt: #1e293b;
+      --border: #334155;
+      --text-primary: #f1f5f9;
+      --text-secondary: #94a3b8;
+      --text-muted: #64748b;
+      --accent-crimson: #dc2626;
+      --accent-amber: #d97706;
+      --accent-orange: #ea580c;
+    }
+    * { box-sizing: border-box; }
+    body { background: var(--bg-base); color: var(--text-primary); font-family: 'Inter', sans-serif; line-height: 1.6; }
+    h1, h2, h3, h4 { font-family: 'EB Garamond', serif; }
+    .gradient-text { color: #f1f5f9; }
+    .card { background: var(--bg-card); border: 1px solid var(--border); border-radius: 8px; }
+    .card-alt { background: var(--bg-card-alt); border: 1px solid var(--border); border-radius: 8px; }
+    .pill { display: inline-flex; align-items: center; gap: 6px; padding: 4px 12px; border-radius: 999px; font-size: 11px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; }
+    .pill-crimson { background: rgba(220,38,38,0.15); border: 1px solid rgba(220,38,38,0.4); color: #fca5a5; }
+    .pill-amber { background: rgba(217,119,6,0.15); border: 1px solid rgba(217,119,6,0.4); color: #fcd34d; }
+    .pill-blue { background: rgba(37,99,235,0.15); border: 1px solid rgba(37,99,235,0.4); color: #93c5fd; }
+    .pill-green { background: rgba(22,163,74,0.15); border: 1px solid rgba(22,163,74,0.4); color: #86efac; }
+    .pill-purple { background: rgba(168,85,247,0.15); border: 1px solid rgba(168,85,247,0.4); color: #d8b4fe; }
+    .section-label { font-size: 11px; font-weight: 700; letter-spacing: 0.15em; text-transform: uppercase; color: var(--text-muted); margin-bottom: 8px; }
+    .divider { border: none; border-top: 1px solid var(--border); margin: 48px 0; }
+    .colour-swatch { border-radius: 6px; height: 80px; width: 100%; margin-bottom: 12px; }
+    .token-block { background: #0f172a; border: 1px solid #334155; border-radius: 4px; padding: 12px 16px; font-family: 'Courier New', monospace; font-size: 13px; color: #86efac; }
+    .left-border-amber { border-left: 4px solid var(--accent-amber); padding-left: 20px; }
+    .left-border-crimson { border-left: 4px solid var(--accent-crimson); padding-left: 20px; }
+    code { font-family: 'Courier New', monospace; font-size: 0.875em; }
+    nav a { transition: color 150ms linear; }
+    nav a:hover { color: #f8fafc; }
+  </style>
+</head>
+<body>
+
+  <!-- TOP NAV -->
+  <nav style="background:#020617; border-bottom:1px solid #1e293b;" class="sticky top-0 z-50 px-6 py-4">
+    <div class="max-w-7xl mx-auto flex items-center justify-between">
+      <div class="flex items-center gap-4">
+        <img src="assets/Los_Romeros_Logo_Dark.png" alt="Los Romeros" class="h-10 w-auto mix-blend-screen opacity-90"/>
+        <span style="color:#64748b;" class="text-sm font-medium tracking-widest uppercase hidden sm:block">Brand System</span>
+      </div>
+      <div class="flex items-center gap-6">
+        <a href="los_romeros_brand_command_center_index.html" style="color:#94a3b8;" class="text-sm hover:text-white transition-colors">&larr; Command Center</a>
+        <a href="brand-guidelines.html" style="color:#94a3b8;" class="text-sm">Guidelines</a>
+        <a href="brand-kit.html" class="text-sm font-semibold" style="color:#ea580c;">Brand Kit</a>
+        <a href="style-guide.html" style="color:#94a3b8;" class="text-sm">Style Guide</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section class="max-w-7xl mx-auto px-6 pt-20 pb-16">
+    <div style="background:#2563eb; opacity:0.9; color:#fff; font-size:11px; font-weight:700; letter-spacing:0.12em; text-transform:uppercase; display:inline-flex; align-items:center; gap:8px; padding:6px 16px; border-radius:4px; margin-bottom:24px;">
+      Vol 2.0 &mdash; Design Tokens &mdash; Los Romeros Limited
+    </div>
+    <h1 class="text-5xl md:text-7xl font-bold mb-6 leading-tight" style="font-family:'EB Garamond',serif; max-width:900px;">
+      Brand <span class="gradient-text">Kit</span>
+    </h1>
+    <p class="text-lg max-w-3xl mb-12" style="color:#94a3b8; line-height:1.8;">
+      The complete technical specification of every design token in the Los Romeros Limited system. Exact hex values, Tailwind tokens, typography scales, logo configuration rules, and CSS implementation instructions for developers and designers building compliant digital properties.
+    </p>
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-6">
+      <div class="card p-6 text-center">
+        <div style="font-family:'Inter',sans-serif; font-weight:700; font-size:2.5rem; line-height:1; margin-bottom:8px; color:#ea580c;">8</div>
+        <div class="text-xs uppercase tracking-widest" style="color:#64748b;">Core Colour Tokens</div>
+      </div>
+      <div class="card p-6 text-center">
+        <div style="font-family:'Inter',sans-serif; font-weight:700; font-size:2.5rem; line-height:1; margin-bottom:8px; color:#a855f7;">2</div>
+        <div class="text-xs uppercase tracking-widest" style="color:#64748b;">Font Families</div>
+      </div>
+      <div class="card p-6 text-center">
+        <div style="font-family:'Inter',sans-serif; font-weight:700; font-size:2.5rem; line-height:1; margin-bottom:8px; color:#2563eb;">6</div>
+        <div class="text-xs uppercase tracking-widest" style="color:#64748b;">Typographic Scales</div>
+      </div>
+      <div class="card p-6 text-center">
+        <div style="font-family:'Inter',sans-serif; font-weight:700; font-size:2.5rem; line-height:1; margin-bottom:8px; color:#16a34a;">4</div>
+        <div class="text-xs uppercase tracking-widest" style="color:#64748b;">Logo Usage Rules</div>
+      </div>
+    </div>
+  </section>
+
+  <div class="max-w-7xl mx-auto px-6">
+    <hr class="divider"/>
+
+    <!-- SECTION 1: CORPORATE COLOUR PALETTE -->
+    <section class="mb-20">
+      <div class="section-label">Section 01</div>
+      <h2 class="text-3xl md:text-4xl font-semibold mb-4" style="font-family:'EB Garamond',serif;">Corporate Colour Palette</h2>
+      <p class="mb-10" style="color:#94a3b8; max-width:700px; line-height:1.8;">These colours form the foundation of the brand's stark, document-driven aesthetic. Each token represents a precise, non-negotiable application context.</p>
+
+      <!-- Foundation colours -->
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-6 mb-10">
+        <div>
+          <div class="colour-swatch" style="background:#020617; border:2px solid #334155;"></div>
+          <div class="text-sm font-semibold mb-1" style="color:#f1f5f9;">Deep Base</div>
+          <div class="text-xs mb-2" style="color:#64748b;"><code>#020617</code></div>
+          <div class="token-block"><code>bg-slate-950</code></div>
+          <p class="text-xs mt-2" style="color:#64748b;">Primary page background. All pages.</p>
+        </div>
+        <div>
+          <div class="colour-swatch" style="background:#0f172a; border:2px solid #334155;"></div>
+          <div class="text-sm font-semibold mb-1" style="color:#f1f5f9;">Card Dark</div>
+          <div class="text-xs mb-2" style="color:#64748b;"><code>#0F172A</code></div>
+          <div class="token-block"><code>bg-slate-900</code></div>
+          <p class="text-xs mt-2" style="color:#64748b;">Primary cards, panels, nav bars.</p>
+        </div>
+        <div>
+          <div class="colour-swatch" style="background:#1e293b; border:2px solid #334155;"></div>
+          <div class="text-sm font-semibold mb-1" style="color:#f1f5f9;">Card Alt</div>
+          <div class="text-xs mb-2" style="color:#64748b;"><code>#1E293B</code></div>
+          <div class="token-block"><code>bg-slate-800</code></div>
+          <p class="text-xs mt-2" style="color:#64748b;">Secondary cards, inset blocks, code examples.</p>
+        </div>
+        <div>
+          <div class="colour-swatch" style="background:#334155; border:2px solid #475569;"></div>
+          <div class="text-sm font-semibold mb-1" style="color:#f1f5f9;">Border</div>
+          <div class="text-xs mb-2" style="color:#64748b;"><code>#334155</code></div>
+          <div class="token-block"><code>border-slate-700</code></div>
+          <p class="text-xs mt-2" style="color:#64748b;">All border separators. Must always be visible.</p>
+        </div>
+      </div>
+
+      <!-- Text colours -->
+      <h3 class="text-xl font-semibold mb-6" style="font-family:'EB Garamond',serif;">Text Colours</h3>
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-6 mb-12">
+        <div>
+          <div class="colour-swatch" style="background:#f1f5f9; border:2px solid #334155;"></div>
+          <div class="text-sm font-semibold mb-1" style="color:#f1f5f9;">Primary Text</div>
+          <div class="text-xs mb-2" style="color:#64748b;"><code>#F1F5F9</code></div>
+          <div class="token-block"><code>text-slate-100</code></div>
+          <p class="text-xs mt-2" style="color:#64748b;">All headings, critical values, titles.</p>
+        </div>
+        <div>
+          <div class="colour-swatch" style="background:#94a3b8; border:2px solid #334155;"></div>
+          <div class="text-sm font-semibold mb-1" style="color:#f1f5f9;">Secondary Text</div>
+          <div class="text-xs mb-2" style="color:#64748b;"><code>#94A3B8</code></div>
+          <div class="token-block"><code>text-slate-400</code></div>
+          <p class="text-xs mt-2" style="color:#64748b;">Body copy, explanatory paragraphs.</p>
+        </div>
+        <div>
+          <div class="colour-swatch" style="background:#64748b; border:2px solid #334155;"></div>
+          <div class="text-sm font-semibold mb-1" style="color:#f1f5f9;">Muted Text</div>
+          <div class="text-xs mb-2" style="color:#64748b;"><code>#64748B</code></div>
+          <div class="token-block"><code>text-slate-500</code></div>
+          <p class="text-xs mt-2" style="color:#64748b;">Metadata, dates, captions, section labels.</p>
+        </div>
+        <div>
+          <div class="colour-swatch" style="background:#f1f5f9; border:2px solid #334155;"></div>
+          <div class="text-sm font-semibold mb-1" style="color:#f1f5f9;">Brand Gradient</div>
+          <div class="text-xs mb-2" style="color:#64748b;"><code>#F59E0B &rarr; #EF4444 &rarr; #A855F7</code></div>
+          <div class="token-block" style="font-size:11px;"><code>heading-gradient</code></div>
+          <p class="text-xs mt-2" style="color:#64748b;">H1 accent text on dark hero sections only.</p>
+        </div>
+      </div>
+
+      <!-- Semantic colours -->
+      <h3 class="text-xl font-semibold mb-6" style="font-family:'EB Garamond',serif;">Semantic Colour Palette</h3>
+      <p class="mb-8 text-sm" style="color:#94a3b8;">Reserved exclusively for legal annotations, exposure statements, severity indicators, and structural alerts. Never use decoratively.</p>
+      <div class="grid grid-cols-2 md:grid-cols-5 gap-4">
+        <div class="card p-5">
+          <div style="background:#dc2626; height:40px; border-radius:4px; margin-bottom:12px;"></div>
+          <div class="text-sm font-semibold mb-1">Crimson (Alert)</div>
+          <div class="text-xs mb-2" style="color:#64748b;"><code>#DC2626</code></div>
+          <p class="text-xs" style="color:#94a3b8;">High severity: breaches, critical violations, missing documentation.</p>
+        </div>
+        <div class="card p-5">
+          <div style="background:#fef2f2; height:40px; border-radius:4px; margin-bottom:12px;"></div>
+          <div class="text-sm font-semibold mb-1">Crimson Light</div>
+          <div class="text-xs mb-2" style="color:#64748b;"><code>#FEF2F2</code></div>
+          <p class="text-xs" style="color:#94a3b8;">Background for highlighted regulatory breaches. Light pages only.</p>
+        </div>
+        <div class="card p-5">
+          <div style="background:#d97706; height:40px; border-radius:4px; margin-bottom:12px;"></div>
+          <div class="text-sm font-semibold mb-1">Amber (Notice)</div>
+          <div class="text-xs mb-2" style="color:#64748b;"><code>#D97706</code></div>
+          <p class="text-xs" style="color:#94a3b8;">Pending actions, outstanding debts, caution notices. Not critical.</p>
+        </div>
+        <div class="card p-5">
+          <div style="background:#2563eb; height:40px; border-radius:4px; margin-bottom:12px;"></div>
+          <div class="text-sm font-semibold mb-1">Blue (Link)</div>
+          <div class="text-xs mb-2" style="color:#64748b;"><code>#2563EB</code></div>
+          <p class="text-xs" style="color:#94a3b8;">External links to ICAEW, HMRC, Sede Electr&oacute;nica, official portals.</p>
+        </div>
+        <div class="card p-5">
+          <div style="background:#16a34a; height:40px; border-radius:4px; margin-bottom:12px;"></div>
+          <div class="text-sm font-semibold mb-1">Green (Cleared)</div>
+          <div class="text-xs mb-2" style="color:#64748b;"><code>#16A34A</code></div>
+          <p class="text-xs" style="color:#94a3b8;">Verified compliance, resolved liabilities only. Use sparingly.</p>
+        </div>
+      </div>
+    </section>
+
+    <hr class="divider"/>
+
+    <!-- SECTION 2: TYPOGRAPHY -->
+    <section class="mb-20">
+      <div class="section-label">Section 02</div>
+      <h2 class="text-3xl md:text-4xl font-semibold mb-4" style="font-family:'EB Garamond',serif;">Typographic System</h2>
+      <p class="mb-10" style="color:#94a3b8; max-width:700px; line-height:1.8;">Two typefaces in strict combination. EB Garamond for authority and editorial weight. Inter for data density and UI legibility. No substitutions permitted.</p>
+
+      <div class="grid md:grid-cols-2 gap-8 mb-12">
+        <!-- Garamond -->
+        <div class="card p-8">
+          <div class="flex items-center gap-3 mb-6">
+            <span class="pill pill-amber">Primary Typeface</span>
+            <span style="color:#64748b; font-size:12px;">Headings &amp; Titles</span>
+          </div>
+          <div class="mb-6" style="font-family:'EB Garamond',serif; font-size:3.5rem; color:#f1f5f9; line-height:1.1; font-weight:600;">EB Garamond</div>
+          <div class="space-y-2 text-sm mb-6" style="color:#94a3b8;">
+            <div><strong style="color:#f1f5f9;">Weights:</strong> Semi-Bold (600), Bold (700)</div>
+            <div><strong style="color:#f1f5f9;">Tracking:</strong> Normal to tight (&minus;0.02em max)</div>
+            <div><strong style="color:#f1f5f9;">Line Height:</strong> 1.1&mdash;1.3 for display use</div>
+            <div><strong style="color:#f1f5f9;">Use For:</strong> H1, H2, H3, Pull quotes, Document titles</div>
+          </div>
+          <div class="token-block text-xs">
+            @import url('https://fonts.googleapis.com/css2?<br/>&nbsp;&nbsp;family=EB+Garamond:wght@400;600;700&display=swap');
+          </div>
+        </div>
+        <!-- Inter -->
+        <div class="card p-8">
+          <div class="flex items-center gap-3 mb-6">
+            <span class="pill pill-blue">Secondary Typeface</span>
+            <span style="color:#64748b; font-size:12px;">Body &amp; UI Elements</span>
+          </div>
+          <div class="mb-6" style="font-family:'Inter',sans-serif; font-size:3.5rem; color:#f1f5f9; line-height:1.1; font-weight:600;">Inter</div>
+          <div class="space-y-2 text-sm mb-6" style="color:#94a3b8;">
+            <div><strong style="color:#f1f5f9;">Weights:</strong> Regular (400), Medium (500), SemiBold (600)</div>
+            <div><strong style="color:#f1f5f9;">Tracking:</strong> Normal to wide (0.05em max for labels)</div>
+            <div><strong style="color:#f1f5f9;">Line Height:</strong> 1.6&mdash;1.7 for body; 1.0 for labels</div>
+            <div><strong style="color:#f1f5f9;">Use For:</strong> Paragraphs, tables, UI controls, metadata</div>
+          </div>
+          <div class="token-block text-xs">
+            @import url('https://fonts.googleapis.com/css2?<br/>&nbsp;&nbsp;family=Inter:wght@300;400;500;600;700&display=swap');
+          </div>
+        </div>
+      </div>
+
+      <!-- Type Scale -->
+      <h3 class="text-2xl font-semibold mb-6" style="font-family:'EB Garamond',serif;">Desktop Typographic Scale</h3>
+      <div class="card overflow-hidden">
+        <table class="w-full text-sm">
+          <thead style="background:#1e293b; border-bottom:1px solid #334155;">
+            <tr>
+              <th class="text-left px-6 py-4" style="color:#64748b; font-size:11px; font-weight:700; text-transform:uppercase; letter-spacing:0.1em;">Level</th>
+              <th class="text-left px-6 py-4" style="color:#64748b; font-size:11px; font-weight:700; text-transform:uppercase; letter-spacing:0.1em;">Size</th>
+              <th class="text-left px-6 py-4" style="color:#64748b; font-size:11px; font-weight:700; text-transform:uppercase; letter-spacing:0.1em;">Line Height</th>
+              <th class="text-left px-6 py-4" style="color:#64748b; font-size:11px; font-weight:700; text-transform:uppercase; letter-spacing:0.1em;">Font</th>
+              <th class="text-left px-6 py-4" style="color:#64748b; font-size:11px; font-weight:700; text-transform:uppercase; letter-spacing:0.1em;">Usage</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr style="border-bottom:1px solid #1e293b;">
+              <td class="px-6 py-4 font-semibold" style="color:#f1f5f9;">H1</td>
+              <td class="px-6 py-4" style="color:#94a3b8;"><code>2.25rem / 36px</code></td>
+              <td class="px-6 py-4" style="color:#94a3b8;">1.2</td>
+              <td class="px-6 py-4" style="color:#94a3b8;">EB Garamond 700</td>
+              <td class="px-6 py-4" style="color:#94a3b8;">Document title, page hero</td>
+            </tr>
+            <tr style="border-bottom:1px solid #1e293b; background:rgba(30,41,59,0.3);">
+              <td class="px-6 py-4 font-semibold" style="color:#f1f5f9;">H2</td>
+              <td class="px-6 py-4" style="color:#94a3b8;"><code>1.875rem / 30px</code></td>
+              <td class="px-6 py-4" style="color:#94a3b8;">1.3</td>
+              <td class="px-6 py-4" style="color:#94a3b8;">EB Garamond 600</td>
+              <td class="px-6 py-4" style="color:#94a3b8;">Section header</td>
+            </tr>
+            <tr style="border-bottom:1px solid #1e293b;">
+              <td class="px-6 py-4 font-semibold" style="color:#f1f5f9;">H3</td>
+              <td class="px-6 py-4" style="color:#94a3b8;"><code>1.5rem / 24px</code></td>
+              <td class="px-6 py-4" style="color:#94a3b8;">1.4</td>
+              <td class="px-6 py-4" style="color:#94a3b8;">EB Garamond 600</td>
+              <td class="px-6 py-4" style="color:#94a3b8;">Sub-section, card heading</td>
+            </tr>
+            <tr style="border-bottom:1px solid #1e293b; background:rgba(30,41,59,0.3);">
+              <td class="px-6 py-4 font-semibold" style="color:#f1f5f9;">Body</td>
+              <td class="px-6 py-4" style="color:#94a3b8;"><code>1rem / 16px</code></td>
+              <td class="px-6 py-4" style="color:#94a3b8;">1.6&mdash;1.7</td>
+              <td class="px-6 py-4" style="color:#94a3b8;">Inter 400</td>
+              <td class="px-6 py-4" style="color:#94a3b8;">All body paragraphs, analysis</td>
+            </tr>
+            <tr style="border-bottom:1px solid #1e293b;">
+              <td class="px-6 py-4 font-semibold" style="color:#f1f5f9;">Label</td>
+              <td class="px-6 py-4" style="color:#94a3b8;"><code>0.875rem / 14px</code></td>
+              <td class="px-6 py-4" style="color:#94a3b8;">1.4</td>
+              <td class="px-6 py-4" style="color:#94a3b8;">Inter 500</td>
+              <td class="px-6 py-4" style="color:#94a3b8;">UI labels, table headers</td>
+            </tr>
+            <tr>
+              <td class="px-6 py-4 font-semibold" style="color:#f1f5f9;">Metadata</td>
+              <td class="px-6 py-4" style="color:#94a3b8;"><code>0.75rem / 12px</code></td>
+              <td class="px-6 py-4" style="color:#94a3b8;">1.5</td>
+              <td class="px-6 py-4" style="color:#94a3b8;">Inter 400</td>
+              <td class="px-6 py-4" style="color:#94a3b8;">Footnotes, citations, dates</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <hr class="divider"/>
+
+    <!-- SECTION 3: LOGO GUIDELINES -->
+    <section class="mb-20">
+      <div class="section-label">Section 03</div>
+      <h2 class="text-3xl md:text-4xl font-semibold mb-8" style="font-family:'EB Garamond',serif;">Logo Guidelines &amp; Restrictions</h2>
+
+      <div class="grid md:grid-cols-2 gap-8 mb-10">
+        <!-- Dark version -->
+        <div class="card p-10 flex flex-col items-center justify-center">
+          <div class="section-label mb-6">Dark Background Usage (Preferred)</div>
+          <img src="assets/Los_Romeros_Logo_Dark.png" alt="Los Romeros Logo Dark" class="h-40 w-auto object-contain mix-blend-screen mb-6"/>
+          <div class="text-center">
+            <span class="pill pill-green" style="margin-bottom:8px;">Approved</span>
+            <p class="text-xs mt-3" style="color:#64748b;">Use on all digital dark mode surfaces. Minimum 120px width enforced.</p>
+          </div>
+        </div>
+        <!-- Light version -->
+        <div class="card p-10 flex flex-col items-center justify-center" style="background:#f8fafc;">
+          <div class="section-label mb-6" style="color:#64748b;">Light Background Usage</div>
+          <img src="assets/Los_Romeros_Logo.png" alt="Los Romeros Logo Light" class="h-40 w-auto object-contain mb-6"/>
+          <div class="text-center">
+            <span class="pill pill-amber" style="margin-bottom:8px;">Context-Specific</span>
+            <p class="text-xs mt-3" style="color:#94a3b8;">Reserved for print exports, light-mode legal documents, and PDF generation.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Logo rules -->
+      <div class="grid md:grid-cols-2 gap-6">
+        <div class="card p-8">
+          <h3 class="text-xl font-semibold mb-4" style="font-family:'EB Garamond',serif;">Mandatory Rules</h3>
+          <ul class="space-y-4 text-sm" style="color:#94a3b8;">
+            <li style="display:flex; gap:12px; align-items:flex-start;">
+              <span style="color:#16a34a; font-weight:700; flex-shrink:0;">&rarr;</span>
+              <span>Logo must always render at minimum <strong style="color:#f1f5f9;">120px width</strong> for digital and <strong style="color:#f1f5f9;">20mm width</strong> for print.</span>
+            </li>
+            <li style="display:flex; gap:12px; align-items:flex-start;">
+              <span style="color:#16a34a; font-weight:700; flex-shrink:0;">&rarr;</span>
+              <span>Clear space equal to the height of capital "L" in "Los" on all four sides. No imagery or text may enter this zone.</span>
+            </li>
+            <li style="display:flex; gap:12px; align-items:flex-start;">
+              <span style="color:#16a34a; font-weight:700; flex-shrink:0;">&rarr;</span>
+              <span>Set typographic elements in <strong style="color:#f1f5f9;">EB Garamond Semi-Bold</strong>. Must always state "Limited" or "Ltd." explicitly.</span>
+            </li>
+            <li style="display:flex; gap:12px; align-items:flex-start;">
+              <span style="color:#16a34a; font-weight:700; flex-shrink:0;">&rarr;</span>
+              <span>Only in <strong style="color:#f1f5f9;">Slate 50</strong> on dark backgrounds or <strong style="color:#f1f5f9;">Slate 900</strong> on light backgrounds.</span>
+            </li>
+          </ul>
+        </div>
+        <div class="card p-8">
+          <h3 class="text-xl font-semibold mb-4" style="font-family:'EB Garamond',serif;">Strict Prohibitions</h3>
+          <ul class="space-y-4 text-sm" style="color:#94a3b8;">
+            <li style="display:flex; gap:12px; align-items:flex-start;">
+              <span style="color:#dc2626; font-weight:700; flex-shrink:0;">&#10005;</span>
+              <span>Usage in Crimson, Amber, or any semantic colour. Maintains corporate neutrality.</span>
+            </li>
+            <li style="display:flex; gap:12px; align-items:flex-start;">
+              <span style="color:#dc2626; font-weight:700; flex-shrink:0;">&#10005;</span>
+              <span>Rotation, skewing, stretching, or distorting the lockup in any dimension.</span>
+            </li>
+            <li style="display:flex; gap:12px; align-items:flex-start;">
+              <span style="color:#dc2626; font-weight:700; flex-shrink:0;">&#10005;</span>
+              <span>Applying drop shadows, outer glows, or gradient overlays to the logo mark.</span>
+            </li>
+            <li style="display:flex; gap:12px; align-items:flex-start;">
+              <span style="color:#dc2626; font-weight:700; flex-shrink:0;">&#10005;</span>
+              <span>Usage on complex photographic backgrounds without an isolated clear zone.</span>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <hr class="divider"/>
+
+    <!-- SECTION 4: CSS VARIABLES -->
+    <section class="mb-20">
+      <div class="section-label">Section 04</div>
+      <h2 class="text-3xl md:text-4xl font-semibold mb-8" style="font-family:'EB Garamond',serif;">CSS Implementation</h2>
+      <p class="mb-8" style="color:#94a3b8; max-width:700px; line-height:1.8;">Copy these CSS custom properties directly into any stylesheet to instantly implement the complete Los Romeros design token system.</p>
+      <div class="card p-8">
+        <div class="section-label mb-4">Root CSS Variables &mdash; Copy-Ready</div>
+        <pre class="token-block text-xs overflow-x-auto" style="white-space:pre-wrap; line-height:1.8;">:root {
+  /* -- Backgrounds ------------------------ */
+  --bg-base:        #020617;   /* slate-950: page backgrounds */
+  --bg-card:        #0f172a;   /* slate-900: primary cards */
+  --bg-card-alt:    #1e293b;   /* slate-800: secondary cards */
+
+  /* -- Borders ---------------------------- */
+  --border:         #334155;   /* slate-700: all rule lines */
+
+  /* -- Text ------------------------------- */
+  --text-primary:   #f1f5f9;   /* slate-100: headings, values */
+  --text-secondary: #94a3b8;   /* slate-400: body copy */
+  --text-muted:     #64748b;   /* slate-500: metadata, dates */
+
+  /* -- Semantic Colours ------------------- */
+  --crimson:        #dc2626;   /* HIGH severity alerts */
+  --amber:          #d97706;   /* MEDIUM notices */
+  --blue:           #2563eb;   /* Links, info badges */
+  --green:          #16a34a;   /* Cleared, resolved only */
+  --orange:         #ea580c;   /* Section accents */
+  --purple:         #a855f7;   /* Gradient terminus */
+
+  /* -- Brand Gradient --------------------- */
+    #f59e0b 0%, #ef4444 50%, #a855f7 100%);
+
+  /* -- Typography ------------------------- */
+  --font-heading:   'EB Garamond', Georgia, serif;
+  --font-body:      'Inter', system-ui, sans-serif;
+}</pre>
+      </div>
+    </section>
+  </div>
+
+  <!-- FOOTER -->
+  <footer style="background:#020617; border-top:1px solid #1e293b;" class="py-12 mt-8">
+    <div class="max-w-7xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-4">
+      <div class="flex items-center gap-4">
+        <img src="assets/Los_Romeros_Logo_Dark.png" alt="Los Romeros" class="h-10 w-auto mix-blend-screen opacity-70"/>
+        <div>
+          <div class="text-sm font-semibold" style="color:#f1f5f9;">Los Romeros Limited</div>
+          <div class="text-xs" style="color:#64748b;">Brand Kit &mdash; Vol 2.0 &mdash; Updated April 2026</div>
+        </div>
+      </div>
+      <nav class="flex gap-6">
+        <a href="brand-guidelines.html" class="text-xs" style="color:#64748b;">Guidelines</a>
+        <a href="brand-kit.html" class="text-xs" style="color:#ea580c;">Brand Kit</a>
+        <a href="style-guide.html" class="text-xs" style="color:#64748b;">Style Guide</a>
+        <a href="los_romeros_brand_command_center_index.html" class="text-xs" style="color:#64748b;">Command Center</a>
+      </nav>
+    </div>
+  </footer>
+</body>
+</html>
+
+

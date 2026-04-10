@@ -1,0 +1,319 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+[0] (17,35)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,35)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (69,35)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/dean349' />
+	[3] (69,35)<span >dean349 />
+[4] (131,35)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/dean349/lanzarote-cgt-report' />
+	[5] (131,35)<span >lanzarote-cgt-report />
+[6] (766,35)<button aria-label='Search or jump to…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[7] (766,35)<span  />
+		[8] (773,35)<span >Type
+to search />
+			Type
+			/
+			to search
+[9] (828,35)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[10] (842,35)<button aria-label='Open Copilot…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_54jpb_' />
+[11] (874,35)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[12] (870,35)<span  />
+[13] (900,35)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[14] (921,35)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[15] (942,35)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[16] (963,35)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ styles-module__notificationIndicator__D_jL0 prc-Button-IconButton-fyge7' href='/notifications' />
+[17] (983,35)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[18] (983,35)<img  />
+Repository navigation
+[19] (27,83)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/lanzarote-cgt-report' />
+	[20] (17,83)<span  />
+	[21] (34,83)<span >Code />
+[22] (71,83)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/lanzarote-cgt-report/issues' />
+	[23] (59,83)<span  />
+	[24] (77,83)<span >Issues />
+[25] (127,83)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/lanzarote-cgt-report/pulls' />
+	[26] (104,83)<span  />
+	[27] (133,83)<span >Pull requests />
+[28] (185,83)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/lanzarote-cgt-report/actions' />
+	[29] (171,83)<span  />
+	[30] (191,83)<span >Actions />
+[31] (236,83)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/lanzarote-cgt-report/projects' />
+	[32] (220,83)<span  />
+	[33] (242,83)<span >Projects />
+[34] (281,83)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/lanzarote-cgt-report/wiki' />
+	[35] (272,83)<span  />
+	[36] (287,83)<span >Wiki />
+[37] (327,83)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/lanzarote-cgt-report/security' />
+	[38] (311,83)<span  />
+	[39] (333,83)<span >Security />
+[40] (378,83)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/lanzarote-cgt-report/pulse' />
+	[41] (363,83)<span  />
+	[42] (384,83)<span >Insights />
+[43] (429,83)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/lanzarote-cgt-report/settings' />
+	[44] (414,83)<span  />
+	[45] (435,83)<span >Settings />
+[46] (17,144)<button class='prc-Button-ButtonBase-9n-Xk position-relative ExpandFileTreeButton-module__expandButton__hDOcv fgColor-muted prc-Button-IconButton-fyge7' />
+Files
+[47] (65,196)<button aria-label='main branch' class='prc-Button-ButtonBase-9n-Xk react-repos-tree-pane-ref-selector width-full ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[48] (65,196)<span  />
+		[49] (58,196)<span  />
+			[50] (58,196)<div  />
+				[51] (19,196)<div  />
+				[52] (35,196)<div  />
+					[53] (35,196)<span >main />
+[54] (133,196)<a class='prc-Button-ButtonBase-9n-Xk ReposFileTreePane-module__IconButton__rGggU prc-Button-IconButton-fyge7' href='/dean349/lanzarote-cgt-report/new/main' />
+[55] (150,196)<button class='prc-Button-ButtonBase-9n-Xk SearchButton-module__IconButton__SBlqu ReposFileTreePane-module__SearchButtonWithLeftBorder__TBrDc prc-Button-IconButton-fyge7' />
+[56] (83,239)<span  />
+	[57] (17,239)<span  />
+	[58] (83,239)<input aria-label='Go to file' class='prc-components-Input-IwWrt' placeholder='Go to file' role='combobox' />
+	[59] (149,239)<span  />
+		[60] (149,240)<kbd >t />
+[61] (79,309)<div  />
+	[62] (79,287)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.nojekyll-item' role='treeitem' />
+		[63] (79,287)<div  />
+			[64] (84,287)<div  />
+				[65] (25,287)<div  />
+				[66] (90,287)<span  />
+					[67] (46,287)<span >.nojekyll />
+	[68] (79,322)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='index.html-item' role='treeitem' />
+		[69] (79,322)<div  />
+			[70] (84,322)<div  />
+				[71] (25,322)<div  />
+				[72] (90,322)<span  />
+					[73] (50,322)<span >index.html />
+[74] (167,609)<div aria-label='Draggable pane splitter' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+Editing  index.html in lanzarote-cgt-report
+Breadcrumbs
+[75] (214,143)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/dean349/lanzarote-cgt-report/tree/main'>lanzarote-cgt-report />
+/
+[76] (312,144)<span  />
+	[77] (312,144)<input aria-label='File name' class='prc-components-Input-IwWrt' placeholder='Name your file...' />
+in
+[78] (381,144)<a class='prc-BranchName-BranchName-CMTaU' href='/dean349/lanzarote-cgt-report/tree/main'>main />
+[79] (881,144)<a class='prc-Button-ButtonBase-9n-Xk BlobEditor-module__Button_1__KzEo4' href='/dean349/lanzarote-cgt-report/blob/main/index.html' />
+	[80] (881,144)<span  />
+		[81] (881,144)<span >Cancel changes />
+Commit changes...
+[82] (193,205)<button class='prc-SegmentedControl-Button-E48xz' />
+	[83] (193,205)<span  />
+		[84] (193,205)<div >Edit />
+[85] (227,205)<button class='prc-SegmentedControl-Button-E48xz' />
+	[86] (227,205)<span  />
+		[87] (227,205)<div >Preview />
+Indent mode
+[88] (876,205)<span  />
+	[89] (874,205)<select aria-label='Indent mode' class='prc-Select-Select-dJWwD' id='_r_k_' />
+Indent size
+[90] (917,205)<span  />
+	[91] (915,205)<select aria-label='Indent size' class='prc-Select-Select-dJWwD' id='_r_l_' />
+Line wrap mode
+[92] (961,205)<span  />
+	[93] (959,205)<select aria-label='Line wrap mode' class='prc-Select-Select-dJWwD' id='_r_m_' />
+Editing index.html file contents
+[94] (584,656)<div  />
+	[95] (584,637)<div class='cm-scroller' role='region' scrollable='true' />
+		[96] (190,250)<div >1 />
+		[97] (190,272)<div >2 />
+		[98] (190,294)<div >3 />
+		[99] (190,316)<div >4 />
+		[100] (190,337)<div >5 />
+		[101] (190,359)<div >6 />
+		[102] (190,381)<div >7 />
+		[103] (190,403)<div >8 />
+		[104] (190,424)<div >9 />
+		[105] (190,446)<div >10 />
+		[106] (190,468)<div >11 />
+		[107] (190,490)<div >12 />
+		[108] (190,511)<div >13 />
+		[109] (190,533)<div >14 />
+		[110] (190,555)<div >15 />
+		[111] (190,577)<div >16 />
+		[112] (190,598)<div >17 />
+		[113] (190,620)<div >18 />
+		[114] (190,642)<div >19 />
+		[115] (190,664)<div >20 />
+		[116] (190,686)<div >21 />
+		[117] (190,707)<div >22 />
+		[118] (190,729)<div >23 />
+		[119] (190,751)<div >24 />
+		[120] (190,773)<div >25 />
+		[121] (190,794)<div >26 />
+		[122] (190,816)<div >27 />
+		[123] (190,838)<div >28 />
+		[124] (190,860)<div >29 />
+		[125] (190,881)<div >30 />
+		[126] (190,903)<div >31 />
+		[127] (190,925)<div >32 />
+		[128] (190,947)<div >33 />
+		34
+		35
+		[129] (593,250)<div  />
+			[130] (237,250)<span ><!DOCTYPE html> />
+		[131] (593,272)<div >= />
+			[132] (213,272)<span >< />
+			[133] (222,272)<span >html />
+			[134] (239,272)<span >lang />
+			[135] (256,272)<span >"en" />
+			[136] (265,272)<span >> />
+		[137] (593,294)<div  />
+			[138] (213,294)<span >< />
+			[139] (222,294)<span >head />
+			[140] (230,294)<span >> />
+		[141] (593,316)<div >= />
+			[142] (220,316)<span >< />
+			[143] (229,316)<span >meta />
+			[144] (251,316)<span >charset />
+			[145] (278,316)<span >"UTF-8" />
+			[146] (294,316)<span >/> />
+		[147] (593,337)<div >=
+= />
+			[148] (220,337)<span >< />
+			[149] (229,337)<span >meta />
+			[150] (246,337)<span >name />
+			[151] (273,337)<span >"viewport" />
+			[152] (306,337)<span >content />
+			[153] (383,337)<span >"width=device-width,initial-scale=1" />
+			[154] (448,337)<span >/> />
+		[155] (593,359)<div >Philip Harrison — Lanzarote Property Sale: Spanish CGT Report />
+			[156] (220,359)<span >< />
+			[157] (230,359)<span >title />
+			[158] (241,359)<span >> />
+			[159] (455,359)<span ></ />
+			[160] (467,359)<span >title />
+			[161] (478,359)<span >> />
+		[162] (593,381)<div >=
+= />
+			[163] (220,381)<span >< />
+			[164] (229,381)<span >meta />
+			[165] (246,381)<span >name />
+			[166] (278,381)<span >"description" />
+			[167] (316,381)<span >content />
+			[168] (531,381)<span >"Full capital gains tax analysis for the sale of Philip Harrison's Lanzarote property held via Los Romeros Limited." />
+			[169] (734,381)<span >/> />
+		[170] (593,403)<div >=
+= />
+			[171] (220,403)<span >< />
+			[172] (229,403)<span >link />
+			[173] (244,403)<span >rel />
+			[174] (273,403)<span >"preconnect" />
+			[175] (304,403)<span >href />
+			[176] (366,403)<span >"https://fonts.googleapis.com" />
+			[177] (421,403)<span >/> />
+		[178] (593,424)<div >=
+&
+&
+= />
+			[179] (220,424)<span >< />
+			[180] (229,424)<span >link />
+			[181] (246,424)<span >href />
+			[182] (380,424)<span >"https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700 />
+			[183] (562,424)<span >family=Playfair+Display:wght@700 />
+			[184] (643,424)<span >display=swap" />
+			[185] (674,424)<span >rel />
+			[186] (703,424)<span >"stylesheet" />
+			[187] (727,424)<span >/> />
+		[188] (593,446)<div  />
+			[189] (220,446)<span >< />
+			[190] (230,446)<span >style />
+			[191] (241,446)<span >> />
+		[192] (593,468)<div >: />
+			[193] (235,468)<span >root />
+			[194] (247,468)<span >{ />
+		[195] (593,490)<div >:   #1a2744; />
+			[196] (242,490)<span >--navy />
+		[197] (593,511)<div >:  #243560; />
+			[198] (244,511)<span >--navy2 />
+		[199] (593,533)<div >:   #c9952a; />
+			[200] (242,533)<span >--gold />
+		[201] (593,555)<div >:  #e8b44e; />
+			[202] (244,555)<span >--gold2 />
+		[203] (593,577)<div >:  #ffffff; />
+			[204] (244,577)<span >--white />
+		[205] (593,598)<div >:  #f5f7fa; />
+			[206] (244,598)<span >--lgrey />
+		[207] (593,620)<div >:  #6b7280; />
+			[208] (244,620)<span >--mgrey />
+		[209] (593,642)<div >:  #374151; />
+			[210] (244,642)<span >--dgrey />
+		[211] (593,664)<div >: #e2e8f0; />
+			[212] (246,664)<span >--border />
+		[213] (593,686)<div >:#dbeafe; />
+			[214] (247,686)<span >--blue-bg />
+		[215] (593,707)<div >: #3b82f6; />
+			[216] (246,707)<span >--blue-b />
+		[217] (593,729)<div >: #fef3c7; />
+			[218] (246,729)<span >--amb-bg />
+		[219] (593,751)<div >:  #d97706; />
+			[220] (244,751)<span >--amb-b />
+		[221] (593,773)<div >: #fee2e2; />
+			[222] (246,773)<span >--red-bg />
+		[223] (593,794)<div >:  #dc2626; />
+			[224] (244,794)<span >--red-b />
+		[225] (593,816)<div >:   #f0f4fa; />
+			[226] (242,816)<span >--talt />
+		[227] (593,838)<div  />
+			[228] (227,838)<span >} />
+		[229] (593,860)<div >*, *::
+, *::
+:
+;
+:
+;
+:
+; />
+			[230] (256,860)<span >before />
+			[231] (292,860)<span >after />
+			[232] (306,860)<span >{ />
+			[233] (328,860)<span >box-sizing />
+			[234] (369,860)<span >border-box />
+			[235] (404,860)<span >margin />
+			[236] (423,860)<span >0 />
+			[237] (443,860)<span >padding />
+			[238] (464,860)<span >0 />
+			[239] (474,860)<span >} />
+		[240] (593,881)<div  />
+			[241] (232,881)<span >body />
+			[242] (244,881)<span >{ />
+		[243] (593,903)<div >:
+,
+; />
+			[244] (251,903)<span >font-family />
+			[245] (289,903)<span >'Inter' />
+			[246] (325,903)<span >sans-serif />
+		[247] (593,925)<div >:
+; />
+			[248] (249,925)<span >background />
+			[249] (278,925)<span >var />
+			[250] (285,925)<span >( />
+			[251] (299,925)<span >--lgrey />
+			[252] (313,925)<span >) />
+		[253] (593,947)<div >:
+; />
+			[254] (241,947)<span >color />
+			[255] (261,947)<span >var />
+			[256] (268,947)<span >( />
+			[257] (282,947)<span >--dgrey />
+			[258] (296,947)<span >) />
+		line-height
+		:
+		1.6
+		;
+		}
+	[259] (584,981)<div >Use
+to toggle the
+key moving focus. Alternatively, use
+then
+to move to the next interactive element on the page. />
+		Use
+		Control + Shift + m
+		to toggle the
+		tab
+		key moving focus. Alternatively, use
+		esc
+		then
+		tab
+		to move to the next interactive element on the page.
+
+</current_dom>

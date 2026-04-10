@@ -1,0 +1,126 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to main content
+Accessibility help
+Accessibility feedback
+[0] (126,102)<a href='https://www.google.com/webhp?hl=en&ictx=2&sa=X&ved=0ahUKEwjt8Ya5vdaTAxWjRjABHYmtI0MQPQgL' />
+	[1] (126,83)<img  />
+[2] (398,86)<textarea aria-label='Search' class='gLFyf' id='APjFqb' role='combobox' />
+[3] (608,86)<div  />
+	[4] (607,86)<div aria-label=' Clear' class='vOY7J M2vV3' role='button' />
+		[5] (607,86)<span  />
+	[6] (624,86)<span  />
+[7] (642,86)<div aria-label='Search by voice' class='XDyW0e' role='button' />
+[8] (672,86)<div aria-label='Search by image' class='nDcEnd' role='button' />
+[9] (705,86)<button aria-label='Search' class='HZVG1b Tg7LZd' />
+	[10] (701,86)<div  />
+		[11] (701,86)<span  />
+[12] (928,86)<a aria-label='Google apps' class='gb_B' href='https://www.google.com/intl/en/about/products?tab=wh' role='button' />
+[13] (960,86)<a aria-label='Google Account: Dean Harrison  
+(dean@onelifesm.com)' class='gb_B gb_0a' href='https://accounts.google.com/SignOutOptions?hl=en&continue=https://www.google.com/search%3Fq%3DWincham%2B16.5%25%2Bsavings%2BSpanish%2Bproperty&ec=futura_srp_og_si_72236_p' role='button' />
+[14] (111,188)<a class='XVMlrc C6AK7c' href='/search?q=Wincham+16.5%25+savings+Spanish+property&sca_esv=a73392c086c649e8&sxsrf=ANbL-n77cQbsvgfsseA00TzbuMskqehPKg:1775384175696&udm=50&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3ppPEReeCOS7s1VbbZz2TLutTM8bcskdZ5Z5EWAFJPjTghF9mS0qmGrv36U8kfuC6op4K1f-9omm4nqI6dtF1NWNqrLgE2q7WKnT8tmiJ1_2q07yaH-5rr-zaU0ZbgyLc7KYK29-3ZznnsryPf4JXOsgrXDY3JfkHzHn0Jfi1wYSRRx2NA&aep=1&ntc=1&sa=X&ved=2ahUKEwjt8Ya5vdaTAxWjRjABHYmtI0MQ2J8OegQIDxAE' />
+	[15] (111,188)<div  />
+		[16] (111,202)<div  />
+			[17] (111,193)<span >AI Mode />
+[18] (153,188)<a class='C6AK7c' role='link' />
+	All
+[19] (193,188)<a class='C6AK7c' href='/search?sca_esv=a73392c086c649e8&sxsrf=ANbL-n77cQbsvgfsseA00TzbuMskqehPKg:1775384175696&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3ppPEReeCOS7s1VbbZz2TLutTM8bcskdZ5Z5EWAFJPjTghF9mS0qmGrv36U8kfuC6op4K1f-9omm4nqI6dtF1NWNqrLgE2q7WKnT8tmiJ1_2q07yaH-5rr-zaU0ZbgyLc7KYK29-3ZznnsryPf4JXOsgrXDY3JfkHzHn0Jfi1wYSRRx2NA&q=Wincham+16.5%25+savings+Spanish+property&sa=X&ved=2ahUKEwjt8Ya5vdaTAxWjRjABHYmtI0MQtKgLegQIFRAB' />
+	[20] (193,188)<div  />
+		[21] (193,202)<span >Images />
+[22] (241,188)<a class='C6AK7c' href='/search?sca_esv=a73392c086c649e8&sxsrf=ANbL-n77cQbsvgfsseA00TzbuMskqehPKg:1775384175696&q=Wincham+16.5%25+savings+Spanish+property&tbm=nws&source=lnms&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3ppPEReeCOS7s1VbbZz2TLutTM8bcskdZ5Z5EWAFJPjTghF9mS0qmGrv36U8kfuC6op4K1f-9omm4nqI6dtF1NWNqrLgE2q7WKnT8tmiJ1_2q07yaH-5rr-zaU0ZbgyLc7KYK29-3ZznnsryPf4JXOsgrXDY3JfkHzHn0Jfi1wYSRRx2NA&sa=X&ved=2ahUKEwjt8Ya5vdaTAxWjRjABHYmtI0MQ0pQJegQIExAB' />
+	[23] (241,188)<div  />
+		[24] (241,202)<span >News />
+[25] (287,188)<a class='C6AK7c' href='/search?sca_esv=a73392c086c649e8&sxsrf=ANbL-n77cQbsvgfsseA00TzbuMskqehPKg:1775384175696&udm=7&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3ppPEReeCOS7s1VbbZz2TLutTM8bcskdZ5Z5EWAFJPjTghF9mS0qmGrv36U8kfuC6op4K1f-9omm4nqI6dtF1NWNqrLgE2q7WKnT8tmiJ1_2q07yaH-5rr-zaU0ZbgyLc7KYK29-3ZznnsryPf4JXOsgrXDY3JfkHzHn0Jfi1wYSRRx2NA&q=Wincham+16.5%25+savings+Spanish+property&sa=X&ved=2ahUKEwjt8Ya5vdaTAxWjRjABHYmtI0MQtKgLegQIERAB' />
+	[26] (287,188)<div  />
+		[27] (287,202)<span >Videos />
+[28] (337,188)<a class='C6AK7c' href='/search?sca_esv=a73392c086c649e8&sxsrf=ANbL-n77cQbsvgfsseA00TzbuMskqehPKg:1775384175696&udm=18&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3ppPEReeCOS7s1VbbZz2TLutTM8bcskdZ5Z5EWAFJPjTghF9mS0qmGrv36U8kfuC6op4K1f-9omm4nqI6dtF1NWNqrLgE2q7WKnT8tmiJ1_2q07yaH-5rr-zaU0ZbgyLc7KYK29-3ZznnsryPf4JXOsgrXDY3JfkHzHn0Jfi1wYSRRx2NA&q=Wincham+16.5%25+savings+Spanish+property&sa=X&ved=2ahUKEwjt8Ya5vdaTAxWjRjABHYmtI0MQs6gLegQIFBAB' />
+	[29] (337,188)<div  />
+		[30] (337,202)<span >Forums />
+[31] (394,188)<a class='C6AK7c' href='/search?sca_esv=a73392c086c649e8&sxsrf=ANbL-n77cQbsvgfsseA00TzbuMskqehPKg:1775384175696&udm=28&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3ppPEReeCOS7s1VbbZz2TLutTM8bcskdZ5Z5EWAFJPjTghF9mS0qmGrv36U8kfuC6op4K1f-9omm4nqI6dtF1NWNqrLgE2q7WKnT8tmiJ1_2q07yaH-5rr-zaU0ZbgyLc7KYK29-3ZznnsryPf4JXOsgrXDY3JfkHzHn0Jfi1wYSRRx2NA&q=Wincham+16.5%25+savings+Spanish+property&ved=1t:220175&ictx=111' />
+	[32] (394,188)<div  />
+		[33] (394,202)<span >Shopping />
+[34] (451,188)<div class='mTpL7c' role='button' />
+	[35] (451,188)<div  />
+		[36] (451,202)<div  />
+			[37] (445,193)<span >More />
+			[38] (463,193)<span  />
+[39] (506,188)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[40] (506,188)<div  />
+		[41] (506,202)<div  />
+			[42] (499,193)<span >Tools />
+			[43] (518,193)<span  />
+Search Results
+Web results
+[44] (260,329)<a class='zReHs' href='https://www.wincham.com/UKSpanishProperties.asp' />
+	[45] (260,365)<h3 >Wincham International Limited :: Spanish Properties />
+	[46] (203,308)<div  />
+		[47] (203,308)<div  />
+			[48] (102,308)<span  />
+				[49] (102,308)<div  />
+					[50] (102,308)<img  />
+			[51] (218,308)<div  />
+				[52] (218,293)<div  />
+					[53] (218,293)<span >Wincham International Limited />
+				[54] (218,325)<div  />
+					[55] (218,325)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://www.wincham.com />
+						[56] (268,325)<span class='ylgVCe ob9lvb' role='text'>› UKSpanishProperties />
+[57] (330,323)<div aria-label='About this result' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[58] (330,323)<span  />
+		[59] (330,325)<span  />
+We also have a solution that removes the 7% / 10% purchase Tax in
+Spain
+when buying a resale
+property
+and saves the 3% withholding Tax to the Seller too.
+[60] (399,450)<a class='vzmbzf' href='https://www.wincham.com/UKSpanishProperties.asp#:~:text=We%20also%20have%20a%20solution,Tax%20to%20the%20Seller%20too.' />
+	[61] (399,450)<span >Read more />
+Missing:
+16.5%
+[62] (276,606)<a class='zReHs' href='http://www.winchamiht.com/SpainUKLtdComp.pdf' />
+	[63] (276,642)<h3 >ACDSee PDF Image. - Spanish Inheritance Tax Planning />
+	[64] (212,585)<div  />
+		[65] (212,585)<div  />
+			[66] (102,585)<span  />
+				[67] (102,585)<div  />
+					[68] (102,585)<img  />
+			[69] (227,585)<div  />
+				[70] (227,570)<div  />
+					[71] (227,570)<span >winchamiht.com />
+				[72] (227,601)<div  />
+					[73] (227,601)<cite class='qLRx3b tjvcx GvPZzd dTxz9 cHaqb' role='text'>http://www.winchamiht.com />
+						[74] (266,601)<span class='ylgVCe ob9lvb' role='text'>› SpainUKLtdComp />
+PDF
+[75] (355,600)<div aria-label='About this result' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[76] (355,600)<span  />
+		[77] (355,601)<span  />
+To complement the two
+Wincham
+websites that inform Buyers and Owners of the benefits of owning
+Spanish Property
+within a UK Limited.
+[78] (301,727)<a class='vzmbzf' href='http://www.winchamiht.com/SpainUKLtdComp.pdf#:~:text=To%20complement%20the%20two%20Wincham,Property%20within%20a%20UK%20Limited' />
+	[79] (301,727)<span >Read more />
+Missing:
+16.5%
+[80] (228,883)<a class='zReHs' href='https://www.winchampropertyshop.com/detail.asp?itemid=422' />
+	[81] (228,918)<h3 >Wincham Property Shop :: Property Detail />
+	[82] (197,862)<div  />
+		[83] (197,862)<div  />
+			[84] (102,862)<span  />
+				[85] (102,862)<div  />
+					[86] (102,862)<img  />
+			[87] (212,862)<div  />
+				[88] (212,847)<div  />
+					[89] (212,847)<span >Wincham Property Shop />
+				[90] (212,878)<div  />
+					[91] (212,878)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://www.winchampropertyshop.com />
+						[92] (288,878)<span class='ylgVCe ob9lvb' role='text'>› detail />
+[93] (318,876)<div aria-label='About this result' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[94] (318,876)<span  />
+		[95] (318,878)<span  />
+We are pleased to be able to offer you these exclusive properties which are situated in one of the most desirable locations on the Costa Blanca. These high ...
+Read more
+
+</current_dom>

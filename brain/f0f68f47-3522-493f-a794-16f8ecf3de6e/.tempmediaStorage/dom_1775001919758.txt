@@ -1,0 +1,47 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Financial conduct authority Opens in a new window
+The Financial Services Register
+Individual prohibitions
+Fund search
+Other registers
+Data and downloads
+Search the Directory
+Enter a name or reference number
+Postcode or town (optional)
+Show me first
+Firms
+Individuals
+Search
+Sort by
+Sort by
+Closest Match
+Clear filters
+If you can’t find what you are looking for
+1. Check your search term
+Check your spelling or reference number and search again.
+Search
+button for Check your search term
+2. Too many or too few results?
+Narrow your search by entering a postcode or location. Widen your search by removing filters like location.
+Search
+button for Too many or too few results?
+3. Search other registers
+If your result does not show up, try searching
+Other registers
+.
+Bank of England prudential regulation authority
+. opens in a new window
+Please contact the
+PRA
+Prudential Regulation Authority
+opens in a new window
+for prudential queries about banks, building societies, credit unions, insurance firms.
+Useful resources and other organisations
+Financial Conduct Authority
+CFA Society of the UK
+. opens in a new window
+
+</current_dom>

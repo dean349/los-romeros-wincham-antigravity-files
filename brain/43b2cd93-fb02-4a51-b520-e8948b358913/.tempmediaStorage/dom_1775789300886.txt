@@ -1,0 +1,111 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to main content
+Accessibility help
+Accessibility feedback
+[0] (63,58)<a aria-label='Go to Google Home' href='https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwiJ86rRouKTAxXf_8kDHdH8GRkQPAgJ' id='logo' title='Go to Google Home' />
+[1] (292,57)<textarea aria-label='Search' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (477,57)<div  />
+	[3] (476,57)<div aria-label=' Clear' class='vOY7J M2vV3' role='button' />
+		[4] (476,57)<span  />
+	[5] (488,57)<span  />
+[6] (501,57)<div aria-label='Search by voice' class='XDyW0e' role='button' />
+[7] (522,57)<div aria-label='Search by image' class='nDcEnd' role='button' />
+[8] (546,57)<button aria-label='Search' class='HZVG1b Tg7LZd' />
+	[9] (542,57)<div  />
+		[10] (542,57)<span  />
+[11] (909,57)<div aria-label='Settings' class='fLciMb' id='og-te' role='button' />
+	[12] (909,59)<div  />
+		[13] (909,57)<span  />
+[14] (933,57)<a aria-label='Google apps' class='gb_B' href='https://www.google.com/intl/en/about/products?tab=wh' role='button' />
+[15] (967,57)<a aria-label='Sign in' class='gb_A' href='https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3DVELYON%2BDesign%2BSystem%2BHTML&ec=futura_srp_og_si_72236_p'>Sign in />
+	Sign in
+[16] (124,124)<a class='C6AK7c' role='link' />
+	All
+[17] (153,124)<a class='C6AK7c' href='/search?sca_esv=ac692c75a76bde75&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3p-ML-906rRL_m6h4jR-tdCH-vUIlZq9RzugLEcfjf51b4dfDKizXS4hTwRCZW2TyY7HAVQoxKDQULsF9zI4RpxezEb8IU2dXaiS1mM2f27-e0BVFkHHpUaR4xQKPwszdeYr3Y70IEq_VaksCpP9D3jNKa42tvC00Q53rRlfDM-TRbjI2A&q=VELYON+Design+System+HTML&sa=X&ved=2ahUKEwiJ86rRouKTAxXf_8kDHdH8GRkQtKgLegQIGBAB' />
+	[18] (153,124)<div  />
+		[19] (153,133)<span >Images />
+[20] (190,124)<a class='C6AK7c' href='/search?sca_esv=ac692c75a76bde75&udm=7&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3p-ML-906rRL_m6h4jR-tdCH-vUIlZq9RzugLEcfjf51b4dfDKizXS4hTwRCZW2TyY7HAVQoxKDQULsF9zI4RpxezEb8IU2dXaiS1mM2f27-e0BVFkHHpUaR4xQKPwszdeYr3Y70IEq_VaksCpP9D3jNKa42tvC00Q53rRlfDM-TRbjI2A&q=VELYON+Design+System+HTML&sa=X&ved=2ahUKEwiJ86rRouKTAxXf_8kDHdH8GRkQtKgLegQIFxAB' />
+	[21] (190,124)<div  />
+		[22] (190,133)<span >Videos />
+[23] (230,124)<a class='C6AK7c' href='/search?sca_esv=ac692c75a76bde75&udm=28&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3p-ML-906rRL_m6h4jR-tdCH-vUIlZq9RzugLEcfjf51b4dfDKizXS4hTwRCZW2TyY7HAVQoxKDQULsF9zI4RpxezEb8IU2dXaiS1mM2f27-e0BVFkHHpUaR4xQKPwszdeYr3Y70IEq_VaksCpP9D3jNKa42tvC00Q53rRlfDM-TRbjI2A&q=VELYON+Design+System+HTML&ved=1t:220175&ictx=111' />
+	[24] (230,124)<div  />
+		[25] (230,133)<span >Shopping />
+[26] (272,124)<a class='C6AK7c' href='/search?sca_esv=ac692c75a76bde75&udm=18&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3p-ML-906rRL_m6h4jR-tdCH-vUIlZq9RzugLEcfjf51b4dfDKizXS4hTwRCZW2TyY7HAVQoxKDQULsF9zI4RpxezEb8IU2dXaiS1mM2f27-e0BVFkHHpUaR4xQKPwszdeYr3Y70IEq_VaksCpP9D3jNKa42tvC00Q53rRlfDM-TRbjI2A&q=VELYON+Design+System+HTML&sa=X&ved=2ahUKEwiJ86rRouKTAxXf_8kDHdH8GRkQs6gLegQIFhAB' />
+	[27] (272,124)<div  />
+		[28] (272,133)<span >Forums />
+[29] (318,124)<a class='C6AK7c' href='/search?sca_esv=ac692c75a76bde75&udm=39&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3p-ML-906rRL_m6h4jR-tdCH-vUIlZq9RzugLEcfjf51b4dfDKizXS4hTwRCZW2TyY7HAVQoxKDQULsF9zI4RpxezEb8IU2dXaiS1mM2f27-e0BVFkHHpUaR4xQKPwszdeYr3Y70IEq_VaksCpP9D3jNKa42tvC00Q53rRlfDM-TRbjI2A&q=VELYON+Design+System+HTML&sa=X&ved=2ahUKEwiJ86rRouKTAxXf_8kDHdH8GRkQs6gLegQIFBAB' />
+	[30] (318,124)<div  />
+		[31] (318,133)<span >Short videos />
+[32] (366,124)<div class='mTpL7c' role='button' />
+	[33] (366,124)<div  />
+		[34] (366,133)<div  />
+			[35] (361,127)<span >More />
+			[36] (375,127)<span  />
+[37] (406,124)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[38] (406,124)<div  />
+		[39] (406,133)<div  />
+			[40] (401,127)<span >Tools />
+			[41] (415,127)<span  />
+Search Results
+Including results for
+[42] (266,196)<a href='/search?sca_esv=ac692c75a76bde75&q=FLYON+Design+System+HTML&sa=X&ved=2ahUKEwiJ86rRouKTAxXf_8kDHdH8GRkQ7xYoAHoECBAQAQ'>Design System HTML />
+	[43] (220,196)<b  />
+		[44] (220,196)<i >FLYON />
+Search only for
+[45] (228,223)<a href='/search?sca_esv=ac692c75a76bde75&q=VELYON+Design+System+HTML&nirf=FLYON+Design+System+HTML&sa=X&ved=2ahUKEwiJ86rRouKTAxXf_8kDHdH8GRkQ8BYoAXoECBAQAg'>VELYON Design System HTML />
+Thinking
+Web results
+[46] (124,754)<img  />
+[47] (206,732)<a class='zReHs' href='https://flyonui.com/figma' />
+	[48] (210,752)<h3 >Tailwind CSS Figma Design System />
+	[49] (167,715)<div  />
+		[50] (167,715)<div  />
+			[51] (127,715)<span  />
+				[52] (127,715)<div  />
+					[53] (127,715)<img  />
+			[54] (177,715)<div  />
+				[55] (177,705)<div  />
+					[56] (177,705)<span >FlyonUI />
+				[57] (177,726)<div  />
+					[58] (177,726)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://flyonui.com />
+						[59] (204,726)<span class='ylgVCe ob9lvb' role='text'>› figma />
+[60] (224,725)<div aria-label='About this result' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[61] (224,725)<span  />
+		[62] (224,726)<span  />
+Streamline your design process with a
+Tailwind CSS Figma design system
+, featuring 1000+ component variants, responsive pages, and prebuilt themes.
+[63] (297,808)<a class='vzmbzf' href='https://flyonui.com/figma#:~:text=Blocks' />
+	[64] (297,808)<span >Read more />
+$129.00 to $399.00
+·
+4.5
+(4)
+Missing:
+VELYON
+‎| Show results with:
+[65] (255,856)<a href='/search?sca_esv=ac692c75a76bde75&q=%22VELYON%22+Design+System+HTML&sa=X&ved=2ahUKEwiJ86rRouKTAxXf_8kDHdH8GRkQ5t4CegQIKBAB' />
+	[66] (255,856)<span >VELYON />
+[67] (124,961)<img  />
+[68] (154,939)<a class='zReHs' href='https://lion.js.org/' />
+	[69] (139,959)<h3 >Lion />
+	[70] (154,922)<div  />
+		[71] (154,922)<div  />
+			[72] (127,922)<span  />
+				[73] (127,922)<div  />
+					[74] (127,922)<img  />
+			[75] (164,922)<div  />
+				[76] (164,912)<div  />
+					[77] (164,912)<span >JS.ORG />
+				[78] (164,933)<div  />
+					[79] (164,933)<cite class='tjvcx GvPZzd cHaqb' role='text'>https://lion.js.org />
+[80] (198,931)<div aria-label='About this result' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[81] (198,931)<span  />
+		[82] (198,933)<span  />
+Lion is an ideal fundament for building a Design System
+. Reuse Documentation. Not only the code but also the documentation can be reused and extended.
+
+</current_dom>

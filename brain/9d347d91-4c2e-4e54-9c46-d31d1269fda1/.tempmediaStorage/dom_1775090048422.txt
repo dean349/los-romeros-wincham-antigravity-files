@@ -1,0 +1,90 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to main content
+[0] (313,30)<a class='govuk-header__link govuk-header__link--homepage' href='https://www.gov.uk/' />
+[1] (351,89)<a class='govuk-service-navigation__link' href='/' id='logo' title='Go to the Companies House homepage'>Find and update company information />
+[2] (388,128)<a class='govuk-link' href='http://resources.companieshouse.gov.uk/serviceInformation.shtml#compInfo'>Companies House does not check the accuracy of the information filed
+(link opens a new window) />
+	(link opens a new window)
+[3] (698,158)<a class='govuk-link' href='/signin' id='user-signin'>Sign in / Register />
+[4] (334,195)<label >Search for a company or officer />
+[5] (489,261)<input class='govuk-input' id='site-search-text' />
+[6] (709,261)<button class='search-submit gem-c-search__submit' id='search-submit' />
+[7] (326,336)<a class='govuk-link piwik-event' href='/advanced-search'>Advanced company search
+Link opens in new window />
+	Link opens in new window
+LOS ROMEROS LIMITED
+Company number
+06993349
+[8] (319,500)<a class='govuk-button' href='https://follow.company-information.service.gov.uk/company/06993349/confirm-follow?return_to=https://find-and-update.company-information.service.gov.uk/company/06993349/filing-history' id='follow-this-company'>Follow this company />
+[9] (409,500)<a class='govuk-button' href='/company/06993349/authorise?return_to=/company/06993349/filing-history' id='file-for-this-company'>File for this company />
+[10] (302,629)<a class='govuk-tabs__tab' href='/company/06993349' id='company-overview-tab' role='tab'>Company
+Overview
+for LOS ROMEROS LIMITED (06993349) />
+	Company
+	for LOS ROMEROS LIMITED (06993349)
+[11] (366,629)<a class='govuk-tabs__tab' href='/company/06993349/filing-history' id='filing-history-tab' role='tab'>Filing history
+for LOS ROMEROS LIMITED (06993349) />
+	for LOS ROMEROS LIMITED (06993349)
+[12] (425,629)<a class='govuk-tabs__tab' href='/company/06993349/officers' id='people-tab' role='tab'>People
+for LOS ROMEROS LIMITED (06993349) />
+	for LOS ROMEROS LIMITED (06993349)
+[13] (470,629)<a class='govuk-tabs__tab' href='/company/06993349/more' id='more-tab' role='tab'>More
+for LOS ROMEROS LIMITED (06993349) />
+	for LOS ROMEROS LIMITED (06993349)
+[14] (500,779)<fieldset >Filter by category />
+	Filter by category
+	Filter by category
+	[15] (330,755)<label class='block-label selection-button-checkbox selected' />
+		[16] (294,766)<input id='show-filing-type' />
+		[17] (333,755)<strong >Show filing type />
+	[18] (445,789)<fieldset >Confirmation statement filters, selecting an input will reload the page. />
+		Confirmation statement filters, selecting an input will reload the page.
+		[19] (429,730)<label class='block-label selection-button-checkbox selection-button-checkbox-small govuk-!-margin-bottom-4 focused'>Accounts />
+			[20] (405,742)<input id='filter-category-accounts' />
+		[21] (425,779)<label class='block-label selection-button-checkbox selection-button-checkbox-small govuk-!-margin-bottom-4 selected'>Capital />
+			[22] (405,791)<input id='filter-category-capital' />
+		[23] (427,828)<label class='block-label selection-button-checkbox selection-button-checkbox-small govuk-!-margin-bottom-4 selected'>Charges />
+			[24] (405,840)<input id='filter-category-mortgage' />
+	[25] (611,789)<fieldset >Confirmation statement filters, selecting an input will reload the page. />
+		Confirmation statement filters, selecting an input will reload the page.
+		[26] (592,730)<label class='block-label selection-button-checkbox selection-button-checkbox-small govuk-!-margin-bottom-4 selected'>Confirmation statements / Annual returns />
+			[27] (516,742)<input id='filter-category-confirmation-statement' />
+		[28] (547,779)<label class='block-label selection-button-checkbox selection-button-checkbox-small govuk-!-margin-bottom-4 selected'>Incorporation />
+			[29] (516,791)<input id='filter-category-incorporation' />
+		[30] (538,828)<label class='block-label selection-button-checkbox selection-button-checkbox-small govuk-!-margin-bottom-4 selected'>Officers />
+			[31] (516,840)<input id='filter-category-officers' />
+Company Results (links open in a new window)
+Date
+(document was filed at Companies House)
+Type
+Description
+(of the document filed at Companies House)
+View / Download
+(PDF file, link opens in new window)
+18 Aug 2011
+AR01
+Annual return
+made up to 18 August 2011 with full list of shareholders
+[32] (657,940)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzA0MjI4ODA5OGFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+made up to 18 August 2011 with full list of shareholders
+ - link opens in a new window  - 4 pages />
+	Annual return
+	made up to 18 August 2011 with full list of shareholders
+ - link opens in a new window  - 4 pages
+(4 pages)
+10 Jun 2011
+AP01
+Appointment
+of Bryan Frederick Stockwell as a director
+[33] (657,988)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzAzODYzNTI2MGFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+of Bryan Frederick Stockwell as a director
+ - link opens in a new window  - 2 pages />
+	Appointment
+	of Bryan Frederick Stockwell as a director
+ - link opens in a new window  - 2 pages
+(2 pages)
+
+</current_dom>

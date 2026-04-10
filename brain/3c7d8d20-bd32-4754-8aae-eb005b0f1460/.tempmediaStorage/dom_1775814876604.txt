@@ -1,0 +1,63 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Visit our
+[0] (336,52)<a href='https://www.ssllabs.com/projects/documentation/index.html'>documentation page />
+for more information, configuration guides, and books. Known issues are documented
+[1] (951,52)<a href='https://community.qualys.com/docs/DOC-4865'>here />
+.
+This server supports weak Diffie-Hellman (DH) key exchange parameters. Grade capped to B.
+[2] (884,99)<a href='https://weakdh.org' />
+	[3] (884,99)<span >MORE INFO » />
+This server accepts RC4 cipher, but only with older protocols. Grade capped to B.
+[4] (848,146)<a href='https://blog.qualys.com/product-tech/2013/03/19/rc4-in-tls-is-broken-now-what' />
+	[5] (848,146)<span >MORE INFO » />
+This server supports TLS 1.0 and TLS 1.1.
+                            Grade capped to B.
+[6] (784,193)<a href='https://blog.qualys.com/ssllabs/2018/11/19/grade-change-for-tls-1-0-and-tls-1-1-protocols' />
+	[7] (784,193)<span >MORE INFO » />
+This server does not support TLS 1.3.
+[8] (712,241)<a href='https://notifications.qualys.com/product/2025/02/26/key-changes-in-ssl-labs-grading-and-qualys-certview#major-grade-changes-in-certview-and-ssllabs-effective-post-march-release' />
+	[9] (712,241)<span >MORE INFO » />
+This site works only in browsers with SNI support.
+Certificate #1: RSA 2048 bits (SHA256withRSA)
+Server Key and Certificate #1
+Subject
+www.wincham.com
+Fingerprint SHA256:  351ad0f9fce95f3e4f81e661dc85396c5ed26512b975a07090f010041d817bbf
+Pin SHA256: +2sJ9Pd9Yi/nfMkHCzbNE3QCiV6SmRxMQKeT3X9TBU4=
+Common names
+www.wincham.com
+Alternative names
+wincham.com www.wincham.com
+Serial Number
+05b53e7839d2c8da8021b073bb48fb8aecc6
+Valid from
+Tue, 07 Apr 2026 08:05:36 UTC
+Valid until
+Mon, 06 Jul 2026 08:05:35 UTC (expires in 2 months and 25 days)
+Key
+RSA 2048 bits
+(e 65537)
+Weak key (Debian)
+No
+Issuer
+R13
+AIA: http://r13.i.lencr.org/
+Signature algorithm
+SHA256withRSA
+Extended Validation
+No
+Certificate Transparency
+Yes
+                    (certificate)
+OCSP Must Staple
+No
+Revocation information
+CRL
+CRL: http://r13.c.lencr.org/71.crl
+Revocation status
+Good (not revoked)
+
+</current_dom>

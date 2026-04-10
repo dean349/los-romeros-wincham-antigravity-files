@@ -1,0 +1,158 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+[0] (17,35)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,35)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (69,35)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/dean349' />
+	[3] (69,35)<span >dean349 />
+[4] (150,35)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/dean349/lanzarote-repatriation-explainer' />
+	[5] (150,35)<span >lanzarote-repatriation-explainer />
+[6] (759,35)<button aria-label='Search or jump to…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[7] (759,35)<span  />
+		[8] (765,35)<span >Type
+to search />
+			Type
+			/
+			to search
+[9] (820,35)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[10] (834,35)<button aria-label='Open Copilot…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_54jpb_' />
+[11] (867,35)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[12] (863,35)<span  />
+[13] (892,35)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[14] (913,35)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[15] (934,35)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[16] (955,35)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[17] (976,35)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[18] (976,35)<img  />
+Repository navigation
+[19] (27,83)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/lanzarote-repatriation-explainer' />
+	[20] (17,83)<span  />
+	[21] (34,83)<span >Code />
+[22] (71,83)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/lanzarote-repatriation-explainer/issues' />
+	[23] (59,83)<span  />
+	[24] (77,83)<span >Issues />
+[25] (127,83)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/lanzarote-repatriation-explainer/pulls' />
+	[26] (104,83)<span  />
+	[27] (133,83)<span >Pull requests />
+[28] (185,83)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/lanzarote-repatriation-explainer/actions' />
+	[29] (171,83)<span  />
+	[30] (191,83)<span >Actions />
+[31] (236,83)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/lanzarote-repatriation-explainer/projects' />
+	[32] (220,83)<span  />
+	[33] (242,83)<span >Projects />
+[34] (281,83)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/lanzarote-repatriation-explainer/wiki' />
+	[35] (272,83)<span  />
+	[36] (287,83)<span >Wiki />
+[37] (346,83)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/lanzarote-repatriation-explainer/security' />
+	[38] (311,83)<span  />
+	[39] (352,83)<span >Security and quality />
+[40] (417,83)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/lanzarote-repatriation-explainer/pulse' />
+	[41] (402,83)<span  />
+	[42] (423,83)<span >Insights />
+[43] (468,83)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/lanzarote-repatriation-explainer/settings' />
+	[44] (453,83)<span  />
+	[45] (474,83)<span >Settings />
+[46] (272,143)<a class='d-block overflow-x-hidden color-fg-default' href='/dean349/lanzarote-repatriation-explainer'>lanzarote-repatriation-explainer />
+Public
+[47] (635,141)<button class='btn-sm btn' title='Pin this repository to your profile'>Pin />
+[48] (682,141)<button class='btn-sm btn BtnGroup-item' id='fork-button'>Fork
+0 />
+	0
+[49] (717,141)<details class='details-reset details-overlay BtnGroup-parent d-inline-block position-relative' id='my-forks-menu-1189040001' />
+	[50] (717,141)<summary aria-label='See your forks of this repository' class='btn-sm btn BtnGroup-item px-2 tmp-px-2 float-none' role='button' />
+[51] (760,141)<button aria-label='Starred, click to unstar this repository (1)' class='rounded-left-2 btn-with-aria-count btn-sm btn BtnGroup-item' />
+	[52] (761,141)<span >Starred />
+	[53] (779,141)<span >1 />
+[54] (800,141)<details class='details-reset details-overlay BtnGroup-parent js-user-list-menu d-flex position-relative' id='details-user-list-1189040001-starred' />
+	[55] (800,141)<summary aria-label='Add this repository to a list' class='btn-sm btn BtnGroup-item px-2 tmp-px-2 float-none' role='button' />
+dean349/lanzarote-repatriation-explainer
+[56] (207,221)<button aria-label='main branch' class='prc-Button-ButtonBase-9n-Xk overview-ref-selector width-full RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[57] (207,221)<span  />
+		[58] (201,221)<span  />
+			[59] (201,221)<div  />
+				[60] (190,221)<div  />
+				[61] (206,221)<div  />
+					[62] (206,221)<span >main />
+[63] (262,221)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/dean349/lanzarote-repatriation-explainer/branches' />
+	[64] (262,221)<span  />
+		[65] (269,221)<span >Branches />
+[66] (302,221)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/dean349/lanzarote-repatriation-explainer/tags' />
+	[67] (302,221)<span  />
+		[68] (308,221)<span >Tags />
+Add file
+[69] (565,221)<button aria-label='Add file' class='prc-Button-ButtonBase-9n-Xk' id='_R_51idajal1d_' />
+	[70] (565,221)<span  />
+		[71] (565,221)<span  />
+			[72] (565,221)<span >Add file />
+[73] (622,221)<button class='prc-Button-ButtonBase-9n-Xk' id='_R_3idajal1d_' />
+	[74] (622,221)<span  />
+		[75] (622,221)<span >Code />
+Folders and files
+Latest commit
+History
+[76] (618,357)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/dean349/lanzarote-repatriation-explainer/commits/main/' />
+	[77] (618,357)<span  />
+		[78] (624,357)<span  />
+			[79] (624,356)<span >9 Commits />
+[80] (415,408)<tr  />
+	[81] (221,408)<a aria-label='.agent/skills, (Directory)' class='Link--primary' href='/dean349/lanzarote-repatriation-explainer/tree/main/.agent/skills' title='This path skips through empty directories' />
+		[82] (213,408)<span >.agent/ />
+		[83] (232,408)<span >skills />
+[84] (415,452)<tr  />
+	[85] (228,453)<a aria-label='Annual accounts, (Directory)' class='Link--primary' href='/dean349/lanzarote-repatriation-explainer/tree/main/Annual%20accounts' title='Annual accounts'>Annual accounts />
+[86] (415,497)<tr  />
+	[87] (263,497)<a aria-label='Files and Information for Phil Harrison, (Submodule)' class='Link--primary' href='/dean349/lanzarote-repatriation-explainer/blob/main/Files%20and%20Information%20for%20Phil%20Harrison' title='Files and Information for Phil Harrison' />
+		[88] (263,497)<span >Files and Information for Phil Harrison />
+[89] (415,541)<tr  />
+	[90] (270,542)<a aria-label='Wincham Legal Case UK Type Class Action, (Directory)' class='Link--primary' href='/dean349/lanzarote-repatriation-explainer/tree/main/Wincham%20Legal%20Case%20UK%20Type%20Class%20Action' title='Wincham Legal Case UK Type Class Action'>Wincham Legal Case UK Type Class Action />
+[91] (415,586)<tr  />
+	[92] (224,587)<a aria-label='deploy_pages, (Submodule)' class='Link--primary' href='/dean349/lanzarote-repatriation-explainer/blob/main/deploy_pages' title='deploy_pages' />
+		[93] (224,587)<span >deploy_pages />
+[94] (224,631)<a aria-label='deploy_report, (Submodule)' class='Link--primary' href='/dean349/lanzarote-repatriation-explainer/blob/main/deploy_report' title='deploy_report' />
+	[95] (224,631)<span >deploy_report />
+[96] (245,676)<a aria-label='philip-harrison-case-report, (Submodule)' class='Link--primary' href='/dean349/lanzarote-repatriation-explainer/blob/main/philip-harrison-case-report' title='philip-harrison-case-report' />
+	[97] (245,676)<span >philip-harrison-case-report />
+[98] (221,720)<a aria-label='temp_repos, (Directory)' class='Link--primary' href='/dean349/lanzarote-repatriation-explainer/tree/main/temp_repos' title='temp_repos'>temp_repos />
+[99] (217,765)<a aria-label='.gitignore, (File)' class='Link--primary' href='/dean349/lanzarote-repatriation-explainer/blob/main/.gitignore' title='.gitignore'>.gitignore />
+[100] (215,810)<a aria-label='.nojekyll, (File)' class='Link--primary' href='/dean349/lanzarote-repatriation-explainer/blob/main/.nojekyll' title='.nojekyll'>.nojekyll />
+[101] (234,854)<a aria-label='accounts_2025.html, (File)' class='Link--primary' href='/dean349/lanzarote-repatriation-explainer/blob/main/accounts_2025.html' title='accounts_2025.html'>accounts_2025.html />
+[102] (223,899)<a aria-label='build_html.py, (File)' class='Link--primary' href='/dean349/lanzarote-repatriation-explainer/blob/main/build_html.py' title='build_html.py'>build_html.py />
+[103] (226,943)<a aria-label='cgt-report.html, (File)' class='Link--primary' href='/dean349/lanzarote-repatriation-explainer/blob/main/cgt-report.html' title='cgt-report.html'>cgt-report.html />
+[104] (226,988)<a aria-label='ch_history.html, (File)' class='Link--primary' href='/dean349/lanzarote-repatriation-explainer/blob/main/ch_history.html' title='ch_history.html'>ch_history.html />
+[105] (807,214)<summary class='float-right' role='button' />
+	[106] (807,206)<div  />
+About
+AI Advisory Team explainer page for the Lanzarote property repatriation project
+[107] (770,354)<a class='text-bold' href='https://dean349.github.io/lanzarote-repatriation-explainer/' role='link' title='https://dean349.github.io/lanzarote-repatriation-explainer/'>dean349.github.io/lanzarote-repatriation-explainer/ />
+[108] (690,394)<a class='Link Link--muted' href='/dean349/lanzarote-repatriation-explainer/activity' />
+	[109] (697,394)<span >Activity />
+Stars
+[110] (687,426)<a class='Link Link--muted' href='/dean349/lanzarote-repatriation-explainer/stargazers'>star />
+	[111] (687,426)<strong >1 />
+Watchers
+[112] (696,458)<a class='Link Link--muted' href='/dean349/lanzarote-repatriation-explainer/watchers'>watching />
+	[113] (688,458)<strong >0 />
+Forks
+[114] (689,489)<a class='Link Link--muted' href='/dean349/lanzarote-repatriation-explainer/forks'>forks />
+	[115] (688,489)<strong >0 />
+[116] (687,549)<a class='Link--primary no-underline Link' href='/dean349/lanzarote-repatriation-explainer/releases'>Releases />
+No releases published
+[117] (700,609)<a class='Link--inTextBlock' href='/dean349/lanzarote-repatriation-explainer/releases/new'>Create a new release />
+[118] (742,668)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/dean349/lanzarote-repatriation-explainer/deployments'>Deployments />
+	[119] (729,668)<span >8 />
+[120] (723,710)<a class='Link--primary Link text-bold mx-2 tmp-mx-2' href='/dean349/lanzarote-repatriation-explainer/deployments/github-pages'>github-pages />
+	[121] (746,710)<relative-time  />
+[122] (698,750)<a class='Link--inTextBlock Link' href='/dean349/lanzarote-repatriation-explainer/deployments'>+ 7 deployments />
+[123] (742,811)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/users/dean349/packages?repo_name=lanzarote-repatriation-explainer'>Packages />
+No packages published
+[124] (707,871)<a class='Link--inTextBlock' href='/dean349/lanzarote-repatriation-explainer/packages'>Publish your first package />
+[125] (742,929)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/dean349/lanzarote-repatriation-explainer/graphs/contributors'>Contributors />
+	[126] (726,929)<span >1 />
+[127] (679,977)<a class='mr-2' href='https://github.com/dean349' />
+	[128] (679,977)<img  />
+[129] (706,977)<a class='Link--primary no-underline flex-self-center' href='https://github.com/dean349' />
+	[130] (706,977)<strong >dean349 />
+
+</current_dom>

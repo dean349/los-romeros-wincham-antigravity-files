@@ -1,0 +1,29 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+🏠 Los Romeros Ltd
+[0] (199,44)<a href='#why-ai'>Why This Works />
+[1] (299,44)<a href='#specialists'>Specialist Advisers />
+[2] (383,44)<a href='#live-data'>Live Data />
+[3] (450,44)<a href='#documents'>Documents />
+[4] (520,44)<a href='#next-steps'>Next Steps />
+Guides the Members' Voluntary Liquidation — the HMRC-approved way to close Los Romeros Limited and get the cash into Philip & Beryl's hands as a capital distribution (taxed at 18–24% CGT) rather than a dividend (taxed at up to 39.35% income tax). Tracks each stage: IP appointment, statutory Declaration of Solvency, HMRC clearance, creditor advertisements, and final distribution. Also ensures the £25,069 Director's Loan Account is repaid first, tax-free.
+MVL Stages
+IP Appointment
+HMRC Clearance
+Director's Loan
+🔌
+Live Data Connections — Not Just Google
+Your advisers aren't working from memory alone. They have real-time, direct connections to authoritative UK government and legal databases — the same sources a solicitor's clerk would check.
+🏢
+Companies House Live API
+Direct, authenticated access to the UK government's official company register. Can retrieve the full filing history, current officers, registered address, share structure, and confirmation statements for
+📚
+UK Legislation Database (legislation.gov.uk)
+Direct connection to the official UK statute book. Allows your litigation solicitor adviser to cite the exact, current text of every relevant Act —
+🌐
+Live Web & Research Tools
+Secure, real-time web search and URL fetching to access live sources — AEAT tax rates, ICAEW member lookups, FX broker comparisons, Wincham corporate structure investigations, and HMRC guidance updates — exactly as they exist right now, not as they were months ago.
+
+</current_dom>

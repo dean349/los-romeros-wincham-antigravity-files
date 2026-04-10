@@ -1,0 +1,118 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+[0] (23,53)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (56,53)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (97,53)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/dean349' />
+	[3] (97,53)<span >dean349 />
+[4] (197,53)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/dean349/wincham-glo-opportunity' />
+	[5] (197,53)<span >wincham-glo-opportunity />
+[6] (672,53)<button aria-label='Search or jump to…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[7] (672,53)<span  />
+		[8] (680,53)<span >Type
+to search />
+			Type
+			/
+			to search
+[9] (758,53)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[10] (778,53)<button aria-label='Open Copilot…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_54jpb_' />
+[11] (824,53)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[12] (818,53)<span  />
+[13] (859,53)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[14] (889,53)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[15] (918,53)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[16] (947,53)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ styles-module__notificationIndicator__D_jL0 prc-Button-IconButton-fyge7' href='/notifications' />
+[17] (977,53)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[18] (977,53)<img  />
+Repository navigation
+[19] (38,125)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/wincham-glo-opportunity' />
+	[20] (23,125)<span  />
+	[21] (47,125)<span >Code />
+[22] (99,125)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/wincham-glo-opportunity/issues' />
+	[23] (83,125)<span  />
+	[24] (108,125)<span >Issues />
+[25] (178,125)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/wincham-glo-opportunity/pulls' />
+	[26] (145,125)<span  />
+	[27] (187,125)<span >Pull requests />
+[28] (260,125)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/wincham-glo-opportunity/actions' />
+	[29] (240,125)<span  />
+	[30] (269,125)<span >Actions />
+[31] (331,125)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/wincham-glo-opportunity/projects' />
+	[32] (310,125)<span  />
+	[33] (340,125)<span >Projects />
+[34] (395,125)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/wincham-glo-opportunity/wiki' />
+	[35] (382,125)<span  />
+	[36] (404,125)<span >Wiki />
+[37] (487,125)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/wincham-glo-opportunity/security' />
+	[38] (438,125)<span  />
+	[39] (495,125)<span >Security and quality />
+[40] (586,125)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/wincham-glo-opportunity/pulse' />
+	[41] (565,125)<span  />
+	[42] (595,125)<span >Insights />
+[43] (658,125)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/wincham-glo-opportunity/settings' />
+	[44] (636,125)<span  />
+	[45] (667,125)<span >Settings />
+[46] (978,210)<button aria-label='Dismiss this message' class='flash-close js-flash-close' />
+GitHub Pages source saved.
+Settings: dean349/wincham-glo-opportunity
+[47] (163,334)<a class='ActionListContent ActionListContent--visual16' href='/dean349/wincham-glo-opportunity/settings' id='item-192bf8bc-447d-4f4f-8b52-c928004f01c8' />
+	[48] (172,334)<span >General />
+Access
+[49] (163,466)<a class='ActionListContent ActionListContent--visual16' href='/dean349/wincham-glo-opportunity/settings/access' id='item-ddf42498-fdec-443d-ab71-1ebfa20dbd3f' />
+	[50] (172,466)<span >Collaborators />
+[51] (163,521)<button class='ActionListContent ActionListContent--visual16' id='item-51c69382-36ea-40dc-b9f3-3d71035e8b6d' />
+	[52] (163,521)<span >Moderation options />
+Code and automation
+[53] (163,653)<a class='ActionListContent ActionListContent--visual16' href='/dean349/wincham-glo-opportunity/settings/branches' id='item-cf79c225-5fc4-4b88-bb16-8f8c17f5306a' />
+	[54] (172,653)<span >Branches />
+[55] (163,708)<a class='ActionListContent ActionListContent--visual16' href='/dean349/wincham-glo-opportunity/settings/tag_protection' id='item-dd1cccf1-8048-4387-b6e7-ca9a69c3ec03' />
+	[56] (172,708)<span >Tags />
+[57] (163,762)<button class='ActionListContent ActionListContent--visual16' id='repo_rules' />
+	[58] (163,762)<span >Rules />
+[59] (163,816)<button class='ActionListContent ActionListContent--visual16' id='item-0ac2c1fe-ee38-48c2-9620-03bad91a3035' />
+	[60] (163,816)<span >Actions />
+[61] (163,871)<a class='ActionListContent ActionListContent--visual16' href='/dean349/wincham-glo-opportunity/settings/models/access-policy' id='item-cf5fb664-10ae-43e2-b31b-b50b193017b1' />
+	[62] (148,871)<span >Models />
+	Preview
+[63] (163,925)<a class='ActionListContent ActionListContent--visual16' href='/dean349/wincham-glo-opportunity/settings/hooks' id='item-eae86c11-b762-4aba-8a99-c82ed023e468' />
+	[64] (172,925)<span >Webhooks />
+[65] (163,979)<button class='ActionListContent ActionListContent--visual16' id='item-eeb9059d-8303-43b7-bf03-ca39021ee2a6' />
+	[66] (163,979)<span >Copilot />
+GitHub Pages
+[67] (320,424)<a class='Link--inTextBlock' href='https://pages.github.com'>GitHub Pages />
+is designed to host your personal, organization, or project pages from a GitHub repository.
+Build and deployment
+[68] (305,551)<label id='pages-source-label'>Source />
+[69] (355,601)<button class='Button--secondary Button--medium Button' id='action-menu-c97476f5-3819-43e9-81fb-f49f4211ed3c-button' />
+	[70] (349,601)<span  />
+		[71] (349,601)<span  />
+			[72] (349,601)<span >Deploy from a branch />
+Branch
+Your GitHub Pages site is currently being built from
+          the
+main
+branch.
+[73] (569,723)<a class='Link--inTextBlock' href='https://docs.github.com/articles/configuring-a-publishing-source-for-github-pages/'>Learn more about configuring the publishing source for your site />
+.
+[74] (325,801)<button class='Button--secondary Button--medium Button text-bold' id='pages_select_branch-button' />
+	[75] (319,801)<span  />
+		[76] (328,801)<span  />
+			[77] (328,801)<span >main />
+[78] (410,801)<button class='Button--secondary Button--medium Button text-bold' id='pages_select_dir-button' />
+	[79] (404,801)<span  />
+		[80] (413,801)<span  />
+			[81] (413,801)<span >/ (root) />
+Save
+Learn how to
+[82] (393,884)<a class='Link--inTextBlock' href='https://docs.github.com/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll'>add a Jekyll theme />
+to your site.
+Custom domain
+Custom domain
+Custom domains allow you to serve your site from a domain other than
+dean349.github.io
+.
+Learn more about configuring custom domains
+
+</current_dom>

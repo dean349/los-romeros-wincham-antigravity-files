@@ -1,0 +1,6 @@
+{
+  "artifactType": "ARTIFACT_TYPE_OTHER",
+  "summary": "Complete tabular inventory of every file produced by Antigravity in the last 48 hours (2026-04-08 to 2026-04-10), organised by project/conversation. Each row includes the file name, format, size, project, and a clickable file:// link. Covers both Workspace files (canonical deliverables in VELYON - LEGAL COMMAND CENTER) and Brain files (plans, reports, images in the antigravity brain).",
+  "updatedAt": "2026-04-10T14:09:58.458082800Z",
+  "version": "1"
+}

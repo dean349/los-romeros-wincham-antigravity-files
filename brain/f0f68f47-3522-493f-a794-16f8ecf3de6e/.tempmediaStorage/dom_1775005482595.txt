@@ -1,0 +1,21 @@
+[0] (208,53)<a class='dropdown-trigger' href='https://www.icaew.com/membership' title='Membership'>Membership />
+[1] (284,53)<a class='dropdown-trigger' href='https://www.icaew.com/learning-and-development' title='Learn'>Learn />
+[2] (349,53)<a class='dropdown-trigger' href='https://www.icaew.com/icaew-careers' title='Careers'>Careers />
+[3] (424,53)<a class='dropdown-trigger' href='https://www.icaew.com/students' title='Students'>Students />
+[4] (507,53)<a class='dropdown-trigger' href='https://www.icaew.com/technical' title='Resources'>Resources />
+[5] (600,53)<a class='dropdown-trigger' href='https://www.icaew.com/groups-and-networks' title='Communities'>Communities />
+[6] (687,53)<a class='dropdown-trigger' href='https://www.icaew.com/insights' title='Insights'>Insights />
+[7] (769,53)<a class='dropdown-trigger' href='https://www.icaew.com/regulation' title='Regulation'>Regulation />
+[8] (136,158)<a href='https://find.icaew.com/' title='Find A Chartered Accountant'>Find A Chartered Accountant />
+Find a chartered accountant or firm
+The official online directory for ICAEW Chartered Accountants,
+        ICAEW‐licensed individuals, and ICAEW licensed/accredited firms
+Firms displaying the Business Advice Service (BAS) logo provide a free
+        initial consultation to SMEs and start-ups. After searching by firm or 
+        individual names, specialist areas and/or town, filter the results for 
+        BAS Firms using the check-box which will appear on the left-hand side.
+Enter firm or Individual names, membership number, specialist areas and/or town
+[9] (293,932)<label class='split-search__term-label'>Who or what specialism are you
+      looking for? />
+And/or where? (firms only)
+Find

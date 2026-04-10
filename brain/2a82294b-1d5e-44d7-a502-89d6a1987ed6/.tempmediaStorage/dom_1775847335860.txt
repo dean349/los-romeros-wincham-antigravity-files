@@ -1,0 +1,203 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (203,1)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=16823&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[1] (203,1)<b >INT-16823.pdf - View />
+Margaret - Companies House
+Resignation of Director
+[2] (203,18)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=16824&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[3] (203,18)<b >INT-16824.pdf - View />
+Bryan
+Appointment of Director
+[4] (203,36)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=16712&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[5] (203,36)<b >INT-16712.pdf - View />
+F and M Purvis signed balance sheet
+Accounts - Company Accounts (Abbreviated) FINAL
+[6] (203,53)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=16713&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[7] (203,53)<b >INT-16713.pdf - View />
+F and M Purvis signed Page 2 Interim Accounts
+Accounts - Company Accounts (Abbreviated) FINAL
+[8] (203,71)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=16640&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[9] (203,71)<b >INT-16640.pdf - View />
+Margaret - Mary - Redeemable - Signed
+Stock Transfer Form
+[10] (203,88)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=16638&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[11] (203,88)<b >INT-16638.pdf - View />
+Frederick - Bryan - Redeemable - Signed
+Stock Transfer Form
+[12] (203,106)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=16639&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[13] (203,106)<b >INT-16639.pdf - View />
+Margaret - Mary - Ordinary - Signed
+Stock Transfer Form
+[14] (203,123)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=16637&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[15] (203,123)<b >INT-16637.pdf - View />
+Frederick - Bryan - Ordinary - Signed
+Stock Transfer Form
+[16] (203,141)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=16633&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[17] (203,141)<b >INT-16633.pdf - View />
+Frederick
+Resignation of Director
+[18] (203,158)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=16634&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[19] (203,158)<b >INT-16634.pdf - View />
+Margaret
+Resignation of Director
+[20] (203,176)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=16484&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[21] (203,176)<b >INT-16484.pdf - View />
+Stamp Taxes Due
+Other
+[22] (203,193)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=16483&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[23] (203,193)<b >INT-16483.pdf - View />
+Margaret - Mary - Redeemable Preference
+Stock Transfer Form
+[24] (203,211)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=16481&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[25] (203,211)<b >INT-16481.pdf - View />
+Frederick - Bryan - Redeemable Preference
+Stock Transfer Form
+[26] (203,229)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=16482&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[27] (203,229)<b >INT-16482.pdf - View />
+Margaret - Mary - 1 Ordinary
+Stock Transfer Form
+[28] (203,246)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=16480&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[29] (203,246)<b >INT-16480.pdf - View />
+Frederick - Bryan - 1 Ordinary
+Stock Transfer Form
+[30] (203,264)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=16476&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[31] (203,264)<b >INT-16476.pdf - View />
+Frederick
+Resignation of Director
+[32] (203,281)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=16477&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[33] (203,281)<b >INT-16477.pdf - View />
+Margaret
+Resignation of Director
+[34] (203,299)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=16236&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[35] (203,299)<b >INT-16236.pdf - View />
+Local Council invoices for 2010
+IBI - Rates Bill Prior to Transfer
+[36] (203,316)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=15875&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[37] (203,316)<b >INT-15875.pdf - View />
+CT600 - 2010.2
+Accounts - Corporation Tax(CT600)
+[38] (203,334)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=15874&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[39] (203,334)<b >INT-15874.pdf - View />
+CT600 - 2010.1
+Accounts - Corporation Tax(CT600)
+[40] (203,351)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=15870&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[41] (203,351)<b >INT-15870.pdf - View />
+YE 31082010 Accounts
+Accounts - Company Accounts (Abbreviated) FINAL
+[42] (203,369)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=15490&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[43] (203,369)<b >INT-15490.pdf - View />
+2266 (Company Secretarial & Registered Office)
+Invoice/Factura - Euro
+[44] (203,386)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=13313&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[45] (203,386)<b >INT-13313.pdf - View />
+Land Registry Document
+[46] (203,404)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=13201&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[47] (203,404)<b >INT-13201.pdf - View />
+Paid Plusvalia bill
+Other
+[48] (203,421)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=13013&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[49] (203,421)<b >INT-13013.pdf - View />
+Plusvalia bill Property Yaiza
+Other
+[50] (203,439)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=12702&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[51] (203,439)<b >INT-12702.pdf - View />
+Land Registry Fees
+[52] (203,456)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=11381&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[53] (203,456)<b >INT-11381.pdf - View />
+Deed Of Investment
+[54] (203,474)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=10338&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[55] (203,474)<b >INT-10338.pdf - View />
+2010
+Confirmation Statement
+[56] (203,491)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=10037&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[57] (203,491)<b >INT-10037.pdf - View />
+Apostilled
+Certificate of Good Standing
+[58] (199,509)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=9987&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[59] (199,509)<b >INT-9987.pdf - View />
+Stamped Form - Margaret
+Stock Transfer Form
+[60] (199,526)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=9985&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[61] (199,526)<b >INT-9985.pdf - View />
+Stamped Form - Frederick
+Stock Transfer Form
+[62] (199,544)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=9958&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[63] (199,544)<b >INT-9958.pdf - View />
+Showing Both Directors
+Certificate of Good Standing
+[64] (199,561)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=9872&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[65] (199,561)<b >INT-9872.pdf - View />
+Malcolm
+Resignation of Director
+[66] (199,579)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=9873&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[67] (199,579)<b >INT-9873.pdf - View />
+Allotment of Shares
+[68] (199,596)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=9871&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[69] (199,596)<b >INT-9871.pdf - View />
+Margaret
+Appointment of Director
+[70] (199,614)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=9870&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[71] (199,614)<b >INT-9870.pdf - View />
+Frederick
+Appointment of Director
+[72] (199,631)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=9097&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[73] (199,631)<b >INT-9097.pdf - View />
+Deed Of Investment
+[74] (199,649)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=8979&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[75] (199,649)<b >INT-8979.pdf - View />
+Investment Calculation
+[76] (199,666)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=7481&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[77] (199,666)<b >INT-7481.pdf - View />
+Margaret
+Share Certificate
+[78] (199,684)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=7480&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[79] (199,684)<b >INT-7480.pdf - View />
+Frederick
+Share Certificate
+[80] (199,701)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=7479&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[81] (199,701)<b >INT-7479.pdf - View />
+Frederick
+Stock Transfer Form
+[82] (199,719)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=7478&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[83] (199,719)<b >INT-7478.pdf - View />
+Margaret
+Stock Transfer Form
+[84] (199,736)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=7454&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[85] (199,736)<b >INT-7454.pdf - View />
+1809
+Invoice/Factura - Euro
+[86] (199,754)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=7453&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[87] (199,754)<b >INT-7453.pdf - View />
+CIF Number
+[88] (199,771)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=7450&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[89] (199,771)<b >INT-7450.pdf - View />
+Los Romeros
+Certificate of Good Standing
+[90] (199,789)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=7451&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[91] (199,789)<b >INT-7451.pdf - View />
+Notarised and Translated Company Documents
+[92] (199,807)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=7447&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[93] (199,807)<b >INT-7447.pdf - View />
+Escritura Last Page
+Title Deed
+[94] (199,824)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=7446&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[95] (199,824)<b >INT-7446.pdf - View />
+Escritura
+Title Deed
+Wincham Group of Companies ©2026
+UK Office Address:
+Wincham House | Greenfield Farm Trading Estate | Congleton | Cheshire | CW12 4TR
+UK Tel: +44 (0)1260 299 700 | Email:
+[96] (329,896)<a href='mailto:info@wincham.com'>info@wincham.com />
+Spain Office Address :
+Calpe, 03710 | Alicante | Spain
+Spain Tel: 0034 965 830 991 | Email:
+[97] (324,939)<a href='mailto:info@wincham.com'>info@wincham.com />
+Marbella Office Address :
+Avda Ricardo Soriano 72 - Portal B - Planta 1a | Marbella, 29601 | Costa del Sol | Spain
+Spain Tel: 0034 965 830 991 | Spain Fax: 0034 965 838 329 | Email:
+info@wincham.com
+
+</current_dom>

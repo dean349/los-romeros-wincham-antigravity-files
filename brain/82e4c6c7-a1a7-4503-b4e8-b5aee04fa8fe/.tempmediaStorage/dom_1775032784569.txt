@@ -1,0 +1,131 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+18 Aug 2021
+AP04
+Appointment
+of Wincham Accountancy Limited as a secretary on 18 August 2021
+[0] (719,11)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzMxMDk5NTMzNGFkaXF6a2N4/document?format=pdf&download=0'>View PDF />
+(2 pages)
+18 Aug 2021
+TM02
+Termination of appointment
+of Wincham Accountants Limited as a secretary on 18 August 2021
+[1] (719,98)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzMxMDk5NDg2NmFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+of Wincham Accountants Limited as a secretary on 18 August 2021
+ - link opens in a new window  - 1 page />
+	Termination of appointment
+	of Wincham Accountants Limited as a secretary on 18 August 2021
+ - link opens in a new window  - 1 page
+(1 page)
+19 May 2021
+AA
+Total exemption full accounts
+made up to 31 August 2020
+[2] (719,178)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzMwMTUyNTUxMmFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+made up to 31 August 2020
+ - link opens in a new window  - 7 pages />
+	Total exemption full accounts
+	made up to 31 August 2020
+ - link opens in a new window  - 7 pages
+(7 pages)
+[3] (734,223)<a class='link-updater-js govuk-link' href='/company/06993349/filing-history/MzMwMTUyNTUxMmFkaXF6a2N4/document?format=xhtml&download=1'>Download iXBRL />
+02 Sep 2020
+CS01
+Confirmation statement
+made on 18 August 2020 with updates
+[4] (719,280)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzI3Njc1Mzk0M2FkaXF6a2N4/document?format=pdf&download=0'>View PDF
+made on 18 August 2020 with updates
+ - link opens in a new window  - 5 pages />
+	Confirmation statement
+	made on 18 August 2020 with updates
+ - link opens in a new window  - 5 pages
+(5 pages)
+21 Jan 2020
+RESOLUTIONS
+Resolutions
+RES01 ‐
+Resolution of adoption of Articles of Association
+[5] (719,360)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/QThXWEVSTzFhZGlxemtjeA/document?format=pdf&download=0'>View PDF
+Resolutions
+- link opens in a new window  - 20 pages />
+	Resolutions
+	RES01 ‐
+	Resolution of adoption of Articles of Association
+	- link opens in a new window  - 20 pages
+(20 pages)
+10 Jan 2020
+PSC01
+Notification
+of Philip Anthony Harrison as a person with significant control on 23 December 2019
+[6] (719,447)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzI1NDMyMjgxOWFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+of Philip Anthony Harrison as a person with significant control on 23 December 2019
+ - link opens in a new window  - 2 pages />
+	Notification
+	of Philip Anthony Harrison as a person with significant control on 23 December 2019
+ - link opens in a new window  - 2 pages
+(2 pages)
+10 Jan 2020
+PSC07
+Cessation
+of Mary Ann Stockwell as a person with significant control on 23 December 2019
+[7] (719,534)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzI1NDMyMjgyOWFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+of Mary Ann Stockwell as a person with significant control on 23 December 2019
+ - link opens in a new window  - 1 page />
+	Cessation
+	of Mary Ann Stockwell as a person with significant control on 23 December 2019
+ - link opens in a new window  - 1 page
+(1 page)
+10 Jan 2020
+PSC01
+Notification
+of Beryl Harrison as a person with significant control on 23 December 2019
+[8] (719,622)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzI1NDMyMjY4MGFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+of Beryl Harrison as a person with significant control on 23 December 2019
+ - link opens in a new window  - 2 pages />
+	Notification
+	of Beryl Harrison as a person with significant control on 23 December 2019
+ - link opens in a new window  - 2 pages
+(2 pages)
+10 Jan 2020
+TM01
+Termination of appointment
+of Mark Damion Roach as a director on 9 January 2020
+[9] (719,709)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzI1NDMyMjU4M2FkaXF6a2N4/document?format=pdf&download=0'>View PDF
+of Mark Damion Roach as a director on 9 January 2020
+ - link opens in a new window  - 1 page />
+	Termination of appointment
+	of Mark Damion Roach as a director on 9 January 2020
+ - link opens in a new window  - 1 page
+(1 page)
+10 Jan 2020
+AP01
+Appointment
+of Mrs Beryl Harrison as a director on 9 January 2020
+[10] (719,789)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzI1NDMyMjU4MWFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+of Mrs Beryl Harrison as a director on 9 January 2020
+ - link opens in a new window  - 2 pages />
+	Appointment
+	of Mrs Beryl Harrison as a director on 9 January 2020
+ - link opens in a new window  - 2 pages
+(2 pages)
+10 Jan 2020
+AP01
+Appointment
+of Mr Philip Anthony Harrison as a director on 9 January 2020
+[11] (719,868)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzI1NDMyMjQyN2FkaXF6a2N4/document?format=pdf&download=0'>View PDF
+of Mr Philip Anthony Harrison as a director on 9 January 2020
+ - link opens in a new window  - 2 pages />
+	Appointment
+	of Mr Philip Anthony Harrison as a director on 9 January 2020
+ - link opens in a new window  - 2 pages
+(2 pages)
+[12] (213,996)<a aria-label='Page 1' class='govuk-link govuk-pagination__link' href='/company/06993349/filing-history?page=1' id='pageNo1'>1 />
+[13] (242,996)<a aria-label='Page 2' class='govuk-link govuk-pagination__link' href='/company/06993349/filing-history?page=2' id='pageNo2'>2 />
+[14] (272,996)<a aria-label='Page 3' class='govuk-link govuk-pagination__link' href='/company/06993349/filing-history?page=3' id='pageNo3'>3 />
+[15] (321,996)<a class='govuk-link govuk-pagination__link' href='/company/06993349/filing-history?page=2' id='next-page'>Next />
+	Next
+	page
+
+</current_dom>

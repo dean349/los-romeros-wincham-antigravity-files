@@ -1,0 +1,32 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (213,64)<a aria-label='Link to homepage' href='/' />
+	[1] (64,64)<img  />
+[2] (450,64)<button class='kpueytj kpueytg kpueyth' id='radix-:R8m6:-trigger-pca'>Personal />
+	[3] (481,62)<img  />
+[4] (550,64)<button class='kpueytk kpueytg kpueyth' id='radix-:R8m6:-trigger-bca'>Business />
+	[5] (581,62)<img  />
+[6] (755,64)<button class='kpueyti kpueytg kpueytr' id='radix-:R8m6:-trigger-about' />
+	[7] (755,64)<span >About />
+		[8] (777,64)<img  />
+[9] (810,64)<a class='kpueyti kpueytg kpueytr' href='/help/'>Help />
+[10] (859,64)<a class='kpueyti kpueytg kpueytr' href='https://app.starlingbank.com/'>Log in />
+[11] (938,64)<a class='_1izlnb40 _18is6z2p zp6bqe1o0 _18is6z214 _18is6z216 _18is6z2f zp6bqe1o4 _1izlnb45 _1izlnb4a btn-download-app zp6bqeng' href='/apply/' id='download-nav-cta'>Apply now />
+The person applying on your behalf must be over 18 and both a PSC and a director or limited partner as applicable.
+You do not already have a business current account with Starling for the same business.
+You do not use your account or our services to hold and/or carry out transactions with Client Money.
+Industries we don’t currently support
+Certain industries have higher risks, and unfortunately at this time we don’t support everyone. We are currently unable to offer a current account to customers connected with certain business activities, including the following:
+Businesses that regularly make significant cash deposits, see below for more details.
+Businesses carrying out banking, credit, and other financial services.
+Businesses that hold client money, such as accountants and solicitors.
+Defence or weapons (including manufacturing and/or distribution of weapons, explosives or armaments).
+Gambling or betting (including the establishment or operation of lotteries or competitions).
+Activities undertaken by unregistered or unregulated charities.
+Dealing in antiques, art, watches, precious metals or precious stones.
+[12] (957,929)<a aria-label='Go to the help page' class='_1izlnb40 _18is6z2p zp6bqe1o0 _18is6z214 _18is6z216 _18is6z2f zp6bqe1o4 _1izlnb41 _1izlnb4a _1shgxu20' href='/help/' id='help-button' />
+	[13] (957,929)<span >Help />
+
+</current_dom>

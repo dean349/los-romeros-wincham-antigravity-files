@@ -1,0 +1,90 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (61,53)<a aria-label='Home' class='global-nav__home' href='https://register.fca.org.uk/s/' id='masthead-home-link' />
+[1] (143,53)<a class='global-nav__link' href='https://register.fca.org.uk/s/prohibited-individual?predefined=PI' id='masthead-link-0-item'>Individual prohibitions />
+[2] (238,53)<a class='global-nav__link' href='https://register.fca.org.uk/s/fund-search' id='masthead-link-1-item'>Fund search />
+[3] (319,53)<a class='global-nav__link' href='https://register.fca.org.uk/s/resources#Other_registers' id='masthead-link-2-item'>Other registers />
+[4] (428,53)<button class='global-nav__expand' id='masthead-link-3-item' />
+	[5] (416,51)<span >Data and downloads />
+[6] (500,106)<div  />
+	[7] (500,106)<div  />
+		[8] (275,106)<div  />
+			Wincham Investments Ltd
+			Reference number: 471661
+			[9] (269,222)<div  />
+				[10] (238,222)<span >No longer registered as an Appointed Representative />
+					[11] (394,222)<div  />
+						[12] (394,220)<span  />
+							[13] (400,220)<span  />
+								[14] (400,223)<span  />
+									[15] (400,223)<button class='popover__open' id='firm-result-card-0-badgeright-icon-toggle-button'>Wincham Investments Ltd (searched firm name) No longer registered as an Appointed Representative Tool tip icon Clickable button />
+										Wincham Investments Ltd (searched firm name) No longer registered as an Appointed Representative Tool tip icon Clickable button
+		[16] (689,106)<div  />
+			Congleton
+		[17] (914,106)<div  />
+			[18] (916,105)<div  />
+[19] (500,513)<div  />
+	[20] (500,513)<div  />
+		[21] (275,513)<div  />
+			[22] (275,452)<div  />
+				[23] (275,435)<div  />
+					[24] (275,435)<div  />
+						[25] (275,408)<div  />
+							[26] (78,408)<div  />
+								[27] (78,408)<div  />
+							[28] (298,408)<div  />
+								[29] (298,408)<div  />
+									[30] (298,408)<h2  />
+										[31] (254,407)<a class='text-link text-link_default' href='https://register.fca.org.uk/s/firm?id=001b0000019wtTbAAI'>Wincham investments limited />
+						[32] (275,482)<div  />
+							[33] (297,482)<div  />
+								[34] (297,482)<div >Reference number: 714811 />
+			[35] (269,630)<div  />
+				[36] (146,630)<span >No longer authorised />
+					[37] (212,630)<div  />
+						[38] (212,627)<span  />
+							[39] (218,627)<span  />
+								[40] (218,630)<span  />
+									[41] (218,630)<button class='popover__open' id='firm-result-card-1-badgeright-icon-toggle-button'>Wincham investments limited (searched firm name) No longer authorised Tool tip icon Clickable button />
+										Wincham investments limited (searched firm name) No longer authorised Tool tip icon Clickable button
+		[42] (689,513)<div  />
+			[43] (691,398)<div  />
+				[44] (691,398)<div  />
+					[45] (530,398)<div  />
+						[46] (530,398)<div  />
+					[47] (704,398)<div  />
+						[48] (704,382)<div >CW12 4TR />
+						[49] (704,414)<div >Congleton />
+		[50] (914,513)<div  />
+			[51] (916,513)<div  />
+[52] (500,920)<div  />
+	[53] (500,920)<div  />
+		[54] (275,920)<div  />
+			[55] (275,859)<div  />
+				[56] (275,842)<div  />
+					[57] (275,842)<div  />
+						[58] (275,815)<div  />
+							[59] (78,815)<div  />
+								[60] (78,815)<div  />
+							[61] (298,815)<div  />
+								[62] (298,815)<div  />
+									[63] (298,815)<h2  />
+										[64] (255,814)<a class='text-link text-link_default' href='https://register.fca.org.uk/s/firm?id=001b000003TzOuMAAV'>Wincham Vehicle Services Ltd />
+						[65] (275,889)<div  />
+							[66] (297,889)<div  />
+								[67] (297,889)<div >Reference number: 755616 />
+		[68] (689,920)<div  />
+			[69] (691,805)<div  />
+				[70] (691,805)<div  />
+					[71] (530,805)<div  />
+						[72] (530,805)<div  />
+					[73] (704,805)<div  />
+						[74] (704,789)<div >CW9 6DE />
+						[75] (704,822)<div >Wincham />
+		[76] (914,920)<div  />
+			[77] (916,920)<div  />
+Search Results
+
+</current_dom>

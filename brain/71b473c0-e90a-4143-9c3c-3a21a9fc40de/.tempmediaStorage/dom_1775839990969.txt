@@ -1,0 +1,191 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (484,13)<a href='Default.aspx'>Home />
+|
+[1] (565,13)<a href='#'>Services />
+|
+[2] (682,13)<a href='http://www.wincham.com/mtt.asp'>Meet the Team />
+|
+[3] (809,13)<a href='http://www.wincham.com/contactus.asp'>Contact Us />
+|
+[4] (927,13)<a href='http://www.winchamiht.com/winchamsupport/WRS.exe'>Live Support />
+Welcome! Philip and Beryl
+10/Apr/2026
+[5] (390,114)<a href='referral.aspx' />
+	[6] (390,82)<img  />
+	[7] (390,121)<font  />
+		[8] (390,121)<b >Refer a Friend />
+[9] (538,130)<a href='Default.aspx' />
+	[10] (538,106)<img  />
+	[11] (538,136)<b >Home />
+[12] (699,130)<a href='profile.aspx' />
+	[13] (699,106)<img  />
+	[14] (699,136)<b >Account Settings />
+[15] (860,130)<a href='../Logout.aspx?t=4' />
+	[16] (860,106)<img  />
+	[17] (860,136)<b >Logout />
+Your are here:
+[18] (184,164)<a href='default.aspx'>Home />
+/
+[19] (258,164)<a href='casedetail.aspx?cid=WI-13211'>WI-13211 />
+/ Cash Book
+Case #: WI-13211
+(Company Purchases Case)
+[20] (110,284)<a href='clientcompany.aspx?cid=WI-13211' />
+	[21] (110,284)<b >Los Romeros Limited />
+[22] (102,370)<a href='casedetail.aspx?cid=WI-13211'>Case Detail />
+	[23] (96,347)<img  />
+[24] (103,445)<a href='ViewProposal.aspx?cid=WI-13211'>Tax Illustration />
+	[25] (96,416)<img  />
+[26] (105,526)<a href='infosheetsview.aspx?cid=WI-13211'>Information Sheets />
+	[27] (96,497)<img  />
+[28] (98,601)<a href='clientnotes.aspx?cid=WI-13211'>Messages />
+	[29] (96,578)<img  />
+[30] (103,671)<a href='clientcasedocs.aspx?cid=WI-13211'>Documents />
+	[31] (96,647)<img  />
+[32] (97,746)<a href='clientcompany.aspx?cid=WI-13211'>Company Detail />
+	[33] (96,716)<img  />
+[34] (100,827)<a href='clientcashbook.aspx?cid=WI-13211'>Company Cash Book />
+	[35] (96,797)<img  />
+::       Cash Book Section     ::
+[36] (506,214)<a class='Menu1_1 tab Menu1_3 selectedTab Menu1_5' href='javascript:__doPostBack('Menu1','0')'>Cash Book />
+[37] (606,214)<a class='Menu1_1 tab Menu1_3' href='javascript:__doPostBack('Menu1','1')'>Reporting />
+Case Cash Book(s)
+Edit
+Bank
+A/C Number
+IBAN
+Swift Code
+Bank Phone
+Bank Manager
+Option
+Balance
+[38] (197,314)<a href='clientcashbook.aspx?cbkid=2979&ccode=WI-13211&compid=376#cb' />
+	[39] (197,310)<img  />
+Expenditure Direct Debit 25/26
+[40] (816,310)<a href='clientcasecashbook.aspx?cbkid=2979&ccode=WI-13211&compid=376&iseurocb=1'>Manage />
+€-71.81
+[41] (197,336)<a href='clientcashbook.aspx?cbkid=2972&ccode=WI-13211&compid=376#cb' />
+	[42] (197,333)<img  />
+Expenditure Cash 25/26
+[43] (816,333)<a href='clientcasecashbook.aspx?cbkid=2972&ccode=WI-13211&compid=376&iseurocb=0'>Manage />
+£-1337.23
+[44] (197,359)<a href='clientcashbook.aspx?cbkid=2971&ccode=WI-13211&compid=376#cb' />
+	[45] (197,355)<img  />
+Expenditure Direct Debit 25/26
+[46] (816,355)<a href='clientcasecashbook.aspx?cbkid=2971&ccode=WI-13211&compid=376&iseurocb=1'>Manage />
+€-944.85
+[47] (197,381)<a href='clientcashbook.aspx?cbkid=2930&ccode=WI-13211&compid=376#cb' />
+	[48] (197,378)<img  />
+Expenditure Direct Debit 24/25
+[49] (816,378)<a href='clientcasecashbook.aspx?cbkid=2930&ccode=WI-13211&compid=376&iseurocb=0'>Manage />
+£-2976.81
+[50] (197,404)<a href='clientcashbook.aspx?cbkid=2929&ccode=WI-13211&compid=376#cb' />
+	[51] (197,400)<img  />
+Expenditure Cash 24/25
+[52] (816,400)<a href='clientcasecashbook.aspx?cbkid=2929&ccode=WI-13211&compid=376&iseurocb=0'>Manage />
+£-1625.26
+[53] (197,426)<a href='clientcashbook.aspx?cbkid=2888&ccode=WI-13211&compid=376#cb' />
+	[54] (197,423)<img  />
+Expenditure Direct Debit 23-24
+[55] (816,423)<a href='clientcasecashbook.aspx?cbkid=2888&ccode=WI-13211&compid=376&iseurocb=0'>Manage />
+£-2584.08
+[56] (197,449)<a href='clientcashbook.aspx?cbkid=2887&ccode=WI-13211&compid=376#cb' />
+	[57] (197,445)<img  />
+Expenditure  Cash 23-24
+[58] (816,445)<a href='clientcasecashbook.aspx?cbkid=2887&ccode=WI-13211&compid=376&iseurocb=0'>Manage />
+£-869
+[59] (197,471)<a href='clientcashbook.aspx?cbkid=2834&ccode=WI-13211&compid=376#cb' />
+	[60] (197,468)<img  />
+Expenditure Cash 22/23
+[61] (816,468)<a href='clientcasecashbook.aspx?cbkid=2834&ccode=WI-13211&compid=376&iseurocb=0'>Manage />
+£-230.39
+[62] (197,494)<a href='clientcashbook.aspx?cbkid=2833&ccode=WI-13211&compid=376#cb' />
+	[63] (197,490)<img  />
+Expenditure Direct Debit 22/23
+[64] (816,490)<a href='clientcasecashbook.aspx?cbkid=2833&ccode=WI-13211&compid=376&iseurocb=0'>Manage />
+£-2361.61
+[65] (197,516)<a href='clientcashbook.aspx?cbkid=2808&ccode=WI-13211&compid=376#cb' />
+	[66] (197,513)<img  />
+Expenditure Cash
+[67] (816,513)<a href='clientcasecashbook.aspx?cbkid=2808&ccode=WI-13211&compid=376&iseurocb=0'>Manage />
+£-394.05
+[68] (197,539)<a href='clientcashbook.aspx?cbkid=2794&ccode=WI-13211&compid=376#cb' />
+	[69] (197,535)<img  />
+Expenditure direct debit 21/22
+[70] (816,535)<a href='clientcasecashbook.aspx?cbkid=2794&ccode=WI-13211&compid=376&iseurocb=0'>Manage />
+£-2384.81
+[71] (197,561)<a href='clientcashbook.aspx?cbkid=2766&ccode=WI-13211&compid=376#cb' />
+	[72] (197,558)<img  />
+Expenditure Cash 20/21
+[73] (816,558)<a href='clientcasecashbook.aspx?cbkid=2766&ccode=WI-13211&compid=376&iseurocb=0'>Manage />
+£-578.12
+[74] (197,584)<a href='clientcashbook.aspx?cbkid=2702&ccode=WI-13211&compid=376#cb' />
+	[75] (197,580)<img  />
+Expenditure Direct Debit 20/21
+[76] (816,580)<a href='clientcasecashbook.aspx?cbkid=2702&ccode=WI-13211&compid=376&iseurocb=0'>Manage />
+£-2415.04
+[77] (197,606)<a href='clientcashbook.aspx?cbkid=2699&ccode=WI-13211&compid=376#cb' />
+	[78] (197,603)<img  />
+Client Expenditure direct debit 19/20
+[79] (816,603)<a href='clientcasecashbook.aspx?cbkid=2699&ccode=WI-13211&compid=376&iseurocb=0'>Manage />
+£-1115.04
+[80] (197,629)<a href='clientcashbook.aspx?cbkid=2698&ccode=WI-13211&compid=376#cb' />
+	[81] (197,626)<img  />
+Client Expenditure cash 19/20
+[82] (816,626)<a href='clientcasecashbook.aspx?cbkid=2698&ccode=WI-13211&compid=376&iseurocb=1'>Manage />
+€-1621.96
+[83] (197,651)<a href='clientcashbook.aspx?cbkid=970&ccode=WI-13211&compid=376#cb' />
+	[84] (197,648)<img  />
+Client Expenditure
+[85] (816,648)<a href='clientcasecashbook.aspx?cbkid=970&ccode=WI-13211&compid=376&iseurocb=1'>Manage />
+€-70038.54
+[86] (197,674)<a href='clientcashbook.aspx?cbkid=644&ccode=WI-13211&compid=376#cb' />
+	[87] (197,671)<img  />
+SolBank
+0081-0540-26-0001175921
+[88] (816,671)<a href='clientcasecashbook.aspx?cbkid=644&ccode=WI-13211&compid=376&iseurocb=1'>Manage />
+€ 0.00
+[89] (197,696)<a href='clientcashbook.aspx?cbkid=600&ccode=WI-13211&compid=376#cb' />
+	[90] (197,693)<img  />
+cash book period 01/09/2010-30/05/2011
+[91] (816,693)<a href='clientcasecashbook.aspx?cbkid=600&ccode=WI-13211&compid=376&iseurocb=1'>Manage />
+€-1730.22
+[92] (197,719)<a href='clientcashbook.aspx?cbkid=461&ccode=WI-13211&compid=376#cb' />
+	[93] (197,716)<img  />
+Cash book 23/6-31/08/2010
+[94] (816,716)<a href='clientcasecashbook.aspx?cbkid=461&ccode=WI-13211&compid=376&iseurocb=1'>Manage />
+€356.65
+[95] (197,747)<a href='clientcashbook.aspx?cbkid=354&ccode=WI-13211&compid=376#cb' />
+	[96] (197,744)<img  />
+Client Invested Funds
+[97] (806,744)<a href='clientcasecashbook.aspx?cbkid=354&ccode=WI-13211&compid=376&iseurocb=0'>View Only />
+£-11077.54
+[98] (269,796)<a href='#cb'>New Cash Book />
+|
+[99] (413,796)<a href='javascript:void(window.open("trasfercashbook.aspx?compid=376&ccode=WI-13211","File","menubar=no, toolbar=no, location=no, scrollbars=no, resizable=no, status=no, width==600, height=200"));' id='transcash_hl'>Transfer Cash />
+|
+[100] (450,804)<a href='javascript:void(window.open("clienttransfernom.aspx?compid=376&ccode=WI-13211","File","menubar=no, toolbar=no, location=no, scrollbars=no, resizable=no, status=no, width==700, height=400"));' id='transfernom_hl'>Transfer Nominal />
+|
+Consolidated Balance (GBP):
+£ -29948.98
+Consolidated Balance (EUR):
+€ -74050.73
+Add New Cash Book
+Bank Name:
+[101] (620,885)<input class='reqtxt' id='bankname_txt' />
+*
+A/C Number:
+[102] (621,907)<input id='ac_txt' />
+IBAN Number:
+[103] (621,929)<input id='iban_txt' />
+SWIFT Code:
+[104] (621,950)<input id='swift_txt' />
+Bank Phone:
+[105] (621,972)<input id='bphone_txt' />
+Bank Fax:
+[106] (621,994)<input id='bfax_txt' />
+
+</current_dom>

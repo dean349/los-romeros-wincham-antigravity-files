@@ -1,0 +1,5 @@
+{
+  "artifactType": "ARTIFACT_TYPE_OTHER",
+  "summary": "SSL certificate evidence addendum combining: (1) prior breach evidence from 5 April 2026 showing NET::ERR_CERT_DATE_INVALID on wincham.com; (2) current SSL audit of all 8 Wincham websites as of 10 April 2026; (3) Wayback Machine calendar showing the site was last successfully archived on 12 December 2025 with zero captures throughout early 2026; (4) SSL Labs Grade B reports for all active Wincham sites showing insecure legacy protocols; (5) confirmation that winchamiht.com remains completely inaccessible. Certificates on wincham.com/winchamukcompany.com/adremaccs.com were all renewed in mid-March 2026, between 5 days and 3 weeks after the breach was first documented.",
+  "updatedAt": "2026-04-10T09:48:51.448869400Z"
+}

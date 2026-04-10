@@ -1,0 +1,118 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (26,46)<button aria-label='Guide' class='style-scope yt-icon-button' id='button' />
+	[1] (26,46)<yt-icon  />
+		[2] (26,46)<span  />
+			[3] (26,46)<div  />
+[4] (86,46)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube Home' />
+	[5] (86,46)<div  />
+		[6] (86,45)<ytd-logo  />
+			[7] (86,46)<yt-icon  />
+				[8] (87,46)<span  />
+					[9] (87,46)<div  />
+[10] (458,46)<div  />
+	[11] (463,46)<form  />
+		[12] (463,46)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='Search' role='combobox' />
+[13] (678,46)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='Search' />
+	[14] (678,46)<span  />
+		[15] (678,46)<span  />
+			[16] (678,46)<div  />
+[17] (727,46)<button aria-label='Search with your voice' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[18] (727,46)<yt-touch-feedback-shape  />
+		[19] (727,46)<div  />
+[20] (857,46)<button aria-label='Create' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	Create
+	[21] (857,46)<yt-touch-feedback-shape  />
+		[22] (857,46)<div  />
+[23] (913,46)<button aria-label='Notifications' class='style-scope yt-icon-button' id='button' />
+	[24] (913,44)<yt-icon-badge-shape  />
+		[25] (913,46)<div  />
+			[26] (913,46)<div  />
+				[27] (913,46)<span  />
+					[28] (913,46)<span  />
+						[29] (913,46)<div  />
+[30] (955,46)<button aria-label='Account menu' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[31] (955,46)<yt-img-shadow  />
+		[32] (955,46)<img  />
+[33] (26,160)<a aria-label='Home' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/' id='endpoint' title='Home' />
+	[34] (26,145)<yt-icon  />
+		[35] (26,145)<span  />
+			[36] (26,145)<div  />
+	[37] (26,186)<span >Home />
+[38] (26,282)<a aria-label='Shorts' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/shorts/' id='endpoint' title='Shorts' />
+	[39] (26,267)<yt-icon  />
+		[40] (26,267)<span  />
+			[41] (26,267)<div  />
+	[42] (26,308)<span >Shorts />
+[43] (26,404)<a aria-label='Subscriptions' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/feed/subscriptions' id='endpoint' title='Subscriptions' />
+	[44] (26,389)<yt-icon  />
+		[45] (26,389)<span  />
+			[46] (26,389)<div  />
+	[47] (26,430)<span >Subscriptions />
+[48] (26,526)<a aria-label='You' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/feed/you' id='endpoint' title='You' />
+	[49] (26,511)<yt-icon  />
+		[50] (26,511)<span  />
+			[51] (26,511)<div  />
+	[52] (26,552)<span >You />
+Wincham Property Shop
+@winchampropertyshop6636
+•
+96 subscribers
+•
+61 videos
+[53] (478,558)<yt-description-preview-view-model  />
+	[54] (478,558)<truncated-text  />
+		[55] (478,558)<truncated-text-content >Costa Blanca Property Sales Experts Since 1995. With offices in Calpe and the UK.  Come and visit us to discuss your Spanish Property Plans.... />
+			Costa Blanca Property Sales Experts Since 1995. With offices in Calpe and the UK.  Come and visit us to discuss your Spanish Property Plans....
+		[56] (681,558)<button aria-label='Description. Costa Blanca Property Sales Experts Since 1995. With offices...tap for more.' class='ytTruncatedTextAbsoluteButton' />
+			[57] (681,557)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text' />
+				[58] (681,557)<span >...more />
+[59] (321,610)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' href='https://www.youtube.com/redirect?event=channel_header&redir_token=QUFFLUhqa3RiWm85UUh4dDVIRk5ieDFjSmFaR0FNRlpjZ3xBQ3Jtc0trMVlGUXpoN0kyWEN1Y01ETW9HMzRqUmJCeHV3UHVQT1BfZkRhZmZDVHVlaXNzbkhsNFNGLVNweHVKTE1MUXFla2xHQWltdzl2WHRsaWtpRmVUNV9wVkRkUkR5c1NOOS1kXzVReFl0SXZsNWFhNnkzbw&q=www.winchampropertyshop.com'>winchampropertyshop.com />
+[60] (421,610)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' href='javascript:void(0);' role='button'>and 1 more link />
+[61] (293,676)<button aria-label='Subscribe to Wincham Property Shop.' class='yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--disable-text-ellipsis yt-spec-button-shape-next--enable-backdrop-filter-experiment'>Subscribe />
+	Subscribe
+	[62] (293,676)<yt-touch-feedback-shape  />
+		[63] (293,676)<div  />
+[64] (147,765)<yt-tab-shape class='yt-tab-shape yt-tab-shape--host-clickable' role='tab' />
+	[65] (147,765)<div >Home />
+[66] (200,765)<yt-tab-shape class='yt-tab-shape yt-tab-shape--host-clickable' role='tab' />
+	[67] (200,765)<div >Videos />
+[68] (306,765)<yt-tab-shape  />
+	[69] (250,765)<button aria-label='Search' class='style-scope yt-icon-button' id='button' />
+		[70] (250,765)<yt-icon  />
+			[71] (250,765)<span  />
+				[72] (250,765)<div  />
+	[73] (321,765)<input class='style-scope tp-yt-paper-input' />
+[74] (219,944)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=bSBgWOkGGhU' id='thumbnail' />
+[75] (541,909)<div  />
+	[76] (541,867)<div  />
+		[77] (541,852)<div  />
+			[78] (459,852)<h3  />
+				[79] (459,852)<a aria-label='New Build Villas with Pool in Calasparra  Murcia 3 minutes, 34 seconds' class='yt-simple-endpoint style-scope ytd-video-renderer' href='/watch?v=bSBgWOkGGhU' id='video-title' title='New Build Villas with Pool in Calasparra  Murcia' />
+					[80] (459,852)<yt-formatted-string >New Build Villas with Pool in Calasparra  Murcia />
+			[81] (746,850)<div  />
+				[82] (746,845)<ytd-menu-renderer  />
+					[83] (746,845)<yt-icon-button  />
+						[84] (746,845)<button aria-label='Action menu' class='style-scope yt-icon-button' id='button' />
+							[85] (746,845)<yt-icon  />
+								[86] (746,845)<span  />
+									[87] (746,845)<div  />
+		[88] (541,888)<ytd-video-meta-block  />
+			[89] (541,888)<div  />
+				[90] (373,888)<div  />
+					[91] (368,888)<ytd-channel-name  />
+						[92] (368,888)<div  />
+							[93] (368,888)<div  />
+								[94] (368,888)<yt-formatted-string  />
+									[95] (369,888)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@winchampropertyshop6636'>Wincham Property Shop />
+					[96] (420,888)<div >• />
+				[97] (471,888)<div  />
+					[98] (444,888)<span >111 views />
+					[99] (490,888)<span >4 years ago />
+	[100] (541,939)<yt-formatted-string >Short video showing the area around Calasparra plus images of new villas with own pool being built in the area.
+To view the full listing on our site follow this link:
+http://www.winchampropertyshop... />
+
+</current_dom>

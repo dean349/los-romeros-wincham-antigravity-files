@@ -1,0 +1,253 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,500)<div  />
+	Commit changes
+	[1] (613,242)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' />
+	[2] (500,298)<label class='WebCommitDialog-module__commitMessageLabel__SE3JQ prc-components-Label-2mrqP' id='commit-message-input-label' />
+		[3] (412,298)<span >Commit message />
+	[4] (500,331)<span  />
+		[5] (490,331)<input class='prc-components-Input-IwWrt' id='commit-message-input' placeholder='Update index.html' />
+		[6] (608,331)<span  />
+			[7] (608,331)<button class='prc-Button-ButtonBase-9n-Xk prc-components-Invisible-bKOcl prc-Button-IconButton-fyge7' />
+	Copilot commit message generated:
+	Fix: correct sale price to
+	[8] (418,377)<label class='prc-components-Label-2mrqP' id='_r_15_-label'>Extended description />
+	[9] (500,483)<span  />
+		[10] (500,483)<textarea class='prc-Textarea-TextArea-snlco' id='commit-description-input' placeholder='Add an optional extended description...' />
+	Message and description suggested by Copilot.
+	[11] (500,658)<fieldset  />
+		Direct commit or PR
+		[12] (388,630)<input class='prc-Checkbox-Input-lWIkv prc-Radio-Radio-h1gb9' id='_r_19_' />
+		[13] (450,631)<label class='WebCommitDialog-module__commitOptionLabel___XhyW prc-components-Label-2mrqP' id='_r_19_-label'>Commit directly to the
+branch />
+			[14] (477,632)<pre >main />
+		[15] (388,662)<input class='prc-Checkbox-Input-lWIkv prc-Radio-Radio-h1gb9' id='_r_1a_' />
+		[16] (504,674)<label class='WebCommitDialog-module__FormControl_Label__XlFBt prc-components-Label-2mrqP' id='_r_1a_-label'>Create a
+for this commit
+and start a pull request />
+			[17] (444,662)<strong >new branch />
+			[18] (502,674)<a class='WebCommitDialog-module__pullRequestHelpLink__pXRwj prc-Link-Link-9ZwDx' href='https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests'>Learn more about pull requests />
+	[19] (554,750)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[20] (554,750)<span  />
+			[21] (554,750)<span >Cancel />
+	Saving...
+Skip to content
+dean349
+lanzarote-cgt-report
+Type
+/
+to search
+Repository navigation
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Files
+main
+t
+.nojekyll
+index.html
+Editing  index.html in lanzarote-cgt-report
+Breadcrumbs
+lanzarote-cgt-report
+/
+in
+main
+Cancel changes
+Commit changes...
+Edit
+Preview
+Indent mode
+Indent size
+Line wrap mode
+Editing index.html file contents
+next
+previous
+all
+match case
+regexp
+by word
+replace
+replace all
+×
+[22] (584,685)<div class='cm-scroller' role='region' scrollable='true' />
+	1
+	2
+	3
+	4
+	5
+	6
+	7
+	8
+	9
+	10
+	11
+	12
+	13
+	14
+	15
+	16
+	17
+	18
+	19
+	20
+	21
+	22
+	23
+	24
+	25
+	26
+	27
+	28
+	29
+	30
+	31
+	<!DOCTYPE html>
+	<
+	html
+	lang
+	=
+	"en"
+	>
+	<
+	head
+	>
+	<
+	meta
+	charset
+	=
+	"UTF-8"
+	/>
+	<
+	meta
+	name
+	=
+	"viewport"
+	content
+	=
+	"width=device-width,initial-scale=1"
+	/>
+	<
+	title
+	>
+	Philip Harrison — Lanzarote Property Sale: Spanish CGT Report
+	</
+	title
+	>
+	<
+	meta
+	name
+	=
+	"description"
+	content
+	=
+	"Full capital gains tax analysis for the sale of Philip Harrison's Lanzarote property held via Los Romeros Limited."
+	/>
+	<
+	link
+	rel
+	=
+	"preconnect"
+	href
+	=
+	"https://fonts.googleapis.com"
+	/>
+	<
+	link
+	href
+	=
+	"https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700
+	&
+	family=Playfair+Display:wght@700
+	&
+	display=swap"
+	rel
+	=
+	"stylesheet"
+	/>
+	<
+	style
+	>
+	:
+	root
+	{
+	--navy
+	:   #1a2744;
+	--navy2
+	:  #243560;
+	--gold
+	:   #c9952a;
+	--gold2
+	:  #e8b44e;
+	--white
+	:  #ffffff;
+	--lgrey
+	:  #f5f7fa;
+	--mgrey
+	:  #6b7280;
+	--dgrey
+	:  #374151;
+	h
+	--border
+	: #
+	e2e8f0
+	;
+	--blue-bg
+	:#dbeafe;
+	--blue-b
+	: #3b82f6;
+	--amb-bg
+	: #fef3c7;
+	--amb-b
+	:  #d97706;
+	--red-bg
+	: #fee2e2;
+	--red-b
+	:  #dc2626;
+	--talt
+	:   #f0f4fa;
+	}
+	*, *::
+	before
+	, *::
+	after
+	{
+	box-sizing
+	:
+	border-box
+	;
+	margin
+	:
+	0
+	;
+	padding
+	:
+	0
+	;
+	}
+	body
+	{
+	font-family
+	:
+	'Inter'
+	,
+	sans-serif
+	;
+Use
+Control + Shift + m
+to toggle the
+tab
+key moving focus. Alternatively, use
+esc
+then
+tab
+to move to the next interactive element on the page.
+
+</current_dom>

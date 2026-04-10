@@ -1,0 +1,112 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (26,46)<button aria-label='Guide' class='style-scope yt-icon-button' id='button' />
+	[1] (26,46)<yt-icon  />
+[2] (86,46)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube Home' />
+	[3] (86,46)<div  />
+		[4] (86,45)<ytd-logo  />
+			[5] (86,46)<yt-icon  />
+[6] (458,46)<div  />
+	[7] (454,46)<form  />
+		[8] (454,46)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='Search' role='combobox' />
+	[9] (642,46)<div  />
+		[10] (642,46)<button aria-label='Clear search query' class='ytSearchboxComponentClearButton' />
+			[11] (642,46)<yt-touch-feedback-shape  />
+				[12] (642,46)<div  />
+[13] (678,46)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='Search' />
+	[14] (678,46)<span  />
+[15] (727,46)<button aria-label='Search with your voice' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[16] (727,46)<yt-touch-feedback-shape  />
+		[17] (727,46)<div  />
+[18] (85,136)<button class='ytChipShapeButtonReset' role='tab' />
+	[19] (85,136)<div >All />
+		All
+		[20] (85,136)<yt-touch-feedback-shape  />
+			[21] (85,136)<div  />
+[22] (130,136)<button class='ytChipShapeButtonReset' role='tab' />
+	[23] (130,136)<div >Shorts />
+		Shorts
+		[24] (130,136)<yt-touch-feedback-shape  />
+			[25] (130,136)<div  />
+[26] (184,136)<button class='ytChipShapeButtonReset' role='tab' />
+	[27] (184,136)<div >Videos />
+		Videos
+		[28] (184,136)<yt-touch-feedback-shape  />
+			[29] (184,136)<div  />
+[30] (249,136)<button class='ytChipShapeButtonReset' role='tab' />
+	[31] (249,136)<div >Unwatched />
+		Unwatched
+		[32] (249,136)<yt-touch-feedback-shape  />
+			[33] (249,136)<div  />
+[34] (318,136)<button class='ytChipShapeButtonReset' role='tab' />
+	[35] (318,136)<div >Watched />
+		Watched
+		[36] (318,136)<yt-touch-feedback-shape  />
+			[37] (318,136)<div  />
+[38] (404,136)<button class='ytChipShapeButtonReset' role='tab' />
+	[39] (404,136)<div >Recently uploaded />
+		Recently uploaded
+		[40] (404,136)<yt-touch-feedback-shape  />
+			[41] (404,136)<div  />
+[42] (479,136)<button class='ytChipShapeButtonReset' role='tab' />
+	[43] (479,136)<div >Live />
+		Live
+		[44] (479,136)<yt-touch-feedback-shape  />
+			[45] (479,136)<div  />
+[46] (937,138)<button aria-label='Search filters' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-trailing yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	Filters
+	[47] (937,138)<yt-touch-feedback-shape  />
+		[48] (937,138)<div  />
+[49] (710,272)<feed-ad-metadata-view-model  />
+	[50] (710,272)<div  />
+		[51] (701,232)<span  />
+			[52] (542,232)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' />
+				[53] (542,232)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' href='https://www.googleadservices.com/pagead/aclk?sa=L&ai=CX2a_nlvSabKsIMCYieoPq57HqQffu8nehAG93tOwthWwkB8QASAAYMmGgIDco5QRggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAdyv5J8DqAMEyAMKqgS5Ak_Q_PPjke_Jf5_QqvoHdBBvcDq-fCHvetyKVPIgq9GZJWxslAwFOsk8W1LyuKuEsqlTwZjxr6a9htpi8FVCp4NtVLwcRW7d-y9MSh2cV0XvhdFE-w3VbF4StdhLMdB_zIvMNJGN8g_YfOC0rMhxC8uEsW8Lft2avlerjMgvx3FaKR4-5Ot6MDgSbKgVCp2WNpYhSQ1Zs-XlHzXTp-ZewjxlJhT9UZAaPplDyczcUXtqUvlRRAdbh5lanN6Ij3_Jo1NNC1sHIsxEWPD7An_160CTjUmqjDeYlyAiC4BE05XTY0q5vQCgiIRYfb4BGB1JeCcMbKLGs1ey0yYIGE6BgfrHiTCfKbn6zA9AQjtB88pO6-0eMsUIJ7jY4RyzEau78SoB-74eNPWdd-Z1baXyMZHUzMN9E19qckOIBdDQlO5UkgUHCBN4rNeFK6AGboAHzNuqKogHAZAHAqgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH5ryxAqgHyrqxAqgH_bKxAqgH97ixAqgH-LixAqgHyM-xAqgHyc-xAqgHreCxAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuGxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAerxRuoB7ehsQKoB9WpsQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQLSCDYIgNGAQBACGFoyCIOChI6AgIAIOhGK2ICAgIAEgMCAgICAgIACKkjZoNI1UBRYgOT-8-DWkwOaCSFodHRwczovL3d3dy5odWJzcG90LmNvbS9jcm0vZTAxMGGxCd7GyJye5taQyAkAyAmKApgLAboLXwgDEAUYBCAIKAEwHEABSABQAVhOYABoAHABiAEAmAEBogErCh0IASgB2rgEFTITOhEKDygwSOWFhaHoCpgZAbggAYABAdABAagCBcACAtgBAYACAYgCBroDBXZpYXRs0AsSogw9IAFIAWIbChljb20uaHVic3BvdC5DUk1BcHBSZWxlYXNlahUKE2NvbS5odWJzcG90LmFuZHJvaWR4AYgBAdIMAhAB2gwlCgoQ4KuKmp6i-7xjEgIBAxoNGNDQlO5UILaDkpquBUABSgIQH5oNARKqDQJVU8gNAdINiAJodHRwczovL3d3dy5odWJzcG90LmNvbS9jcm0vZTAxMGE_dXRtX3NvdXJjZT1kZW1hbmRnZW4mdXRtX21lZGl1bT1wYWlkJnV0bV9jYW1wYWlnbj1DUk1fUG9ydGFsc19FTl9OQU1fTkFNX0RlbWFuZEdlbl9WYXJpb3VzX2dnMDExMF9jXzIyNzc5NjAzMDI0XyZ1dG1faWQ9ODAwMTIzMTU1NjQzJnV0bV9jb250ZW50PXtjb250ZW50fSZjcV9jbXA9MjI3Nzk2MDMwMjQmY3FfcGxhYz0mY3FfbmV0PSZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjI3Nzk2MDMwMjS4E____________wGwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXFggDGAEgASgBMAE4AUABSAFQAVgBYAKgFwGpFxUyhWGlrvFeuhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=Cj0KCQjwkMjOBhC5ARIsADIdb3cdtveu2-P0o7BgYKSD39alOYrqMgmq0hPN8GMOV30oEQQ3BrDU7Q0aAhWXEALw_wcB&num=1&cid=CAESvAHg9vLo8yX7jKwHwFhUuQb4hEChrMh-YMnqKLYwv0w_fl0WPbapA66-k9IsZIzDujvjdk-yCkZanPkNfWB1Gk4oOLnvnQGwaHWEr8rC65D6u2-41AxHf0w8yWwV7S20tqUufVi3GYDwvf9OvrqWIejbuky7Xe6JXdQ5ATrD-Qerhra0cFmisWtEXRprMlnG9uBFBhRhmcJZVeeuA8OBUCmgQQjhb2hAiEMBtvQT6Y_CFzWBuM01naewjjt-9w&sig=AOD64_0brVqv75A0WYeTZkcvnKhMyPfpLg&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D'>Connect and Engage Customers />
+		[54] (701,275)<span  />
+			[55] (570,275)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' />
+				[56] (570,275)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' href='https://www.googleadservices.com/pagead/aclk?sa=L&ai=CX2a_nlvSabKsIMCYieoPq57HqQffu8nehAG93tOwthWwkB8QASAAYMmGgIDco5QRggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAdyv5J8DqAMEyAMKqgS5Ak_Q_PPjke_Jf5_QqvoHdBBvcDq-fCHvetyKVPIgq9GZJWxslAwFOsk8W1LyuKuEsqlTwZjxr6a9htpi8FVCp4NtVLwcRW7d-y9MSh2cV0XvhdFE-w3VbF4StdhLMdB_zIvMNJGN8g_YfOC0rMhxC8uEsW8Lft2avlerjMgvx3FaKR4-5Ot6MDgSbKgVCp2WNpYhSQ1Zs-XlHzXTp-ZewjxlJhT9UZAaPplDyczcUXtqUvlRRAdbh5lanN6Ij3_Jo1NNC1sHIsxEWPD7An_160CTjUmqjDeYlyAiC4BE05XTY0q5vQCgiIRYfb4BGB1JeCcMbKLGs1ey0yYIGE6BgfrHiTCfKbn6zA9AQjtB88pO6-0eMsUIJ7jY4RyzEau78SoB-74eNPWdd-Z1baXyMZHUzMN9E19qckOIBdDQlO5UkgUHCBN4rNeFK6AGboAHzNuqKogHAZAHAqgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH5ryxAqgHyrqxAqgH_bKxAqgH97ixAqgH-LixAqgHyM-xAqgHyc-xAqgHreCxAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuGxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAerxRuoB7ehsQKoB9WpsQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQLSCDYIgNGAQBACGFoyCIOChI6AgIAIOhGK2ICAgIAEgMCAgICAgIACKkjZoNI1UBRYgOT-8-DWkwOaCSFodHRwczovL3d3dy5odWJzcG90LmNvbS9jcm0vZTAxMGGxCd7GyJye5taQyAkAyAmKApgLAboLXwgDEAUYBCAIKAEwHEABSABQAVhOYABoAHABiAEAmAEBogErCh0IASgB2rgEFTITOhEKDygwSOWFhaHoCpgZAbggAYABAdABAagCBcACAtgBAYACAYgCBroDBXZpYXRs0AsSogw9IAFIAWIbChljb20uaHVic3BvdC5DUk1BcHBSZWxlYXNlahUKE2NvbS5odWJzcG90LmFuZHJvaWR4AYgBAdIMAhAB2gwlCgoQ4KuKmp6i-7xjEgIBAxoNGNDQlO5UILaDkpquBUABSgIQH5oNARKqDQJVU8gNAdINiAJodHRwczovL3d3dy5odWJzcG90LmNvbS9jcm0vZTAxMGE_dXRtX3NvdXJjZT1kZW1hbmRnZW4mdXRtX21lZGl1bT1wYWlkJnV0bV9jYW1wYWlnbj1DUk1fUG9ydGFsc19FTl9OQU1fTkFNX0RlbWFuZEdlbl9WYXJpb3VzX2dnMDExMF9jXzIyNzc5NjAzMDI0XyZ1dG1faWQ9ODAwMTIzMTU1NjQzJnV0bV9jb250ZW50PXtjb250ZW50fSZjcV9jbXA9MjI3Nzk2MDMwMjQmY3FfcGxhYz0mY3FfbmV0PSZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjI3Nzk2MDMwMjS4E____________wGwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXFggDGAEgASgBMAE4AUABSAFQAVgBYAKgFwGpFxUyhWGlrvFeuhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=Cj0KCQjwkMjOBhC5ARIsADIdb3cdtveu2-P0o7BgYKSD39alOYrqMgmq0hPN8GMOV30oEQQ3BrDU7Q0aAhWXEALw_wcB&num=1&cid=CAESvAHg9vLo8yX7jKwHwFhUuQb4hEChrMh-YMnqKLYwv0w_fl0WPbapA66-k9IsZIzDujvjdk-yCkZanPkNfWB1Gk4oOLnvnQGwaHWEr8rC65D6u2-41AxHf0w8yWwV7S20tqUufVi3GYDwvf9OvrqWIejbuky7Xe6JXdQ5ATrD-Qerhra0cFmisWtEXRprMlnG9uBFBhRhmcJZVeeuA8OBUCmgQQjhb2hAiEMBtvQT6Y_CFzWBuM01naewjjt-9w&sig=AOD64_0brVqv75A0WYeTZkcvnKhMyPfpLg&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D'>HubSpot's Smart CRM software is built to help you grow better. />
+		[57] (701,311)<div  />
+			[58] (474,318)<ad-badge-view-model  />
+				[59] (474,318)<badge-shape  />
+					[60] (469,318)<div >Sponsored />
+			[61] (516,318)<ad-details-line-view-model  />
+				[62] (516,318)<span class='yt-core-attributed-string ytwAdDetailsLineViewModelHostTextStyleStandard yt-core-attributed-string--white-space-pre-wrap' role='text'>HubSpot />
+	[63] (966,231)<div  />
+		[64] (966,231)<button-view-model  />
+			[65] (966,231)<button aria-label='My Ad Center' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+				[66] (966,231)<yt-touch-feedback-shape  />
+					[67] (966,231)<div  />
+[68] (253,899)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=jBsapik6-bw&pp=ygUgd2luY2hhbSB1ayBsaW1pdGVkIGNvbXBhbnkgc3BhaW4%3D' id='thumbnail' />
+[69] (710,768)<div  />
+	[70] (710,705)<div  />
+		[71] (710,690)<div  />
+			[72] (693,690)<h3  />
+				[73] (693,690)<a aria-label='Running a UK Ltd Company? Spain's Digital Nomad Visa Just Got More Complicated 4 minutes, 41 seconds' class='yt-simple-endpoint style-scope ytd-video-renderer' href='/watch?v=jBsapik6-bw&pp=ygUgd2luY2hhbSB1ayBsaW1pdGVkIGNvbXBhbnkgc3BhaW4%3D' id='video-title' title='Running a UK Ltd Company? Spain's Digital Nomad Visa Just Got More Complicated' />
+					[74] (693,690)<yt-formatted-string >Running a UK Ltd Company? Spain's Digital Nomad Visa Just Got More Complicated />
+		[75] (710,726)<ytd-video-meta-block  />
+			[76] (710,726)<div  />
+				[77] (499,726)<div  />
+					[78] (468,726)<span >274 views />
+					[79] (519,726)<span >3 months ago />
+	[80] (710,783)<div  />
+		[81] (460,783)<a aria-label='Go to channel SpainGuru' class='style-scope ytd-video-renderer' href='/@SpainGuru' id='channel-thumbnail' />
+			[82] (457,780)<yt-img-shadow  />
+				[83] (457,780)<img  />
+		[84] (492,783)<ytd-channel-name  />
+			[85] (492,783)<div  />
+				[86] (492,783)<div  />
+					[87] (492,783)<yt-formatted-string  />
+						[88] (492,783)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@SpainGuru'>SpainGuru />
+	[89] (710,840)<div  />
+		[90] (704,840)<yt-formatted-string  />
+			[91] (457,840)<span >Can />
+			[92] (479,840)<span >UK Ltd />
+			[93] (548,840)<span >company directors apply for />
+			[94] (619,840)<span >Spain's />
+			[95] (780,840)<span >Digital Nomad Visa? Yes—but with careful structuring to avoid tax pitfalls. # />
+			[96] (939,840)<span >Spain />
+			[97] (955,840)<span >... />
+
+</current_dom>

@@ -1,0 +1,204 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (19,30)<button aria-label='Guide' class='style-scope yt-icon-button' id='button' />
+	[1] (19,30)<yt-icon  />
+[2] (480,30)<div  />
+	[3] (478,30)<form  />
+		[4] (478,30)<input class='ytSearchboxComponentInput yt-searchbox-input title' role='combobox' />
+	[5] (622,30)<div  />
+		[6] (622,30)<button class='ytSearchboxComponentClearButton' />
+			[7] (622,30)<yt-touch-feedback-shape  />
+				[8] (622,30)<div  />
+[9] (647,30)<button aria-label='Search' class='ytSearchboxComponentSearchButton' />
+	[10] (647,30)<span  />
+[11] (244,90)<button class='ytChipShapeButtonReset' role='tab' />
+	[12] (244,90)<div >All />
+		All
+		[13] (244,90)<yt-touch-feedback-shape  />
+			[14] (244,90)<div  />
+[15] (275,90)<button class='ytChipShapeButtonReset' role='tab' />
+	[16] (275,90)<div >Shorts />
+		Shorts
+		[17] (275,90)<yt-touch-feedback-shape  />
+			[18] (275,90)<div  />
+[19] (314,90)<button class='ytChipShapeButtonReset' role='tab' />
+	[20] (314,90)<div >Videos />
+		Videos
+		[21] (314,90)<yt-touch-feedback-shape  />
+			[22] (314,90)<div  />
+[23] (360,90)<button class='ytChipShapeButtonReset' role='tab' />
+	[24] (360,90)<div >Unwatched />
+		Unwatched
+		[25] (360,90)<yt-touch-feedback-shape  />
+			[26] (360,90)<div  />
+[27] (409,90)<button class='ytChipShapeButtonReset' role='tab' />
+	[28] (409,90)<div >Watched />
+		Watched
+		[29] (409,90)<yt-touch-feedback-shape  />
+			[30] (409,90)<div  />
+[31] (470,90)<button class='ytChipShapeButtonReset' role='tab' />
+	[32] (470,90)<div >Recently uploaded />
+		Recently uploaded
+		[33] (470,90)<yt-touch-feedback-shape  />
+			[34] (470,90)<div  />
+[35] (524,90)<button class='ytChipShapeButtonReset' role='tab' />
+	[36] (524,90)<div >Live />
+		Live
+		[37] (524,90)<yt-touch-feedback-shape  />
+			[38] (524,90)<div  />
+[39] (822,91)<button aria-label='Next' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[40] (822,91)<yt-touch-feedback-shape  />
+		[41] (822,91)<div  />
+[42] (859,91)<button aria-label='Search filters' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-trailing yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	Filters
+	[43] (859,91)<yt-touch-feedback-shape  />
+		[44] (859,91)<div  />
+[45] (559,292)<div  />
+	[46] (367,292)<a class='yt-lockup-view-model__content-image' href='https://www.googleadservices.com/pagead/aclk?sa=L&ai=C7j0_sI3NacmuH86ijrEPksSnqAnDw46HhgH4wNipgxWwkB8QASAAYMn2t4fco5QRggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAeuhlK0BqAMEyAMKqgTNAk_QMLx1bVJpGB_uPcofmE21vh389T83_Xpw70XlCAXtC4ro6PzmOtSc_OmnKyj6aiRg-aGvSplIViMZofjHdShmift82aQNz2izDJzNKFY6Naw9rQnsayvLxHNjoBvhQMEv_yugItIYM8o4xXmhnNItpQmspZxahrZ7HhMG-sTcPmIKRQR2V40e6XCZqKRIpryATjk7BRffCG2oDk8Hd2-TRRq1FR_X5cz2SfJ99JpLwu1YWkLVu6gwt5ueuJ54fQh3xKnuDQGarnVLkFhnEJvFlsqBJRzi6x9__sGVPG39pxvoYMcrj7qunOFfyd007k3OJUy0tUCccj2YKbycO2GIFF6jS80wuiwXYWkVEN2hLHF51cIxSTFKLqEdF3r9DeMIVKCaUBFD6tVfGHNa5BKq8K9pi2jBTDitPvRJfeLSr-wkXV7K3pexSOL88ogF4pGGrlWSBQgIE3jixOTTAqAGoQGAB6Po_9ICiAcBkAcCqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAfmvLECqAfKurECqAf9srECqAf3uLECqAf4uLECqAfIz7ECqAfJz7ECqAet4LECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4bECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHq8UbqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKSCAt6R2FCUFdXcVlZTagIAdIINgiA0YBAEAIYWjIIg4KEjoCAgAg6EYrYgICAgASAwICAgICAgAIqSNmg0jVQFFiQiYr6y82TA5oJGmh0dHBzOi8vcml2ZXJzaWRlLmNvbS9ob21lsQnf3qi89KxkI8gJF8gJjwHICcIBmAsBugtjCAMQBRgEIAcoATAcQAFIAFABWH1gAGgAcAGIAQCYAQGiASsKHQgBKAHauAQVMhM6EQoPKDBI5YWFoegKmBkBuCABgAEB0AEBqAIFwAIC2AEBgAIBiAIGugMJdmljYmZ6YWNh0AsSogwtIAFIAWISChBSVlMtUml2ZXJzaWRlLmZtag4KDHJpdmVyc2lkZS5mbXgBiAEB0gwCEAHaDCYKCxCAyuLnqKaljMoBEgIBAxoNGOKRhq5VILf2y8LMBUABSgIQH5oNARKqDQJVU8gNAdINigNodHRwczovL3JpdmVyc2lkZS5jb20vaG9tZT9jYW1wYWlnbl9pZD0yMjkxMzU4MzMzMCZhZF9pZD03OTM2OTIwMTM4NTImdXRtX3Rlcm09JnV0bV9jYW1wYWlnbj1nb29nbGVfeW91dHViZV91c19nZW8tdGVzdF9kZXNrdG9wX3BvZGNhc3RpbmcmdXRtX3NvdXJjZT15b3V0dWJlJnV0bV9tZWRpdW09Y3BjJnV0bV9jb250ZW50PTc5MzY5MjAxMzg1MiZoc2FfYWNjPTg3OTQxODE5NzQmaHNhX2NhbT0yMjkxMzU4MzMzMCZoc2FfZ3JwPTE5MjMzOTQ0MjQ4NyZoc2FfYWQ9NzkzNjkyMDEzODUyJmhzYV9zcmM9JmhzYV90Z3Q9YXVkLTI0Mzg2OTYwOTAyODEmaHNhX2t3PSZoc2FfbXQ9JmhzYV9uZXQ9YWR3b3JkcyZoc2FfdmVyPTMmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIyOTEzNTgzMzMwuBP___________8BsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBqReWtvMgmbRqxboXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=CjwKCAjwhLPOBhBiEiwA8_wJHEIdCV-3cDiHMHSVaoV59c9KNozvDor_Azisy5KNMpMZgwc6AvYplxoClLkQAvD_BwE&num=1&cid=CAESvAHg9gFI-PtPS-baZ9tmtSJIRFJKPpjZ5vXGPvy3mi3SWvh-OtjHCDX_WphgHKa8wQ82e7r9qN0OCtxHrv83OtZZVwczPKl4h3g5OAwnI2GWDK96IxQAszPFbbz0HiLhOQubyhnv3WVFp2yJDFKy_B1zZ7vtplAMNHck15IZLxE8i2jsxYbaLDpidwI-og3_cPjrnQa6f1FQVC_nvMWvXBbbS8dl3JxZxCRSYxjAJMcLZMFDca-TCOfDEGvECw&ad_cpn=%5BCPN%5D&sig=AOD64_2Py-lLpF3VkVTgRBy05qdG5qR_nA&ctype=110&video_id=zGaBPWWqYYM&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=21&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D' />
+		[47] (363,292)<yt-thumbnail-view-model  />
+			[48] (363,292)<div  />
+			[49] (479,415)<div  />
+				[50] (479,415)<button-view-model  />
+					[51] (479,415)<button class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--overlay-dark yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+						[52] (479,415)<yt-touch-feedback-shape  />
+							[53] (479,415)<div  />
+	[54] (693,292)<div  />
+		[55] (693,183)<feed-ad-metadata-view-model  />
+			[56] (693,183)<div  />
+				[57] (687,153)<span  />
+					[58] (646,153)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' />
+						[59] (646,153)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' href='https://www.googleadservices.com/pagead/aclk?sa=L&ai=C7j0_sI3NacmuH86ijrEPksSnqAnDw46HhgH4wNipgxWwkB8QASAAYMn2t4fco5QRggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAeuhlK0BqAMEyAMKqgTNAk_QMLx1bVJpGB_uPcofmE21vh389T83_Xpw70XlCAXtC4ro6PzmOtSc_OmnKyj6aiRg-aGvSplIViMZofjHdShmift82aQNz2izDJzNKFY6Naw9rQnsayvLxHNjoBvhQMEv_yugItIYM8o4xXmhnNItpQmspZxahrZ7HhMG-sTcPmIKRQR2V40e6XCZqKRIpryATjk7BRffCG2oDk8Hd2-TRRq1FR_X5cz2SfJ99JpLwu1YWkLVu6gwt5ueuJ54fQh3xKnuDQGarnVLkFhnEJvFlsqBJRzi6x9__sGVPG39pxvoYMcrj7qunOFfyd007k3OJUy0tUCccj2YKbycO2GIFF6jS80wuiwXYWkVEN2hLHF51cIxSTFKLqEdF3r9DeMIVKCaUBFD6tVfGHNa5BKq8K9pi2jBTDitPvRJfeLSr-wkXV7K3pexSOL88ogF4pGGrlWSBQgIE3jixOTTAqAGoQGAB6Po_9ICiAcBkAcCqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAfmvLECqAfKurECqAf9srECqAf3uLECqAf4uLECqAfIz7ECqAfJz7ECqAet4LECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4bECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHq8UbqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKSCAt6R2FCUFdXcVlZTagIAdIINgiA0YBAEAIYWjIIg4KEjoCAgAg6EYrYgICAgASAwICAgICAgAIqSNmg0jVQFFiQiYr6y82TA5oJGmh0dHBzOi8vcml2ZXJzaWRlLmNvbS9ob21lsQnf3qi89KxkI8gJF8gJjwHICcIBmAsBugtjCAMQBRgEIAcoATAcQAFIAFABWH1gAGgAcAGIAQCYAQGiASsKHQgBKAHauAQVMhM6EQoPKDBI5YWFoegKmBkBuCABgAEB0AEBqAIFwAIC2AEBgAIBiAIGugMJdmljYmZ6YWNh0AsSogwtIAFIAWISChBSVlMtUml2ZXJzaWRlLmZtag4KDHJpdmVyc2lkZS5mbXgBiAEB0gwCEAHaDCYKCxCAyuLnqKaljMoBEgIBAxoNGOKRhq5VILf2y8LMBUABSgIQH5oNARKqDQJVU8gNAdINigNodHRwczovL3JpdmVyc2lkZS5jb20vaG9tZT9jYW1wYWlnbl9pZD0yMjkxMzU4MzMzMCZhZF9pZD03OTM2OTIwMTM4NTImdXRtX3Rlcm09JnV0bV9jYW1wYWlnbj1nb29nbGVfeW91dHViZV91c19nZW8tdGVzdF9kZXNrdG9wX3BvZGNhc3RpbmcmdXRtX3NvdXJjZT15b3V0dWJlJnV0bV9tZWRpdW09Y3BjJnV0bV9jb250ZW50PTc5MzY5MjAxMzg1MiZoc2FfYWNjPTg3OTQxODE5NzQmaHNhX2NhbT0yMjkxMzU4MzMzMCZoc2FfZ3JwPTE5MjMzOTQ0MjQ4NyZoc2FfYWQ9NzkzNjkyMDEzODUyJmhzYV9zcmM9JmhzYV90Z3Q9YXVkLTI0Mzg2OTYwOTAyODEmaHNhX2t3PSZoc2FfbXQ9JmhzYV9uZXQ9YWR3b3JkcyZoc2FfdmVyPTMmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIyOTEzNTgzMzMwuBP___________8BsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBqReWtvMgmbRqxboXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=CjwKCAjwhLPOBhBiEiwA8_wJHEIdCV-3cDiHMHSVaoV59c9KNozvDor_Azisy5KNMpMZgwc6AvYplxoClLkQAvD_BwE&num=1&cid=CAESvAHg9gFI-PtPS-baZ9tmtSJIRFJKPpjZ5vXGPvy3mi3SWvh-OtjHCDX_WphgHKa8wQ82e7r9qN0OCtxHrv83OtZZVwczPKl4h3g5OAwnI2GWDK96IxQAszPFbbz0HiLhOQubyhnv3WVFp2yJDFKy_B1zZ7vtplAMNHck15IZLxE8i2jsxYbaLDpidwI-og3_cPjrnQa6f1FQVC_nvMWvXBbbS8dl3JxZxCRSYxjAJMcLZMFDca-TCOfDEGvECw&ad_cpn=%5BCPN%5D&sig=AOD64_2Py-lLpF3VkVTgRBy05qdG5qR_nA&ctype=110&video_id=zGaBPWWqYYM&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D'>All your podcasting needs covered: Record, edit, transcribe, and more. />
+				[60] (687,182)<span  />
+					[61] (610,182)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' />
+						[62] (610,182)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' href='https://www.googleadservices.com/pagead/aclk?sa=L&ai=C7j0_sI3NacmuH86ijrEPksSnqAnDw46HhgH4wNipgxWwkB8QASAAYMn2t4fco5QRggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAeuhlK0BqAMEyAMKqgTNAk_QMLx1bVJpGB_uPcofmE21vh389T83_Xpw70XlCAXtC4ro6PzmOtSc_OmnKyj6aiRg-aGvSplIViMZofjHdShmift82aQNz2izDJzNKFY6Naw9rQnsayvLxHNjoBvhQMEv_yugItIYM8o4xXmhnNItpQmspZxahrZ7HhMG-sTcPmIKRQR2V40e6XCZqKRIpryATjk7BRffCG2oDk8Hd2-TRRq1FR_X5cz2SfJ99JpLwu1YWkLVu6gwt5ueuJ54fQh3xKnuDQGarnVLkFhnEJvFlsqBJRzi6x9__sGVPG39pxvoYMcrj7qunOFfyd007k3OJUy0tUCccj2YKbycO2GIFF6jS80wuiwXYWkVEN2hLHF51cIxSTFKLqEdF3r9DeMIVKCaUBFD6tVfGHNa5BKq8K9pi2jBTDitPvRJfeLSr-wkXV7K3pexSOL88ogF4pGGrlWSBQgIE3jixOTTAqAGoQGAB6Po_9ICiAcBkAcCqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAfmvLECqAfKurECqAf9srECqAf3uLECqAf4uLECqAfIz7ECqAfJz7ECqAet4LECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4bECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHq8UbqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKSCAt6R2FCUFdXcVlZTagIAdIINgiA0YBAEAIYWjIIg4KEjoCAgAg6EYrYgICAgASAwICAgICAgAIqSNmg0jVQFFiQiYr6y82TA5oJGmh0dHBzOi8vcml2ZXJzaWRlLmNvbS9ob21lsQnf3qi89KxkI8gJF8gJjwHICcIBmAsBugtjCAMQBRgEIAcoATAcQAFIAFABWH1gAGgAcAGIAQCYAQGiASsKHQgBKAHauAQVMhM6EQoPKDBI5YWFoegKmBkBuCABgAEB0AEBqAIFwAIC2AEBgAIBiAIGugMJdmljYmZ6YWNh0AsSogwtIAFIAWISChBSVlMtUml2ZXJzaWRlLmZtag4KDHJpdmVyc2lkZS5mbXgBiAEB0gwCEAHaDCYKCxCAyuLnqKaljMoBEgIBAxoNGOKRhq5VILf2y8LMBUABSgIQH5oNARKqDQJVU8gNAdINigNodHRwczovL3JpdmVyc2lkZS5jb20vaG9tZT9jYW1wYWlnbl9pZD0yMjkxMzU4MzMzMCZhZF9pZD03OTM2OTIwMTM4NTImdXRtX3Rlcm09JnV0bV9jYW1wYWlnbj1nb29nbGVfeW91dHViZV91c19nZW8tdGVzdF9kZXNrdG9wX3BvZGNhc3RpbmcmdXRtX3NvdXJjZT15b3V0dWJlJnV0bV9tZWRpdW09Y3BjJnV0bV9jb250ZW50PTc5MzY5MjAxMzg1MiZoc2FfYWNjPTg3OTQxODE5NzQmaHNhX2NhbT0yMjkxMzU4MzMzMCZoc2FfZ3JwPTE5MjMzOTQ0MjQ4NyZoc2FfYWQ9NzkzNjkyMDEzODUyJmhzYV9zcmM9JmhzYV90Z3Q9YXVkLTI0Mzg2OTYwOTAyODEmaHNhX2t3PSZoc2FfbXQ9JmhzYV9uZXQ9YWR3b3JkcyZoc2FfdmVyPTMmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIyOTEzNTgzMzMwuBP___________8BsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBqReWtvMgmbRqxboXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=CjwKCAjwhLPOBhBiEiwA8_wJHEIdCV-3cDiHMHSVaoV59c9KNozvDor_Azisy5KNMpMZgwc6AvYplxoClLkQAvD_BwE&num=1&cid=CAESvAHg9gFI-PtPS-baZ9tmtSJIRFJKPpjZ5vXGPvy3mi3SWvh-OtjHCDX_WphgHKa8wQ82e7r9qN0OCtxHrv83OtZZVwczPKl4h3g5OAwnI2GWDK96IxQAszPFbbz0HiLhOQubyhnv3WVFp2yJDFKy_B1zZ7vtplAMNHck15IZLxE8i2jsxYbaLDpidwI-og3_cPjrnQa6f1FQVC_nvMWvXBbbS8dl3JxZxCRSYxjAJMcLZMFDca-TCOfDEGvECw&ad_cpn=%5BCPN%5D&sig=AOD64_2Py-lLpF3VkVTgRBy05qdG5qR_nA&ctype=110&video_id=zGaBPWWqYYM&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D'>Edit, transcribe, and share your podcasts seamlessly with our integrated tools. />
+				[63] (687,209)<div  />
+					[64] (508,213)<div  />
+						[65] (508,213)<ad-avatar-view-model  />
+							[66] (508,213)<yt-avatar-shape  />
+								[67] (508,213)<div aria-label='Riverside' class='yt-spec-avatar-shape yt-spec-avatar-shape__button yt-spec-avatar-shape__button--button-extra-small yt-spec-avatar-shape__button--tappable' role='button' />
+									[68] (508,213)<div  />
+										[69] (508,213)<div  />
+					[70] (537,213)<ad-badge-view-model  />
+						[71] (537,213)<badge-shape  />
+							[72] (534,213)<div >Sponsored />
+					[73] (568,213)<ad-details-line-view-model  />
+						[74] (568,213)<span class='yt-core-attributed-string ytwAdDetailsLineViewModelHostTextStyleStandard yt-core-attributed-string--white-space-pre-wrap' role='text'>Riverside />
+			[75] (880,152)<div  />
+				[76] (880,152)<button-view-model  />
+					[77] (880,152)<button aria-label='My Ad Center' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+						[78] (880,152)<yt-touch-feedback-shape  />
+							[79] (880,152)<div  />
+		[80] (693,336)<lockup-attachments-view-model  />
+			[81] (693,259)<div  />
+				[82] (597,259)<ad-button-group-view-model  />
+					[83] (548,259)<div  />
+						[84] (548,259)<ad-button-view-model  />
+							[85] (548,259)<a aria-label='Watch' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--enable-backdrop-filter-experiment' href='/watch?v=zGaBPWWqYYM' />
+								Watch
+								[86] (548,259)<yt-touch-feedback-shape  />
+									[87] (548,259)<div  />
+					[88] (647,259)<div  />
+						[89] (647,259)<ad-button-view-model  />
+							[90] (647,259)<a aria-label='Visit site' class='yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--enable-backdrop-filter-experiment' href='https://www.googleadservices.com/pagead/aclk?sa=L&ai=C7j0_sI3NacmuH86ijrEPksSnqAnDw46HhgH4wNipgxWwkB8QASAAYMn2t4fco5QRggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAeuhlK0BqAMEyAMKqgTNAk_QMLx1bVJpGB_uPcofmE21vh389T83_Xpw70XlCAXtC4ro6PzmOtSc_OmnKyj6aiRg-aGvSplIViMZofjHdShmift82aQNz2izDJzNKFY6Naw9rQnsayvLxHNjoBvhQMEv_yugItIYM8o4xXmhnNItpQmspZxahrZ7HhMG-sTcPmIKRQR2V40e6XCZqKRIpryATjk7BRffCG2oDk8Hd2-TRRq1FR_X5cz2SfJ99JpLwu1YWkLVu6gwt5ueuJ54fQh3xKnuDQGarnVLkFhnEJvFlsqBJRzi6x9__sGVPG39pxvoYMcrj7qunOFfyd007k3OJUy0tUCccj2YKbycO2GIFF6jS80wuiwXYWkVEN2hLHF51cIxSTFKLqEdF3r9DeMIVKCaUBFD6tVfGHNa5BKq8K9pi2jBTDitPvRJfeLSr-wkXV7K3pexSOL88ogF4pGGrlWSBQgIE3jixOTTAqAGoQGAB6Po_9ICiAcBkAcCqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAfmvLECqAfKurECqAf9srECqAf3uLECqAf4uLECqAfIz7ECqAfJz7ECqAet4LECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4bECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHq8UbqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKSCAt6R2FCUFdXcVlZTagIAdIINgiA0YBAEAIYWjIIg4KEjoCAgAg6EYrYgICAgASAwICAgICAgAIqSNmg0jVQFFiQiYr6y82TA5oJGmh0dHBzOi8vcml2ZXJzaWRlLmNvbS9ob21lsQnf3qi89KxkI8gJF8gJjwHICcIBmAsBugtjCAMQBRgEIAcoATAcQAFIAFABWH1gAGgAcAGIAQCYAQGiASsKHQgBKAHauAQVMhM6EQoPKDBI5YWFoegKmBkBuCABgAEB0AEBqAIFwAIC2AEBgAIBiAIGugMJdmljYmZ6YWNh0AsSogwtIAFIAWISChBSVlMtUml2ZXJzaWRlLmZtag4KDHJpdmVyc2lkZS5mbXgBiAEB0gwCEAHaDCYKCxCAyuLnqKaljMoBEgIBAxoNGOKRhq5VILf2y8LMBUABSgIQH5oNARKqDQJVU8gNAdINigNodHRwczovL3JpdmVyc2lkZS5jb20vaG9tZT9jYW1wYWlnbl9pZD0yMjkxMzU4MzMzMCZhZF9pZD03OTM2OTIwMTM4NTImdXRtX3Rlcm09JnV0bV9jYW1wYWlnbj1nb29nbGVfeW91dHViZV91c19nZW8tdGVzdF9kZXNrdG9wX3BvZGNhc3RpbmcmdXRtX3NvdXJjZT15b3V0dWJlJnV0bV9tZWRpdW09Y3BjJnV0bV9jb250ZW50PTc5MzY5MjAxMzg1MiZoc2FfYWNjPTg3OTQxODE5NzQmaHNhX2NhbT0yMjkxMzU4MzMzMCZoc2FfZ3JwPTE5MjMzOTQ0MjQ4NyZoc2FfYWQ9NzkzNjkyMDEzODUyJmhzYV9zcmM9JmhzYV90Z3Q9YXVkLTI0Mzg2OTYwOTAyODEmaHNhX2t3PSZoc2FfbXQ9JmhzYV9uZXQ9YWR3b3JkcyZoc2FfdmVyPTMmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIyOTEzNTgzMzMwuBP___________8BsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBqReWtvMgmbRqxboXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=CjwKCAjwhLPOBhBiEiwA8_wJHEIdCV-3cDiHMHSVaoV59c9KNozvDor_Azisy5KNMpMZgwc6AvYplxoClLkQAvD_BwE&num=1&cid=CAESvAHg9gFI-PtPS-baZ9tmtSJIRFJKPpjZ5vXGPvy3mi3SWvh-OtjHCDX_WphgHKa8wQ82e7r9qN0OCtxHrv83OtZZVwczPKl4h3g5OAwnI2GWDK96IxQAszPFbbz0HiLhOQubyhnv3WVFp2yJDFKy_B1zZ7vtplAMNHck15IZLxE8i2jsxYbaLDpidwI-og3_cPjrnQa6f1FQVC_nvMWvXBbbS8dl3JxZxCRSYxjAJMcLZMFDca-TCOfDEGvECw&ad_cpn=%5BCPN%5D&sig=AOD64_2Py-lLpF3VkVTgRBy05qdG5qR_nA&ctype=110&video_id=zGaBPWWqYYM&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=8&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D' />
+								Visit site
+								[91] (647,259)<yt-touch-feedback-shape  />
+									[92] (647,259)<div  />
+[93] (363,619)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=llz9jHYSVb8&pp=ygUsaG93IHRvIHNlYXJjaCBnbWFpbCBmb3Igc2VuaW9ycyBzdGVwIGJ5IHN0ZXA%3D' id='thumbnail' />
+	[94] (363,767)<yt-image  />
+[95] (693,574)<div  />
+	[96] (693,490)<div  />
+		[97] (693,480)<div  />
+			[98] (640,480)<h3  />
+				[99] (640,480)<a aria-label='How to Use Gmail for Beginners (Step-by-Step Tutorial for Seniors) 9 minutes, 13 seconds' class='yt-simple-endpoint style-scope ytd-video-renderer' href='/watch?v=llz9jHYSVb8&pp=ygUsaG93IHRvIHNlYXJjaCBnbWFpbCBmb3Igc2VuaW9ycyBzdGVwIGJ5IHN0ZXA%3D' id='video-title' title='How to Use Gmail for Beginners (Step-by-Step Tutorial for Seniors)' />
+					[100] (640,480)<yt-formatted-string >How to Use Gmail for Beginners (Step-by-Step Tutorial for Seniors) />
+		[101] (693,504)<ytd-video-meta-block  />
+			[102] (693,504)<div  />
+				[103] (536,504)<div  />
+					[104] (516,504)<span >127 views />
+					[105] (550,504)<span >1 month ago />
+	[106] (693,537)<div  />
+		[107] (510,537)<a aria-label='Go to channel Senior Tech Help' class='style-scope ytd-video-renderer' href='/@SeniorTechHelp' id='channel-thumbnail' />
+		[108] (542,537)<ytd-channel-name  />
+			[109] (542,537)<div  />
+				[110] (542,537)<div  />
+					[111] (542,537)<yt-formatted-string  />
+						[112] (542,537)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@SeniorTechHelp'>Senior Tech Help />
+	[113] (693,569)<div  />
+		[114] (684,569)<yt-formatted-string  />
+			[115] (524,569)<span >If you're new to />
+			[116] (553,569)<span >Gmail />
+			[117] (616,569)<span >or feel unsure about email, this simple />
+			[118] (698,569)<span >step-by-step tutorial />
+			[119] (796,569)<span >will help you feel more confident. In this video, I ... />
+	[120] (693,598)<ytd-badge-supported-renderer  />
+		[121] (508,598)<div  />
+			[122] (508,598)<badge-shape aria-label='4K' class='yt-badge-shape yt-badge-shape--default yt-badge-shape--typography' role='img' />
+				[123] (508,598)<div >4K />
+	[124] (693,649)<div  />
+		[125] (693,649)<ytd-expandable-metadata-renderer  />
+			[126] (693,649)<div  />
+				[127] (683,649)<div  />
+					[128] (520,649)<div  />
+						[129] (520,649)<yt-img-shadow  />
+					[130] (554,649)<div  />
+						[131] (554,649)<yt-formatted-string  />
+							[132] (541,649)<span >8 />
+							[133] (556,649)<span >chapters />
+					[134] (717,649)<div class='style-scope ytd-expandable-metadata-renderer' id='collapsed-title' role='button' />
+						[135] (710,659)<yt-formatted-string >Introduction | What is Gmail? | Reading and Sending Email | Reply vs. Reply All | Archive vs. Delete | Staying Safe | Time to Practice | Your Calm Recap />
+				[136] (872,649)<div  />
+					[137] (872,649)<div  />
+						[138] (872,649)<ytd-button-renderer  />
+							[139] (872,649)<yt-button-shape  />
+								[140] (872,649)<button aria-label='More' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+									[141] (872,649)<yt-touch-feedback-shape  />
+										[142] (872,649)<div  />
+[143] (363,941)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=CtRgwJaW2N4&pp=ygUsaG93IHRvIHNlYXJjaCBnbWFpbCBmb3Igc2VuaW9ycyBzdGVwIGJ5IHN0ZXA%3D' id='thumbnail' />
+[144] (693,882)<div  />
+	[145] (693,813)<div  />
+		[146] (693,803)<div  />
+			[147] (574,803)<h3  />
+				[148] (574,803)<a aria-label='Gmail Tutorial for Beginners | 2023 11 minutes, 36 seconds' class='yt-simple-endpoint style-scope ytd-video-renderer' href='/watch?v=CtRgwJaW2N4&pp=ygUsaG93IHRvIHNlYXJjaCBnbWFpbCBmb3Igc2VuaW9ycyBzdGVwIGJ5IHN0ZXA%3D' id='video-title' title='Gmail Tutorial for Beginners | 2023' />
+					[149] (574,803)<yt-formatted-string >Gmail Tutorial for Beginners | 2023 />
+		[150] (693,827)<ytd-video-meta-block  />
+			[151] (693,827)<div  />
+				[152] (537,827)<div  />
+					[153] (518,827)<span >764K views />
+					[154] (553,827)<span >5 years ago />
+	[155] (693,859)<div  />
+		[156] (510,859)<a aria-label='Go to channel How Do You Do?' class='style-scope ytd-video-renderer' href='/@HowDoYouDo_' id='channel-thumbnail' />
+		[157] (542,859)<ytd-channel-name  />
+			[158] (542,859)<div  />
+				[159] (542,859)<div  />
+					[160] (542,859)<yt-formatted-string  />
+						[161] (542,859)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@HowDoYouDo_'>How Do You Do? />
+	[162] (693,892)<div  />
+		[163] (676,892)<yt-formatted-string  />
+			[164] (527,892)<span >Today's video is a />
+			[165] (571,892)<span >Gmail tutorial />
+			[166] (639,892)<span >for beginners! in 2023, Google and />
+			[167] (696,892)<span >Gmail />
+			[168] (777,892)<span >are more popular than ever especially with Google ... />
+	[169] (693,943)<div  />
+		[170] (693,943)<ytd-expandable-metadata-renderer  />
+			[171] (693,943)<div  />
+				[172] (683,943)<div  />
+					[173] (520,943)<div  />
+						[174] (520,943)<yt-img-shadow  />
+					[175] (556,943)<div  />
+						[176] (556,943)<yt-formatted-string  />
+							[177] (543,943)<span >12 />
+							[178] (559,943)<span >chapters />
+					[179] (718,943)<div class='style-scope ytd-expandable-metadata-renderer' id='collapsed-title' role='button'>Intro | Composing an E-mail | Auto-Fill (aka smart compose) | Undo Send | Schedule Send | Changing default text style | E-mail grouping | Adding an e-mail signature | Out of office message | E-mail forwarding | Finding and searching for mail | Outro />
+						Intro | Composing an E-mail | Auto-Fill (aka smart compose) | Undo Send | Schedule Send | Changing default text style | E-mail grouping | Adding an e-mail signature | Out of office message | E-mail forwarding | Finding and searching for mail | Outro
+				[180] (872,943)<div  />
+					[181] (872,943)<div  />
+						[182] (872,943)<ytd-button-renderer  />
+							[183] (872,943)<yt-button-shape  />
+								[184] (872,943)<button aria-label='More' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+									[185] (872,943)<yt-touch-feedback-shape  />
+										[186] (872,943)<div  />
+
+</current_dom>

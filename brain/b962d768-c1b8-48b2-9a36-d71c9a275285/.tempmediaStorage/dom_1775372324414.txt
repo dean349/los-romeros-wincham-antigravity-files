@@ -1,0 +1,88 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (475,144)<a href='http://20080905122221/mailto:marks@wincham.com' />
+	[1] (475,140)<img  />
+[2] (500,144)<a href='http://20080905122221/mailto:iht.it@wincham.com' />
+	[3] (500,140)<img  />
+[4] (525,144)<a href='http://20080905122221/mailto:spsales@wincham.com' />
+	[5] (525,140)<img  />
+[6] (398,168)<input id='virtual-keyboard' />
+[7] (297,353)<a href='ukproperty.asp?l=12&p=13' />
+	[8] (297,355)<font >UK Property Shop />
+[9] (406,353)<a href='spanishproperty.asp?l=14&p=15' />
+	[10] (406,355)<font >Spanish Property Shop />
+[11] (515,353)<a href='/asp/add-your-own-property.asp' />
+	[12] (515,355)<font >Sell Your Property />
+[13] (611,353)<a href='rentalmain.asp' />
+	[14] (611,355)<font >Property Lettings />
+[15] (707,353)<a href='/asp/default.asp?p=48' />
+	[16] (707,355)<font >New Developments />
+[17] (290,384)<a href='http://www.webcomsoftware.co.uk/login/agents/agent_signup.asp' />
+	[18] (290,386)<font >Agents />
+[19] (344,384)<a href='/asp/default.asp?p=28' />
+	[20] (344,386)<font >Google Earth />
+[21] (407,384)<a href='/asp/default.asp?p=19' />
+	[22] (407,386)<font >Virtual Tour />
+[23] (476,384)<a href='http://www.eurorelais.org/wincham' />
+	[24] (476,386)<font >Holiday Rentals />
+[25] (549,384)<a href='/asp/default.asp?p=34' />
+	[26] (549,386)<font >Cheap Flights />
+[27] (611,384)<a href='/asp/default.asp?p=66' />
+	[28] (611,386)<font >Car Rental />
+[29] (687,384)<a href='companies4sale.asp?l=19' />
+	[30] (687,386)<font >Property Companies />
+[31] (334,419)<a class='topnav1' href='default.asp?p=1' />
+	[32] (334,422)<font >Home />
+[33] (380,419)<a class='topnav1' href='default.asp?p=4' />
+	[34] (380,422)<font >About Us />
+[35] (432,419)<a class='topnav1' href='default.asp?p=38' />
+	[36] (432,422)<font >Services />
+[37] (476,419)<a class='topnav1' href='default.asp?p=5' />
+	[38] (476,422)<font >P.O.C />
+[39] (525,419)<a class='topnav1' href='default.asp?p=3' />
+	[40] (525,422)<font >Contact Us />
+[41] (575,419)<a class='topnav1' href='default.asp?p=16' />
+	[42] (575,422)<font >Links />
+[43] (624,419)<a class='topnav1' href='default.asp?p=45' />
+	[44] (624,422)<font >Useful Info. />
+[45] (673,418)<a href='search.asp' />
+	[46] (673,420)<font >Search />
+[47] (223,290)<input id='virtual-keyboard' />
+[48] (284,745)<a href='http://www.webcomsoftware.co.uk/areg.asp?fdc=wincham' />
+	[49] (278,731)<span >Click here to />
+	[50] (284,760)<span >Become an Agent />
+[51] (284,839)<a href='http://www.winchamiht.com/' />
+	[52] (284,820)<img  />
+[53] (297,889)<a href='http://www.wincham.com/asp/twood.asp' />
+	[54] (275,876)<span >Taylor />
+	[55] (297,890)<span >Woodrow    Developments />
+[56] (304,963)<a href='/asp/default.asp?p=66' />
+	[57] (284,950)<span >Car />
+	[58] (314,950)<span >Rental />
+	[59] (301,978)<span >Low prices! />
+Welcome to Wincham Investments Ltd
+Four Dynamic Businesses in One.
+Wincham Property Consultancy
+Offers a bespoke Property Finding service encompassing all of the processes involved in acquiring Spanish property. Our aim is to maximise our Clients opportunity by providing a service second to none. We also have a solution  that removes the 7% purchase Tax in Spain when buying a resale property and saves the 3% witholding Tax  to the Seller too.
+For more information please click
+[60] (516,754)<a href='http://www.wincham.com/asp/services2.asp' />
+	[61] (516,754)<u >HERE />
+.
+Wincham IHT
+We are committed to helping Clients at every stage of their foreign ownership including offering a tailor made product that will completely remove Spanish Inheritance. Whether you already own a property in Spain, are thinking of buying in the future or are in the process of purchasing, then we have a solution that will safeguard yourself, your Heirs and your Beneficiaries from Inheritance Tax in Spain. For more information please click
+[62] (556,955)<a href='http://www.winchamiht.com/' />
+	[63] (556,955)<u >HERE />
+.
+Wincham Property Shop
+[64] (1002,780)<div  />
+	[65] (980,780)<img  />
+	[66] (1013,780)<span  />
+[67] (984,635)<div  />
+[68] (984,707)<div  />
+	[69] (984,707)<div  />
+[70] (984,852)<div  />
+	[71] (984,852)<span  />
+
+</current_dom>

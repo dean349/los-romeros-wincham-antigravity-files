@@ -1,0 +1,52 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (535,208)<a href='updates.asp' />
+	[1] (535,204)<span >Covid-19 - Help for business />
+[2] (757,208)<a href='careers.asp' />
+	[3] (757,204)<span >Career Opportunities />
+Simple, Intelligent, Professional Services
+[4] (108,335)<a href='home.asp'>Home />
+[5] (178,335)<a class='aselected'>About Us />
+	[6] (200,335)<span  />
+[7] (260,335)<a >Services />
+	[8] (280,335)<span  />
+[9] (358,335)<a >Meet The Team />
+	[10] (396,335)<span  />
+[11] (463,335)<a href='contactus.asp'>Contact Us />
+	[12] (490,335)<span  />
+[13] (576,335)<a class='aselected' href='brexit.asp' />
+	[14] (574,334)<img  />
+Who We Are
+Wincham, established in 1994, has provided professional services to European Owners of properties located in Spain and is a member of the Association of International Property professionals.
+To facilitate the company’s expansion into a wider range of professional services, Wincham International Ltd was formed.
+Wincham Group comprises of legal, taxation, accountancy and credit management practice, specialising in clients with international assets. Based in Congleton, Cheshire (UK) and Calpe (Spain) and with combined experience of over 65 years our professionals are leaders in their field and dedicated to exceptional client service.
+Wincham are the market Leader in helping Client's purchase and own Spanish property within a UK Limited Company structure as we manage over 500 UK Companies that own Spanish property.
+Our team consists of qualified professionals including UK Lawyers, Tax Consultants, Chartered Accountants, Gestores (Qualified legal Assistants), Economistas, Abogados, (Spanish Lawyers) and Notary Publics.
+Offering a full professional service in the UK and Spain, specialising in property, wills, probate and company sale and purchase we also provide –
+[15] (162,1006)<a href='#' title='Taxation services' />
+	[16] (162,1006)<b >Taxation services />
+User Login
+Login Email:
+[17] (777,557)<input class='txtinput placeholder' id='loginemail_txt' />
+Password:
+[18] (777,649)<input class='txtinput placeholder' id='loginpwd_txt' />
+[19] (716,715)<button class='btn btn-1 boxh'>Login />
+[20] (826,693)<a href='javascript:void(0)'>Forgotten Password />
+[21] (826,729)<a href='enquiry.asp'>Register As a Client />
+[22] (829,765)<a href='https://tax.wincham.com/registerAgent.aspx'>Register As an Agent />
+Enquiry Form
+[23] (777,971)<input class='txtinput placeholder' id='fname' placeholder='First Name' />
+*
+The cookie settings on www.wincham.com are set to
+'allow all cookies'
+to give you the very best experience. If you continue without changing these settings you consent to this - but you can change your settings by clicking the
+Cookie Settings
+link at any time.
+[24] (820,765)<input id='EU_OPIN_AGREE' />
+[25] (915,765)<input id='EU_OPIN_CANCEL' />
+[26] (867,853)<input id='EU_OPIN_SETTINGS' />
+[27] (864,930)<a href='Privacy_Statement.asp'>Find out more about cookies />
+
+</current_dom>

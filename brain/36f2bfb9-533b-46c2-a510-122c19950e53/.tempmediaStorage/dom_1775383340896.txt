@@ -1,0 +1,43 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (307,315)<a href='ukproperty.asp?l=12&p=13' />
+	[1] (307,310)<img  />
+[2] (307,343)<a href='spanishproperty.asp?l=14&p=15' />
+	[3] (307,339)<img  />
+[4] (307,371)<a href='commercialproperty.asp?l=16&p=17' />
+	[5] (307,367)<img  />
+[6] (307,400)<a href='rentals.asp?l=13&p=15&q=17' />
+	[7] (307,395)<img  />
+[8] (307,428)<a href='companies4sale.asp?l=19' />
+	[9] (307,423)<img  />
+[10] (307,456)<a href='/asp/default.asp?p=19' />
+	[11] (307,451)<img  />
+[12] (307,484)<a href='/asp/default.asp?p=28' />
+	[13] (307,479)<img  />
+[14] (307,523)<a href='/asp/add-your-own-property.asp' />
+	[15] (307,512)<img  />
+|
+[16] (385,549)<a class='topnav1' href='default.asp?p=1'>Home />
+|
+[17] (426,549)<a class='topnav1' href='default.asp?p=4'>About Us />
+|
+[18] (482,549)<a class='topnav1' href='default.asp?p=5'>Our Services />
+|
+[19] (530,549)<a class='topnav1' href='default.asp?p=16'>Links />
+|
+[20] (575,549)<a class='topnav1' href='default.asp?p=3'>Contact Us />
+|
+[21] (622,549)<a href='/asp/search.asp'>Search />
+[22] (348,737)<a href='http://www.eurorelais.org/index.php?pvct=erdefault&Pt=winch&Lo=winch&Cur=gbp&T=en&Frames=ja' />
+	[23] (348,661)<img  />
+[24] (505,737)<a href='/asp/default.asp?p=34' />
+	[25] (505,661)<img  />
+[26] (662,737)<a href='/asp/default.asp?p=35' />
+	[27] (662,661)<img  />
+Welcome to Wincham Investments Ltd
+Wincham Investments Limited was founded in 1996 by the present Chairman, Malcolm Roach and Co Director Mark Roach. The company has Investments in developing UK Private Limited Companies and invests through its subsidiary company Wincham Holdings Ltd registered in the Isle of Man. The Group specialises in the formation and development of new start Limited Companies in the areas of e-commerce, property development and investment.
+Wincham Investments is a Corporate Property Investment Consultant, so if you are looking at investing for the first time or you have an existing portfolio Wincham Investments can assist you to develop your range of properties.
+
+</current_dom>

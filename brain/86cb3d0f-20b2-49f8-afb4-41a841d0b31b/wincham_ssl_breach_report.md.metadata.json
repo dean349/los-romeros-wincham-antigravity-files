@@ -1,0 +1,5 @@
+{
+  "artifactType":  "ARTIFACT_TYPE_OTHER",
+  "summary":  "Forensic regulatory analysis of wincham.com's expired SSL/TLS certificate (NET::ERR_CERT_DATE_INVALID). Documents technical security failures, legal violations under UK GDPR Articles 5, 32, and 33; FCA SYSC 4/13; ICAEW Code of Ethics; and Consumer Rights Act 2015. Identifies specific data breach risks for Wincham's elderly, financially-sensitive client base. Includes specific regulatory referral actions for ICO, ICAEW, and evidence preservation steps for inclusion in the Letter of Claim.",
+  "updatedAt":  "2026-04-05T07:14:04.472451Z"
+}

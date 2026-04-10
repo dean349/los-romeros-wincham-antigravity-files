@@ -1,0 +1,162 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (19,30)<button aria-label='Guide' class='style-scope yt-icon-button' id='button' />
+	[1] (19,30)<yt-icon  />
+[2] (480,30)<div  />
+	[3] (478,30)<form  />
+		[4] (478,30)<input class='ytSearchboxComponentInput yt-searchbox-input title' role='combobox' />
+	[5] (622,30)<div  />
+		[6] (622,30)<button class='ytSearchboxComponentClearButton' />
+			[7] (622,30)<yt-touch-feedback-shape  />
+				[8] (622,30)<div  />
+[9] (647,30)<button aria-label='Search' class='ytSearchboxComponentSearchButton' />
+	[10] (647,30)<span  />
+[11] (244,90)<button class='ytChipShapeButtonReset' role='tab' />
+	[12] (244,90)<div >All />
+		All
+		[13] (244,90)<yt-touch-feedback-shape  />
+			[14] (244,90)<div  />
+[15] (275,90)<button class='ytChipShapeButtonReset' role='tab' />
+	[16] (275,90)<div >Shorts />
+		Shorts
+		[17] (275,90)<yt-touch-feedback-shape  />
+			[18] (275,90)<div  />
+[19] (314,90)<button class='ytChipShapeButtonReset' role='tab' />
+	[20] (314,90)<div >Videos />
+		Videos
+		[21] (314,90)<yt-touch-feedback-shape  />
+			[22] (314,90)<div  />
+[23] (360,90)<button class='ytChipShapeButtonReset' role='tab' />
+	[24] (360,90)<div >Unwatched />
+		Unwatched
+		[25] (360,90)<yt-touch-feedback-shape  />
+			[26] (360,90)<div  />
+[27] (409,90)<button class='ytChipShapeButtonReset' role='tab' />
+	[28] (409,90)<div >Watched />
+		Watched
+		[29] (409,90)<yt-touch-feedback-shape  />
+			[30] (409,90)<div  />
+[31] (470,90)<button class='ytChipShapeButtonReset' role='tab' />
+	[32] (470,90)<div >Recently uploaded />
+		Recently uploaded
+		[33] (470,90)<yt-touch-feedback-shape  />
+			[34] (470,90)<div  />
+[35] (524,90)<button class='ytChipShapeButtonReset' role='tab' />
+	[36] (524,90)<div >Live />
+		Live
+		[37] (524,90)<yt-touch-feedback-shape  />
+			[38] (524,90)<div  />
+[39] (822,91)<button aria-label='Next' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[40] (822,91)<yt-touch-feedback-shape  />
+		[41] (822,91)<div  />
+[42] (859,91)<button aria-label='Search filters' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-trailing yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	Filters
+	[43] (859,91)<yt-touch-feedback-shape  />
+		[44] (859,91)<div  />
+[45] (559,292)<div  />
+	[46] (367,292)<a class='yt-lockup-view-model__content-image' href='https://www.googleadservices.com/pagead/aclk?sa=L&ai=CFphmRpLNabr6OdaB-8YPocih0AK66aHqhAHF96DLlBWwkB8QASAAYMn2t4fco5QRggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAZuBib0DqAMEyAMKqgTFAk_QvKCFfXSpNGT7FmHpIXpe3jsmdsz_kaatAJyZlsxOktZ1DBCdI9OylsmBMQHP244sTGbLB8Z0pwMwHNZ9UcxE1kXueDnV06xQPFoXlloQ76YuQG9LJwQ6HHvb37X61E2jE4klYbFNURHlM4T3L8fKMi98n3El9-IDkTETxjzjKELpBmu3tnNN1qWVfq48eLb6tWZEeOr2V609xSLmxR7lfEoxx0-e5TEkcfUy05JQTk_cT82ZJHpeFxXq0bUECUpB0vNFIMvVacgkqzJXegACb2mv-ICvWgSPcj0yfTZKa6kaId76PaMqEvTB9BoPUBI_6SrLWiUEP64SyZSLEFmhqRPBAhMa8MVWvDB7wdaVvGppdcUpOQ2XqRg2pF88V6L5blAh8yeCRfgGt2uXDuAMckakG5V95fblJAwGHEYKg0yCdi-IBa2p_NxTkgUHCBN4z8KecqAGoQGAB4jKgHKIBwGQBwKoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB-a8sQKoB8q6sQKoB_2ysQKoB_e4sQKoB_i4sQKoB8jPsQKoB8nPsQKoB63gsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5rhsQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgH1c4bqAerxRuoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxAqgHwsixApIIC1pCT0REa29wVHBBqAgB0gg2CIDRgEAQAhhaMgiDgoSOgICACDoRitiAgICABIDAgICAgICAAipI2aDSNVAUWLihjKrQzZMDmgkSaHR0cHM6Ly9tb25kYXkuY29tsQlV8uFdfrfoosgJF8gJjwHICcIBugtjCAMQBRgEIAcoATAcQAFIAFABWH1gAGgAcAGIAQCYAQGiASsKHQgBKAHauAQVMhM6EQoPKDBI5YWFoegKmBkBuCABgAEB0AEBqAIFwAIC2AEBgAIBiAIGugMJdmljYmZ6YWNh0AsS4AsBogwzIAFIAWITChFjb20ubW9uZGF5Lm1vbmRheWoTChFjb20ubW9uZGF5Lm1vbmRheXgBiAEB0gwCEAHaDCYKCxCQ4fDykPLTmrwBEgIBAxoNGK2p_NxTIID28u2tBUABSgIQH5oNARKqDQJVU8gNAdIN4ARodHRwczovL2FkLmRvdWJsZWNsaWNrLm5ldC9kZG0vdHJhY2tjbGsvTjcyODkwOS4xMjc3MzNHT09HTEUtWU9VVFVCRS9CMzQ4MDA5MjguNDM4NDA4ODY5O2RjX3Rya19haWQ9NjMwMjczMzU2O2RjX3Rya19jaWQ9MjQ3NDQ1MzE4O2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9O3RmdWE9O2dkcHI9JHtHRFBSfTtnZHByX2NvbnNlbnQ9JHtHRFBSX0NPTlNFTlRfNzU1fTtsdGQ9O2RjX3Rkdj0xO2RjX3RyYW5zcGFyZW50PTE7O2RjX3J1aT0xO2RjX2Vwcz1BSGFzOGNBLV8xOWZzeDc4N3ZlVnZ3RFJTcUYxZTdnYlZobDJEZ1lGQ3BabGt5R0tOOTcwWWk4WGg2RGVvQmM5YlRzVFNKWTZtVnhlOUYxMXUwdElQdztkY19wdWJpZD02P2h0dHBzOi8vbW9uZGF5LmNvbT91dG1fbWVkaXVtPWNwYyZ1dG1fc291cmNlPWFkd29yZHN5b3V0dWJlJnV0bV9jYW1wYWlnbj11cy1lbi1wcm0td29ya19tZ210LWRlc2t0b3AtdG9waWNzLWRnJnV0bV9hZGdyb3VwPUJ1c2luZXNzUHJvZHVjdGl2aXR5U29mdHdhcmVfVC1NdWx0aUFkcyZ1dG1fYmFubmVyPVBEX01hbmFnZXJfV29GJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMjQ3NTExNzc0MbgT____________AYgUArAUA8AVgYCAQNAVAdgVAZgWAeIWAggBgBcBihcWCAMYASABKAEwATgBQAFIAVABWAFgAqAXAakXRu7180mbbeW6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=CjwKCAjwhLPOBhBiEiwA8_wJHLsqqg87d-Km7H_GMS3EB2Sp4Bif-brwCp1pWRQU_k_6DhAFA5cUGBoCamoQAvD_BwE&num=1&cid=CAESvAHg9umE1wwfsb7ILXCPPFCGg8bKkMAmyLvS278iemDbmE3cJoCYV2vcBafXDvN3b-oXorQwT7hXH70d9mFNAoa1eidcCz8F4aKv77GeJqmYKMNvDARoV0j_74_PoJ2cYLZwDUKgilQzloR3s2QtLHcaHAq-wgoVXnJgZtvZ4VGqlEOchJhh1cdImvcaiwVzmzJJK0gRymMIhs3anQNQCzZGv-QMVFv4ysogm9pih7kynFQWyK5BtAeIdJPmoQ&ad_cpn=%5BCPN%5D&sig=AOD64_1QA67iotWXwb_q6eGWOelokHidCQ&ctype=110&video_id=ZBODDkopTpA&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=21&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D' />
+		[47] (363,292)<yt-thumbnail-view-model  />
+			[48] (363,292)<div  />
+			[49] (479,415)<div  />
+				[50] (479,415)<button-view-model  />
+					[51] (479,415)<button class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--overlay-dark yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+						[52] (479,415)<yt-touch-feedback-shape  />
+							[53] (479,415)<div  />
+	[54] (693,292)<div  />
+		[55] (693,183)<feed-ad-metadata-view-model  />
+			[56] (693,183)<div  />
+				[57] (687,153)<span  />
+					[58] (680,153)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' />
+						[59] (680,153)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' href='https://www.googleadservices.com/pagead/aclk?sa=L&ai=CFphmRpLNabr6OdaB-8YPocih0AK66aHqhAHF96DLlBWwkB8QASAAYMn2t4fco5QRggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAZuBib0DqAMEyAMKqgTFAk_QvKCFfXSpNGT7FmHpIXpe3jsmdsz_kaatAJyZlsxOktZ1DBCdI9OylsmBMQHP244sTGbLB8Z0pwMwHNZ9UcxE1kXueDnV06xQPFoXlloQ76YuQG9LJwQ6HHvb37X61E2jE4klYbFNURHlM4T3L8fKMi98n3El9-IDkTETxjzjKELpBmu3tnNN1qWVfq48eLb6tWZEeOr2V609xSLmxR7lfEoxx0-e5TEkcfUy05JQTk_cT82ZJHpeFxXq0bUECUpB0vNFIMvVacgkqzJXegACb2mv-ICvWgSPcj0yfTZKa6kaId76PaMqEvTB9BoPUBI_6SrLWiUEP64SyZSLEFmhqRPBAhMa8MVWvDB7wdaVvGppdcUpOQ2XqRg2pF88V6L5blAh8yeCRfgGt2uXDuAMckakG5V95fblJAwGHEYKg0yCdi-IBa2p_NxTkgUHCBN4z8KecqAGoQGAB4jKgHKIBwGQBwKoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB-a8sQKoB8q6sQKoB_2ysQKoB_e4sQKoB_i4sQKoB8jPsQKoB8nPsQKoB63gsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5rhsQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgH1c4bqAerxRuoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxAqgHwsixApIIC1pCT0REa29wVHBBqAgB0gg2CIDRgEAQAhhaMgiDgoSOgICACDoRitiAgICABIDAgICAgICAAipI2aDSNVAUWLihjKrQzZMDmgkSaHR0cHM6Ly9tb25kYXkuY29tsQlV8uFdfrfoosgJF8gJjwHICcIBugtjCAMQBRgEIAcoATAcQAFIAFABWH1gAGgAcAGIAQCYAQGiASsKHQgBKAHauAQVMhM6EQoPKDBI5YWFoegKmBkBuCABgAEB0AEBqAIFwAIC2AEBgAIBiAIGugMJdmljYmZ6YWNh0AsS4AsBogwzIAFIAWITChFjb20ubW9uZGF5Lm1vbmRheWoTChFjb20ubW9uZGF5Lm1vbmRheXgBiAEB0gwCEAHaDCYKCxCQ4fDykPLTmrwBEgIBAxoNGK2p_NxTIID28u2tBUABSgIQH5oNARKqDQJVU8gNAdIN4ARodHRwczovL2FkLmRvdWJsZWNsaWNrLm5ldC9kZG0vdHJhY2tjbGsvTjcyODkwOS4xMjc3MzNHT09HTEUtWU9VVFVCRS9CMzQ4MDA5MjguNDM4NDA4ODY5O2RjX3Rya19haWQ9NjMwMjczMzU2O2RjX3Rya19jaWQ9MjQ3NDQ1MzE4O2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9O3RmdWE9O2dkcHI9JHtHRFBSfTtnZHByX2NvbnNlbnQ9JHtHRFBSX0NPTlNFTlRfNzU1fTtsdGQ9O2RjX3Rkdj0xO2RjX3RyYW5zcGFyZW50PTE7O2RjX3J1aT0xO2RjX2Vwcz1BSGFzOGNBLV8xOWZzeDc4N3ZlVnZ3RFJTcUYxZTdnYlZobDJEZ1lGQ3BabGt5R0tOOTcwWWk4WGg2RGVvQmM5YlRzVFNKWTZtVnhlOUYxMXUwdElQdztkY19wdWJpZD02P2h0dHBzOi8vbW9uZGF5LmNvbT91dG1fbWVkaXVtPWNwYyZ1dG1fc291cmNlPWFkd29yZHN5b3V0dWJlJnV0bV9jYW1wYWlnbj11cy1lbi1wcm0td29ya19tZ210LWRlc2t0b3AtdG9waWNzLWRnJnV0bV9hZGdyb3VwPUJ1c2luZXNzUHJvZHVjdGl2aXR5U29mdHdhcmVfVC1NdWx0aUFkcyZ1dG1fYmFubmVyPVBEX01hbmFnZXJfV29GJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMjQ3NTExNzc0MbgT____________AYgUArAUA8AVgYCAQNAVAdgVAZgWAeIWAggBgBcBihcWCAMYASABKAEwATgBQAFIAVABWAFgAqAXAakXRu7180mbbeW6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=CjwKCAjwhLPOBhBiEiwA8_wJHLsqqg87d-Km7H_GMS3EB2Sp4Bif-brwCp1pWRQU_k_6DhAFA5cUGBoCamoQAvD_BwE&num=1&cid=CAESvAHg9umE1wwfsb7ILXCPPFCGg8bKkMAmyLvS278iemDbmE3cJoCYV2vcBafXDvN3b-oXorQwT7hXH70d9mFNAoa1eidcCz8F4aKv77GeJqmYKMNvDARoV0j_74_PoJ2cYLZwDUKgilQzloR3s2QtLHcaHAq-wgoVXnJgZtvZ4VGqlEOchJhh1cdImvcaiwVzmzJJK0gRymMIhs3anQNQCzZGv-QMVFv4ysogm9pih7kynFQWyK5BtAeIdJPmoQ&ad_cpn=%5BCPN%5D&sig=AOD64_1QA67iotWXwb_q6eGWOelokHidCQ&ctype=110&video_id=ZBODDkopTpA&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D'>Join 250K+ customers who already use monday.com to get ahead of the competition. />
+				[60] (687,182)<span  />
+					[61] (626,182)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' />
+						[62] (626,182)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' href='https://www.googleadservices.com/pagead/aclk?sa=L&ai=CFphmRpLNabr6OdaB-8YPocih0AK66aHqhAHF96DLlBWwkB8QASAAYMn2t4fco5QRggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAZuBib0DqAMEyAMKqgTFAk_QvKCFfXSpNGT7FmHpIXpe3jsmdsz_kaatAJyZlsxOktZ1DBCdI9OylsmBMQHP244sTGbLB8Z0pwMwHNZ9UcxE1kXueDnV06xQPFoXlloQ76YuQG9LJwQ6HHvb37X61E2jE4klYbFNURHlM4T3L8fKMi98n3El9-IDkTETxjzjKELpBmu3tnNN1qWVfq48eLb6tWZEeOr2V609xSLmxR7lfEoxx0-e5TEkcfUy05JQTk_cT82ZJHpeFxXq0bUECUpB0vNFIMvVacgkqzJXegACb2mv-ICvWgSPcj0yfTZKa6kaId76PaMqEvTB9BoPUBI_6SrLWiUEP64SyZSLEFmhqRPBAhMa8MVWvDB7wdaVvGppdcUpOQ2XqRg2pF88V6L5blAh8yeCRfgGt2uXDuAMckakG5V95fblJAwGHEYKg0yCdi-IBa2p_NxTkgUHCBN4z8KecqAGoQGAB4jKgHKIBwGQBwKoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB-a8sQKoB8q6sQKoB_2ysQKoB_e4sQKoB_i4sQKoB8jPsQKoB8nPsQKoB63gsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5rhsQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgH1c4bqAerxRuoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxAqgHwsixApIIC1pCT0REa29wVHBBqAgB0gg2CIDRgEAQAhhaMgiDgoSOgICACDoRitiAgICABIDAgICAgICAAipI2aDSNVAUWLihjKrQzZMDmgkSaHR0cHM6Ly9tb25kYXkuY29tsQlV8uFdfrfoosgJF8gJjwHICcIBugtjCAMQBRgEIAcoATAcQAFIAFABWH1gAGgAcAGIAQCYAQGiASsKHQgBKAHauAQVMhM6EQoPKDBI5YWFoegKmBkBuCABgAEB0AEBqAIFwAIC2AEBgAIBiAIGugMJdmljYmZ6YWNh0AsS4AsBogwzIAFIAWITChFjb20ubW9uZGF5Lm1vbmRheWoTChFjb20ubW9uZGF5Lm1vbmRheXgBiAEB0gwCEAHaDCYKCxCQ4fDykPLTmrwBEgIBAxoNGK2p_NxTIID28u2tBUABSgIQH5oNARKqDQJVU8gNAdIN4ARodHRwczovL2FkLmRvdWJsZWNsaWNrLm5ldC9kZG0vdHJhY2tjbGsvTjcyODkwOS4xMjc3MzNHT09HTEUtWU9VVFVCRS9CMzQ4MDA5MjguNDM4NDA4ODY5O2RjX3Rya19haWQ9NjMwMjczMzU2O2RjX3Rya19jaWQ9MjQ3NDQ1MzE4O2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9O3RmdWE9O2dkcHI9JHtHRFBSfTtnZHByX2NvbnNlbnQ9JHtHRFBSX0NPTlNFTlRfNzU1fTtsdGQ9O2RjX3Rkdj0xO2RjX3RyYW5zcGFyZW50PTE7O2RjX3J1aT0xO2RjX2Vwcz1BSGFzOGNBLV8xOWZzeDc4N3ZlVnZ3RFJTcUYxZTdnYlZobDJEZ1lGQ3BabGt5R0tOOTcwWWk4WGg2RGVvQmM5YlRzVFNKWTZtVnhlOUYxMXUwdElQdztkY19wdWJpZD02P2h0dHBzOi8vbW9uZGF5LmNvbT91dG1fbWVkaXVtPWNwYyZ1dG1fc291cmNlPWFkd29yZHN5b3V0dWJlJnV0bV9jYW1wYWlnbj11cy1lbi1wcm0td29ya19tZ210LWRlc2t0b3AtdG9waWNzLWRnJnV0bV9hZGdyb3VwPUJ1c2luZXNzUHJvZHVjdGl2aXR5U29mdHdhcmVfVC1NdWx0aUFkcyZ1dG1fYmFubmVyPVBEX01hbmFnZXJfV29GJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMjQ3NTExNzc0MbgT____________AYgUArAUA8AVgYCAQNAVAdgVAZgWAeIWAggBgBcBihcWCAMYASABKAEwATgBQAFIAVABWAFgAqAXAakXRu7180mbbeW6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=CjwKCAjwhLPOBhBiEiwA8_wJHLsqqg87d-Km7H_GMS3EB2Sp4Bif-brwCp1pWRQU_k_6DhAFA5cUGBoCamoQAvD_BwE&num=1&cid=CAESvAHg9umE1wwfsb7ILXCPPFCGg8bKkMAmyLvS278iemDbmE3cJoCYV2vcBafXDvN3b-oXorQwT7hXH70d9mFNAoa1eidcCz8F4aKv77GeJqmYKMNvDARoV0j_74_PoJ2cYLZwDUKgilQzloR3s2QtLHcaHAq-wgoVXnJgZtvZ4VGqlEOchJhh1cdImvcaiwVzmzJJK0gRymMIhs3anQNQCzZGv-QMVFv4ysogm9pih7kynFQWyK5BtAeIdJPmoQ&ad_cpn=%5BCPN%5D&sig=AOD64_1QA67iotWXwb_q6eGWOelokHidCQ&ctype=110&video_id=ZBODDkopTpA&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D'>Work gets automated, insights are pulled for you, and stakeholders get with your program. />
+				[63] (687,209)<div  />
+					[64] (508,213)<div  />
+						[65] (508,213)<ad-avatar-view-model  />
+							[66] (508,213)<yt-avatar-shape  />
+								[67] (508,213)<div aria-label='monday.com' class='yt-spec-avatar-shape yt-spec-avatar-shape__button yt-spec-avatar-shape__button--button-extra-small yt-spec-avatar-shape__button--tappable' role='button' />
+									[68] (508,213)<div  />
+										[69] (508,213)<div  />
+					[70] (537,213)<ad-badge-view-model  />
+						[71] (537,213)<badge-shape  />
+							[72] (534,213)<div >Sponsored />
+					[73] (573,213)<ad-details-line-view-model  />
+						[74] (573,213)<span class='yt-core-attributed-string ytwAdDetailsLineViewModelHostTextStyleStandard yt-core-attributed-string--white-space-pre-wrap' role='text'>monday.com />
+			[75] (880,152)<div  />
+				[76] (880,152)<button-view-model  />
+					[77] (880,152)<button aria-label='My Ad Center' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+						[78] (880,152)<yt-touch-feedback-shape  />
+							[79] (880,152)<div  />
+		[80] (693,336)<lockup-attachments-view-model  />
+			[81] (693,259)<div  />
+				[82] (597,259)<ad-button-group-view-model  />
+					[83] (548,259)<div  />
+						[84] (548,259)<ad-button-view-model  />
+							[85] (548,259)<a aria-label='Watch' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--enable-backdrop-filter-experiment' href='/watch?v=ZBODDkopTpA' />
+								Watch
+								[86] (548,259)<yt-touch-feedback-shape  />
+									[87] (548,259)<div  />
+					[88] (647,259)<div  />
+						[89] (647,259)<ad-button-view-model  />
+							[90] (647,259)<a aria-label='Sign up' class='yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--enable-backdrop-filter-experiment' href='https://www.googleadservices.com/pagead/aclk?sa=L&ai=CFphmRpLNabr6OdaB-8YPocih0AK66aHqhAHF96DLlBWwkB8QASAAYMn2t4fco5QRggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAZuBib0DqAMEyAMKqgTFAk_QvKCFfXSpNGT7FmHpIXpe3jsmdsz_kaatAJyZlsxOktZ1DBCdI9OylsmBMQHP244sTGbLB8Z0pwMwHNZ9UcxE1kXueDnV06xQPFoXlloQ76YuQG9LJwQ6HHvb37X61E2jE4klYbFNURHlM4T3L8fKMi98n3El9-IDkTETxjzjKELpBmu3tnNN1qWVfq48eLb6tWZEeOr2V609xSLmxR7lfEoxx0-e5TEkcfUy05JQTk_cT82ZJHpeFxXq0bUECUpB0vNFIMvVacgkqzJXegACb2mv-ICvWgSPcj0yfTZKa6kaId76PaMqEvTB9BoPUBI_6SrLWiUEP64SyZSLEFmhqRPBAhMa8MVWvDB7wdaVvGppdcUpOQ2XqRg2pF88V6L5blAh8yeCRfgGt2uXDuAMckakG5V95fblJAwGHEYKg0yCdi-IBa2p_NxTkgUHCBN4z8KecqAGoQGAB4jKgHKIBwGQBwKoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB-a8sQKoB8q6sQKoB_2ysQKoB_e4sQKoB_i4sQKoB8jPsQKoB8nPsQKoB63gsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5rhsQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgH1c4bqAerxRuoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxAqgHwsixApIIC1pCT0REa29wVHBBqAgB0gg2CIDRgEAQAhhaMgiDgoSOgICACDoRitiAgICABIDAgICAgICAAipI2aDSNVAUWLihjKrQzZMDmgkSaHR0cHM6Ly9tb25kYXkuY29tsQlV8uFdfrfoosgJF8gJjwHICcIBugtjCAMQBRgEIAcoATAcQAFIAFABWH1gAGgAcAGIAQCYAQGiASsKHQgBKAHauAQVMhM6EQoPKDBI5YWFoegKmBkBuCABgAEB0AEBqAIFwAIC2AEBgAIBiAIGugMJdmljYmZ6YWNh0AsS4AsBogwzIAFIAWITChFjb20ubW9uZGF5Lm1vbmRheWoTChFjb20ubW9uZGF5Lm1vbmRheXgBiAEB0gwCEAHaDCYKCxCQ4fDykPLTmrwBEgIBAxoNGK2p_NxTIID28u2tBUABSgIQH5oNARKqDQJVU8gNAdIN4ARodHRwczovL2FkLmRvdWJsZWNsaWNrLm5ldC9kZG0vdHJhY2tjbGsvTjcyODkwOS4xMjc3MzNHT09HTEUtWU9VVFVCRS9CMzQ4MDA5MjguNDM4NDA4ODY5O2RjX3Rya19haWQ9NjMwMjczMzU2O2RjX3Rya19jaWQ9MjQ3NDQ1MzE4O2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9O3RmdWE9O2dkcHI9JHtHRFBSfTtnZHByX2NvbnNlbnQ9JHtHRFBSX0NPTlNFTlRfNzU1fTtsdGQ9O2RjX3Rkdj0xO2RjX3RyYW5zcGFyZW50PTE7O2RjX3J1aT0xO2RjX2Vwcz1BSGFzOGNBLV8xOWZzeDc4N3ZlVnZ3RFJTcUYxZTdnYlZobDJEZ1lGQ3BabGt5R0tOOTcwWWk4WGg2RGVvQmM5YlRzVFNKWTZtVnhlOUYxMXUwdElQdztkY19wdWJpZD02P2h0dHBzOi8vbW9uZGF5LmNvbT91dG1fbWVkaXVtPWNwYyZ1dG1fc291cmNlPWFkd29yZHN5b3V0dWJlJnV0bV9jYW1wYWlnbj11cy1lbi1wcm0td29ya19tZ210LWRlc2t0b3AtdG9waWNzLWRnJnV0bV9hZGdyb3VwPUJ1c2luZXNzUHJvZHVjdGl2aXR5U29mdHdhcmVfVC1NdWx0aUFkcyZ1dG1fYmFubmVyPVBEX01hbmFnZXJfV29GJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMjQ3NTExNzc0MbgT____________AYgUArAUA8AVgYCAQNAVAdgVAZgWAeIWAggBgBcBihcWCAMYASABKAEwATgBQAFIAVABWAFgAqAXAakXRu7180mbbeW6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=CjwKCAjwhLPOBhBiEiwA8_wJHLsqqg87d-Km7H_GMS3EB2Sp4Bif-brwCp1pWRQU_k_6DhAFA5cUGBoCamoQAvD_BwE&num=1&cid=CAESvAHg9umE1wwfsb7ILXCPPFCGg8bKkMAmyLvS278iemDbmE3cJoCYV2vcBafXDvN3b-oXorQwT7hXH70d9mFNAoa1eidcCz8F4aKv77GeJqmYKMNvDARoV0j_74_PoJ2cYLZwDUKgilQzloR3s2QtLHcaHAq-wgoVXnJgZtvZ4VGqlEOchJhh1cdImvcaiwVzmzJJK0gRymMIhs3anQNQCzZGv-QMVFv4ysogm9pih7kynFQWyK5BtAeIdJPmoQ&ad_cpn=%5BCPN%5D&sig=AOD64_1QA67iotWXwb_q6eGWOelokHidCQ&ctype=110&video_id=ZBODDkopTpA&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=8&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D' />
+								Sign up
+								[91] (647,259)<yt-touch-feedback-shape  />
+									[92] (647,259)<div  />
+[93] (363,619)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=2Sfsca1fW-c&pp=ygUraG93IHRvIHJlZGFjdCBQREYgZnJlZSBvbmxpbmUgYmVnaW5uZXIgZWFzeQ%3D%3D' id='thumbnail' />
+	[94] (363,767)<yt-image  />
+[95] (693,560)<div  />
+	[96] (693,490)<div  />
+		[97] (693,480)<div  />
+			[98] (572,480)<h3  />
+				[99] (572,480)<a aria-label='How to Redact PDF Files for FREE 2 minutes, 4 seconds' class='yt-simple-endpoint style-scope ytd-video-renderer' href='/watch?v=2Sfsca1fW-c&pp=ygUraG93IHRvIHJlZGFjdCBQREYgZnJlZSBvbmxpbmUgYmVnaW5uZXIgZWFzeQ%3D%3D' id='video-title' title='How to Redact PDF Files for FREE' />
+					[100] (572,480)<yt-formatted-string >How to Redact PDF Files for FREE />
+		[101] (693,504)<ytd-video-meta-block  />
+			[102] (693,504)<div  />
+				[103] (539,504)<div  />
+					[104] (517,504)<span >3.4K views />
+					[105] (554,504)<span >8 months ago />
+	[106] (693,537)<div  />
+		[107] (510,537)<a aria-label='Go to channel Gauging Gadgets' class='style-scope ytd-video-renderer' href='/@GaugingGadgets' id='channel-thumbnail' />
+		[108] (547,537)<ytd-channel-name  />
+			[109] (542,537)<div  />
+				[110] (542,537)<div  />
+					[111] (542,537)<yt-formatted-string  />
+						[112] (542,537)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@GaugingGadgets'>Gauging Gadgets />
+			[113] (571,537)<ytd-badge-supported-renderer  />
+				[114] (571,537)<div  />
+					[115] (572,537)<badge-shape aria-label='Verified' class='yt-badge-shape yt-badge-shape--default yt-badge-shape--no-text yt-badge-shape--modern yt-badge-shape--typography' role='img' />
+						[116] (572,537)<div  />
+	[117] (693,569)<div  />
+		[118] (680,569)<yt-formatted-string  />
+			[119] (529,569)<span >How to Redact PDF />
+			[120] (568,569)<span >Files for />
+			[121] (587,569)<span >Free />
+			[122] (679,569)<span >? Learn how to safely hide or remove sensitive content in your />
+			[123] (771,569)<span >PDF />
+			[124] (818,569)<span >documents without paying ... />
+	[125] (693,621)<div  />
+		[126] (693,621)<ytd-expandable-metadata-renderer  />
+			[127] (693,621)<div  />
+				[128] (581,621)<div  />
+					[129] (520,621)<div  />
+						[130] (520,621)<yt-img-shadow  />
+					[131] (554,621)<div  />
+						[132] (554,621)<yt-formatted-string  />
+							[133] (541,621)<span >4 />
+							[134] (556,621)<span >chapters />
+					[135] (615,621)<div class='style-scope ytd-expandable-metadata-renderer' id='collapsed-title' role='button' />
+						[136] (615,621)<yt-formatted-string >Intro | PDFG | Warning | Tutorial />
+				[137] (872,621)<div  />
+					[138] (872,621)<div  />
+						[139] (872,621)<ytd-button-renderer  />
+							[140] (872,621)<yt-button-shape  />
+								[141] (872,621)<button aria-label='More' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+									[142] (872,621)<yt-touch-feedback-shape  />
+										[143] (872,621)<div  />
+[144] (559,825)<yt-shelf-header-layout  />
+	Shorts
+
+</current_dom>

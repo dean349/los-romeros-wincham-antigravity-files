@@ -1,0 +1,31 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Dated :
+08/Oct/2020
+Message Type:
+Emails - Wincham
+Added By :
+Case Director
+Sent to :    
+                        (
+)
+From:   "Sarah Horridge" sarah.horridge@wincham.com
+Date:   Thu, 08 Oct 2020 09:55:12 +0100
+To:   phil.harrison01@btinternet.com
+Subject:   Los Romeros Limited WI-13211
+Attachments:   Year End Checklist Letter of Engagement 2020.pdf, YearEndChecklistHelpSheet.pdf, How to Operate a Company Cash Book.pdf
+Good morning Philip,
+I hope this email finds you well.
+Your accountant Zoe has emailed Jackie in our Spanish offices to get the water bill for you and in regards to accounting information we can await until you are back in the UK after the 22nd October as the company accounts do not need to be filed until the 31st May 2021 so we do have time to get the draft accounts done.
+Recapping on our discussion yesterday and answering some of the enquiry's, please find attached and below the original email that was sent out to you.
+The Accounting period for the above mentioned company, ended on 31st August 2019.
+Please find attached an Accounts Year End Checklist which I would ask you to complete and submit to me as soon as the relevant details are available. Along with the Checklist there is a Help Sheet which details what information is required for us to produce the accounts and our how to Operate a Company Cashbook. Upon receipt of all relevant documentation I shall compile your Company draft accounts in due course. These will be issued to you for approval when complete. Please be aware, the accounts for your company must be filed at Companies House and HMRC by the 31st May 2021.
+If you have any queries with regards to the process of completing the cashbook, please do not hesitate to contact me and I will guide you through the process.
+I look forward to hearing form you.
+Kind Regards
+Sarah Horridge
+Accounts Assistant
+
+</current_dom>

@@ -1,0 +1,13 @@
+- [/] 1. Initialize Next.js project structure
+  - [ ] Run Next.js install (TypeScript, Tailwind, App Router)
+  - [ ] Add shadcn/ui base
+- [ ] 2. Establish Brand & Design System
+  - [ ] Configure Tailwind CSS with dark purple, deep blue, and light accents
+  - [ ] Implement global layout and high-end "Dark Mode" styling
+- [ ] 3. Database Schema & Infrastructure Scaffold
+  - [ ] Provide Supabase initialized SQL migration script (Profiles, VDRs, Documents, pgvector)
+  - [ ] Document the Row Level Security policies into final migration files
+- [ ] 4. Scaffold Core Screens / Workspaces
+  - [ ] Command Center Dashboard layout
+  - [ ] VDR Workspace View
+  - [ ] RAG Chat Interface Placeholder

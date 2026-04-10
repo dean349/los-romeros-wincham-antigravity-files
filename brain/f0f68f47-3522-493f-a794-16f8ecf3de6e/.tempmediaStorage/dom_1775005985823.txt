@@ -1,0 +1,28 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (257,80)<a class='govuk-link' href='/officers/84y-eWb4r6N1q9kYlvhAw77aKWE/appointments'>OWEN, Julie Ann />
+Correspondence address
+1 Poplar Close, Congleton, Cheshire, CW12 4UJ
+Role
+Resigned
+Secretary
+Appointed on
+31 October 2005
+Resigned on
+3 January 2006
+Nationality
+British
+[1] (281,704)<a class='govuk-link' href='/officers/PB1yIAAr57fcCA_4C11YfDTf00s/appointments'>ROACH, Malcolm David />
+Correspondence address
+Wincham House, Greenfield Farm Trading Estate, Congleton, Cheshire, CW12 4TR
+Role
+Resigned
+Secretary
+Appointed on
+15 January 2007
+Resigned on
+21 November 2011
+
+</current_dom>

@@ -1,0 +1,171 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (26,46)<button aria-label='Guide' class='style-scope yt-icon-button' id='button' />
+	[1] (26,46)<yt-icon  />
+		[2] (26,46)<span  />
+			[3] (26,46)<div  />
+[4] (86,46)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube Home' />
+	[5] (86,46)<div  />
+		[6] (86,45)<ytd-logo  />
+			[7] (86,46)<yt-icon  />
+				[8] (87,46)<span  />
+					[9] (87,46)<div  />
+[10] (458,46)<div  />
+	[11] (454,46)<form  />
+		[12] (454,46)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='Search' role='combobox' />
+	[13] (642,46)<div  />
+		[14] (642,46)<button aria-label='Clear search query' class='ytSearchboxComponentClearButton' />
+			[15] (642,46)<yt-touch-feedback-shape  />
+				[16] (642,46)<div  />
+[17] (678,46)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='Search' />
+	[18] (678,46)<span  />
+		[19] (678,46)<span  />
+			[20] (678,46)<div  />
+[21] (727,46)<button aria-label='Search with your voice' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[22] (727,46)<yt-touch-feedback-shape  />
+		[23] (727,46)<div  />
+[24] (857,46)<button aria-label='Create' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	Create
+	[25] (857,46)<yt-touch-feedback-shape  />
+		[26] (857,46)<div  />
+[27] (913,46)<button aria-label='Notifications' class='style-scope yt-icon-button' id='button' />
+	[28] (913,44)<yt-icon-badge-shape  />
+		[29] (913,46)<div  />
+			[30] (913,46)<div  />
+				[31] (913,46)<span  />
+[32] (955,46)<button aria-label='Account menu' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[33] (955,46)<yt-img-shadow  />
+		[34] (955,46)<img  />
+[35] (26,160)<a aria-label='Home' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/' id='endpoint' title='Home' />
+	[36] (26,145)<yt-icon  />
+	[37] (26,186)<span >Home />
+[38] (26,282)<a aria-label='Shorts' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/shorts/' id='endpoint' title='Shorts' />
+	[39] (26,267)<yt-icon  />
+	[40] (26,308)<span >Shorts />
+[41] (26,404)<a aria-label='Subscriptions' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/feed/subscriptions' id='endpoint' title='Subscriptions' />
+	[42] (26,389)<yt-icon  />
+	[43] (26,430)<span >Subscriptions />
+[44] (26,526)<a aria-label='You' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/feed/you' id='endpoint' title='You' />
+	[45] (26,511)<yt-icon  />
+	[46] (26,552)<span >You />
+[47] (521,7484)<ytd-search class='style-scope ytd-page-manager' role='main' scrollable='true' />
+	[48] (85,136)<button class='ytChipShapeButtonReset' role='tab' />
+		[49] (85,136)<div >All />
+			All
+			[50] (85,136)<yt-touch-feedback-shape  />
+				[51] (85,136)<div  />
+	[52] (130,136)<button class='ytChipShapeButtonReset' role='tab' />
+		[53] (130,136)<div >Shorts />
+			Shorts
+			[54] (130,136)<yt-touch-feedback-shape  />
+				[55] (130,136)<div  />
+	[56] (184,136)<button class='ytChipShapeButtonReset' role='tab' />
+		[57] (184,136)<div >Videos />
+			Videos
+			[58] (184,136)<yt-touch-feedback-shape  />
+				[59] (184,136)<div  />
+	[60] (249,136)<button class='ytChipShapeButtonReset' role='tab' />
+		[61] (249,136)<div >Unwatched />
+			Unwatched
+			[62] (249,136)<yt-touch-feedback-shape  />
+				[63] (249,136)<div  />
+	[64] (318,136)<button class='ytChipShapeButtonReset' role='tab' />
+		[65] (318,136)<div >Watched />
+			Watched
+			[66] (318,136)<yt-touch-feedback-shape  />
+				[67] (318,136)<div  />
+	[68] (404,136)<button class='ytChipShapeButtonReset' role='tab' />
+		[69] (404,136)<div >Recently uploaded />
+			Recently uploaded
+			[70] (404,136)<yt-touch-feedback-shape  />
+				[71] (404,136)<div  />
+	[72] (479,136)<button class='ytChipShapeButtonReset' role='tab' />
+		[73] (479,136)<div >Live />
+			Live
+			[74] (479,136)<yt-touch-feedback-shape  />
+				[75] (479,136)<div  />
+	[76] (937,138)<button aria-label='Search filters' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-trailing yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+		Filters
+		[77] (937,138)<yt-touch-feedback-shape  />
+			[78] (937,138)<div  />
+	[79] (521,443)<div  />
+		[80] (710,443)<div  />
+			[81] (710,277)<feed-ad-metadata-view-model  />
+				[82] (710,277)<div  />
+					[83] (701,232)<span  />
+						[84] (699,232)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' />
+							[85] (699,232)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' href='https://www.googleadservices.com/pagead/aclk?sa=L&ai=CiZuU317SafyBOLvXieoP65LyoQS5pK6nhgGMydXH3RVkEAEgAGDJhoCA3KOUEYIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAH5h7P4KagDBMgDCqoEvAJP0EsnOXSMWFwXxRVl4R6TB2llb2zaaX-v53y0uPSaps7nbGKygX-1OuEHQKCzZL_OfXVKOGVxwMoVudK4ShYpuA2ert6UXWoFEFxuneAGa6sai6MgFlNSVRlFgwNMFvuzvGJR-jauXr8zzYN0SssEopdX-4f06SUhQBVkNPeSTOzFy6Boi8OP2NmYtoHpcxdXlYFCXm0fGuAeWV9sJSvz7t3urzT3vwW5iO6V1OwkBiDVCQxf4iJ0zpnRd6t91sH9sCBT1VWUbugCdRajfCyzMAxeiW7uRZhGAl_v_EhUdm-I4phbc3ZaZnq6K2iZd_JJ9MojpvCw3J2jfRst7pqmlheS3Py-kiqsrqd6qFTZY-vEpBePBIEUAd9VPa-4OIeXEsrXhcEMBEo15GeP6Or6O1u0uhjo1Fm_cDjMiAX6iImsWJIFCAgTeK7H94YFoAahAYAH-b-D2ASIBwGQBwKoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB-a8sQKoB8q6sQKoB_2ysQKoB_e4sQKoB_i4sQKoB8jPsQKoB8nPsQKoB63gsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5rhsQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgH1c4bqAerxRuoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIIC3IxN2tiU0VQbVhFqAgB0gg2CIDRgEAQAhhaMgiDgoSOgICACDoRitiAgICABIDAgICAgICAAipI2aDSNVAUWPjXsIHk1pMDmgkpaHR0cHM6Ly93d3cubGF3b2ZmaWNlc29mZGVhbmhmcmVlbWFuLmNvbS-xCU_6xZtC-p5WyAkXyAmPAcgJwgGYCwG6C18IAxAFGAQgBygBMBxAAUgAUAFYfWAAaABwAYgBAJgBAaIBKwodCAEoAdq4BBUyEzoRCg8oMEjlhYWh6AqYGQG4IAGAAQHQAQGoAgXAAgLYAQGAAgGIAgW6AwV2aWF0bNALEtIMAhAB2gwmCgsQkP-o88CY5_mbARICAQMaDRj6iImsWCDu077g2QVAAUoCEB-aDQESqg0CVVPIDQHSDb8BaHR0cHM6Ly93d3cubGF3b2ZmaWNlc29mZGVhbmhmcmVlbWFuLmNvbS8_dXRtX21lZGl1bT1wYWlkJnV0bV9zb3VyY2U9eW91dHViZSZ1dG1fY2FtcGFpZ249d3BiX2RlbWFuZF9nZW4mdXRtX3Rlcm09YXV0b19pbmNpZGVudHMmdXRtX2NvbnRlbnQ9ZnJlZW1hbl8xNSZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM3MTQ3NDM0MTi4E____________wGwFAPAFYGAgEDQFQHYFQHiFgIIAYAXAYoXFggDGAEgASgBMAE4AUABSAFQAVgBYAKgFwGpF10CHgN2VwiKuhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=Cj0KCQjwkMjOBhC5ARIsADIdb3c_uVyBtMShV0vXmJjISNYI2k9hfe9UTet_4mohJoPPh6DPKJM1n0MaAgBMEALw_wcB&num=1&cid=CAESvAHg9lFVbi1HhzTT5ExoFfrIQn_yzZ5EsR_UQeh5cs-3jvg4k3dN1Jjrek53x-v1Tx_JoAgTmhlme3AAG8nqXCq_SEZL4snKyyCqQ8mQJqCnkrhEwFZh9Am26k0V6ACrwi3IGZl-KTacwfejDms1wEc0pbIChHEMdDI2Tdcmu5M5N9Ef0KarDswjrGEak3vGAmpj2NUs_nF2vHSfYDPbR5xmKIqR96PRD9KUc9rSzO6xWRQHBQeaAOVR5EdpZg&ad_cpn=%5BCPN%5D&sig=AOD64_35O047vYNVuOgw_PGNJSPaA0xfBA&ctype=110&video_id=r17kbSEPmXE&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D'>Involved in an Accident? Call, Text, or Email Your Attorney Anytime. Call Freeman First. />
+					[86] (701,275)<span  />
+						[87] (599,275)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' />
+							[88] (599,275)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' href='https://www.googleadservices.com/pagead/aclk?sa=L&ai=CiZuU317SafyBOLvXieoP65LyoQS5pK6nhgGMydXH3RVkEAEgAGDJhoCA3KOUEYIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAH5h7P4KagDBMgDCqoEvAJP0EsnOXSMWFwXxRVl4R6TB2llb2zaaX-v53y0uPSaps7nbGKygX-1OuEHQKCzZL_OfXVKOGVxwMoVudK4ShYpuA2ert6UXWoFEFxuneAGa6sai6MgFlNSVRlFgwNMFvuzvGJR-jauXr8zzYN0SssEopdX-4f06SUhQBVkNPeSTOzFy6Boi8OP2NmYtoHpcxdXlYFCXm0fGuAeWV9sJSvz7t3urzT3vwW5iO6V1OwkBiDVCQxf4iJ0zpnRd6t91sH9sCBT1VWUbugCdRajfCyzMAxeiW7uRZhGAl_v_EhUdm-I4phbc3ZaZnq6K2iZd_JJ9MojpvCw3J2jfRst7pqmlheS3Py-kiqsrqd6qFTZY-vEpBePBIEUAd9VPa-4OIeXEsrXhcEMBEo15GeP6Or6O1u0uhjo1Fm_cDjMiAX6iImsWJIFCAgTeK7H94YFoAahAYAH-b-D2ASIBwGQBwKoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB-a8sQKoB8q6sQKoB_2ysQKoB_e4sQKoB_i4sQKoB8jPsQKoB8nPsQKoB63gsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5rhsQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgH1c4bqAerxRuoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIIC3IxN2tiU0VQbVhFqAgB0gg2CIDRgEAQAhhaMgiDgoSOgICACDoRitiAgICABIDAgICAgICAAipI2aDSNVAUWPjXsIHk1pMDmgkpaHR0cHM6Ly93d3cubGF3b2ZmaWNlc29mZGVhbmhmcmVlbWFuLmNvbS-xCU_6xZtC-p5WyAkXyAmPAcgJwgGYCwG6C18IAxAFGAQgBygBMBxAAUgAUAFYfWAAaABwAYgBAJgBAaIBKwodCAEoAdq4BBUyEzoRCg8oMEjlhYWh6AqYGQG4IAGAAQHQAQGoAgXAAgLYAQGAAgGIAgW6AwV2aWF0bNALEtIMAhAB2gwmCgsQkP-o88CY5_mbARICAQMaDRj6iImsWCDu077g2QVAAUoCEB-aDQESqg0CVVPIDQHSDb8BaHR0cHM6Ly93d3cubGF3b2ZmaWNlc29mZGVhbmhmcmVlbWFuLmNvbS8_dXRtX21lZGl1bT1wYWlkJnV0bV9zb3VyY2U9eW91dHViZSZ1dG1fY2FtcGFpZ249d3BiX2RlbWFuZF9nZW4mdXRtX3Rlcm09YXV0b19pbmNpZGVudHMmdXRtX2NvbnRlbnQ9ZnJlZW1hbl8xNSZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM3MTQ3NDM0MTi4E____________wGwFAPAFYGAgEDQFQHYFQHiFgIIAYAXAYoXFggDGAEgASgBMAE4AUABSAFQAVgBYAKgFwGpF10CHgN2VwiKuhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=Cj0KCQjwkMjOBhC5ARIsADIdb3c_uVyBtMShV0vXmJjISNYI2k9hfe9UTet_4mohJoPPh6DPKJM1n0MaAgBMEALw_wcB&num=1&cid=CAESvAHg9lFVbi1HhzTT5ExoFfrIQn_yzZ5EsR_UQeh5cs-3jvg4k3dN1Jjrek53x-v1Tx_JoAgTmhlme3AAG8nqXCq_SEZL4snKyyCqQ8mQJqCnkrhEwFZh9Am26k0V6ACrwi3IGZl-KTacwfejDms1wEc0pbIChHEMdDI2Tdcmu5M5N9Ef0KarDswjrGEak3vGAmpj2NUs_nF2vHSfYDPbR5xmKIqR96PRD9KUc9rSzO6xWRQHBQeaAOVR5EdpZg&ad_cpn=%5BCPN%5D&sig=AOD64_35O047vYNVuOgw_PGNJSPaA0xfBA&ctype=110&video_id=r17kbSEPmXE&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D'>Need help getting the settlement you deserve? Call Freeman Injury Law today. />
+					[89] (701,316)<div  />
+						[90] (457,323)<div  />
+							[91] (457,323)<ad-avatar-view-model  />
+								[92] (457,323)<yt-avatar-shape  />
+									[93] (457,323)<div aria-label='Freeman Injury Law' class='yt-spec-avatar-shape yt-spec-avatar-shape__button yt-spec-avatar-shape__button--button-extra-small yt-spec-avatar-shape__button--tappable' role='button' />
+										[94] (457,323)<div  />
+											[95] (457,323)<div  />
+												[96] (457,323)<img  />
+						[97] (497,323)<ad-badge-view-model  />
+							[98] (497,323)<badge-shape  />
+								[99] (493,323)<div >Sponsored />
+						[100] (561,323)<ad-details-line-view-model  />
+							[101] (561,323)<span class='yt-core-attributed-string ytwAdDetailsLineViewModelHostTextStyleStandard yt-core-attributed-string--white-space-pre-wrap' role='text'>Freeman Injury Law />
+				[102] (966,231)<div  />
+					[103] (966,231)<button-view-model  />
+						[104] (966,231)<button aria-label='My Ad Center' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+							[105] (966,231)<yt-touch-feedback-shape  />
+								[106] (966,231)<div  />
+			[107] (710,508)<lockup-attachments-view-model  />
+				[108] (710,392)<div  />
+					[109] (579,392)<ad-button-group-view-model  />
+						[110] (511,392)<div  />
+							[111] (511,392)<ad-button-view-model  />
+								[112] (511,392)<a aria-label='Watch' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--enable-backdrop-filter-experiment' href='/watch?v=r17kbSEPmXE' />
+									Watch
+									[113] (511,392)<yt-touch-feedback-shape  />
+										[114] (511,392)<div  />
+						[115] (647,392)<div  />
+							[116] (647,392)<ad-button-view-model  />
+								[117] (647,392)<a aria-label='Contact us' class='yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--enable-backdrop-filter-experiment' href='https://www.googleadservices.com/pagead/aclk?sa=L&ai=CiZuU317SafyBOLvXieoP65LyoQS5pK6nhgGMydXH3RVkEAEgAGDJhoCA3KOUEYIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAH5h7P4KagDBMgDCqoEvAJP0EsnOXSMWFwXxRVl4R6TB2llb2zaaX-v53y0uPSaps7nbGKygX-1OuEHQKCzZL_OfXVKOGVxwMoVudK4ShYpuA2ert6UXWoFEFxuneAGa6sai6MgFlNSVRlFgwNMFvuzvGJR-jauXr8zzYN0SssEopdX-4f06SUhQBVkNPeSTOzFy6Boi8OP2NmYtoHpcxdXlYFCXm0fGuAeWV9sJSvz7t3urzT3vwW5iO6V1OwkBiDVCQxf4iJ0zpnRd6t91sH9sCBT1VWUbugCdRajfCyzMAxeiW7uRZhGAl_v_EhUdm-I4phbc3ZaZnq6K2iZd_JJ9MojpvCw3J2jfRst7pqmlheS3Py-kiqsrqd6qFTZY-vEpBePBIEUAd9VPa-4OIeXEsrXhcEMBEo15GeP6Or6O1u0uhjo1Fm_cDjMiAX6iImsWJIFCAgTeK7H94YFoAahAYAH-b-D2ASIBwGQBwKoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB-a8sQKoB8q6sQKoB_2ysQKoB_e4sQKoB_i4sQKoB8jPsQKoB8nPsQKoB63gsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5rhsQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgH1c4bqAerxRuoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIIC3IxN2tiU0VQbVhFqAgB0gg2CIDRgEAQAhhaMgiDgoSOgICACDoRitiAgICABIDAgICAgICAAipI2aDSNVAUWPjXsIHk1pMDmgkpaHR0cHM6Ly93d3cubGF3b2ZmaWNlc29mZGVhbmhmcmVlbWFuLmNvbS-xCU_6xZtC-p5WyAkXyAmPAcgJwgGYCwG6C18IAxAFGAQgBygBMBxAAUgAUAFYfWAAaABwAYgBAJgBAaIBKwodCAEoAdq4BBUyEzoRCg8oMEjlhYWh6AqYGQG4IAGAAQHQAQGoAgXAAgLYAQGAAgGIAgW6AwV2aWF0bNALEtIMAhAB2gwmCgsQkP-o88CY5_mbARICAQMaDRj6iImsWCDu077g2QVAAUoCEB-aDQESqg0CVVPIDQHSDb8BaHR0cHM6Ly93d3cubGF3b2ZmaWNlc29mZGVhbmhmcmVlbWFuLmNvbS8_dXRtX21lZGl1bT1wYWlkJnV0bV9zb3VyY2U9eW91dHViZSZ1dG1fY2FtcGFpZ249d3BiX2RlbWFuZF9nZW4mdXRtX3Rlcm09YXV0b19pbmNpZGVudHMmdXRtX2NvbnRlbnQ9ZnJlZW1hbl8xNSZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM3MTQ3NDM0MTi4E____________wGwFAPAFYGAgEDQFQHYFQHiFgIIAYAXAYoXFggDGAEgASgBMAE4AUABSAFQAVgBYAKgFwGpF10CHgN2VwiKuhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=Cj0KCQjwkMjOBhC5ARIsADIdb3c_uVyBtMShV0vXmJjISNYI2k9hfe9UTet_4mohJoPPh6DPKJM1n0MaAgBMEALw_wcB&num=1&cid=CAESvAHg9lFVbi1HhzTT5ExoFfrIQn_yzZ5EsR_UQeh5cs-3jvg4k3dN1Jjrek53x-v1Tx_JoAgTmhlme3AAG8nqXCq_SEZL4snKyyCqQ8mQJqCnkrhEwFZh9Am26k0V6ACrwi3IGZl-KTacwfejDms1wEc0pbIChHEMdDI2Tdcmu5M5N9Ef0KarDswjrGEak3vGAmpj2NUs_nF2vHSfYDPbR5xmKIqR96PRD9KUc9rSzO6xWRQHBQeaAOVR5EdpZg&ad_cpn=%5BCPN%5D&sig=AOD64_35O047vYNVuOgw_PGNJSPaA0xfBA&ctype=110&video_id=r17kbSEPmXE&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=8&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D' />
+									Contact us
+									[118] (647,392)<yt-touch-feedback-shape  />
+										[119] (647,392)<div  />
+	[120] (253,818)<a class='channel-link yt-simple-endpoint style-scope ytd-channel-renderer' href='/@winchampropertyshop6636' />
+		[121] (253,818)<div  />
+			[122] (253,818)<yt-img-shadow  />
+				[123] (253,818)<img  />
+	[124] (675,818)<a class='channel-link yt-simple-endpoint style-scope ytd-channel-renderer' href='/@winchampropertyshop6636' id='main-link' />
+		[125] (675,818)<div  />
+			[126] (519,750)<ytd-channel-name  />
+				[127] (519,750)<div  />
+					[128] (519,750)<div  />
+						[129] (519,750)<yt-formatted-string >Wincham Property Shop />
+			[130] (669,799)<div  />
+				[131] (506,799)<yt-formatted-string >@winchampropertyshop6636 />
+				[132] (568,799)<span >• />
+				[133] (601,799)<span >96 subscribers />
+			[134] (669,850)<yt-formatted-string  />
+				[135] (475,836)<span >Costa Blanca />
+				[136] (519,836)<span >Property />
+				[137] (665,850)<span >Sales Experts Since 1995. With offices in Calpe and the UK. Come and visit us to discuss your Spanish ... />
+	[138] (937,804)<button aria-label='Subscribe to Wincham Property Shop.' class='yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+		Subscribe
+		[139] (937,804)<yt-touch-feedback-shape  />
+			[140] (937,804)<div  />
+	[141] (710,992)<div  />
+		[142] (710,977)<div  />
+			[143] (605,977)<h3  />
+				[144] (605,977)<a aria-label='WA4, #Warrington 3 bedroom with renting £1000 pcm by Bridge link  UK properties and letting Ltd 113 views 4 years ago 31 seconds - play Short' class='yt-simple-endpoint style-scope ytd-video-renderer' href='/shorts/To-NQJo_xKY' id='video-title' title='WA4, #Warrington 3 bedroom with renting £1000 pcm' />
+					[145] (605,977)<yt-formatted-string >WA4, #Warrington 3 bedroom with renting £1000 pcm />
+			[146] (957,976)<div  />
+				[147] (957,971)<ytd-menu-renderer  />
+					[148] (957,971)<yt-icon-button  />
+						[149] (957,971)<button aria-label='Action menu' class='style-scope yt-icon-button' id='button' />
+							[150] (957,971)<yt-icon  />
+								[151] (957,971)<span  />
+									[152] (957,971)<div  />
+
+</current_dom>

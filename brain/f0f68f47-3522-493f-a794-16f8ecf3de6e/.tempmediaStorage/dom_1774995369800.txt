@@ -1,0 +1,157 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to main content
+Accessibility help
+Accessibility feedback
+[0] (63,57)<a aria-label='Go to Google Home' href='https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwid_636lMuTAxUaRPEDHRmvOt4QPAgJ' id='logo' title='Go to Google Home' />
+[1] (292,57)<textarea aria-label='Search' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (477,57)<div  />
+	[3] (476,57)<div aria-label=' Clear' class='vOY7J M2vV3' role='button' />
+		[4] (476,57)<span  />
+	[5] (488,57)<span  />
+[6] (501,57)<div aria-label='Search by voice' class='XDyW0e' role='button' />
+[7] (522,57)<div aria-label='Search by image' class='nDcEnd' role='button' />
+[8] (546,57)<button aria-label='Search' class='HZVG1b Tg7LZd' />
+	[9] (542,57)<div  />
+		[10] (542,57)<span  />
+[11] (956,57)<a aria-label='Google apps' class='gb_B' href='https://www.google.com/intl/en/about/products?tab=wh' role='button' />
+[12] (979,57)<a aria-label='Google Account: Dean Harrison  
+(dean@onelifesm.com)' class='gb_B gb_0a' href='https://accounts.google.com/SignOutOptions?hl=en&continue=https://www.google.com/search%3Fq%3Dsite:facebook.com%2B%2522Wincham%2522%2Bcomplaints%2BSpain%2BLanzarote&ec=futura_srp_og_si_72236_p' role='button' />
+[13] (133,124)<a class='XVMlrc C6AK7c' href='/search?q=site:facebook.com+%22Wincham%22+complaints+Spain+Lanzarote&sca_esv=d115e34c1a0f1aef&sxsrf=ANbL-n4Isl6X24iJJ2A8ek8CH3Y5dO9B3g:1774995349674&udm=50&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3lu5bo-x-eoA2sZT4vVUz9wU36AJHm6pxsm2SGojuw8CGrBA3-4amk8y88U9z8vvgJH9IfZqOCwjbic9_JMVw1OWh3uKzhRhNLZNn88AHO1gx9eSkmbT1uSD7kcydp1ZbzJR5wvpUmLDlKYhn4p2lac7kFUNG1YnJ1ykvsCRO13XWOfkrg&aep=1&ntc=1&sa=X&ved=2ahUKEwid_636lMuTAxUaRPEDHRmvOt4Q2J8OegQICxAE' />
+	[14] (133,124)<div  />
+		[15] (133,133)<div  />
+			[16] (133,127)<span >AI Mode />
+[17] (164,124)<a class='C6AK7c' role='link' />
+	All
+[18] (192,124)<a class='C6AK7c' href='/search?sca_esv=d115e34c1a0f1aef&sxsrf=ANbL-n4Isl6X24iJJ2A8ek8CH3Y5dO9B3g:1774995349674&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3lu5bo-x-eoA2sZT4vVUz9wU36AJHm6pxsm2SGojuw8CGrBA3-4amk8y88U9z8vvgJH9IfZqOCwjbic9_JMVw1OWh3uKzhRhNLZNn88AHO1gx9eSkmbT1uSD7kcydp1ZbzJR5wvpUmLDlKYhn4p2lac7kFUNG1YnJ1ykvsCRO13XWOfkrg&q=site:facebook.com+%22Wincham%22+complaints+Spain+Lanzarote&sa=X&ved=2ahUKEwid_636lMuTAxUaRPEDHRmvOt4QtKgLegQIExAB' />
+	[19] (192,124)<div  />
+		[20] (192,133)<span >Images />
+[21] (226,124)<a class='C6AK7c' href='/search?sca_esv=d115e34c1a0f1aef&sxsrf=ANbL-n4Isl6X24iJJ2A8ek8CH3Y5dO9B3g:1774995349674&q=site:facebook.com+%22Wincham%22+complaints+Spain+Lanzarote&tbm=nws&source=lnms&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3lu5bo-x-eoA2sZT4vVUz9wU36AJHm6pxsm2SGojuw8CGrBA3-4amk8y88U9z8vvgJH9IfZqOCwjbic9_JMVw1OWh3uKzhRhNLZNn88AHO1gx9eSkmbT1uSD7kcydp1ZbzJR5wvpUmLDlKYhn4p2lac7kFUNG1YnJ1ykvsCRO13XWOfkrg&sa=X&ved=2ahUKEwid_636lMuTAxUaRPEDHRmvOt4Q0pQJegQIFBAB' />
+	[22] (226,124)<div  />
+		[23] (226,133)<span >News />
+[24] (260,124)<a class='C6AK7c' href='/search?sca_esv=d115e34c1a0f1aef&sxsrf=ANbL-n4Isl6X24iJJ2A8ek8CH3Y5dO9B3g:1774995349674&udm=18&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3lu5bo-x-eoA2sZT4vVUz9wU36AJHm6pxsm2SGojuw8CGrBA3-4amk8y88U9z8vvgJH9IfZqOCwjbic9_JMVw1OWh3uKzhRhNLZNn88AHO1gx9eSkmbT1uSD7kcydp1ZbzJR5wvpUmLDlKYhn4p2lac7kFUNG1YnJ1ykvsCRO13XWOfkrg&q=site:facebook.com+%22Wincham%22+complaints+Spain+Lanzarote&sa=X&ved=2ahUKEwid_636lMuTAxUaRPEDHRmvOt4Qs6gLegQIEhAB' />
+	[25] (260,124)<div  />
+		[26] (260,133)<span >Forums />
+[27] (305,124)<a class='C6AK7c' href='/search?sca_esv=d115e34c1a0f1aef&sxsrf=ANbL-n4Isl6X24iJJ2A8ek8CH3Y5dO9B3g:1774995349674&udm=39&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3lu5bo-x-eoA2sZT4vVUz9wU36AJHm6pxsm2SGojuw8CGrBA3-4amk8y88U9z8vvgJH9IfZqOCwjbic9_JMVw1OWh3uKzhRhNLZNn88AHO1gx9eSkmbT1uSD7kcydp1ZbzJR5wvpUmLDlKYhn4p2lac7kFUNG1YnJ1ykvsCRO13XWOfkrg&q=site:facebook.com+%22Wincham%22+complaints+Spain+Lanzarote&sa=X&ved=2ahUKEwid_636lMuTAxUaRPEDHRmvOt4Qs6gLegQIEBAB' />
+	[28] (305,124)<div  />
+		[29] (305,133)<span >Short videos />
+[30] (349,124)<a class='C6AK7c' href='/search?sca_esv=d115e34c1a0f1aef&sxsrf=ANbL-n4Isl6X24iJJ2A8ek8CH3Y5dO9B3g:1774995349674&udm=7&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3lu5bo-x-eoA2sZT4vVUz9wU36AJHm6pxsm2SGojuw8CGrBA3-4amk8y88U9z8vvgJH9IfZqOCwjbic9_JMVw1OWh3uKzhRhNLZNn88AHO1gx9eSkmbT1uSD7kcydp1ZbzJR5wvpUmLDlKYhn4p2lac7kFUNG1YnJ1ykvsCRO13XWOfkrg&q=site:facebook.com+%22Wincham%22+complaints+Spain+Lanzarote&sa=X&ved=2ahUKEwid_636lMuTAxUaRPEDHRmvOt4QtKgLegQIERAB' />
+	[31] (349,124)<div  />
+		[32] (349,133)<span >Videos />
+[33] (385,124)<div class='mTpL7c' role='button' />
+	[34] (385,124)<div  />
+		[35] (385,133)<div  />
+			[36] (380,127)<span >More />
+			[37] (393,127)<span  />
+Search Results
+Web results
+[38] (256,221)<a class='zReHs' href='https://www.facebook.com/groups/667887900695795/posts/1865222420962331/' />
+	[39] (256,241)<h3 >Hi do I only need my passport when coming on holiday, I ... />
+	[40] (183,203)<div  />
+		[41] (183,203)<div  />
+			[42] (127,203)<span  />
+				[43] (127,203)<div  />
+					[44] (127,203)<img  />
+			[45] (193,203)<div  />
+				[46] (193,194)<div  />
+					[47] (193,194)<span >Facebook · Gran Canaria Forum />
+				[48] (193,214)<div  />
+					[49] (175,214)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>7 comments  ·  1 year ago />
+[50] (256,213)<div aria-label='About this result' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[51] (256,213)<span  />
+		[52] (256,214)<span  />
+Wincham
+Parish Post. 27w · Public · Planning to travel abroad in October half term. Some travel changes. What is EES & ETIAS? Planning a short ...
+[53] (311,297)<a class='vzmbzf' href='https://www.facebook.com/groups/667887900695795/posts/1865222420962331/#:~:text=Wincham%20Parish%20Post,a%20short%20break%20to%20Europe%3F' />
+	[54] (311,297)<span >Read more />
+Top answer:
+Just your passport, the EES will come in first then the ETIAS. In another group we share ...
+[55] (260,403)<a class='zReHs' href='https://www.facebook.com/groups/462016444314837/posts/2214231199093344/' />
+	[56] (260,438)<h3 >A lot of people are asking about EES/ETIAS so I thought I'd ... />
+	[57] (191,386)<div  />
+		[58] (191,386)<div  />
+			[59] (127,386)<span  />
+				[60] (127,386)<div  />
+					[61] (127,386)<img  />
+			[62] (201,386)<div  />
+				[63] (201,376)<div  />
+					[64] (201,376)<span >Facebook · Costa Teguise, Lanzarote />
+				[65] (201,397)<div  />
+					[66] (183,397)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>20+ comments  ·  8 months ago />
+[67] (272,396)<div aria-label='About this result' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[68] (272,396)<span  />
+		[69] (272,397)<span  />
+Wincham
+Parish Post. 27w · Public · Planning to travel abroad in October half term. Some travel changes. What is EES & ETIAS? Planning a short ...
+[70] (352,508)<a class='vzmbzf' href='https://www.facebook.com/groups/462016444314837/posts/2214231199093344/#:~:text=Wincham%20Parish%20Post,a%20short%20break%20to%20Europe%3F' />
+	[71] (352,508)<span >Read more />
+[72] (435,424)<a href='https://www.facebook.com/groups/462016444314837/posts/2214231199093344/' />
+	[73] (435,424)<div  />
+		[74] (435,424)<img  />
+Top answer:
+EU Ripoff!
+Missing:
+complaints
+‎| Show results with:
+[75] (268,556)<a href='/search?sca_esv=d115e34c1a0f1aef&sxsrf=ANbL-n4Isl6X24iJJ2A8ek8CH3Y5dO9B3g:1774995349674&q=site:facebook.com+%22Wincham%22+%22complaints%22+Spain+Lanzarote&sa=X&ved=2ahUKEwid_636lMuTAxUaRPEDHRmvOt4Q5t4CegQINRAB' />
+	[76] (268,556)<span >complaints />
+[77] (200,638)<a class='zReHs' href='https://www.facebook.com/groups/guidetoiceland/posts/3677200695753702/' />
+	[78] (200,659)<h3 >What is EES and ETIAS for travel? />
+	[79] (180,621)<div  />
+		[80] (180,621)<div  />
+			[81] (127,621)<span  />
+				[82] (127,621)<div  />
+					[83] (127,621)<img  />
+			[84] (190,621)<div  />
+				[85] (190,612)<div  />
+					[86] (190,612)<span >Facebook · Iceland Travel Tips />
+				[87] (190,632)<div  />
+					[88] (182,632)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>10+ comments  ·  2 weeks ago />
+[89] (250,631)<div aria-label='About this result' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[90] (250,631)<span  />
+		[91] (250,632)<span  />
+Wincham
+Parish Post. 26w · Public · Planning to travel abroad in October half term. Some travel changes. What is EES & ETIAS? Planning a short ...
+[92] (352,715)<a class='vzmbzf' href='https://www.facebook.com/groups/guidetoiceland/posts/3677200695753702/#:~:text=Wincham%20Parish%20Post,a%20short%20break%20to%20Europe%3F' />
+	[93] (352,715)<span >Read more />
+[94] (435,659)<a href='https://www.facebook.com/groups/guidetoiceland/posts/3677200695753702/' />
+	[95] (435,659)<div  />
+		[96] (435,659)<img  />
+Top answer:
+EES isn't something you "get." It's just how they are now tracking exits and entries into Schengen. ...
+Missing:
+complaints
+‎| Show results with:
+[97] (268,763)<a href='/search?sca_esv=d115e34c1a0f1aef&sxsrf=ANbL-n4Isl6X24iJJ2A8ek8CH3Y5dO9B3g:1774995349674&q=site:facebook.com+%22Wincham%22+%22complaints%22+Spain+Lanzarote&sa=X&ved=2ahUKEwid_636lMuTAxUaRPEDHRmvOt4Q5t4CegQINBAB' />
+	[98] (268,763)<span >complaints />
+[99] (248,845)<a class='zReHs' href='https://www.facebook.com/groups/1567603200852154/posts/1597007784578362/' />
+	[100] (248,866)<h3 >Hi all, I've got my first EDT booked in 2 weeks Liverpool />
+	[101] (210,828)<div  />
+		[102] (210,828)<div  />
+			[103] (127,828)<span  />
+				[104] (127,828)<div  />
+					[105] (127,828)<img  />
+			[106] (220,828)<div  />
+				[107] (220,818)<div  />
+					[108] (220,818)<span >Facebook · EXTREME DAY TRIPS- LIVERPOOL />
+				[109] (220,839)<div  />
+					[110] (175,839)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>7 comments  ·  1 year ago />
+[111] (310,838)<div aria-label='About this result' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[112] (310,838)<span  />
+		[113] (310,839)<span  />
+Nikki Jane. Just park…search
+wincham
+avenue… local housing estate, 10 min walk away from JLA. 1 yr · 1 · Rachel Gibson. Do you mind me asking ...
+[114] (293,922)<a class='vzmbzf' href='https://www.facebook.com/groups/1567603200852154/posts/1597007784578362/#:~:text=Nikki%20Jane,booked%20please%20Kyle%20Griffiths%20%3A)' />
+	[115] (293,922)<span >Read more />
+Top answer:
+https://www.justpark.com/uk/parking/liverpool/s/wi ...
+Missing:
+complaints
+‎| Show results with:
+[116] (268,970)<a href='/search?sca_esv=d115e34c1a0f1aef&sxsrf=ANbL-n4Isl6X24iJJ2A8ek8CH3Y5dO9B3g:1774995349674&q=site:facebook.com+%22Wincham%22+%22complaints%22+Spain+Lanzarote&sa=X&ved=2ahUKEwid_636lMuTAxUaRPEDHRmvOt4Q5t4CegQIMRAB' />
+	[117] (268,970)<span >complaints />
+
+</current_dom>

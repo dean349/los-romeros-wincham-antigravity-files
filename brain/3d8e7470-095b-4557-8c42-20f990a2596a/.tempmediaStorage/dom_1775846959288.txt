@@ -1,0 +1,58 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Sent to :    
+                        (
+)
+From:   	mark@wincham.com
+Date:   	Fri, 03 Jun 2022 13:16:27
+To:   	phil.harrison1904@gmail.com
+Subject:   	Wincham & Property
+Hello Phil,
+Thank you for your talks regarding selling the Spain property out of your UK Company where we would welcome the opportunity to act as Spanish Lawyers & Tax Advisers for the property Sale & Los Romeros Limited.
+Wincham Will Supply The Following when Instructed.
+1: Act as your Spanish Lawyer & Tax Advisor dealing with the Buyers Lawyer & Advisor's.
+2: Liaise with any Agents involved and supply any property, UK Company or documents the Buyer Lawyer needs to complete their Due-Diligence.
+3: Produce and review any contracts for the property sale including reservation documents.
+4: On Completion request proof of Payment from the Buyers Lawyer to the Spanish Tax Office that your Plusvalia Tax and 3% Retention on the sales value are paid within the deadline so not to receive fines.
+5: Reclaim any 3% Retention back from the Spanish Tax office to your UK Company unless profit made on sale.
+6: A Wincham Lawyer will produce completion statements for you of the transaction in full with the Buyers & Sellers agreeing to them with any further retentions agreed on sale for completion meeting.
+7: Collect any sales proceeds into our Euro or Sterling Client bank accounts for your holding with no Bank Charges in Spain or UK to yourself.
+The Wincham fee for all the above would be £3500 + vat with Wincham qualified Professionals fully understanding both Spain & UK Jurisdictions.
+If I can talk with the Buyer and get them to purchase the property within the UK Company then this saves them the 7% Spain Property Purchase Tax and you the 3% Retention in Spain & Spanish Capital Gains Tax. The Wincham fee for this transaction would be £7000 + vat.
+I look forward to any questions you have?
+Kind Regards
+Mark Roach
+Managing Director & Spanish Tax Consultant
+Dated :
+03/Jun/2022
+Message Type:
+Emails - Wincham
+Added By :
+Case Director
+Sent to :    
+                        (
+)
+From:   	mark@wincham.com
+Date:   	Fri, 03 Jun 2022 13:07:36
+To:   	phil.harrison1904@gmail.com
+Subject:   	Wincham Spanish Property Selling Service
+Hello Phil,
+Thank you for your talks over the phone yesterday as Wincham would like to help sell your property & UK Company and I look forward to help market your Spanish property and locate a Buyer for you with a price of around €230,000
+Once Wincham International Limited has sold your property or company we charge a sales commission of 5% + VAT/IVA based on the sale price, this is only payable when we introduce a Client to you who purchases the property or your Company.
+We will advertise your property on our own Wincham website www.winchampropertyshop.com and many other Property Finding Portals on the Internet.
+You may subscribe your property via the link www.winchampropertyshop.com/add-your-own-property.asp so that we can take your property to market for you and contact you about your application, specifications, photos and the agreed market value.
+When you have a Buyer Wincham can act as your UK & Spanish Lawyers for the transaction and complete all legal work on sale in the most Tax efficient way.
+I hope the above is all in order and I look forward to any questions you may have ?
+Kind Regards
+Mark Roach
+Managing Director & Spanish Tax Consultant
+Dated :
+18/May/2022
+Message Type:
+Correspondence
+Added By :
+Case Director
+
+</current_dom>

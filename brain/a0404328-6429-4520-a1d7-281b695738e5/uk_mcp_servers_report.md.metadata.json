@@ -1,0 +1,5 @@
+{
+  "artifactType":  "ARTIFACT_TYPE_OTHER",
+  "summary":  "A comprehensive research report identifying all available UK government and legal authority MCP servers relevant to the Wincham case. Covers the i.AI Lex legislation MCP (8.4M UK legal documents, built by the UK government), enhanced Companies House MCP options, the GovUK aggregator MCP (33 government APIs), and the PolicyEngine UK tax-benefit simulation MCP. Includes honest assessments of production-readiness, relevance to the case, and step-by-step Claude Desktop configuration instructions for each.",
+  "updatedAt":  "2026-04-02T05:16:38.966837400Z"
+}

@@ -1,0 +1,85 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+This website uses local storage to remember your language preference and cache page content. No tracking cookies or advertising data are collected.
+[0] (415,924)<a href='/cookie-policy'>Cookie Policy />
+·
+[1] (492,924)<a href='/privacy-policy'>Privacy Policy />
+[2] (790,908)<button >OK, got it />
+[3] (500,23)<a href='/domain-for-sale' />
+	[4] (500,23)<div  />
+		[5] (500,23)<div  />
+			[6] (500,23)<div >Wincham.co.uk
+is a ANY-Domains domain and is
+(
+enquire
+) />
+				[7] (587,23)<span >FOR SALE />
+				[8] (675,23)<span >here />
+[9] (606,91)<a class='navigation-item nav-top01-item w-nav-link' href='/domain-for-sale-jv'>Domain for sale or Joint Venture />
+[10] (767,91)<a class='navigation-item nav-top01-item w-nav-link' href='/about-us'>About Us />
+[11] (860,91)<a class='navigation-item nav-top01-item w-nav-link' href='/contact-us'>Contact Us />
+[12] (943,91)<a class='navigation-item nav-top01-item w-nav-link' href='/login'>Login />
+[13] (106,170)<a href='/' />
+	[14] (94,170)<div  />
+		[15] (94,170)<div >Wincham.co.uk />
+[16] (245,170)<a href='#page-top' />
+	[17] (245,170)<div  />
+		[18] (245,170)<div >a ANY-Web domain />
+What are you looking for?
+[19] (899,170)<input class='class="text-block-2' placeholder='Search here...' />
+[20] (59,265)<a class='navigation-item nav-main01-item w-nav-link w--current' href='/index'>XHome />
+[21] (128,265)<a href='/news' />
+	[22] (128,265)<button class='navigation-item nav-main01-item w-nav-link '>News />
+[23] (203,265)<a class='navigation-item nav-main01-item w-nav-link ' href='/weather'>Weather />
+[24] (276,265)<a class='navigation-item nav-main01-item w-nav-link ' href='/jobs'>Jobs />
+[25] (344,265)<a href='/travel' />
+	[26] (343,265)<button class='navigation-item nav-main01-item w-nav-link '>Travel />
+[27] (411,265)<a class='navigation-item nav-main01-item w-nav-link ' href='/maps'>Maps />
+[28] (492,265)<a class='navigation-item nav-main01-item w-nav-link ' href='/genealogy'>Genealogy />
+[29] (578,265)<a class='navigation-item nav-main01-item w-nav-link ' href='/dating'>Dating />
+[30] (659,265)<a class='navigation-item nav-main01-item w-nav-link ' href='/property'>Property />
+[31] (740,265)<a class='navigation-item nav-main01-item w-nav-link ' href='/events'>Events />
+[32] (811,265)<a href='/music' />
+	[33] (811,265)<button class='navigation-item nav-main01-item w-nav-link '>Music />
+[34] (874,265)<a class='navigation-item nav-main01-item w-nav-link ' href='/kids'>Kids />
+[35] (947,265)<a class='navigation-item nav-main01-item w-nav-link ' href='/charities'>Charities />
+[36] (71,361)<a class='navigation-item nav-main01-item w-nav-link ' href='/any-village'>ANY-Village />
+[37] (150,361)<a href='/shop' />
+	[38] (150,361)<button class='navigation-item nav-main01-item w-nav-link '>Shop />
+[39] (234,361)<a href='/local-trades' />
+	[40] (234,361)<button class='navigation-item nav-main01-item w-nav-link '>Local Trades />
+[41] (336,361)<a class='navigation-item nav-main01-item w-nav-link ' href='/inspiration'>Inspiration />
+[42] (424,361)<a class='navigation-item nav-main01-item w-nav-link ' href='/autism'>Autism />
+[43] (491,361)<a class='navigation-item nav-main01-item w-nav-link ' href='/air'>01-Air />
+[44] (563,361)<a class='navigation-item nav-main01-item w-nav-link ' href='/water'>02-Water />
+[45] (641,361)<a class='navigation-item nav-main01-item w-nav-link ' href='/food'>03-Food />
+[46] (739,361)<a href='/environment' />
+	[47] (738,361)<button class='navigation-item nav-main01-item w-nav-link '>04-Environment />
+[48] (842,361)<a href='/energy' />
+	[49] (841,361)<button class='navigation-item nav-main01-item w-nav-link '>05-Energy />
+[50] (931,361)<a class='navigation-item nav-main01-item w-nav-link last ' href='/prepare'>06-Prepare />
+[51] (88,453)<a class='navigation-item nav-main02-item w-nav-link ' href='/parish-magazine'>Parish Magazine />
+[52] (218,453)<a class='navigation-item nav-main02-item w-nav-link ' href='/picture-gallery'>Picture Gallery />
+[53] (331,453)<a class='navigation-item nav-main02-item w-nav-link ' href='/guestbook'>Guestbook />
+[54] (434,453)<a class='navigation-item nav-main02-item w-nav-link ' href='/village-hall'>Village Hall />
+[55] (552,453)<a class='navigation-item nav-main02-item w-nav-link ' href='/your-campaigns'>Your Campaigns />
+[56] (676,453)<a class='navigation-item nav-main02-item w-nav-link ' href='/your-lost-pets'>Your Lost Pets />
+[57] (813,453)<a class='navigation-item nav-main02-item w-nav-link last ' href='/your-village-future'>Your Village Future />
+*
+Index
+Gardening in
+WINCHAM
+We are creating a series of articles especially for people who love gardening.
+Stay tuned!
+All
+WINCHAM
+news
+BBC News UK
+[58] (834,833)<a href='https://www.bbc.com/news/articles/cp86942yj97o?at_medium=RSS&at_campaign=rss' />
+	[59] (834,833)<h6 >Keir Starmer 'concerned' over Kanye West UK festival dates />
+1 hour ago
+Royals gather for Windsor Easter Sunday service
+
+</current_dom>

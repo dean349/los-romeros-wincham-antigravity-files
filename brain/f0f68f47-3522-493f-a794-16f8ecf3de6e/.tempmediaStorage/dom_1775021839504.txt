@@ -1,0 +1,42 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (222,62)<a class='govuk-tabs__tab' href='/company/05886583' id='company-overview-tab' role='tab'>Company
+Overview
+for TRANZCASH LIMITED (05886583) />
+	Company
+	for TRANZCASH LIMITED (05886583)
+[1] (312,62)<a class='govuk-tabs__tab' href='/company/05886583/filing-history' id='filing-history-tab' role='tab'>Filing history
+for TRANZCASH LIMITED (05886583) />
+	for TRANZCASH LIMITED (05886583)
+[2] (395,62)<a class='govuk-tabs__tab' href='/company/05886583/officers' id='people-tab' role='tab'>People
+for TRANZCASH LIMITED (05886583) />
+	for TRANZCASH LIMITED (05886583)
+[3] (457,62)<a class='govuk-tabs__tab' href='/company/05886583/more' id='more-tab' role='tab'>More
+for TRANZCASH LIMITED (05886583) />
+	for TRANZCASH LIMITED (05886583)
+[4] (225,167)<a class='govuk-link' href='#' id='officers-link' role='tab'>Officers />
+[5] (354,167)<a class='govuk-link' href='/company/05886583/persons-with-significant-control' id='pscs-link' role='tab'>Persons with significant control />
+Filter officers
+[6] (344,354)<fieldset >Filter officers, selecting an input will reload the page. />
+	Filter officers, selecting an input will reload the page.
+	[7] (265,354)<label class='block-label selection-button-checkbox'>Current officers />
+		[8] (210,368)<input id='officer-category-active' />
+Officers:
+9 officers / 8 resignations
+[9] (290,580)<a class='govuk-link' href='/officers/EzuUxOCrUa0Lg9C56H9itLa-718/appointments'>KNOWLES, Michael Roger />
+Correspondence address
+Steadings House, Lower Meadow Road, Brooke Park, Handforth, Wilmslow, Cheshire, England, SK9 3LP
+Role
+Director
+Date of birth
+October 1951
+Appointed on
+22 October 2010
+Nationality
+British
+Country of residence
+England
+
+</current_dom>

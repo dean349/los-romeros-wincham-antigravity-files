@@ -1,0 +1,34 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (290,153)<a class='govuk-link' href='/officers/0pmrn9VhvoZH3JYbWcVVvBJvM3k/appointments'>PILKINGTON, Simon Mark />
+Correspondence address
+4 Hatrell Street, Newcastle Under Lyme, Staffordshire, ST5 1LX
+Role
+Resigned
+Director
+Date of birth
+October 1983
+Appointed on
+30 September 2005
+Resigned on
+17 October 2005
+Nationality
+British
+Country of residence
+England
+[1] (281,777)<a class='govuk-link' href='/officers/h5gTgHbH-WK0teiYf4myg31HTG8/appointments'>ROACH, Malcolm David />
+Correspondence address
+Wincham House, Greenfield Farm Trading Estate, Congleton, Cheshire, CW12 4TR
+Role
+Resigned
+Director
+Date of birth
+January 1950
+Appointed on
+30 September 2016
+Resigned on
+24 September 2020
+
+</current_dom>

@@ -1,0 +1,259 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (19,30)<button aria-label='Guide' class='style-scope yt-icon-button' id='button' />
+	[1] (19,30)<yt-icon  />
+		[2] (19,30)<span  />
+			[3] (19,30)<div  />
+[4] (61,30)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube Home' />
+	[5] (61,30)<div  />
+		[6] (61,30)<ytd-logo  />
+			[7] (61,30)<yt-icon  />
+				[8] (62,30)<span  />
+					[9] (62,30)<div  />
+[10] (470,30)<div  />
+	[11] (467,30)<form  />
+		[12] (467,30)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='Search' role='combobox' />
+	[13] (601,30)<div  />
+		[14] (601,30)<button aria-label='Clear search query' class='ytSearchboxComponentClearButton' />
+			[15] (601,30)<yt-touch-feedback-shape  />
+				[16] (601,30)<div  />
+[17] (626,30)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='Search' />
+	[18] (626,30)<span  />
+		[19] (626,30)<span  />
+			[20] (626,30)<div  />
+[21] (662,30)<button aria-label='Search with your voice' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[22] (662,30)<yt-touch-feedback-shape  />
+		[23] (662,30)<div  />
+[24] (898,30)<button aria-label='Create' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	Create
+	[25] (898,30)<yt-touch-feedback-shape  />
+		[26] (898,30)<div  />
+[27] (938,30)<button aria-label='Notifications' class='style-scope yt-icon-button' id='button' />
+	[28] (938,29)<yt-icon-badge-shape  />
+		[29] (938,30)<div  />
+			[30] (938,30)<div  />
+				[31] (938,30)<span  />
+[32] (968,30)<button aria-label='Account menu' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[33] (968,30)<yt-img-shadow  />
+		[34] (968,30)<img  />
+[35] (63,530)<div class='style-scope ytd-app' id='guide-inner-content' scrollable='true' />
+	[36] (59,96)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/' id='endpoint' role='link' title='Home' />
+		[37] (59,96)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[38] (19,96)<yt-icon  />
+			[39] (72,96)<yt-formatted-string >Home />
+	[40] (59,139)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' id='endpoint' role='link' title='Shorts' />
+		[41] (59,139)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[42] (19,139)<yt-icon  />
+			[43] (72,139)<yt-formatted-string >Shorts />
+	[44] (59,210)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/feed/subscriptions' id='endpoint' role='link' title='Subscriptions' />
+		[45] (59,210)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[46] (40,210)<yt-formatted-string >Subscriptions />
+			[47] (72,210)<yt-icon  />
+				[48] (72,210)<span  />
+					[49] (72,210)<div  />
+	[50] (59,254)<a aria-label='Jack Roberts. New content available.' class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@Itssssss_Jack' id='endpoint' role='link' title='Jack Roberts' />
+		[51] (59,254)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[52] (19,254)<yt-img-shadow  />
+				[53] (19,254)<img  />
+			[54] (68,254)<yt-formatted-string >Jack Roberts />
+			[55] (102,254)<div  />
+	[56] (59,297)<a aria-label='Paul J Lipsky. New content available.' class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@PaulJLipsky' id='endpoint' role='link' title='Paul J Lipsky' />
+		[57] (59,297)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[58] (19,297)<yt-img-shadow  />
+				[59] (19,297)<img  />
+			[60] (68,297)<yt-formatted-string >Paul J Lipsky />
+			[61] (102,297)<div  />
+	[62] (59,341)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@Build2Scale' id='endpoint' role='link' title='Build2Scale' />
+		[63] (59,341)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[64] (19,341)<yt-img-shadow  />
+				[65] (19,341)<img  />
+			[66] (72,341)<yt-formatted-string >Build2Scale />
+	[67] (59,384)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@AIMarketingNavigator' id='endpoint' role='link' title='AI Marketing Navigator' />
+		[68] (59,384)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[69] (19,384)<yt-img-shadow  />
+				[70] (19,384)<img  />
+			[71] (72,384)<yt-formatted-string >AI Marketing Navigator />
+	[72] (59,428)<a aria-label='Apollo. New content available.' class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@apolloio' id='endpoint' role='link' title='Apollo' />
+		[73] (59,428)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[74] (19,428)<yt-img-shadow  />
+				[75] (19,428)<img  />
+			[76] (68,428)<yt-formatted-string >Apollo />
+			[77] (102,428)<div  />
+	[78] (59,471)<a aria-label='LIV South Florida. New content available.' class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@LIVSouthFlorida' id='endpoint' role='link' title='LIV South Florida' />
+		[79] (59,471)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[80] (19,471)<yt-img-shadow  />
+				[81] (19,471)<img  />
+			[82] (68,471)<yt-formatted-string >LIV South Florida />
+			[83] (102,471)<div  />
+	[84] (59,515)<a aria-label='Simon Squibb. New content available.' class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@SimonSquibb' id='endpoint' role='link' title='Simon Squibb' />
+		[85] (59,515)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[86] (19,515)<yt-img-shadow  />
+				[87] (19,515)<img  />
+			[88] (68,515)<yt-formatted-string >Simon Squibb />
+			[89] (102,515)<div  />
+	[90] (59,558)<ytd-guide-entry-renderer class='style-scope ytd-guide-collapsible-entry-renderer' id='expander-item' role='button' />
+		[91] (59,558)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' id='endpoint' role='link' title='Show more' />
+			[92] (59,558)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+				[93] (19,558)<yt-icon  />
+					[94] (19,558)<span  />
+						[95] (19,558)<div  />
+				[96] (72,558)<yt-formatted-string >Show more />
+	[97] (59,629)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/feed/you' id='endpoint' role='link' title='You' />
+		[98] (59,629)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[99] (22,629)<yt-formatted-string >You />
+			[100] (35,629)<yt-icon  />
+				[101] (35,629)<span  />
+					[102] (35,629)<div  />
+	[103] (59,672)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/feed/history' id='endpoint' role='link' title='History' />
+		[104] (59,672)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[105] (19,672)<yt-icon  />
+			[106] (72,672)<yt-formatted-string >History />
+	[107] (59,716)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/feed/playlists' id='endpoint' role='link' title='Playlists' />
+		[108] (59,716)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[109] (19,716)<yt-icon  />
+			[110] (72,716)<yt-formatted-string >Playlists />
+	[111] (59,760)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/playlist?list=WL' id='endpoint' role='link' title='Watch later' />
+		[112] (59,760)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[113] (19,760)<yt-icon  />
+			[114] (72,760)<yt-formatted-string >Watch later />
+	[115] (59,803)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/playlist?list=LL' id='endpoint' role='link' title='Liked videos' />
+		[116] (59,803)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[117] (19,803)<yt-icon  />
+			[118] (72,803)<yt-formatted-string >Liked videos />
+	[119] (59,847)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='https://studio.youtube.com/channel/UCO0bdUGafowGWQ0MoUhvjOw/videos' id='endpoint' role='link' title='Your videos' />
+		[120] (59,847)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[121] (19,847)<yt-icon  />
+			[122] (72,847)<yt-formatted-string >Your videos />
+	[123] (59,890)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/feed/downloads' id='endpoint' role='link' title='Downloads' />
+		[124] (59,890)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[125] (19,890)<yt-icon  />
+			[126] (72,890)<yt-formatted-string >Downloads />
+	Explore
+	[127] (59,996)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/channel/UCkYQyvc_i9hXEo4xic9Hh2g' id='endpoint' role='link' title='Shopping' />
+		[128] (59,996)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[129] (19,996)<yt-icon  />
+			[130] (72,996)<yt-formatted-string >Shopping />
+Learn the skills to keep art and design at the center of your universe.
+Sponsored
+Full Sail University
+[131] (363,429)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=UxUGgPS6Va4&pp=ygUeR0NGR2xvYmFsIEdtYWlsIFNlYXJjaGluZyBNYWls' id='thumbnail' />
+	[132] (363,577)<yt-image  />
+		[133] (363,429)<img  />
+	[134] (480,562)<ytd-thumbnail-overlay-time-status-renderer  />
+		[135] (481,562)<div  />
+			[136] (481,562)<badge-shape aria-label='2 minutes, 27 seconds' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[137] (481,562)<div >2:27 />
+[138] (693,356)<div  />
+	[139] (693,300)<div  />
+		[140] (693,290)<div  />
+			[141] (581,290)<h3  />
+				[142] (581,290)<a aria-label='How to Find Archived Emails on Gmail 2 minutes, 27 seconds' class='yt-simple-endpoint style-scope ytd-video-renderer' href='/watch?v=UxUGgPS6Va4&pp=ygUeR0NGR2xvYmFsIEdtYWlsIFNlYXJjaGluZyBNYWls' id='video-title' title='How to Find Archived Emails on Gmail' />
+					[143] (581,290)<yt-formatted-string >How to Find Archived Emails on Gmail />
+			[144] (874,289)<div  />
+				[145] (874,286)<ytd-menu-renderer  />
+					[146] (874,286)<yt-icon-button  />
+						[147] (874,286)<button aria-label='Action menu' class='style-scope yt-icon-button' id='button' />
+							[148] (874,286)<yt-icon  />
+								[149] (874,286)<span  />
+									[150] (874,286)<div  />
+		[151] (693,314)<ytd-video-meta-block  />
+			[152] (693,314)<div  />
+				[153] (534,314)<div  />
+					[154] (516,314)<span >88K views />
+					[155] (548,314)<span >1 year ago />
+	[156] (693,352)<div  />
+		[157] (510,352)<a aria-label='Go to channel Pixel & Bracket' class='style-scope ytd-video-renderer' href='/@pixelandbracket' id='channel-thumbnail' />
+			[158] (508,350)<yt-img-shadow  />
+				[159] (508,350)<img  />
+		[160] (544,352)<ytd-channel-name  />
+			[161] (539,352)<div  />
+				[162] (539,352)<div  />
+					[163] (539,352)<yt-formatted-string  />
+						[164] (539,352)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@pixelandbracket'>Pixel & Bracket />
+			[165] (564,352)<ytd-badge-supported-renderer  />
+				[166] (564,352)<div  />
+					[167] (565,352)<badge-shape aria-label='Verified' class='yt-badge-shape yt-badge-shape--default yt-badge-shape--no-text yt-badge-shape--modern yt-badge-shape--typography' role='img' />
+						[168] (565,352)<div  />
+							[169] (565,352)<span  />
+								[170] (565,352)<div  />
+	[171] (693,389)<div  />
+		[172] (684,389)<yt-formatted-string  />
+			[173] (511,389)<span >In this />
+			[174] (528,389)<span >Gmail />
+			[175] (566,389)<span >tutorial, learn how to />
+			[176] (602,389)<span >find />
+			[177] (620,389)<span >archived />
+			[178] (643,389)<span >emails />
+			[179] (657,389)<span >on />
+			[180] (670,389)<span >Gmail />
+			[181] (699,389)<span >. You can also />
+			[182] (728,389)<span >search />
+			[183] (756,389)<span >for archived />
+			[184] (783,389)<span >emails />
+			[185] (813,389)<span >and unarchive />
+			[186] (843,389)<span >emails />
+			[187] (859,389)<span >in ... />
+	[188] (693,417)<ytd-badge-supported-renderer  />
+		[189] (508,417)<div  />
+			[190] (508,417)<badge-shape aria-label='4K' class='yt-badge-shape yt-badge-shape--default yt-badge-shape--typography' role='img' />
+				[191] (508,417)<div >4K />
+[192] (363,751)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=V_vrNmiQgO8&pp=ygUeR0NGR2xvYmFsIEdtYWlsIFNlYXJjaGluZyBNYWls0gcJCdkKAYcqIYzv' id='thumbnail' />
+	[193] (363,900)<yt-image  />
+		[194] (363,751)<img  />
+	[195] (480,884)<ytd-thumbnail-overlay-time-status-renderer  />
+		[196] (481,884)<div  />
+			[197] (481,884)<badge-shape aria-label='1 minute, 26 seconds' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[198] (481,884)<div >1:26 />
+[199] (693,664)<div  />
+	[200] (693,623)<div  />
+		[201] (693,613)<div  />
+			[202] (572,613)<h3  />
+				[203] (572,613)<a aria-label='How To Search Your Mail In Gmail 1 minute, 26 seconds' class='yt-simple-endpoint style-scope ytd-video-renderer' href='/watch?v=V_vrNmiQgO8&pp=ygUeR0NGR2xvYmFsIEdtYWlsIFNlYXJjaGluZyBNYWls0gcJCdkKAYcqIYzv' id='video-title' title='How To Search Your Mail In Gmail' />
+					[204] (572,613)<yt-formatted-string >How To Search Your Mail In Gmail />
+			[205] (874,612)<div  />
+				[206] (874,608)<ytd-menu-renderer  />
+					[207] (874,608)<yt-icon-button  />
+						[208] (874,608)<button aria-label='Action menu' class='style-scope yt-icon-button' id='button' />
+							[209] (874,608)<yt-icon  />
+								[210] (874,608)<span  />
+									[211] (874,608)<div  />
+		[212] (693,637)<ytd-video-meta-block  />
+			[213] (693,637)<div  />
+				[214] (535,637)<div  />
+					[215] (516,637)<span >504 views />
+					[216] (549,637)<span >7 years ago />
+	[217] (693,674)<div  />
+		[218] (510,674)<a aria-label='Go to channel MDTechVideos' class='style-scope ytd-video-renderer' href='/@MDTechVideos' id='channel-thumbnail' />
+			[219] (508,673)<yt-img-shadow  />
+				[220] (508,673)<img  />
+		[221] (544,674)<ytd-channel-name  />
+			[222] (540,674)<div  />
+				[223] (540,674)<div  />
+					[224] (540,674)<yt-formatted-string  />
+						[225] (540,674)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@MDTechVideos'>MDTechVideos />
+			[226] (565,674)<ytd-badge-supported-renderer  />
+				[227] (565,674)<div  />
+					[228] (566,674)<badge-shape aria-label='Verified' class='yt-badge-shape yt-badge-shape--default yt-badge-shape--no-text yt-badge-shape--modern yt-badge-shape--typography' role='img' />
+						[229] (566,674)<div  />
+							[230] (566,674)<span  />
+								[231] (566,674)<div  />
+	[232] (693,712)<div  />
+		[233] (683,712)<yt-formatted-string  />
+			[234] (514,712)<span >You can />
+			[235] (535,712)<span >search />
+			[236] (549,712)<span >to />
+			[237] (558,712)<span >find />
+			[238] (571,712)<span >your />
+			[239] (593,712)<span >messages />
+			[240] (612,712)<span >in />
+			[241] (624,712)<span >Gmail />
+			[242] (647,712)<span >, including />
+			[243] (676,712)<span >messages />
+			[244] (765,712)<span >in Spam or Trash. In this tutorial you will learn how to />
+			[245] (849,712)<span >search />
+			[246] (861,712)<span >... />
+People also watched
+
+</current_dom>

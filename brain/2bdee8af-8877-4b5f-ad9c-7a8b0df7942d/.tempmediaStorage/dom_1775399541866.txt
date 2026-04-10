@@ -1,0 +1,189 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Information Sheets
+[0] (89,122)<a href='clientnotes.aspx?cid=WI-13211'>Messages />
+	[1] (87,75)<img  />
+[2] (92,259)<a href='clientcasedocs.aspx?cid=WI-13211'>Documents />
+	[3] (87,212)<img  />
+[4] (102,395)<a href='clientcompany.aspx?cid=WI-13211'>Company Detail />
+	[5] (87,348)<img  />
+[6] (100,544)<a href='clientcashbook.aspx?cid=WI-13211'>Company Cash Book />
+	[7] (87,485)<img  />
+[8] (229,12)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=210097&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[9] (229,12)<b >INT-210097.pdf - View />
+Wincham Accountancy Invoice 3876
+Invoice for Company Sec & UK Reg Office Renewal
+01/03/2024 11:55:21
+Active
+[10] (229,46)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=209586&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[11] (229,46)<b >INT-209586.pdf - View />
+FISCAL REP SPAIN 2024
+Invoice for UK Ltd Company Fiscal Representative in Spain
+14/02/2024 10:41:58
+Active
+[12] (229,81)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=207628&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[13] (229,81)<b >INT-207628.pdf - View />
+Wincham Accountacy Inv 3533
+Accounts - Fees Invoice for Accounts Preparation
+17/11/2023 10:42:08
+Active
+[14] (229,115)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=206419&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[15] (229,115)<b >INT-206419.pdf - View />
+UK Company Accounts Year End Checklist: 31/Aug/2023
+Accounts - Year End checklist email
+20/09/2023 17:10:18
+Active
+[16] (229,150)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=203842&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[17] (229,150)<b >INT-203842.pdf - View />
+Wincham Statement-477
+Statement of Account
+06/06/2023 12:42:22
+Active
+[18] (229,185)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=203651&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[19] (229,185)<b >INT-203651.pdf - View />
+Accounting Package 31 08 2022- signed
+Accounts - Client approval of Company annual accounts
+01/06/2023 09:49:50
+Active
+[20] (229,219)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=203550&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[21] (229,219)<b >INT-203550.pdf - View />
+FS Final Los Romeros Limited 31 08 2022
+Accounts - Company Accounts (Full) FINAL
+26/05/2023 16:51:43
+Active
+[22] (229,254)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=203549&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[23] (229,254)<b >INT-203549.pdf - View />
+CT600 and Tax Computation for Los Romeros Limited 31 08 2022
+Accounts - Corporation Tax(CT600)
+26/05/2023 16:51:17
+Active
+[24] (229,288)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=203548&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[25] (229,288)<b >INT-203548.pdf - View />
+HMRC online filing log Los Romeros Limited 31 08 2022
+Accounts - Corporation Tax filed with HMRC
+26/05/2023 16:50:47
+Active
+[26] (229,323)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=203547&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[27] (229,323)<b >INT-203547.pdf - View />
+Companies House Online Filing Results Los Romeros Limited 31 08 2022
+Accounts - Filed at Companies House
+26/05/2023 16:49:17
+Active
+[28] (229,357)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=202690&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[29] (229,357)<b >INT-202690.pdf - View />
+Wincham Accountancy Invoice 2871
+Accounts - Fees Invoice for Accounts Preparation
+20/04/2023 13:57:45
+Active
+[30] (229,392)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=202508&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[31] (229,392)<b >INT-202508.pdf - View />
+Wincham Statement-353
+Statement of Account
+18/04/2023 12:25:55
+Active
+[32] (229,427)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=201402&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[33] (229,427)<b >INT-201402.pdf - View />
+Wincham Accountancy Invoice 2737
+Invoice for Company Sec & UK Reg Office Renewal
+01/03/2023 17:04:56
+Active
+[34] (229,461)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=200758&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[35] (229,461)<b >INT-200758.pdf - View />
+FISCAL REP SPAIN 2023
+Invoice for UK Ltd Company Fiscal Representative in Spain
+09/02/2023 17:08:47
+Active
+[36] (229,496)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=196906&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[37] (229,496)<b >INT-196906.pdf - View />
+UK Company Accounts Year End Checklist: 31/Aug/2022
+Accounts - Year End checklist email
+15/09/2022 10:18:51
+Active
+[38] (229,530)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=193370&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[39] (229,530)<b >INT-193370.pdf - View />
+Accounting Package Los Romeros Limited 31 08 2021 - signed
+Accounts - Client approval of Company annual accounts
+20/05/2022 16:58:13
+Active
+[40] (229,565)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=193369&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[41] (229,565)<b >INT-193369.pdf - View />
+FS Final Los Romeros Limited 31 08 2021
+Accounts - Company Accounts (Full) FINAL
+20/05/2022 16:57:53
+Active
+[42] (229,600)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=193368&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[43] (229,600)<b >INT-193368.pdf - View />
+CT600 and Tax Computation for Los Romeros Limited 31 08 2021
+Accounts - Corporation Tax(CT600)
+20/05/2022 16:57:24
+Active
+[44] (229,634)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=193367&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[45] (229,634)<b >INT-193367.pdf - View />
+HMRC online filing log Los Romeros Limited 31 08 2021
+Accounts - Corporation Tax filed with HMRC
+20/05/2022 16:57:01
+Active
+[46] (229,669)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=193366&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[47] (229,669)<b >INT-193366.pdf - View />
+Companies House Online Filing Results Los Romeros Limited 31 08 2021
+Accounts - Filed at Companies House
+20/05/2022 16:56:25
+Active
+[48] (229,703)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=193012&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[49] (229,703)<b >INT-193012.pdf - View />
+Checklist and Letter of Engagement - Signed
+Accounts - Receipt of Client Accounting Information
+04/05/2022 16:42:19
+Active
+[50] (229,738)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=192906&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[51] (229,738)<b >INT-192906.pdf - View />
+Wincham Accountancy Invoice 1753
+Accounts - Fees Invoice for Accounts Preparation
+29/04/2022 09:52:00
+Active
+[52] (229,773)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=191453&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[53] (229,773)<b >INT-191453.pdf - View />
+Wincham Accountancy Invoice 1603
+Invoice for Company Sec & UK Reg Office Renewal
+01/03/2022 10:08:43
+Active
+[54] (229,807)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=189295&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[55] (229,807)<b >INT-189295.pdf - View />
+FISCAL REP SPAIN 2022
+Invoice for UK Ltd Company Fiscal Representative in Spain
+20/12/2021 12:10:48
+Active
+[56] (229,842)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=187531&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[57] (229,842)<b >INT-187531.pdf - View />
+UK Company Accounts Year End Checklist: 31/Aug/2021
+Accounts - Year End checklist email
+05/11/2021 10:39:32
+Active
+[58] (229,876)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=182238&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[59] (229,876)<b >INT-182238.pdf - View />
+Company Accounts YE 31 08 2020 Signed
+Accounts - Client approval of Company annual accounts
+25/05/2021 17:15:25
+Active
+[60] (229,911)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=182031&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[61] (229,911)<b >INT-182031.pdf - View />
+HMRC Submission
+Accounts - Corporation Tax filed with HMRC
+19/05/2021 14:56:27
+Active
+[62] (229,946)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=182030&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[63] (229,946)<b >INT-182030.pdf - View />
+Companies House Submission
+Accounts - Filed at Companies House
+19/05/2021 14:56:02
+Active
+[64] (229,980)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=182029&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[65] (229,980)<b >INT-182029.pdf - View />
+CT600
+Accounts - Corporation Tax(CT600)
+19/05/2021 14:55:06
+Active
+
+</current_dom>

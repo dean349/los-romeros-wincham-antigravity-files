@@ -1,0 +1,188 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to main content
+Accessibility help
+Accessibility feedback
+[0] (63,57)<a aria-label='Go to Google Home' href='https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwixttyPlcuTAxWyVfEDHeioFiIQPAgJ' id='logo' title='Go to Google Home' />
+[1] (292,57)<textarea aria-label='Search' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (477,57)<div  />
+	[3] (476,57)<div aria-label=' Clear' class='vOY7J M2vV3' role='button' />
+		[4] (476,57)<span  />
+	[5] (488,57)<span  />
+[6] (501,57)<div aria-label='Search by voice' class='XDyW0e' role='button' />
+[7] (522,57)<div aria-label='Search by image' class='nDcEnd' role='button' />
+[8] (546,57)<button aria-label='Search' class='HZVG1b Tg7LZd' />
+	[9] (542,57)<div  />
+		[10] (542,57)<span  />
+[11] (956,57)<a aria-label='Google apps' class='gb_B' href='https://www.google.com/intl/en/about/products?tab=wh' role='button' />
+[12] (979,57)<a aria-label='Google Account: Dean Harrison  
+(dean@onelifesm.com)' class='gb_B gb_0a' href='https://accounts.google.com/SignOutOptions?hl=en&continue=https://www.google.com/search%3Fq%3Dsite:facebook.com%2B%2522Wincham%2522%2BAccountants%2Bcomplaints%2Bvictims%2BCongleton&ec=futura_srp_og_si_72236_p' role='button' />
+[13] (134,124)<a class='XVMlrc C6AK7c' href='/search?q=site:facebook.com+%22Wincham%22+Accountants+complaints+victims+Congleton&sca_esv=d115e34c1a0f1aef&sxsrf=ANbL-n5CNqoQ7EvrzaEbJo_Pn2VLuoabMA:1774995394474&udm=50&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpV6Bbbmx4QVaoKkiRQ2jlwl20uNAbIkFGyPSBvJfm6h9YOK6RwFZZlNwLLAJ3PRHsWYSLCOdVIYxdHSt9VBLiVt8x_s7mdZ7GzWcmhOiisMtQWx762tjKT-Y0sOGxAurHsGCwkF9dPLcztJXJsbwtS_L2xYNWsNk7sbbRWVXuJO8Y1_TFCCbCWbynjOlyMBo-frE44g&aep=1&ntc=1&sa=X&ved=2ahUKEwixttyPlcuTAxWyVfEDHeioFiIQ2J8OegQIDBAE' />
+	[14] (134,124)<div  />
+		[15] (134,133)<div  />
+			[16] (134,127)<span >AI Mode />
+[17] (165,124)<a class='C6AK7c' role='link' />
+	All
+[18] (203,124)<a class='C6AK7c' href='/search?sca_esv=d115e34c1a0f1aef&sxsrf=ANbL-n5CNqoQ7EvrzaEbJo_Pn2VLuoabMA:1774995394474&udm=39&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpV6Bbbmx4QVaoKkiRQ2jlwl20uNAbIkFGyPSBvJfm6h9YOK6RwFZZlNwLLAJ3PRHsWYSLCOdVIYxdHSt9VBLiVt8x_s7mdZ7GzWcmhOiisMtQWx762tjKT-Y0sOGxAurHsGCwkF9dPLcztJXJsbwtS_L2xYNWsNk7sbbRWVXuJO8Y1_TFCCbCWbynjOlyMBo-frE44g&q=site:facebook.com+%22Wincham%22+Accountants+complaints+victims+Congleton&sa=X&ved=2ahUKEwixttyPlcuTAxWyVfEDHeioFiIQs6gLegQIEhAB' />
+	[19] (203,124)<div  />
+		[20] (203,133)<span >Short videos />
+[21] (247,124)<a class='C6AK7c' href='/search?sca_esv=d115e34c1a0f1aef&sxsrf=ANbL-n5CNqoQ7EvrzaEbJo_Pn2VLuoabMA:1774995394474&q=site:facebook.com+%22Wincham%22+Accountants+complaints+victims+Congleton&tbm=nws&source=lnms&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpV6Bbbmx4QVaoKkiRQ2jlwl20uNAbIkFGyPSBvJfm6h9YOK6RwFZZlNwLLAJ3PRHsWYSLCOdVIYxdHSt9VBLiVt8x_s7mdZ7GzWcmhOiisMtQWx762tjKT-Y0sOGxAurHsGCwkF9dPLcztJXJsbwtS_L2xYNWsNk7sbbRWVXuJO8Y1_TFCCbCWbynjOlyMBo-frE44g&sa=X&ved=2ahUKEwixttyPlcuTAxWyVfEDHeioFiIQ0pQJegQIFRAB' />
+	[22] (247,124)<div  />
+		[23] (247,133)<span >News />
+[24] (281,124)<a class='C6AK7c' href='/search?sca_esv=d115e34c1a0f1aef&sxsrf=ANbL-n5CNqoQ7EvrzaEbJo_Pn2VLuoabMA:1774995394474&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpV6Bbbmx4QVaoKkiRQ2jlwl20uNAbIkFGyPSBvJfm6h9YOK6RwFZZlNwLLAJ3PRHsWYSLCOdVIYxdHSt9VBLiVt8x_s7mdZ7GzWcmhOiisMtQWx762tjKT-Y0sOGxAurHsGCwkF9dPLcztJXJsbwtS_L2xYNWsNk7sbbRWVXuJO8Y1_TFCCbCWbynjOlyMBo-frE44g&q=site:facebook.com+%22Wincham%22+Accountants+complaints+victims+Congleton&sa=X&ved=2ahUKEwixttyPlcuTAxWyVfEDHeioFiIQtKgLegQIDxAB' />
+	[25] (281,124)<div  />
+		[26] (281,133)<span >Images />
+[27] (319,124)<a class='C6AK7c' href='/search?sca_esv=d115e34c1a0f1aef&sxsrf=ANbL-n5CNqoQ7EvrzaEbJo_Pn2VLuoabMA:1774995394474&udm=18&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpV6Bbbmx4QVaoKkiRQ2jlwl20uNAbIkFGyPSBvJfm6h9YOK6RwFZZlNwLLAJ3PRHsWYSLCOdVIYxdHSt9VBLiVt8x_s7mdZ7GzWcmhOiisMtQWx762tjKT-Y0sOGxAurHsGCwkF9dPLcztJXJsbwtS_L2xYNWsNk7sbbRWVXuJO8Y1_TFCCbCWbynjOlyMBo-frE44g&q=site:facebook.com+%22Wincham%22+Accountants+complaints+victims+Congleton&sa=X&ved=2ahUKEwixttyPlcuTAxWyVfEDHeioFiIQs6gLegQIEBAB' />
+	[28] (319,124)<div  />
+		[29] (319,133)<span >Forums />
+[30] (360,124)<a class='C6AK7c' href='/search?sca_esv=d115e34c1a0f1aef&sxsrf=ANbL-n5CNqoQ7EvrzaEbJo_Pn2VLuoabMA:1774995394474&udm=28&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpV6Bbbmx4QVaoKkiRQ2jlwl20uNAbIkFGyPSBvJfm6h9YOK6RwFZZlNwLLAJ3PRHsWYSLCOdVIYxdHSt9VBLiVt8x_s7mdZ7GzWcmhOiisMtQWx762tjKT-Y0sOGxAurHsGCwkF9dPLcztJXJsbwtS_L2xYNWsNk7sbbRWVXuJO8Y1_TFCCbCWbynjOlyMBo-frE44g&q=site:facebook.com+%22Wincham%22+Accountants+complaints+victims+Congleton&ved=1t:220175&ictx=111' />
+	[31] (360,124)<div  />
+		[32] (360,133)<span >Shopping />
+[33] (402,124)<div class='mTpL7c' role='button' />
+	[34] (402,124)<div  />
+		[35] (402,133)<div  />
+			[36] (398,127)<span >More />
+			[37] (411,127)<span  />
+[38] (442,124)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[39] (442,124)<div  />
+		[40] (442,133)<div  />
+			[41] (437,127)<span >Tools />
+			[42] (451,127)<span  />
+Search Results
+Web results
+[43] (124,243)<img  />
+[44] (176,221)<a class='zReHs' href='https://www.facebook.com/100044465588234/posts/585100666315448/' />
+	[45] (167,241)<h3 >Build Up Nigeria />
+	[46] (176,203)<div  />
+		[47] (176,203)<div  />
+			[48] (127,203)<span  />
+				[49] (127,203)<div  />
+					[50] (127,203)<img  />
+			[51] (186,203)<div  />
+				[52] (186,194)<div  />
+					[53] (186,194)<span >Facebook · Build Up Nigeria />
+				[54] (186,214)<div  />
+					[55] (180,214)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>850+ reactions  ·  3 years ago />
+[56] (242,213)<div aria-label='About this result' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[57] (242,213)<span  />
+		[58] (242,214)<span  />
+In 1919 she left for
+Wincham
+Hall School for Girls,
+Cheshire
+, England, to pursue her studies. By the time of her return to Nigeria in 1922 ...
+[59] (249,298)<a class='vzmbzf' href='https://www.facebook.com/100044465588234/posts/585100666315448/#:~:text=In%201919%20she%20left%20for,her%20Christian%20name%2C%20Frances%20Abigail.' />
+	[60] (249,298)<span >Read more />
+Missing:
+Congleton
+‎| Show results with:
+[61] (265,322)<a href='/search?sca_esv=d115e34c1a0f1aef&sxsrf=ANbL-n5CNqoQ7EvrzaEbJo_Pn2VLuoabMA:1774995394474&q=site:facebook.com+%22Wincham%22+Accountants+complaints+victims+%22Congleton%22&sa=X&ved=2ahUKEwixttyPlcuTAxWyVfEDHeioFiIQ5t4CegQIGxAB' />
+	[62] (265,322)<span >Congleton />
+[63] (124,454)<img  />
+[64] (257,405)<a class='zReHs' href='https://www.facebook.com/officialhistorydaily/posts/thirteen-year-old-tokunbo-akintola-son-of-chief-samuel-ladoke-akintola-the-premi/723786193739996/' />
+	[65] (257,425)<h3 >Thirteen-year-old Tokunbo Akintola, son of Chief Samuel ... />
+	[66] (173,387)<div  />
+		[67] (173,387)<div  />
+			[68] (127,387)<span  />
+				[69] (127,387)<div  />
+					[70] (127,387)<img  />
+			[71] (183,387)<div  />
+				[72] (183,378)<div  />
+					[73] (183,378)<span >Facebook · History_Daily />
+				[74] (183,398)<div  />
+					[75] (183,398)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>820+ reactions  ·  8 months ago />
+[76] (236,397)<div aria-label='About this result' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[77] (236,397)<span  />
+		[78] (236,398)<span  />
+In 1919 she left for
+Wincham
+Hall School for Girls,
+Cheshire
+, England, to pursue her studies. By the time of her return to Nigeria in 1922 ...
+[79] (315,509)<a class='vzmbzf' href='https://www.facebook.com/officialhistorydaily/posts/thirteen-year-old-tokunbo-akintola-son-of-chief-samuel-ladoke-akintola-the-premi/723786193739996/#:~:text=In%201919%20she%20left%20for,her%20Christian%20name%2C%20Frances%20Abigail.' />
+	[80] (315,509)<span >Read more />
+[81] (435,425)<a href='https://www.facebook.com/officialhistorydaily/posts/thirteen-year-old-tokunbo-akintola-son-of-chief-samuel-ladoke-akintola-the-premi/723786193739996/' />
+	[82] (435,425)<div  />
+		[83] (435,425)<img  />
+Missing:
+complaints
+‎
+Congleton
+[84] (124,638)<img  />
+[85] (244,616)<a class='zReHs' href='https://www.facebook.com/OmoLamurudu/posts/reverend-ransome-kuti-and-a-future-kingit-was-in-the-year-1945-a-stubborn-boy-wa/897048257354194/' />
+	[86] (249,636)<h3 >REVEREND RANSOME-KUTI AND A FUTURE KING ... />
+	[87] (168,598)<div  />
+		[88] (168,598)<div  />
+			[89] (127,598)<span  />
+				[90] (127,598)<div  />
+					[91] (127,598)<img  />
+			[92] (179,598)<div  />
+				[93] (179,589)<div  />
+					[94] (179,589)<span >Facebook · Taalabi />
+				[95] (179,609)<div  />
+					[96] (179,609)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>60+ reactions  ·  6 years ago />
+[97] (227,608)<div aria-label='About this result' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[98] (227,608)<span  />
+		[99] (227,609)<span  />
+In 1919, she went to Britain to study at
+Wincham
+Hall Schools for Girls in
+Cheshire
+, where she was taught subjects such as French, elocution, ...
+[100] (337,693)<a class='vzmbzf' href='https://www.facebook.com/OmoLamurudu/posts/reverend-ransome-kuti-and-a-future-kingit-was-in-the-year-1945-a-stubborn-boy-wa/897048257354194/#:~:text=In%201919%2C%20she%20went%20to,elocution%2C%20music%20and%20dress%2D%20making.' />
+	[101] (337,693)<span >Read more />
+[102] (435,637)<a href='https://www.facebook.com/OmoLamurudu/posts/reverend-ransome-kuti-and-a-future-kingit-was-in-the-year-1945-a-stubborn-boy-wa/897048257354194/' />
+	[103] (435,637)<div  />
+		[104] (435,637)<img  />
+Missing:
+Congleton
+‎| Show results with:
+[105] (265,717)<a href='/search?sca_esv=d115e34c1a0f1aef&sxsrf=ANbL-n5CNqoQ7EvrzaEbJo_Pn2VLuoabMA:1774995394474&q=site:facebook.com+%22Wincham%22+Accountants+complaints+victims+%22Congleton%22&sa=X&ved=2ahUKEwixttyPlcuTAxWyVfEDHeioFiIQ5t4CegQILxAB' />
+	[106] (265,717)<span >Congleton />
+[107] (124,822)<img  />
+[108] (241,800)<a class='zReHs' href='https://www.facebook.com/HistoricalNigeria/posts/this-front-page-appears-to-be-the-sunday-post-nigeria-24-december-1961-containin/122239408832189242/' />
+	[109] (246,820)<h3 >This front page appears to be The Sunday Post ( ... />
+	[110] (177,782)<div  />
+		[111] (177,782)<div  />
+			[112] (127,782)<span  />
+				[113] (127,782)<div  />
+					[114] (127,782)<img  />
+			[115] (187,782)<div  />
+				[116] (187,773)<div  />
+					[117] (187,773)<span >Facebook · Historical Nigeria />
+				[118] (187,793)<div  />
+					[119] (181,793)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>40+ reactions  ·  6 months ago />
+[120] (245,792)<div aria-label='About this result' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[121] (245,792)<span  />
+		[122] (245,793)<span  />
+In 1919, she went to Britain to study at
+Wincham
+Hall Schools for Girls in
+Cheshire
+, where she was taught subjects such as French, elocution, ...
+[123] (286,877)<a class='vzmbzf' href='https://www.facebook.com/HistoricalNigeria/posts/this-front-page-appears-to-be-the-sunday-post-nigeria-24-december-1961-containin/122239408832189242/#:~:text=In%201919%2C%20she%20went%20to,elocution%2C%20music%20and%20dress%2D%20making.' />
+	[124] (286,877)<span >Read more />
+Missing:
+Congleton
+‎| Show results with:
+[125] (265,901)<a href='/search?sca_esv=d115e34c1a0f1aef&sxsrf=ANbL-n5CNqoQ7EvrzaEbJo_Pn2VLuoabMA:1774995394474&q=site:facebook.com+%22Wincham%22+Accountants+complaints+victims+%22Congleton%22&sa=X&ved=2ahUKEwixttyPlcuTAxWyVfEDHeioFiIQ5t4CegQIMxAB' />
+	[126] (265,901)<span >Congleton />
+[127] (240,984)<a class='zReHs' href='https://www.facebook.com/merchantofknowledge/posts/on-this-day-march-15-1957dr-alvan-ikoku-the-renowned-educationist-whose-image-gr/1099697858841707/'>On This Day: March 15, 1957. Dr. Alvan Ikoku, the ... />
+	On This Day: March 15, 1957. Dr. Alvan Ikoku, the ...
+	[128] (198,966)<div  />
+		[129] (198,966)<div  />
+			[130] (127,966)<span  />
+				[131] (127,966)<div  />
+					[132] (127,966)<img  />
+			[133] (208,966)<div  />
+				[134] (208,956)<div  />
+					[135] (208,956)<span >Facebook · Merchant of Knowledge Africa />
+				[136] (208,977)<div  />
+					[137] (177,977)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>10+ reactions  ·  1 year ago />
+[138] (286,976)<div aria-label='About this result' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[139] (286,976)<span  />
+		[140] (286,977)<span  />
+
+</current_dom>

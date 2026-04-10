@@ -1,0 +1,34 @@
+Role
+Resigned
+Director
+Date of birth
+August 1967
+Appointed on
+7 October 2019
+Resigned on
+23 December 2019
+Nationality
+British
+Country of residence
+Scotland
+[0] (264,576)<a class='govuk-link govuk-link--inverse' href='https://www.smartsurvey.co.uk/s/getcompanyinformation/'>Tell us what you think of this service
+(link opens a new window) />
+	(link opens a new window)
+[1] (729,576)<a class='govuk-link secondary-customer-insights govuk-link--inverse' href='/help/feedback?sourceurl=https://find-and-update.company-information.service.gov.uk/company/06993349/officers' id='feedback-link'>Is there anything wrong with this page?
+(link opens a new window) />
+	(link opens a new window)
+Support links
+[2] (202,882)<a class='govuk-footer__link' href='https://www.gov.uk/guidance/search-the-companies-house-register'>Policies
+Link opens in new tab />
+	Link opens in new tab
+[3] (250,882)<a class='govuk-footer__link' href='/help/cookies'>Cookies />
+[4] (305,882)<a class='govuk-footer__link' href='https://www.gov.uk/find-contact-details-companies-house'>Contact us
+Link opens in new tab />
+	Link opens in new tab
+[5] (395,882)<a class='govuk-footer__link' href='/help/accessibility-statement'>Accessibility statement />
+[6] (486,882)<a class='govuk-footer__link' href='https://developer.companieshouse.gov.uk/'>Developers
+Link opens in new tab />
+	Link opens in new tab
+Built by
+[7] (262,942)<a class='govuk-footer__link' href='https://www.gov.uk/government/organisations/companies-house'>Companies House />
+[8] (774,866)<a class='govuk-footer__link govuk-footer__copyright-logo underline' href='https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/'>© Crown copyright />

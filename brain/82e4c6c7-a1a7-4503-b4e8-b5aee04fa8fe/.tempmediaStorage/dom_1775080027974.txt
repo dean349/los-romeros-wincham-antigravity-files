@@ -1,0 +1,287 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (19,30)<button aria-label='Guide' class='style-scope yt-icon-button' id='button' />
+	[1] (19,30)<yt-icon  />
+		[2] (19,30)<span  />
+			[3] (19,30)<div  />
+[4] (61,30)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube Home' />
+	[5] (61,30)<div  />
+		[6] (61,30)<ytd-logo  />
+			[7] (61,30)<yt-icon  />
+				[8] (62,30)<span  />
+					[9] (62,30)<div  />
+[10] (470,30)<div  />
+	[11] (467,30)<form  />
+		[12] (467,30)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='Search' role='combobox' />
+	[13] (601,30)<div  />
+		[14] (601,30)<button aria-label='Clear search query' class='ytSearchboxComponentClearButton' />
+			[15] (601,30)<yt-touch-feedback-shape  />
+				[16] (601,30)<div  />
+[17] (626,30)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='Search' />
+	[18] (626,30)<span  />
+		[19] (626,30)<span  />
+			[20] (626,30)<div  />
+[21] (662,30)<button aria-label='Search with your voice' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[22] (662,30)<yt-touch-feedback-shape  />
+		[23] (662,30)<div  />
+[24] (898,30)<button aria-label='Create' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	Create
+	[25] (898,30)<yt-touch-feedback-shape  />
+		[26] (898,30)<div  />
+[27] (938,30)<button aria-label='Notifications' class='style-scope yt-icon-button' id='button' />
+	[28] (938,29)<yt-icon-badge-shape  />
+		[29] (938,30)<div  />
+			[30] (938,30)<div  />
+				[31] (938,30)<span  />
+[32] (968,30)<button aria-label='Account menu' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[33] (968,30)<yt-img-shadow  />
+		[34] (968,30)<img  />
+[35] (63,530)<div class='style-scope ytd-app' id='guide-inner-content' scrollable='true' />
+	[36] (59,96)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/' id='endpoint' role='link' title='Home' />
+		[37] (59,96)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[38] (19,96)<yt-icon  />
+			[39] (72,96)<yt-formatted-string >Home />
+	[40] (59,139)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' id='endpoint' role='link' title='Shorts' />
+		[41] (59,139)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[42] (19,139)<yt-icon  />
+			[43] (72,139)<yt-formatted-string >Shorts />
+	[44] (59,210)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/feed/subscriptions' id='endpoint' role='link' title='Subscriptions' />
+		[45] (59,210)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[46] (40,210)<yt-formatted-string >Subscriptions />
+			[47] (72,210)<yt-icon  />
+				[48] (72,210)<span  />
+					[49] (72,210)<div  />
+	[50] (59,254)<a aria-label='Jack Roberts. New content available.' class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@Itssssss_Jack' id='endpoint' role='link' title='Jack Roberts' />
+		[51] (59,254)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[52] (19,254)<yt-img-shadow  />
+				[53] (19,254)<img  />
+			[54] (68,254)<yt-formatted-string >Jack Roberts />
+			[55] (102,254)<div  />
+	[56] (59,297)<a aria-label='Paul J Lipsky. New content available.' class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@PaulJLipsky' id='endpoint' role='link' title='Paul J Lipsky' />
+		[57] (59,297)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[58] (19,297)<yt-img-shadow  />
+				[59] (19,297)<img  />
+			[60] (68,297)<yt-formatted-string >Paul J Lipsky />
+			[61] (102,297)<div  />
+	[62] (59,341)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@Build2Scale' id='endpoint' role='link' title='Build2Scale' />
+		[63] (59,341)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[64] (19,341)<yt-img-shadow  />
+				[65] (19,341)<img  />
+			[66] (72,341)<yt-formatted-string >Build2Scale />
+	[67] (59,384)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@AIMarketingNavigator' id='endpoint' role='link' title='AI Marketing Navigator' />
+		[68] (59,384)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[69] (19,384)<yt-img-shadow  />
+				[70] (19,384)<img  />
+			[71] (72,384)<yt-formatted-string >AI Marketing Navigator />
+	[72] (59,428)<a aria-label='Apollo. New content available.' class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@apolloio' id='endpoint' role='link' title='Apollo' />
+		[73] (59,428)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[74] (19,428)<yt-img-shadow  />
+				[75] (19,428)<img  />
+			[76] (68,428)<yt-formatted-string >Apollo />
+			[77] (102,428)<div  />
+	[78] (59,471)<a aria-label='LIV South Florida. New content available.' class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@LIVSouthFlorida' id='endpoint' role='link' title='LIV South Florida' />
+		[79] (59,471)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[80] (19,471)<yt-img-shadow  />
+				[81] (19,471)<img  />
+			[82] (68,471)<yt-formatted-string >LIV South Florida />
+			[83] (102,471)<div  />
+	[84] (59,515)<a aria-label='Simon Squibb. New content available.' class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@SimonSquibb' id='endpoint' role='link' title='Simon Squibb' />
+		[85] (59,515)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[86] (19,515)<yt-img-shadow  />
+				[87] (19,515)<img  />
+			[88] (68,515)<yt-formatted-string >Simon Squibb />
+			[89] (102,515)<div  />
+	[90] (59,558)<ytd-guide-entry-renderer class='style-scope ytd-guide-collapsible-entry-renderer' id='expander-item' role='button' />
+		[91] (59,558)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' id='endpoint' role='link' title='Show more' />
+			[92] (59,558)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+				[93] (19,558)<yt-icon  />
+					[94] (19,558)<span  />
+						[95] (19,558)<div  />
+				[96] (72,558)<yt-formatted-string >Show more />
+	[97] (59,629)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/feed/you' id='endpoint' role='link' title='You' />
+		[98] (59,629)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[99] (22,629)<yt-formatted-string >You />
+			[100] (35,629)<yt-icon  />
+				[101] (35,629)<span  />
+					[102] (35,629)<div  />
+	[103] (59,672)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/feed/history' id='endpoint' role='link' title='History' />
+		[104] (59,672)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[105] (19,672)<yt-icon  />
+			[106] (72,672)<yt-formatted-string >History />
+	[107] (59,716)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/feed/playlists' id='endpoint' role='link' title='Playlists' />
+		[108] (59,716)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[109] (19,716)<yt-icon  />
+			[110] (72,716)<yt-formatted-string >Playlists />
+	[111] (59,760)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/playlist?list=WL' id='endpoint' role='link' title='Watch later' />
+		[112] (59,760)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[113] (19,760)<yt-icon  />
+			[114] (72,760)<yt-formatted-string >Watch later />
+	[115] (59,803)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/playlist?list=LL' id='endpoint' role='link' title='Liked videos' />
+		[116] (59,803)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[117] (19,803)<yt-icon  />
+			[118] (72,803)<yt-formatted-string >Liked videos />
+	[119] (59,847)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='https://studio.youtube.com/channel/UCO0bdUGafowGWQ0MoUhvjOw/videos' id='endpoint' role='link' title='Your videos' />
+		[120] (59,847)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[121] (19,847)<yt-icon  />
+			[122] (72,847)<yt-formatted-string >Your videos />
+	[123] (59,890)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/feed/downloads' id='endpoint' role='link' title='Downloads' />
+		[124] (59,890)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[125] (19,890)<yt-icon  />
+			[126] (72,890)<yt-formatted-string >Downloads />
+	Explore
+	[127] (59,996)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/channel/UCkYQyvc_i9hXEo4xic9Hh2g' id='endpoint' role='link' title='Shopping' />
+		[128] (59,996)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[129] (19,996)<yt-icon  />
+			[130] (72,996)<yt-formatted-string >Shopping />
+[131] (295,191)<div class='shortsLockupViewModelHostOutsideMetadata shortsLockupViewModelHostMetadataRounded shortsLockupViewModelHostOutsideMetadataHasMenu' role='presentation' />
+	[132] (285,195)<div  />
+		[133] (285,182)<h3 class='shortsLockupViewModelHostMetadataTitle shortsLockupViewModelHostOutsideMetadataTitle' role='presentation' />
+			[134] (285,182)<a class='shortsLockupViewModelHostEndpoint shortsLockupViewModelHostOutsideMetadataEndpoint' href='/shorts/HK-0J_WSMNY' title='How to Redact PDF File for FREE' />
+				[135] (284,182)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text'>How to Redact PDF File for FREE />
+		[136] (285,222)<div  />
+			[137] (248,221)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text'>1K views />
+	[138] (347,178)<div  />
+		[139] (347,178)<button aria-label='More actions' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+			[140] (347,178)<yt-touch-feedback-shape  />
+				[141] (347,178)<div  />
+[142] (427,191)<div class='shortsLockupViewModelHostOutsideMetadata shortsLockupViewModelHostMetadataRounded shortsLockupViewModelHostOutsideMetadataHasMenu' role='presentation' />
+	[143] (417,195)<div  />
+		[144] (417,182)<h3 class='shortsLockupViewModelHostMetadataTitle shortsLockupViewModelHostOutsideMetadataTitle' role='presentation' />
+			[145] (417,182)<a class='shortsLockupViewModelHostEndpoint shortsLockupViewModelHostOutsideMetadataEndpoint' href='/shorts/LApDUnVJolQ' title='How to Redact a PDF File FREE #blackout' />
+				[146] (413,182)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text'>How to Redact a PDF File FREE #blackout />
+		[147] (417,222)<div  />
+			[148] (382,221)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text'>1.1K views />
+	[149] (479,178)<div  />
+		[150] (479,178)<button aria-label='More actions' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+			[151] (479,178)<yt-touch-feedback-shape  />
+				[152] (479,178)<div  />
+[153] (559,191)<div class='shortsLockupViewModelHostOutsideMetadata shortsLockupViewModelHostMetadataRounded shortsLockupViewModelHostOutsideMetadataHasMenu' role='presentation' />
+	[154] (549,195)<div  />
+		[155] (549,182)<h3 class='shortsLockupViewModelHostMetadataTitle shortsLockupViewModelHostOutsideMetadataTitle' role='presentation' />
+			[156] (549,182)<a class='shortsLockupViewModelHostEndpoint shortsLockupViewModelHostOutsideMetadataEndpoint' href='/shorts/ljyxGVaJ5wg' title='How to redact a PDF on mobile devices #ilovepdf  #PrivacyProtection #iLovePDFApp #PDFtools' />
+				[157] (548,206)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text'>How to redact a PDF on mobile devices #ilovepdf  #PrivacyProtection #iLovePDFApp #PDFtools />
+		[158] (549,222)<div  />
+			[159] (514,221)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text'>9.2K views />
+	[160] (611,178)<div  />
+		[161] (611,178)<button aria-label='More actions' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+			[162] (611,178)<yt-touch-feedback-shape  />
+				[163] (611,178)<div  />
+[164] (690,191)<div class='shortsLockupViewModelHostOutsideMetadata shortsLockupViewModelHostMetadataRounded shortsLockupViewModelHostOutsideMetadataHasMenu' role='presentation' />
+	[165] (681,195)<div  />
+		[166] (681,182)<h3 class='shortsLockupViewModelHostMetadataTitle shortsLockupViewModelHostOutsideMetadataTitle' role='presentation' />
+			[167] (681,182)<a class='shortsLockupViewModelHostEndpoint shortsLockupViewModelHostOutsideMetadataEndpoint' href='/shorts/EmqMIGJ18IM' title='How to Hide Sensitive Data in PDF Files | Redact PDF File Easily #redactpdf #PDFSecurity' />
+				[168] (680,206)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text'>How to Hide Sensitive Data in PDF Files | Redact PDF File Easily #redactpdf #PDFSecurity />
+		[169] (681,222)<div  />
+			[170] (645,221)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text'>13K views />
+	[171] (743,178)<div  />
+		[172] (743,178)<button aria-label='More actions' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+			[173] (743,178)<yt-touch-feedback-shape  />
+				[174] (743,178)<div  />
+[175] (822,191)<div class='shortsLockupViewModelHostOutsideMetadata shortsLockupViewModelHostMetadataRounded shortsLockupViewModelHostOutsideMetadataHasMenu' role='presentation' />
+	[176] (813,195)<div  />
+		[177] (813,182)<h3 class='shortsLockupViewModelHostMetadataTitle shortsLockupViewModelHostOutsideMetadataTitle' role='presentation' />
+			[178] (813,182)<a class='shortsLockupViewModelHostEndpoint shortsLockupViewModelHostOutsideMetadataEndpoint' href='/shorts/ApAGC_psACE' title='How to redact information from a pdf' />
+				[179] (810,182)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text'>How to redact information from a pdf />
+		[180] (813,222)<div  />
+			[181] (778,221)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text'>2.8K views />
+	[182] (875,178)<div  />
+		[183] (875,178)<button aria-label='More actions' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+			[184] (875,178)<yt-touch-feedback-shape  />
+				[185] (875,178)<div  />
+[186] (559,279)<button class='yt-spec-button-shape-next yt-spec-button-shape-next--outline yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-trailing yt-spec-button-shape-next--enable-backdrop-filter-experiment'>Show more />
+	Show more
+	[187] (559,279)<yt-touch-feedback-shape  />
+		[188] (559,279)<div  />
+[189] (693,404)<feed-ad-metadata-view-model  />
+	[190] (693,404)<div  />
+		[191] (687,378)<span  />
+			[192] (679,378)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' />
+				[193] (679,378)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' href='https://www.google.com/aclk?sa=L&ai=DChsSEwjH6Luq0M2TAxUKLocDHa9MOR0YACICCAEQBhoCamY&co=1&ase=2&gclid=EAIaIQobChMIx-i7qtDNkwMVCi6HAx2vTDkdEAEYASAAEgLkyfD_BwE&num=1&cid=CAASZeRoyHVafdOJSxjsT9qD3Z-tlKze5ohq7MM-qVNhOMI7Qj51BY-3euT9JsQjDPen66DVAzk2RB3uxb6XSf3aEzX-gpQPtrnf8c33Wd7_fe4RfYD6_EosrFx5wh5Fhc_6prf0_o6r&cce=2&category=acrcp_v1_32&sig=AOD64_1QBPPx9n5rossbTrjRXc2qO38jEQ&adurl=https://pdfhouse.com/pdf-to-redact%3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3D22796306342%26utm_term%3Dkwd-374252807408%26utm_content%3D197133567748%26keyword%3Dhow%2520to%2520redact%2520a%2520pdf%2520for%2520free%26matchtype%3Db%26creatid%3D784040446739%26extid%3D%26targetid%3Dkwd-374252807408%26device%3Dc%26gad_source%3D2%26gad_campaignid%3D22796306342&ms=[CLICK_MS]&nx=[NX]&ny=[NY]&nb=0'>How to redact a PDF for free - Hide Text in Any PDF Online - Edit PDFs Without Quality Loss />
+		[194] (687,421)<span  />
+			[195] (687,421)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' />
+				[196] (687,421)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' href='https://www.google.com/aclk?sa=L&ai=DChsSEwjH6Luq0M2TAxUKLocDHa9MOR0YACICCAEQBhoCamY&co=1&ase=2&gclid=EAIaIQobChMIx-i7qtDNkwMVCi6HAx2vTDkdEAEYASAAEgLkyfD_BwE&num=1&cid=CAASZeRoyHVafdOJSxjsT9qD3Z-tlKze5ohq7MM-qVNhOMI7Qj51BY-3euT9JsQjDPen66DVAzk2RB3uxb6XSf3aEzX-gpQPtrnf8c33Wd7_fe4RfYD6_EosrFx5wh5Fhc_6prf0_o6r&cce=2&category=acrcp_v1_32&sig=AOD64_1QBPPx9n5rossbTrjRXc2qO38jEQ&adurl=https://pdfhouse.com/pdf-to-redact%3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3D22796306342%26utm_term%3Dkwd-374252807408%26utm_content%3D197133567748%26keyword%3Dhow%2520to%2520redact%2520a%2520pdf%2520for%2520free%26matchtype%3Db%26creatid%3D784040446739%26extid%3D%26targetid%3Dkwd-374252807408%26device%3Dc%26gad_source%3D2%26gad_campaignid%3D22796306342&ms=[CLICK_MS]&nx=[NX]&ny=[NY]&nb=7'>How to redact a PDF for free. Black out text in PDFs instantly with secure and user-friendly tools. Advanced tools to edit, merge, sign... />
+		[197] (687,445)<div  />
+			[198] (520,449)<ad-badge-view-model  />
+				[199] (520,449)<badge-shape  />
+					[200] (517,449)<div >Sponsored />
+			[201] (602,449)<ad-details-line-view-model  />
+				[202] (602,449)<span class='yt-core-attributed-string ytwAdDetailsLineViewModelHostTextStyleStandard yt-core-attributed-string--white-space-pre-wrap' role='text'>https://www.pdfhouse.com/redact/redact-pdf />
+	[203] (880,363)<div  />
+		[204] (880,363)<button-view-model  />
+			[205] (880,363)<button aria-label='My Ad Center' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+				[206] (880,363)<yt-touch-feedback-shape  />
+					[207] (880,363)<div  />
+[208] (363,825)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=Aw9NRNr36Sc&pp=ygUraG93IHRvIHJlZGFjdCBQREYgZnJlZSBvbmxpbmUgYmVnaW5uZXIgZWFzeQ%3D%3D' id='thumbnail' />
+	[209] (363,973)<yt-image  />
+		[210] (363,825)<img  />
+	[211] (480,958)<ytd-thumbnail-overlay-time-status-renderer  />
+		[212] (481,958)<div  />
+			[213] (481,958)<badge-shape aria-label='4 minutes, 12 seconds' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[214] (481,958)<div >4:12 />
+[215] (693,785)<div  />
+	[216] (693,696)<div  />
+		[217] (693,686)<div  />
+			[218] (604,686)<h3  />
+				[219] (604,686)<a aria-label='Adobe Acrobat: Redact Your PDFs the Right Way! 4 minutes, 12 seconds' class='yt-simple-endpoint style-scope ytd-video-renderer' href='/watch?v=Aw9NRNr36Sc&pp=ygUraG93IHRvIHJlZGFjdCBQREYgZnJlZSBvbmxpbmUgYmVnaW5uZXIgZWFzeQ%3D%3D' id='video-title' title='Adobe Acrobat: Redact Your PDFs the Right Way!' />
+					[220] (604,686)<yt-formatted-string >Adobe Acrobat: Redact Your PDFs the Right Way! />
+			[221] (874,685)<div  />
+				[222] (874,682)<ytd-menu-renderer  />
+					[223] (874,682)<yt-icon-button  />
+						[224] (874,682)<button aria-label='Action menu' class='style-scope yt-icon-button' id='button' />
+							[225] (874,682)<yt-icon  />
+								[226] (874,682)<span  />
+									[227] (874,682)<div  />
+		[228] (693,710)<ytd-video-meta-block  />
+			[229] (693,710)<div  />
+				[230] (538,710)<div  />
+					[231] (516,710)<span >10K views />
+					[232] (552,710)<span >2 months ago />
+	[233] (693,748)<div  />
+		[234] (510,748)<a aria-label='Go to channel Kevin Stratvert' class='style-scope ytd-video-renderer' href='/@KevinStratvert' id='channel-thumbnail' />
+			[235] (508,746)<yt-img-shadow  />
+				[236] (508,746)<img  />
+		[237] (543,748)<ytd-channel-name  />
+			[238] (539,748)<div  />
+				[239] (539,748)<div  />
+					[240] (539,748)<yt-formatted-string  />
+						[241] (539,748)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@KevinStratvert'>Kevin Stratvert />
+			[242] (563,748)<ytd-badge-supported-renderer  />
+				[243] (563,748)<div  />
+					[244] (564,748)<badge-shape aria-label='Verified' class='yt-badge-shape yt-badge-shape--default yt-badge-shape--no-text yt-badge-shape--modern yt-badge-shape--typography' role='img' />
+						[245] (564,748)<div  />
+							[246] (564,748)<span  />
+								[247] (564,748)<div  />
+	[248] (693,785)<div  />
+		[249] (685,785)<yt-formatted-string  />
+			[250] (517,785)<span >Incorrectly />
+			[251] (546,785)<span >redacting />
+			[252] (714,785)<span >documents can be more than a little embarrassing. If you don't do it right, sensitive or proprietary information ... />
+	[253] (693,813)<ytd-badge-supported-renderer  />
+		[254] (508,813)<div  />
+			[255] (508,813)<badge-shape aria-label='4K' class='yt-badge-shape yt-badge-shape--default yt-badge-shape--typography' role='img' />
+				[256] (508,813)<div >4K />
+	[257] (693,865)<div  />
+		[258] (693,865)<ytd-expandable-metadata-renderer  />
+			[259] (693,865)<div  />
+				[260] (683,865)<div  />
+					[261] (520,865)<div  />
+						[262] (520,865)<yt-img-shadow  />
+							[263] (520,865)<img  />
+					[264] (554,865)<div  />
+						[265] (554,865)<yt-formatted-string  />
+							[266] (541,865)<span >8 />
+							[267] (556,865)<span >chapters />
+					[268] (717,865)<div class='style-scope ytd-expandable-metadata-renderer' id='collapsed-title' role='button'>Introduction | Redacting the wrong way | Use Acrobat’s Redact a PDF tools | Set the appearance of redacted areas | Select text to redact | Search for words and phrases to redact | Applying your redactions | Conclusion />
+						Introduction | Redacting the wrong way | Use Acrobat’s Redact a PDF tools | Set the appearance of redacted areas | Select text to redact | Search for words and phrases to redact | Applying your redactions | Conclusion
+				[269] (872,865)<div  />
+					[270] (872,865)<div  />
+						[271] (872,865)<ytd-button-renderer  />
+							[272] (872,865)<yt-button-shape  />
+								[273] (872,865)<button aria-label='More' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+									[274] (872,865)<yt-touch-feedback-shape  />
+										[275] (872,865)<div  />
+How to Redact a PDF Without Adobe Acrobat - Full Guide
+
+</current_dom>

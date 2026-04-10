@@ -1,0 +1,33 @@
+Skip to main content
+[0] (237,46)<a class='govuk-header__link govuk-header__link--homepage' href='https://www.gov.uk/' />
+[1] (290,134)<a class='govuk-service-navigation__link' href='/' id='logo' title='Go to the Companies House homepage'>Find and update company information />
+[2] (343,195)<a class='govuk-link' href='http://resources.companieshouse.gov.uk/serviceInformation.shtml#compInfo'>Companies House does not check the accuracy of the information filed
+(link opens a new window) />
+	(link opens a new window)
+[3] (778,239)<a class='govuk-link' href='/signin' id='user-signin'>Sign in / Register />
+[4] (233,296)<label >Search for officers />
+[5] (484,396)<input class='govuk-input' id='site-search-text' />
+[6] (794,396)<button class='search-submit gem-c-search__submit' id='search-submit' />
+[7] (256,510)<a class='govuk-link piwik-event' href='/advanced-search'>Advanced company search
+Link opens in new window />
+	Link opens in new window
+AGERE INTERNATIONAL LTD
+Company number
+06441315
+[8] (246,758)<a class='govuk-button' href='https://follow.company-information.service.gov.uk/company/06441315/confirm-follow?return_to=https://find-and-update.company-information.service.gov.uk/company/06441315/officers' id='follow-this-company'>Follow this company />
+[9] (372,758)<a class='govuk-button' href='/company/06441315/authorise?return_to=/company/06441315/officers' id='file-for-this-company'>File for this company />
+[10] (222,952)<a class='govuk-tabs__tab' href='/company/06441315' id='company-overview-tab' role='tab'>Company
+Overview
+for AGERE INTERNATIONAL LTD (06441315) />
+	Company
+	for AGERE INTERNATIONAL LTD (06441315)
+[11] (312,952)<a class='govuk-tabs__tab' href='/company/06441315/filing-history' id='filing-history-tab' role='tab'>Filing history
+for AGERE INTERNATIONAL LTD (06441315) />
+	for AGERE INTERNATIONAL LTD (06441315)
+[12] (395,953)<a class='govuk-tabs__tab' href='/company/06441315/officers' id='people-tab' role='tab'>People
+for AGERE INTERNATIONAL LTD (06441315) />
+	for AGERE INTERNATIONAL LTD (06441315)
+Charges
+for AGERE INTERNATIONAL LTD (06441315)
+More
+for AGERE INTERNATIONAL LTD (06441315)

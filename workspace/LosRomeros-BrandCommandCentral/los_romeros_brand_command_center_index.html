@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>LOS ROMEROS Ltd &mdash; Brand Command Center</title>
+  <meta name="description" content="The Los Romeros Limited Brand Command Center &mdash; authoritative access to Brand Guidelines, Brand Kit, and Style Guide for cross-border legal forensic communications."/>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet"/>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    :root {
+      --bg-base: #020617;
+      --bg-card: #0f172a;
+      --bg-card-alt: #1e293b;
+      --border: #334155;
+      --text-primary: #f1f5f9;
+      --text-secondary: #94a3b8;
+      --text-muted: #64748b;
+      --accent-crimson: #dc2626;
+      --accent-amber: #d97706;
+      --accent-orange: #ea580c;
+      --accent-green: #16a34a;
+      --accent-blue: #2563eb;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body { background: var(--bg-base); color: var(--text-primary); font-family: 'Inter', sans-serif; line-height: 1.6; }
+    h1, h2, h3, h4 { font-family: 'EB Garamond', serif; }
+    .gradient-text { color: #f1f5f9; }
+    .card { background: var(--bg-card); border: 1px solid var(--border); border-radius: 8px; transition: border-color 200ms ease; }
+    .card:hover { border-color: #475569; }
+    .card-alt { background: var(--bg-card-alt); border: 1px solid var(--border); border-radius: 8px; }
+    .pill { display: inline-flex; align-items: center; gap: 6px; padding: 4px 12px; border-radius: 999px; font-size: 11px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; }
+    .pill-crimson { background: rgba(220,38,38,0.15); border: 1px solid rgba(220,38,38,0.4); color: #fca5a5; }
+    .pill-amber { background: rgba(217,119,6,0.15); border: 1px solid rgba(217,119,6,0.4); color: #fcd34d; }
+    .pill-blue { background: rgba(37,99,235,0.15); border: 1px solid rgba(37,99,235,0.4); color: #93c5fd; }
+    .pill-green { background: rgba(22,163,74,0.15); border: 1px solid rgba(22,163,74,0.4); color: #86efac; }
+    .pill-purple { background: rgba(168,85,247,0.15); border: 1px solid rgba(168,85,247,0.4); color: #d8b4fe; }
+    .section-label { font-size: 11px; font-weight: 700; letter-spacing: 0.15em; text-transform: uppercase; color: var(--text-muted); margin-bottom: 8px; }
+    .divider { border: none; border-top: 1px solid var(--border); margin: 60px 0; }
+    .stat-value { font-family: 'Inter', sans-serif; font-weight: 700; font-size: 2.5rem; line-height: 1; }
+    nav a { transition: color 150ms linear; }
+    nav a:hover { color: #f8fafc; }
+    .menu-card { display: block; background: var(--bg-card); border: 1px solid var(--border); border-radius: 10px; padding: 40px; text-decoration: none; transition: all 200ms ease; cursor: pointer; }
+    .menu-card:hover { border-color: #475569; transform: translateY(-2px); }
+    .menu-card-orange { border-top: 4px solid #ea580c; }
+    .menu-card-orange:hover { border-top-color: #f97316; }
+    .menu-card-purple { border-top: 4px solid #a855f7; }
+    .menu-card-purple:hover { border-top-color: #c084fc; }
+    .menu-card-blue { border-top: 4px solid #2563eb; }
+    .menu-card-blue:hover { border-top-color: #3b82f6; }
+    .jurisdiction-flag { font-size: 11px; color: #94a3b8; font-weight: 600; text-transform: uppercase; letter-spacing: 0.1em; background: #1e293b; border: 1px solid #334155; padding: 3px 10px; border-radius: 4px; }
+    @media (prefers-reduced-motion: reduce) { *, ::before, ::after { transition: none !important; animation: none !important; } }
+  </style>
+</head>
+<body>
+
+  <!-- STICKY TOP NAV -->
+  <nav style="background:#020617; border-bottom:1px solid #1e293b;" class="sticky top-0 z-50 px-6 py-4">
+    <div class="max-w-7xl mx-auto flex items-center justify-between">
+      <div class="flex items-center gap-4">
+        <img src="assets/Los_Romeros_Logo_Dark.png" alt="Los Romeros Limited" class="h-10 w-auto mix-blend-screen opacity-90"/>
+        <div class="hidden sm:block" style="border-left:1px solid #334155; padding-left:16px;">
+          <div class="text-xs font-semibold" style="color:#f1f5f9; letter-spacing:0.05em;">LOS ROMEROS Ltd</div>
+          <div class="text-xs" style="color:#64748b; letter-spacing:0.08em; text-transform:uppercase;">Brand Command Center</div>
+        </div>
+      </div>
+      <div class="flex items-center gap-6">
+        <a href="brand-guidelines.html" style="color:#94a3b8;" class="text-sm transition-colors">Guidelines</a>
+        <a href="brand-kit.html" style="color:#94a3b8;" class="text-sm transition-colors">Brand Kit</a>
+        <a href="style-guide.html" style="color:#94a3b8;" class="text-sm transition-colors">Style Guide</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- HERO SECTION -->
+  <section class="max-w-7xl mx-auto px-6 pt-24 pb-20">
+    <!-- Top status bar -->
+    <div style="display:flex; flex-wrap:wrap; gap:8px; align-items:center; margin-bottom:32px;">
+      <span style="background:#d97706; color:#020617; font-size:11px; font-weight:700; letter-spacing:0.12em; text-transform:uppercase; padding:5px 14px; border-radius:4px;">
+        LEGAL &amp; REGULATORY ANALYSIS &mdash; LOS ROMEROS LIMITED
+      </span>
+      <span class="jurisdiction-flag">ES &mdash; SPAIN</span>
+      <span class="jurisdiction-flag">GB &mdash; UNITED KINGDOM</span>
+    </div>
+
+    <!-- Main headline -->
+    <div class="flex flex-col md:flex-row md:items-start md:gap-12">
+      <div class="flex-1">
+        <h1 class="text-5xl md:text-7xl font-bold leading-tight mb-6" style="font-family:'EB Garamond',serif; max-width:900px;">
+          LOS ROMEROS Ltd<br/><span class="gradient-text">Brand Command Center</span>
+        </h1>
+        <p class="text-lg mb-12 max-w-2xl" style="color:#94a3b8; line-height:1.8;">
+          The authoritative source for the Los Romeros Limited corporate identity. This command center provides structured access to all brand governance documents &mdash; from visual design tokens to regulatory communication standards.
+        </p>
+
+        <!-- Stats bar -->
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-16">
+          <div class="card p-5 text-center">
+            <div class="stat-value mb-2" style="color:#ea580c;">3</div>
+            <div class="text-xs uppercase tracking-widest" style="color:#64748b;">Brand Documents</div>
+          </div>
+          <div class="card p-5 text-center">
+            <div class="stat-value mb-2" style="color:#a855f7;">2</div>
+            <div class="text-xs uppercase tracking-widest" style="color:#64748b;">Jurisdictions</div>
+          </div>
+          <div class="card p-5 text-center">
+            <div class="stat-value mb-2" style="color:#2563eb;">8</div>
+            <div class="text-xs uppercase tracking-widest" style="color:#64748b;">Colour Tokens</div>
+          </div>
+          <div class="card p-5 text-center">
+            <div class="stat-value mb-2" style="color:#16a34a;">0</div>
+            <div class="text-xs uppercase tracking-widest" style="color:#64748b;">Room for Ambiguity</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Hero logo badge -->
+      <div class="hidden md:flex flex-col items-center justify-center" style="flex-shrink:0;">
+        <div style="background:#0f172a; border:1px solid #334155; border-radius:12px; padding:40px; text-align:center;">
+          <img src="assets/Los_Romeros_Logo_Dark.png" alt="Los Romeros Limited" class="h-40 w-auto mix-blend-screen mb-6 mx-auto"/>
+          <div class="text-xs font-semibold uppercase tracking-widest" style="color:#64748b;">Los Romeros Limited</div>
+          <div class="text-xs" style="color:#475569;">Registered in England &amp; Wales</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Alert block -->
+    <div style="background:rgba(220,38,38,0.08); border:1px solid rgba(220,38,38,0.3); border-left:4px solid #dc2626; border-radius:6px; padding:24px 28px; margin-top:8px;">
+      <div style="font-size:12px; font-weight:700; color:#fca5a5; text-transform:uppercase; letter-spacing:0.1em; margin-bottom:8px;">
+        &#9888; Identity Governance Notice
+      </div>
+      <p style="color:#94a3b8; font-size:0.9rem; line-height:1.7;">
+        All brand assets presented herein operate under strict <strong style="color:#f1f5f9;">forensic accuracy requirements</strong>. No element of this brand system may be applied in a manner that softens, obscures, or misrepresents the legal and regulatory character of Los Romeros Limited's public communications.
+      </p>
+    </div>
+  </section>
+
+  <div class="max-w-7xl mx-auto px-6">
+    <hr class="divider"/>
+
+    <!-- MAIN MENU CARDS -->
+    <section class="mb-24">
+      <div class="section-label mb-2">Primary Navigation</div>
+      <h2 class="text-3xl md:text-4xl font-semibold mb-10" style="font-family:'EB Garamond',serif;">Brand Governance Documents</h2>
+
+      <div class="grid md:grid-cols-3 gap-6">
+
+        <!-- BRAND GUIDELINES -->
+        <a href="brand-guidelines.html" class="menu-card menu-card-orange" id="nav-guidelines">
+          <div style="display:flex; align-items:center; gap:16px; margin-bottom:28px;">
+            <div style="width:48px; height:48px; background:rgba(234,88,12,0.15); border:1px solid rgba(234,88,12,0.3); border-radius:8px; display:flex; align-items:center; justify-content:center; flex-shrink:0;">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#ea580c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg>
+            </div>
+            <div>
+              <div style="font-size:11px; font-weight:700; letter-spacing:0.12em; text-transform:uppercase; color:#ea580c; margin-bottom:2px;">Vol 1.0</div>
+              <h3 style="font-family:'EB Garamond',serif; font-size:1.5rem; font-weight:600; color:#f1f5f9; line-height:1.2;">Brand Guidelines</h3>
+            </div>
+          </div>
+          <p style="color:#94a3b8; font-size:0.875rem; line-height:1.8; margin-bottom:24px;">
+            Authoritative positioning, tone of voice, messaging framework, and statutory vocabulary for all regulatory communications. Defines how Los Romeros speaks.
+          </p>
+          <div style="display:flex; flex-wrap:wrap; gap:8px; margin-bottom:24px;">
+            <span class="pill pill-crimson" style="font-size:10px;">Tone of Voice</span>
+            <span class="pill pill-amber" style="font-size:10px;">Messaging</span>
+            <span class="pill pill-purple" style="font-size:10px;">Positioning</span>
+          </div>
+          <div style="display:flex; align-items:center; gap:8px; color:#ea580c; font-size:13px; font-weight:600;">
+            Open Brand Guidelines
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+          </div>
+        </a>
+
+        <!-- BRAND KIT -->
+        <a href="brand-kit.html" class="menu-card menu-card-purple" id="nav-brandkit">
+          <div style="display:flex; align-items:center; gap:16px; margin-bottom:28px;">
+            <div style="width:48px; height:48px; background:rgba(168,85,247,0.15); border:1px solid rgba(168,85,247,0.3); border-radius:8px; display:flex; align-items:center; justify-content:center; flex-shrink:0;">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#a855f7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.07 4.93a10 10 0 0 1 2.49 10.84"/><path d="M15.54 15.54A6 6 0 0 1 6 9.46"/><path d="M4.93 19.07A10 10 0 0 1 2.44 8.23"/><path d="M8.46 8.46A6 6 0 0 1 18 14.54"/></svg>
+            </div>
+            <div>
+              <div style="font-size:11px; font-weight:700; letter-spacing:0.12em; text-transform:uppercase; color:#a855f7; margin-bottom:2px;">Vol 2.0</div>
+              <h3 style="font-family:'EB Garamond',serif; font-size:1.5rem; font-weight:600; color:#f1f5f9; line-height:1.2;">Brand Kit</h3>
+            </div>
+          </div>
+          <p style="color:#94a3b8; font-size:0.875rem; line-height:1.8; margin-bottom:24px;">
+            Complete design tokens, hex colour palettes, typographic scales, CSS custom properties, and logo usage restrictions for developers and designers.
+          </p>
+          <div style="display:flex; flex-wrap:wrap; gap:8px; margin-bottom:24px;">
+            <span class="pill pill-amber" style="font-size:10px;">Colour Palette</span>
+            <span class="pill pill-blue" style="font-size:10px;">Typography</span>
+            <span class="pill pill-green" style="font-size:10px;">Tokens</span>
+          </div>
+          <div style="display:flex; align-items:center; gap:8px; color:#a855f7; font-size:13px; font-weight:600;">
+            Open Brand Kit
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+          </div>
+        </a>
+
+        <!-- STYLE GUIDE -->
+        <a href="style-guide.html" class="menu-card menu-card-blue" id="nav-styleguide">
+          <div style="display:flex; align-items:center; gap:16px; margin-bottom:28px;">
+            <div style="width:48px; height:48px; background:rgba(37,99,235,0.15); border:1px solid rgba(37,99,235,0.3); border-radius:8px; display:flex; align-items:center; justify-content:center; flex-shrink:0;">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg>
+            </div>
+            <div>
+              <div style="font-size:11px; font-weight:700; letter-spacing:0.12em; text-transform:uppercase; color:#2563eb; margin-bottom:2px;">Vol 3.0</div>
+              <h3 style="font-family:'EB Garamond',serif; font-size:1.5rem; font-weight:600; color:#f1f5f9; line-height:1.2;">Style Guide</h3>
+            </div>
+          </div>
+          <p style="color:#94a3b8; font-size:0.875rem; line-height:1.8; margin-bottom:24px;">
+            Visual application rules with live components: buttons, severity badges, evidence cards, layout grids, spacing system, interaction states, and iconography.
+          </p>
+          <div style="display:flex; flex-wrap:wrap; gap:8px; margin-bottom:24px;">
+            <span class="pill pill-crimson" style="font-size:10px;">Components</span>
+            <span class="pill pill-purple" style="font-size:10px;">Layout Grid</span>
+            <span class="pill pill-amber" style="font-size:10px;">Interactions</span>
+          </div>
+          <div style="display:flex; align-items:center; gap:8px; color:#2563eb; font-size:13px; font-weight:600;">
+            Open Style Guide
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+          </div>
+        </a>
+      </div>
+    </section>
+
+    <hr class="divider"/>
+
+    <!-- BRAND IDENTITY SUMMARY -->
+    <section class="mb-24">
+      <div class="section-label">Brand Overview</div>
+      <h2 class="text-3xl font-semibold mb-10" style="font-family:'EB Garamond',serif;">Corporate Identity at a Glance</h2>
+
+      <div class="grid md:grid-cols-2 gap-8">
+        <!-- Design System Snapshot -->
+        <div class="card p-8">
+          <h3 class="text-xl font-semibold mb-6" style="font-family:'EB Garamond',serif;">Design System Tokens</h3>
+          <div class="space-y-4">
+            <div style="display:flex; align-items:center; justify-content:space-between; padding-bottom:12px; border-bottom:1px solid #1e293b;">
+              <span style="color:#94a3b8; font-size:14px;">Base Background</span>
+              <div style="display:flex; align-items:center; gap:10px;">
+                <div style="width:16px; height:16px; background:#020617; border-radius:3px; border:1px solid #334155;"></div>
+                <code style="color:#86efac; font-size:12px;">#020617</code>
+              </div>
+            </div>
+            <div style="display:flex; align-items:center; justify-content:space-between; padding-bottom:12px; border-bottom:1px solid #1e293b;">
+              <span style="color:#94a3b8; font-size:14px;">Primary Text</span>
+              <div style="display:flex; align-items:center; gap:10px;">
+                <div style="width:16px; height:16px; background:#f1f5f9; border-radius:3px; border:1px solid #334155;"></div>
+                <code style="color:#86efac; font-size:12px;">#F1F5F9</code>
+              </div>
+            </div>
+            <div style="display:flex; align-items:center; justify-content:space-between; padding-bottom:12px; border-bottom:1px solid #1e293b;">
+              <span style="color:#94a3b8; font-size:14px;">High Severity</span>
+              <div style="display:flex; align-items:center; gap:10px;">
+                <div style="width:16px; height:16px; background:#dc2626; border-radius:3px;"></div>
+                <code style="color:#86efac; font-size:12px;">#DC2626</code>
+              </div>
+            </div>
+            <div style="display:flex; align-items:center; justify-content:space-between; padding-bottom:12px; border-bottom:1px solid #1e293b;">
+              <span style="color:#94a3b8; font-size:14px;">Notice / Pending</span>
+              <div style="display:flex; align-items:center; gap:10px;">
+                <div style="width:16px; height:16px; background:#d97706; border-radius:3px;"></div>
+                <code style="color:#86efac; font-size:12px;">#D97706</code>
+              </div>
+            </div>
+            
+          </div>
+        </div>
+
+        <!-- Typography snapshot -->
+        <div class="card p-8">
+          <h3 class="text-xl font-semibold mb-6" style="font-family:'EB Garamond',serif;">Typography System</h3>
+          <div class="space-y-4">
+            <div>
+              <div class="section-label" style="margin-bottom:4px;">Primary Typeface &mdash; Headings</div>
+              <div style="font-family:'EB Garamond',serif; font-size:2.5rem; font-weight:600; color:#f1f5f9; line-height:1.1;">EB Garamond</div>
+              <div style="font-size:12px; color:#64748b; margin-top:4px;">Weights: 400, 600, 700 &mdash; Heritage authority</div>
+            </div>
+            <div style="border-top:1px solid #1e293b; padding-top:16px;">
+              <div class="section-label" style="margin-bottom:4px;">Secondary Typeface &mdash; Body &amp; UI</div>
+              <div style="font-family:'Inter',sans-serif; font-size:1.75rem; font-weight:600; color:#94a3b8; line-height:1.1;">Inter</div>
+              <div style="font-size:12px; color:#64748b; margin-top:4px;">Weights: 300&mdash;700 &mdash; Data density &amp; legibility</div>
+            </div>
+            <div style="border-top:1px solid #1e293b; padding-top:16px;">
+              <div class="section-label" style="margin-bottom:4px;">Mono &mdash; Code &amp; Tokens</div>
+              <div style="font-family:'Courier New',monospace; font-size:1rem; color:#86efac; line-height:1.1;">Courier New</div>
+              <div style="font-size:12px; color:#64748b; margin-top:4px;">System monospace &mdash; CSS values, hex codes</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <hr class="divider"/>
+
+    <!-- SOURCE PAGES REFERENCE -->
+    <section class="mb-24">
+      <div class="section-label">Reference Sources</div>
+      <h2 class="text-3xl font-semibold mb-4" style="font-family:'EB Garamond',serif;">Live Reference Properties</h2>
+      <p class="mb-8 text-sm" style="color:#94a3b8; max-width:700px; line-height:1.8;">This brand system was derived from the visual language and forensic structure established across these two public-facing Los Romeros legal analysis pages.</p>
+      <div class="grid md:grid-cols-2 gap-6">
+        <a href="https://dean349.github.io/wincham-scheme-illegal/" target="_blank" rel="noopener" style="text-decoration:none;" class="card p-8">
+          <div style="display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:16px;">
+            <div class="pill pill-crimson">High Severity Content</div>
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#64748b" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14L21 3"/></svg>
+          </div>
+          <h3 style="font-family:'EB Garamond',serif; font-size:1.25rem; font-weight:600; color:#f1f5f9; margin-bottom:8px;">Was the Wincham Scheme Illegal?</h3>
+          <p style="color:#64748b; font-size:12px; line-height:1.6;">A forensic analysis of Wincham Accountants' conduct across two jurisdictions. Primary brand reference source.</p>
+          <div style="margin-top:16px; font-size:11px; color:#475569;">dean349.github.io/wincham-scheme-illegal</div>
+        </a>
+        <a href="https://dean349.github.io/Wincham-claim-overview-HARRISON-EXPERT-ADVISORS/" target="_blank" rel="noopener" style="text-decoration:none;" class="card p-8">
+          <div style="display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:16px;">
+            <div class="pill pill-amber">Claim Analysis</div>
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#64748b" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14L21 3"/></svg>
+          </div>
+          <h3 style="font-family:'EB Garamond',serif; font-size:1.25rem; font-weight:600; color:#f1f5f9; margin-bottom:8px;">Wincham Claim Overview &mdash; Harrison Expert Advisors</h3>
+          <p style="color:#64748b; font-size:12px; line-height:1.6;">Seven specialist AI advisers supporting the Philip Harrison negligence claim. Secondary brand reference source.</p>
+          <div style="margin-top:16px; font-size:11px; color:#475569;">dean349.github.io/Wincham-claim-overview-HARRISON-EXPERT-ADVISORS</div>
+        </a>
+      </div>
+    </section>
+  </div>
+
+  <!-- FOOTER -->
+  <footer style="background:#020617; border-top:1px solid #1e293b;" class="py-14 mt-8">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="flex flex-col md:flex-row justify-between items-start gap-8 mb-8">
+        <!-- Brand lockup -->
+        <div>
+          <div class="flex items-center gap-4 mb-4">
+            <img src="assets/Los_Romeros_Logo_Dark.png" alt="Los Romeros Limited" class="h-14 w-auto mix-blend-screen opacity-80"/>
+          </div>
+          <div class="text-sm font-semibold mb-1" style="color:#f1f5f9;">Los Romeros Limited</div>
+          <div class="text-xs mb-1" style="color:#64748b;">Registered in England &amp; Wales</div>
+          <div class="text-xs" style="color:#64748b;">Properties in United Kingdom &amp; Lanzarote, Spain</div>
+        </div>
+        <!-- Nav columns -->
+        <div class="flex gap-16">
+          <div>
+            <div class="section-label mb-4">Brand System</div>
+            <nav class="flex flex-col gap-3">
+              <a href="brand-guidelines.html" style="color:#94a3b8; font-size:13px; text-decoration:none;" class="transition-colors">Brand Guidelines</a>
+              <a href="brand-kit.html" style="color:#94a3b8; font-size:13px; text-decoration:none;" class="transition-colors">Brand Kit</a>
+              <a href="style-guide.html" style="color:#94a3b8; font-size:13px; text-decoration:none;" class="transition-colors">Style Guide</a>
+            </nav>
+          </div>
+          <div>
+            <div class="section-label mb-4">Reference Pages</div>
+            <nav class="flex flex-col gap-3">
+              <a href="https://dean349.github.io/wincham-scheme-illegal/" target="_blank" rel="noopener" style="color:#94a3b8; font-size:13px; text-decoration:none;" class="transition-colors">Wincham Scheme &rarr;</a>
+              <a href="https://dean349.github.io/Wincham-claim-overview-HARRISON-EXPERT-ADVISORS/" target="_blank" rel="noopener" style="color:#94a3b8; font-size:13px; text-decoration:none;" class="transition-colors">HEA Claim Overview &rarr;</a>
+            </nav>
+          </div>
+        </div>
+      </div>
+      <div style="border-top:1px solid #1e293b; padding-top:24px; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
+        <div class="text-xs" style="color:#475569;">&copy; 2026 Los Romeros Limited. Brand Command Center &mdash; Confidential Internal Document.</div>
+        <div class="text-xs" style="color:#475569;">Generated April 2026 &mdash; Version 1.0.0</div>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>
+

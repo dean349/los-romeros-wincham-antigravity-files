@@ -1,0 +1,26 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Financial conduct authority Opens in a new window
+The Financial Services Register
+Individual prohibitions
+Fund search
+Other registers
+Data and downloads
+Welcome to the Financial Services Register
+In the UK, nearly all financial service activities must be authorised by the Financial Conduct Authority. You can search our Register for firms and individuals and the activities firms have permissions for.
+Using an authorised firm, with the correct permissions, will greatly reduce the risk of harm. It won’t remove all risk.
+The Register does not confirm whether the Financial Services Compensation Scheme (FSCS) or Financial Ombudsman Service (FOS) protection will definitely apply if something goes wrong.
+For more consumer information see our
+FCA Consumer pages
+.
+How to use the Register
+Always check the firms or person you're dealing with is listed on the Register
+The Register lists all the firms and individuals that are involved with regulated activities. You can find out what they are regulated to do and your protections when doing business with them.
+Make sure they have permissions for the regulated activities you need
+Always check that permissions/activities of the firm match the service it's providing to you.
+Only use the contact details listed on the Register
+Many scammers pretend to be a legitimate firm. Use the contact details on the Register to confirm you're dealing with the genuine firm before doing business with them.
+
+</current_dom>

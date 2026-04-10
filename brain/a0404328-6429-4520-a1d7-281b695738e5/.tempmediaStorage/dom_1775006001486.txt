@@ -1,0 +1,33 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Private limited company
+10605325 - Incorporated on 7 February 2017
+1-2 Albert Chambers Canal Street, Congleton, England CW12 4AA
+SIC codes - 70229
+[0] (459,211)<a class='govuk-link' href='/company/07748430'>LANOX LIMITED
+(link opens a new window) />
+	(link opens a new window)
+Active
+Private limited company
+07748430 - Incorporated on 22 August 2011
+1-2 Albert Chambers Canal Street, Congleton, England CW12 4AA
+SIC codes - 70229
+[1] (458,523)<a class='govuk-link' href='/company/07748342'>LANOT LIMITED
+(link opens a new window) />
+	(link opens a new window)
+Active
+Private limited company
+07748342 - Incorporated on 22 August 2011
+1-2 Albert Chambers Canal Street, Congleton, England CW12 4AA
+SIC codes - 70229
+[2] (467,834)<a class='govuk-link' href='/company/07465273'>LANOLLA LIMITED
+(link opens a new window) />
+	(link opens a new window)
+Active
+Private limited company
+07465273 - Incorporated on 9 December 2010
+1-2 Albert Chambers Canal Street, Congleton, England CW12 4AA
+
+</current_dom>

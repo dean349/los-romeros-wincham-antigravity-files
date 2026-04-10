@@ -1,0 +1,130 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (628,26)<a href='Default.aspx'>Home />
+|
+[1] (687,26)<a href='#'>Services />
+|
+[2] (771,26)<a href='http://www.wincham.com/mtt.asp'>Meet the Team />
+|
+[3] (862,26)<a href='http://www.wincham.com/contactus.asp'>Contact Us />
+|
+[4] (947,26)<a href='http://www.winchamiht.com/winchamsupport/WRS.exe'>Live Support />
+Welcome! Philip and Beryl
+05/Apr/2026
+[5] (390,213)<a href='referral.aspx' />
+	[6] (390,148)<img  />
+	[7] (390,225)<font  />
+		[8] (390,225)<b >Refer a Friend />
+[9] (538,230)<a href='Default.aspx' />
+	[10] (538,182)<img  />
+	[11] (538,242)<b >Home />
+[12] (699,230)<a href='profile.aspx' />
+	[13] (699,182)<img  />
+	[14] (699,242)<b >Account Settings />
+[15] (860,230)<a href='../Logout.aspx?t=4' />
+	[16] (860,182)<img  />
+	[17] (860,242)<b >Logout />
+Your are here:
+[18] (151,297)<a href='default.aspx'>Home />
+/
+[19] (204,297)<a href='casedetail.aspx?cid=WI-13211'>WI-13211 />
+/ Document
+Case #: WI-13211
+(Company Purchases Case)
+[20] (106,521)<a href='clientcompany.aspx?cid=WI-13211' />
+	[21] (106,521)<b >Los Romeros Limited />
+[22] (92,677)<a href='casedetail.aspx?cid=WI-13211'>Case Detail />
+	[23] (87,630)<img  />
+[24] (101,814)<a href='ViewProposal.aspx?cid=WI-13211'>Tax Illustration />
+	[25] (87,767)<img  />
+[26] (94,962)<a href='infosheetsview.aspx?cid=WI-13211'>Information Sheets />
+	[27] (87,904)<img  />
+::       Case Document      ::
+Note: Please download and install
+[28] (399,387)<a href='http://ardownload.adobe.com/pub/adobe/reader/win/9.x/9.0/enu/AdbeRdr90_en_US.exe'>Adobe Reader />
+	[29] (359,376)<img  />
+to view
+[30] (504,387)<a href='http://ardownload.adobe.com/pub/adobe/reader/win/9.x/9.0/enu/AdbeRdr90_en_US.exe'>PDF />
+files.
+[31] (371,418)<a class='Menu1_1 tab Menu1_3 selectedTab Menu1_5' href='javascript:__doPostBack('Menu1','0')'>Documents Sent To You />
+[32] (506,418)<a class='Menu1_1 tab Menu1_3' href='javascript:__doPostBack('Menu1','1')'>Documents Uploaded By You />
+[33] (630,418)<a class='Menu1_1 tab Menu1_3' href='javascript:__doPostBack('Menu1','2')'>Upload Document />
+[34] (738,418)<a class='Menu1_1 tab Menu1_3' href='javascript:__doPostBack('Menu1','3')'>Company Documents />
+Documents Sent To You (View Only)
+Please note that all invoices including supplier invoices are payable to Wincham International Ltd.
+Sort By Document Type:
+[35] (604,582)<select class='reqtxt' id='dtype_ddl' />
+File Name
+Subject
+Document Type
+Date
+Status
+[36] (229,654)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=237191&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[37] (229,654)<b >INT-237191.pdf - View />
+FISCAL REP SPAIN 2026
+Invoice for UK Ltd Company Fiscal Representative in Spain
+19/01/2026 10:26:35
+Active
+[38] (229,689)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=215864&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[39] (229,689)<b >INT-215864.pdf - View />
+FISCAL REP SPAIN 2025
+Invoice for UK Ltd Company Fiscal Representative in Spain
+04/04/2025 16:45:33
+Active
+[40] (229,723)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=214807&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[41] (229,723)<b >INT-214807.pdf - View />
+Companies House Online Filing Results Los Romeros Limited 31 08 2024
+Accounts - Filed at Companies House
+19/12/2024 15:48:07
+Active
+[42] (229,758)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=214806&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[43] (229,758)<b >INT-214806.pdf - View />
+HMRC online filing log Los Romeros Limited 31 08 2024
+Accounts - Corporation Tax filed with HMRC
+19/12/2024 15:47:39
+Active
+[44] (229,792)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=214805&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[45] (229,792)<b >INT-214805.pdf - View />
+Accounting Package Los Romeros Limited 31 08 2024
+Accounts - Company Accounts (Full) FINAL
+19/12/2024 15:44:11
+Active
+[46] (229,827)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=211577&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[47] (229,827)<b >INT-211577.pdf - View />
+Wincham Statement-1057
+Statement of Account
+21/05/2024 11:23:16
+Active
+[48] (229,862)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=210967&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[49] (229,862)<b >INT-210967.pdf - View />
+Wincham Statement-905
+Statement of Account
+15/04/2024 14:12:07
+Active
+[50] (229,896)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=210394&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[51] (229,896)<b >INT-210394.pdf - View />
+CT600 and Tax Computation for Los Romeros Limited 31 08 2023
+Accounts - Corporation Tax(CT600)
+14/03/2024 12:00:49
+Active
+[52] (229,931)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=210393&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[53] (229,931)<b >INT-210393.pdf - View />
+HMRC online filing log Los Romeros Limited 31 08 2023
+Accounts - Corporation Tax filed with HMRC
+14/03/2024 11:59:35
+Active
+[54] (229,965)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=210392&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB' />
+	[55] (229,965)<b >INT-210392.pdf - View />
+Companies House Online Filing Results Los Romeros Limited 31 08 2023
+Accounts - Filed at Companies House
+14/03/2024 11:58:05
+Active
+INT-210097.pdf - View
+Wincham Accountancy Invoice 3876
+Invoice for Company Sec & UK Reg Office Renewal
+01/03/2024 11:55:21
+Active
+
+</current_dom>

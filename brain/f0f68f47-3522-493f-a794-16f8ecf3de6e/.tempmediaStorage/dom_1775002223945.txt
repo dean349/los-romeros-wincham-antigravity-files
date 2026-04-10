@@ -1,0 +1,94 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to main content
+Accessibility help
+Accessibility feedback
+[0] (63,57)<a aria-label='Go to Google Home' href='https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjHvZTHrsuTAxVTRvEDHY6CI4UQPAgJ' id='logo' title='Go to Google Home' />
+[1] (292,57)<textarea aria-label='Search' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (477,57)<div  />
+	[3] (476,57)<div aria-label=' Clear' class='vOY7J M2vV3' role='button' />
+		[4] (476,57)<span  />
+	[5] (488,57)<span  />
+[6] (501,57)<div aria-label='Search by voice' class='XDyW0e' role='button' />
+[7] (522,57)<div aria-label='Search by image' class='nDcEnd' role='button' />
+[8] (546,57)<button aria-label='Search' class='HZVG1b Tg7LZd' />
+	[9] (542,57)<div  />
+		[10] (542,57)<span  />
+[11] (956,57)<a aria-label='Google apps' class='gb_B' href='https://www.google.com/intl/en/about/products?tab=wh' role='button' />
+[12] (979,57)<a aria-label='Google Account: Dean Harrison  
+(dean@onelifesm.com)' class='gb_B gb_0a' href='https://accounts.google.com/SignOutOptions?hl=en&continue=https://www.google.com/search%3Fq%3Dsite%253Aregister.fca.org.uk%2B%2522Wincham%2BInvestments%2BLimited%2522&ec=futura_srp_og_si_72236_p' role='button' />
+[13] (134,124)<a class='XVMlrc C6AK7c' href='/search?q=site:register.fca.org.uk+%22Wincham+Investments+Limited%22&sca_esv=63b726b38d73526b&sxsrf=ANbL-n5UeMg2LDn95-JBCqwEUev11ITvAQ:1775002221621&udm=50&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3oS--rGJkYYVqoCX1ykAQd2z25TGxKv4VQ6yurGdKt2ZI53rmlR_jnzoJ4HgwwAypsT6krml7ydPKqKRG3Yi8SgxNGcEY46R23bonNQ1ducAhzvPBnqfGW-RDo6186zVRTGsA5-vcW2bErKHNDk7Qs8nhah55N_jKViyOVqwptyn5LK6ng&aep=1&ntc=1&sa=X&ved=2ahUKEwjHvZTHrsuTAxVTRvEDHY6CI4UQ2J8OegQIERAE' />
+	[14] (134,124)<div  />
+		[15] (134,133)<div  />
+			[16] (134,127)<span >AI Mode />
+[17] (165,124)<a class='C6AK7c' role='link' />
+	All
+[18] (194,124)<a class='C6AK7c' href='/search?sca_esv=63b726b38d73526b&sxsrf=ANbL-n5UeMg2LDn95-JBCqwEUev11ITvAQ:1775002221621&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3oS--rGJkYYVqoCX1ykAQd2z25TGxKv4VQ6yurGdKt2ZI53rmlR_jnzoJ4HgwwAypsT6krml7ydPKqKRG3Yi8SgxNGcEY46R23bonNQ1ducAhzvPBnqfGW-RDo6186zVRTGsA5-vcW2bErKHNDk7Qs8nhah55N_jKViyOVqwptyn5LK6ng&q=site:register.fca.org.uk+%22Wincham+Investments+Limited%22&sa=X&ved=2ahUKEwjHvZTHrsuTAxVTRvEDHY6CI4UQtKgLegQIFhAB' />
+	[19] (194,124)<div  />
+		[20] (194,133)<span >Images />
+[21] (228,124)<a class='C6AK7c' href='https://maps.google.com/maps?sca_esv=63b726b38d73526b&output=search&q=site:register.fca.org.uk+%22Wincham+Investments+Limited%22&source=lnms&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3oS--rGJkYYVqoCX1ykAQd2z25TGxKv4VQ6yurGdKt2ZI53rmlR_jnzoJ4HgwwAypsT6krml7ydPKqKRG3Yi8SgxNGcEY46R23bonNQ1ducAhzvPBnqfGW-RDo6186zVRTGsA5-vcW2bErKHNDk7Qs8nhah55N_jKViyOVqwptyn5LK6ng&entry=mc&ved=1t:200715&ictx=111' />
+	[22] (228,124)<div  />
+		[23] (228,133)<span >Maps />
+[24] (263,124)<a class='C6AK7c' href='/search?sca_esv=63b726b38d73526b&sxsrf=ANbL-n5UeMg2LDn95-JBCqwEUev11ITvAQ:1775002221621&udm=18&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3oS--rGJkYYVqoCX1ykAQd2z25TGxKv4VQ6yurGdKt2ZI53rmlR_jnzoJ4HgwwAypsT6krml7ydPKqKRG3Yi8SgxNGcEY46R23bonNQ1ducAhzvPBnqfGW-RDo6186zVRTGsA5-vcW2bErKHNDk7Qs8nhah55N_jKViyOVqwptyn5LK6ng&q=site:register.fca.org.uk+%22Wincham+Investments+Limited%22&sa=X&ved=2ahUKEwjHvZTHrsuTAxVTRvEDHY6CI4UQs6gLegQIFBAB' />
+	[25] (263,124)<div  />
+		[26] (263,133)<span >Forums />
+[27] (297,124)<a class='C6AK7c' href='/search?sca_esv=63b726b38d73526b&sxsrf=ANbL-n5UeMg2LDn95-JBCqwEUev11ITvAQ:1775002221621&q=site:register.fca.org.uk+%22Wincham+Investments+Limited%22&tbm=nws&source=lnms&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3oS--rGJkYYVqoCX1ykAQd2z25TGxKv4VQ6yurGdKt2ZI53rmlR_jnzoJ4HgwwAypsT6krml7ydPKqKRG3Yi8SgxNGcEY46R23bonNQ1ducAhzvPBnqfGW-RDo6186zVRTGsA5-vcW2bErKHNDk7Qs8nhah55N_jKViyOVqwptyn5LK6ng&sa=X&ved=2ahUKEwjHvZTHrsuTAxVTRvEDHY6CI4UQ0pQJegQIFRAB' />
+	[28] (297,124)<div  />
+		[29] (297,133)<span >News />
+[30] (331,124)<a class='C6AK7c' href='/search?sca_esv=63b726b38d73526b&sxsrf=ANbL-n5UeMg2LDn95-JBCqwEUev11ITvAQ:1775002221621&udm=7&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3oS--rGJkYYVqoCX1ykAQd2z25TGxKv4VQ6yurGdKt2ZI53rmlR_jnzoJ4HgwwAypsT6krml7ydPKqKRG3Yi8SgxNGcEY46R23bonNQ1ducAhzvPBnqfGW-RDo6186zVRTGsA5-vcW2bErKHNDk7Qs8nhah55N_jKViyOVqwptyn5LK6ng&q=site:register.fca.org.uk+%22Wincham+Investments+Limited%22&sa=X&ved=2ahUKEwjHvZTHrsuTAxVTRvEDHY6CI4UQtKgLegQIExAB' />
+	[31] (331,124)<div  />
+		[32] (331,133)<span >Videos />
+[33] (368,124)<div class='mTpL7c' role='button' />
+	[34] (368,124)<div  />
+		[35] (368,133)<div  />
+			[36] (363,127)<span >More />
+			[37] (377,127)<span  />
+[38] (408,124)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[39] (408,124)<div  />
+		[40] (408,133)<div  />
+			[41] (403,127)<span >Tools />
+			[42] (417,127)<span  />
+Search Results
+Your search did not match any documents
+Need help?
+Check out
+[43] (250,233)<a class='AxFxRb' href='https://support.google.com/websearch/answer/134479?hl=en&sa=X&ved=2ahUKEwjHvZTHrsuTAxVTRvEDHY6CI4UQjfsDegQIDhAB'>other tips />
+for searching on Google.
+You can also try these searches:
+[44] (310,324)<a class='TjBpC' href='https://www.google.com/search?q=weather+tomorrow&sa=X&ved=2ahUKEwjHvZTHrsuTAxVTRvEDHY6CI4UQi_sDegQIDhAC&sxsrf=ANbL-n5UeMg2LDn95-JBCqwEUev11ITvAQ:1775002221621' />
+	[45] (172,324)<span  />
+	[46] (218,324)<div >weather tomorrow />
+[47] (310,386)<a class='TjBpC' href='https://www.google.com/search?q=spanish+to+english&sa=X&ved=2ahUKEwjHvZTHrsuTAxVTRvEDHY6CI4UQi_sDegQIDhAD&sxsrf=ANbL-n5UeMg2LDn95-JBCqwEUev11ITvAQ:1775002221621' />
+	[48] (172,386)<span  />
+	[49] (218,386)<div >spanish to english />
+[50] (310,448)<a class='TjBpC' href='https://www.google.com/search?q=time+in+tokyo&sa=X&ved=2ahUKEwjHvZTHrsuTAxVTRvEDHY6CI4UQi_sDegQIDhAE&sxsrf=ANbL-n5UeMg2LDn95-JBCqwEUev11ITvAQ:1775002221621' />
+	[51] (172,448)<span  />
+	[52] (209,448)<div >time in tokyo />
+[53] (310,510)<a class='TjBpC' href='https://www.google.com/search?q=hardware+store+near+me&sa=X&ved=2ahUKEwjHvZTHrsuTAxVTRvEDHY6CI4UQi_sDegQIDhAF&sxsrf=ANbL-n5UeMg2LDn95-JBCqwEUev11ITvAQ:1775002221621' />
+	[54] (172,510)<span  />
+	[55] (227,510)<div >hardware store near me />
+[56] (310,572)<a class='TjBpC' href='https://www.google.com/search?q=plane+tickets&sa=X&ved=2ahUKEwjHvZTHrsuTAxVTRvEDHY6CI4UQi_sDegQIDhAG&sxsrf=ANbL-n5UeMg2LDn95-JBCqwEUev11ITvAQ:1775002221621' />
+	[57] (172,572)<span  />
+	[58] (209,572)<div >plane tickets />
+[59] (310,634)<a class='TjBpC' href='https://www.google.com/search?q=breaking+news&sa=X&ved=2ahUKEwjHvZTHrsuTAxVTRvEDHY6CI4UQi_sDegQIDhAH&sxsrf=ANbL-n5UeMg2LDn95-JBCqwEUev11ITvAQ:1775002221621' />
+	[60] (172,634)<span  />
+	[61] (212,634)<div >breaking news />
+[62] (310,696)<a class='TjBpC' href='https://www.google.com/search?q=persian+cat&sa=X&ved=2ahUKEwjHvZTHrsuTAxVTRvEDHY6CI4UQi_sDegQIDhAI&sxsrf=ANbL-n5UeMg2LDn95-JBCqwEUev11ITvAQ:1775002221621' />
+	[63] (172,696)<span  />
+	[64] (206,696)<div >persian cat />
+[65] (310,758)<a class='TjBpC' href='https://www.google.com/search?q=air+fryer&sa=X&ved=2ahUKEwjHvZTHrsuTAxVTRvEDHY6CI4UQi_sDegQIDhAJ&sxsrf=ANbL-n5UeMg2LDn95-JBCqwEUev11ITvAQ:1775002221621' />
+	[66] (172,758)<span  />
+	[67] (201,758)<div >air fryer />
+[68] (310,820)<a class='TjBpC' href='https://www.google.com/search?q=anime+backgrounds&sa=X&ved=2ahUKEwjHvZTHrsuTAxVTRvEDHY6CI4UQi_sDegQIDhAK&sxsrf=ANbL-n5UeMg2LDn95-JBCqwEUev11ITvAQ:1775002221621' />
+	[69] (172,820)<span  />
+	[70] (220,820)<div >anime backgrounds />
+Footer Links
+Results are personalized
+-
+[71] (250,980)<a href='https://www.google.com/search?q=site:register.fca.org.uk+%22Wincham+Investments+Limited%22&peek_pws=0&sxsrf=ANbL-n5UeMg2LDn95-JBCqwEUev11ITvAQ:1775002221621' />
+	[72] (250,980)<span  />
+		[73] (250,980)<span >Try without personalization />
+
+</current_dom>

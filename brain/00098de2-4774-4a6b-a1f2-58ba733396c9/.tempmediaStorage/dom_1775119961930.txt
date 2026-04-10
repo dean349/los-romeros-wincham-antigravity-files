@@ -1,0 +1,26 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Internal Compliance Document — UK GDPR Article 6(1)(f)
+Three-part test documenting the lawful basis for assembly, storage, and disclosure of the Wincham Victim Database to regulated UK legal practitioners
+⚠ STRICTLY PRIVATE & CONFIDENTIAL — INTERNAL COMPLIANCE DOCUMENT — LIA-WINCHAM-001
+STRICTLY PRIVATE & CONFIDENTIAL — INTERNAL COMPLIANCE DOCUMENT
+Document Title
+Legitimate Interests Assessment — Wincham Victim Database
+Data Controller
+Dean Harrison (individual)
+Address
+[United States of America]
+Date Prepared
+April 2026
+Lawful Basis Relied Upon
+Article 6(1)(f) — Legitimate Interests, UK General Data Protection Regulation (as retained by s.3 of the Data Protection Act 2018)
+Review Date
+April 2027 (or earlier if circumstances change)
+Reference
+LIA-WINCHAM-001
+Purpose of this document:
+This Legitimate Interests Assessment has been prepared in accordance with the requirements of the UK General Data Protection Regulation (UK GDPR) and the Information Commissioner's Office (ICO) guidance on legitimate interests (published at ico.org.uk). It documents the three-part test applied before relying on Article 6(1)(f) as the lawful basis for assembling, holding, and disclosing the Wincham Victim Database (defined below) to regulated UK legal services providers.
+
+</current_dom>

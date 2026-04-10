@@ -1,0 +1,37 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Private limited company
+07112687 - Incorporated on 24 December 2009
+1-2 Albert Chambers Canal Street, Congleton, England CW12 4AA
+SIC codes - 70229
+[0] (416,246)<a aria-label='Page 1' class='govuk-link govuk-pagination__link' href='get-results?registeredOfficeAddress=CW12+4AA&incorporationFromDay=&incorporationFromMonth=&incorporationFromYear=&incorporationToDay=&incorporationToMonth=&incorporationToYear=&dissolvedFromDay=&dissolvedFromMonth=&dissolvedFromYear=&dissolvedToDay=&dissolvedToMonth=&dissolvedToYear=&page=1' id='page-1'>1 />
+[1] (446,246)<a aria-label='Page 2' class='govuk-link govuk-pagination__link' href='get-results?registeredOfficeAddress=CW12+4AA&incorporationFromDay=&incorporationFromMonth=&incorporationFromYear=&incorporationToDay=&incorporationToMonth=&incorporationToYear=&dissolvedFromDay=&dissolvedFromMonth=&dissolvedFromYear=&dissolvedToDay=&dissolvedToMonth=&dissolvedToYear=&page=2' id='page-2'>2 />
+[2] (476,246)<a aria-label='Page 3' class='govuk-link govuk-pagination__link' href='get-results?registeredOfficeAddress=CW12+4AA&incorporationFromDay=&incorporationFromMonth=&incorporationFromYear=&incorporationToDay=&incorporationToMonth=&incorporationToYear=&dissolvedFromDay=&dissolvedFromMonth=&dissolvedFromYear=&dissolvedToDay=&dissolvedToMonth=&dissolvedToYear=&page=3' id='page-3'>3 />
+[3] (505,246)<a aria-label='Page 4' class='govuk-link govuk-pagination__link' href='get-results?registeredOfficeAddress=CW12+4AA&incorporationFromDay=&incorporationFromMonth=&incorporationFromYear=&incorporationToDay=&incorporationToMonth=&incorporationToYear=&dissolvedFromDay=&dissolvedFromMonth=&dissolvedFromYear=&dissolvedToDay=&dissolvedToMonth=&dissolvedToYear=&page=4' id='page-4'>4 />
+[4] (535,246)<a aria-label='Page 5' class='govuk-link govuk-pagination__link' href='get-results?registeredOfficeAddress=CW12+4AA&incorporationFromDay=&incorporationFromMonth=&incorporationFromYear=&incorporationToDay=&incorporationToMonth=&incorporationToYear=&dissolvedFromDay=&dissolvedFromMonth=&dissolvedFromYear=&dissolvedToDay=&dissolvedToMonth=&dissolvedToYear=&page=5' id='page-5'>5 />
+[5] (565,246)<a aria-label='Page 6' class='govuk-link govuk-pagination__link' href='get-results?registeredOfficeAddress=CW12+4AA&incorporationFromDay=&incorporationFromMonth=&incorporationFromYear=&incorporationToDay=&incorporationToMonth=&incorporationToYear=&dissolvedFromDay=&dissolvedFromMonth=&dissolvedFromYear=&dissolvedToDay=&dissolvedToMonth=&dissolvedToYear=&page=6' id='page-6'>6 />
+[6] (594,246)<a aria-label='Page 7' class='govuk-link govuk-pagination__link' href='get-results?registeredOfficeAddress=CW12+4AA&incorporationFromDay=&incorporationFromMonth=&incorporationFromYear=&incorporationToDay=&incorporationToMonth=&incorporationToYear=&dissolvedFromDay=&dissolvedFromMonth=&dissolvedFromYear=&dissolvedToDay=&dissolvedToMonth=&dissolvedToYear=&page=7' id='page-7'>7 />
+[7] (624,246)<a aria-label='Page 8' class='govuk-link govuk-pagination__link' href='get-results?registeredOfficeAddress=CW12+4AA&incorporationFromDay=&incorporationFromMonth=&incorporationFromYear=&incorporationToDay=&incorporationToMonth=&incorporationToYear=&dissolvedFromDay=&dissolvedFromMonth=&dissolvedFromYear=&dissolvedToDay=&dissolvedToMonth=&dissolvedToYear=&page=8' id='page-8'>8 />
+[8] (654,246)<a aria-label='Page 9' class='govuk-link govuk-pagination__link' href='get-results?registeredOfficeAddress=CW12+4AA&incorporationFromDay=&incorporationFromMonth=&incorporationFromYear=&incorporationToDay=&incorporationToMonth=&incorporationToYear=&dissolvedFromDay=&dissolvedFromMonth=&dissolvedFromYear=&dissolvedToDay=&dissolvedToMonth=&dissolvedToYear=&page=9' id='page-9'>9 />
+[9] (684,246)<a aria-label='Page 10' class='govuk-link govuk-pagination__link' href='get-results?registeredOfficeAddress=CW12+4AA&incorporationFromDay=&incorporationFromMonth=&incorporationFromYear=&incorporationToDay=&incorporationToMonth=&incorporationToYear=&dissolvedFromDay=&dissolvedFromMonth=&dissolvedFromYear=&dissolvedToDay=&dissolvedToMonth=&dissolvedToYear=&page=10' id='page-10'>10 />
+[10] (734,246)<a class='govuk-link govuk-pagination__link' href='get-results?registeredOfficeAddress=CW12+4AA&incorporationFromDay=&incorporationFromMonth=&incorporationFromYear=&incorporationToDay=&incorporationToMonth=&incorporationToYear=&dissolvedFromDay=&dissolvedFromMonth=&dissolvedFromYear=&dissolvedToDay=&dissolvedToMonth=&dissolvedToYear=&page=2' id='next-page'>Next />
+	Next
+	page
+314 results
+[11] (752,351)<button class='govuk-button'>Download results />
+Results are downloaded as a CSV file. Only the first 5,000 results can be downloaded.
+[12] (264,550)<a class='govuk-link' href='https://www.smartsurvey.co.uk/s/getcompanyinformation/'>Tell us what you think of this service />
+[13] (729,551)<a class='secondary-customer-insights govuk-link' href='../help/feedback?sourceurl=advanced-search' id='feedback-link'>Is there anything wrong with this page? />
+Support links
+[14] (202,853)<a class='govuk-footer__link' href='https://www.gov.uk/guidance/search-the-companies-house-register'>Policies />
+[15] (250,853)<a class='govuk-footer__link' href='https://beta.companieshouse.gov.uk/help/cookies'>Cookies />
+[16] (305,853)<a class='govuk-footer__link' href='https://www.gov.uk/find-contact-details-companies-house'>Contact us />
+[17] (395,853)<a class='govuk-footer__link' href='/help/accessibility-statement'>Accessibility statement />
+[18] (486,853)<a class='govuk-footer__link' href='https://developer.companieshouse.gov.uk/api/docs/'>Developers />
+Built by
+[19] (262,912)<a class='govuk-footer__link' href='https://www.gov.uk/government/organisations/companies-house'>Companies House />
+[20] (774,829)<a class='govuk-footer__link govuk-footer__copyright-logo' href='https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/'>© Crown copyright />
+
+</current_dom>

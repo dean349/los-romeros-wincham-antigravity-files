@@ -1,0 +1,58 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (213,64)<a aria-label='Link to homepage' href='/' />
+	[1] (64,64)<img  />
+[2] (450,64)<button class='kpueytj kpueytg kpueyth' id='radix-:R8m6:-trigger-pca'>Personal />
+	[3] (481,62)<img  />
+[4] (550,64)<button class='kpueytk kpueytg kpueyth kpueyto' id='radix-:R8m6:-trigger-bca'>Business />
+	[5] (581,62)<img  />
+Business banking
+Apply for a free digital bank account, and join over 450,000 UK businesses
+[6] (61,820)<a class='_13nyf5s4 zp6bqe12k zp6bqe17o' href='/business-account/switch-business-account/'>Switch to Starling />
+[7] (61,880)<a class='_13nyf5s4 zp6bqe12k zp6bqe17o' href='/blog/'>Read Noteworthy />
+[8] (303,217)<a class='_13nyf5s4 _13nyf5sw' href='/business-account/'>Business account />
+	[9] (228,217)<img  />
+[10] (303,303)<a class='_13nyf5s4 _13nyf5sw' href='/sole-trader-bank-account/'>Sole trader account />
+	[11] (228,303)<img  />
+[12] (303,399)<a class='_13nyf5s4 _13nyf5sw' href='/business-account/multi-currency/'>Multi-currency accounts />
+	[13] (228,399)<img  />
+[14] (500,208)<p >Manage />
+[15] (500,257)<a class='_13nyf5s4 zp6bqe12k zp6bqe17o' href='/business/accounting/'>Starling Accounting />
+[16] (500,316)<a class='_13nyf5s4 zp6bqe12k zp6bqe17o' href='/features/spaces/'>Spaces />
+[17] (500,376)<a class='_13nyf5s4 zp6bqe12k zp6bqe17o' href='/features/create-and-send-invoices/'>Invoicing />
+[18] (500,435)<a class='_13nyf5s4 zp6bqe12k zp6bqe17o' href='/features/bills-manager/'>Bills Manager />
+[19] (500,494)<a class='_13nyf5s4 zp6bqe12k zp6bqe17o' href='/send-money-abroad/'>Send money abroad />
+[20] (697,208)<p >Borrow />
+[21] (697,257)<a class='_13nyf5s4 zp6bqe12k zp6bqe17o' href='/business-account/business-bounce-back-loan-scheme/#repay'>Repaying your bounce back loan />
+[22] (697,316)<a class='_13nyf5s4 zp6bqe12k zp6bqe17o' href='/business-account/business-bounce-back-loan-scheme/pay-as-you-grow-bounce-back-repayment-calculator/'>Pay as you grow />
+[23] (895,208)<p >Save />
+[24] (895,257)<a class='_13nyf5s4 zp6bqe12k zp6bqe17o' href='/business-account/business-fixed-rate-savings/'>Fixed Saver />
+[25] (500,593)<p >Tools />
+[26] (500,643)<a class='_13nyf5s4 zp6bqe12k zp6bqe17o' href='/business/making-tax-digital/'>Making Tax Digital />
+[27] (500,702)<a class='_13nyf5s4 zp6bqe12k zp6bqe17o' href='/business-account/marketplace-for-businesses/'>Business marketplace />
+[28] (500,761)<a class='_13nyf5s4 zp6bqe12k zp6bqe17o' href='/features/deposit-cheques-from-mobile/'>Mobile cheque deposits />
+[29] (500,820)<a class='_13nyf5s4 zp6bqe12k zp6bqe17o' href='/resources/business-guides/'>Browse free business guides />
+[30] (500,880)<a class='_13nyf5s4 zp6bqe12k zp6bqe17o' href='/online-banking/'>Online banking />
+[31] (697,593)<p >More />
+[32] (697,643)<a class='_13nyf5s4 zp6bqe12k zp6bqe17o' href='/business-account/eligibility/'>Business account eligibility />
+[33] (697,702)<a class='_13nyf5s4 zp6bqe12k zp6bqe17o' href='/business-account/compare-business-bank-accounts/'>Compare business accounts />
+[34] (697,761)<a class='_13nyf5s4 zp6bqe12k zp6bqe17o' href='/open-bank-account-online/'>Apply for an account />
+[35] (697,820)<a class='_13nyf5s4 zp6bqe12k zp6bqe17o' href='/legal/'>Fees, rates and charges />
+[36] (697,880)<a class='_13nyf5s4 zp6bqe12k zp6bqe17o' href='/features/'>Explore all features />
+[37] (755,64)<button class='kpueyti kpueytg kpueytr' id='radix-:R8m6:-trigger-about' />
+	[38] (755,64)<span >About />
+		[39] (777,64)<img  />
+[40] (810,64)<a class='kpueyti kpueytg kpueytr' href='/help/'>Help />
+[41] (859,64)<a class='kpueyti kpueytg kpueytr' href='https://app.starlingbank.com/'>Log in />
+[42] (938,64)<a class='_1izlnb40 _18is6z2p zp6bqe1o0 _18is6z214 _18is6z216 _18is6z2f zp6bqe1o4 _1izlnb45 _1izlnb4a btn-download-app zp6bqeng' href='/apply/?r=bca' id='download-nav-cta'>Apply now />
+The
+award-winning
+business bank account
+Business banking – but not as you know it. Apply for a digital business account with zero monthly fees and join a growing community of UK businesses who have changed the way they bank.
+Apply now
+[43] (957,929)<a aria-label='Go to the help page' class='_1izlnb40 _18is6z2p zp6bqe1o0 _18is6z214 _18is6z216 _18is6z2f zp6bqe1o4 _1izlnb41 _1izlnb4a _1shgxu20' href='/help/' id='help-button' />
+	[44] (957,929)<span >Help />
+
+</current_dom>

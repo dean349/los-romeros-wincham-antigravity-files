@@ -1,0 +1,126 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+[0] (17,35)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,35)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (69,35)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/dean349' />
+	[3] (69,35)<span >dean349 />
+[4] (192,35)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/dean349/Wincham-claim-overview-HARRISON-EXPERT-ADVISORS' />
+	[5] (192,35)<span >Wincham-claim-overview-HARRISON-EXPERT-ADVISORS />
+[6] (766,35)<button aria-label='Search or jump to…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[7] (766,35)<span  />
+		[8] (773,35)<span >Type
+to search />
+			Type
+			/
+			to search
+[9] (828,35)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[10] (842,35)<button aria-label='Open Copilot…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_54jpb_' />
+[11] (874,35)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[12] (870,35)<span  />
+[13] (900,35)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[14] (921,35)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[15] (942,35)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[16] (963,35)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[17] (983,35)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[18] (983,35)<img  />
+Repository navigation
+[19] (27,83)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/Wincham-claim-overview-HARRISON-EXPERT-ADVISORS' />
+	[20] (17,83)<span  />
+	[21] (34,83)<span >Code />
+[22] (71,83)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/Wincham-claim-overview-HARRISON-EXPERT-ADVISORS/issues' />
+	[23] (59,83)<span  />
+	[24] (77,83)<span >Issues />
+[25] (127,83)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/Wincham-claim-overview-HARRISON-EXPERT-ADVISORS/pulls' />
+	[26] (104,83)<span  />
+	[27] (133,83)<span >Pull requests />
+[28] (185,83)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/Wincham-claim-overview-HARRISON-EXPERT-ADVISORS/actions' />
+	[29] (171,83)<span  />
+	[30] (191,83)<span >Actions />
+[31] (236,83)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/Wincham-claim-overview-HARRISON-EXPERT-ADVISORS/projects' />
+	[32] (220,83)<span  />
+	[33] (242,83)<span >Projects />
+[34] (281,83)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/Wincham-claim-overview-HARRISON-EXPERT-ADVISORS/wiki' />
+	[35] (272,83)<span  />
+	[36] (287,83)<span >Wiki />
+[37] (346,83)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/Wincham-claim-overview-HARRISON-EXPERT-ADVISORS/security' />
+	[38] (311,83)<span  />
+	[39] (352,83)<span >Security and quality />
+[40] (417,83)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/Wincham-claim-overview-HARRISON-EXPERT-ADVISORS/pulse' />
+	[41] (402,83)<span  />
+	[42] (423,83)<span >Insights />
+[43] (468,83)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/Wincham-claim-overview-HARRISON-EXPERT-ADVISORS/settings' />
+	[44] (453,83)<span  />
+	[45] (474,83)<span >Settings />
+Settings: dean349/Wincham-claim-overview-HARRISON-EXPERT-ADVISORS
+[46] (260,153)<a class='ActionListContent ActionListContent--visual16' href='/dean349/Wincham-claim-overview-HARRISON-EXPERT-ADVISORS/settings' id='item-7ae8126c-1f9b-4294-b4c4-7d1fd2781ade' />
+	[47] (267,153)<span >General />
+Access
+[48] (260,240)<a class='ActionListContent ActionListContent--visual16' href='/dean349/Wincham-claim-overview-HARRISON-EXPERT-ADVISORS/settings/access' id='item-c7da50d4-5f6b-4711-89f8-cd8ac9e0e4a4' />
+	[49] (267,240)<span >Collaborators />
+[50] (260,276)<button class='ActionListContent ActionListContent--visual16' id='item-13483cd8-cc7f-4652-8451-886240e0dad6' />
+	[51] (260,276)<span >Moderation options />
+Code and automation
+[52] (260,364)<a class='ActionListContent ActionListContent--visual16' href='/dean349/Wincham-claim-overview-HARRISON-EXPERT-ADVISORS/settings/branches' id='item-5a60d57f-a0b8-41f2-8fc2-b91cc5b8c3fa' />
+	[53] (267,364)<span >Branches />
+[54] (260,400)<a class='ActionListContent ActionListContent--visual16' href='/dean349/Wincham-claim-overview-HARRISON-EXPERT-ADVISORS/settings/tag_protection' id='item-21bc4b21-d6c3-45ac-bfb2-8659f175f8d7' />
+	[55] (267,400)<span >Tags />
+[56] (260,436)<button class='ActionListContent ActionListContent--visual16' id='repo_rules' />
+	[57] (260,436)<span >Rules />
+[58] (260,472)<button class='ActionListContent ActionListContent--visual16' id='item-c9549c0a-ea89-490b-85a7-e44d15fe2735' />
+	[59] (260,472)<span >Actions />
+[60] (260,508)<a class='ActionListContent ActionListContent--visual16' href='/dean349/Wincham-claim-overview-HARRISON-EXPERT-ADVISORS/settings/models/access-policy' id='item-e8040f9e-337a-441f-b585-8da312a93e1c' />
+	[61] (250,508)<span >Models />
+	Preview
+[62] (260,544)<a class='ActionListContent ActionListContent--visual16' href='/dean349/Wincham-claim-overview-HARRISON-EXPERT-ADVISORS/settings/hooks' id='item-ad589fc9-1702-4b71-93c9-81b2a2ffdb12' />
+	[63] (267,544)<span >Webhooks />
+[64] (260,579)<button class='ActionListContent ActionListContent--visual16' id='item-7980294f-fdba-4c7b-9331-aa2e3a29504d' />
+	[65] (260,579)<span >Copilot />
+[66] (260,615)<a class='ActionListContent ActionListContent--visual16' href='/dean349/Wincham-claim-overview-HARRISON-EXPERT-ADVISORS/settings/environments' id='item-279f3ca1-af8f-4b6a-bbb3-332b38b35d8b' />
+	[67] (267,615)<span >Environments />
+[68] (260,651)<a class='ActionListContent ActionListContent--visual16' href='/dean349/Wincham-claim-overview-HARRISON-EXPERT-ADVISORS/settings/codespaces' id='item-ab1fea1a-f4e6-47c5-be33-848856dcd318' />
+	[69] (267,651)<span >Codespaces />
+[70] (260,687)<a class='ActionListContent ActionListContent--visual16' href='/dean349/Wincham-claim-overview-HARRISON-EXPERT-ADVISORS/settings/pages' id='item-e4f535aa-c13b-4210-b287-2c209ef59689' />
+	[71] (267,687)<span >Pages />
+Security and quality
+[72] (260,775)<a class='ActionListContent ActionListContent--visual16' href='/dean349/Wincham-claim-overview-HARRISON-EXPERT-ADVISORS/settings/security_analysis' id='item-9796d80b-b63d-4c03-8eeb-d73c6b3352aa' />
+	[73] (267,775)<span >Advanced Security />
+[74] (260,811)<a class='ActionListContent ActionListContent--visual16' href='/dean349/Wincham-claim-overview-HARRISON-EXPERT-ADVISORS/settings/keys' id='item-800b6f68-c75d-44d1-a0a8-460ebdaa114f' />
+	[75] (267,811)<span >Deploy keys />
+[76] (260,847)<button class='ActionListContent ActionListContent--visual16' id='item-c977bed5-e018-4d76-bba6-6d2b3e02c250' />
+	[77] (260,847)<span >Secrets and variables />
+Integrations
+[78] (260,934)<a class='ActionListContent ActionListContent--visual16' href='/dean349/Wincham-claim-overview-HARRISON-EXPERT-ADVISORS/settings/installations' id='item-667fc852-e79b-4a43-b175-46ecaa830a2d' />
+	[79] (267,934)<span >GitHub Apps />
+[80] (260,970)<a class='ActionListContent ActionListContent--visual16' href='/dean349/Wincham-claim-overview-HARRISON-EXPERT-ADVISORS/settings/notifications' id='item-80ba94ba-c5b8-45c5-9fb1-5bc53c34a348' />
+	[81] (267,970)<span >Email notifications />
+GitHub Pages
+[82] (372,213)<a class='Link--inTextBlock' href='https://pages.github.com'>GitHub Pages />
+is designed to host your personal, organization, or project pages from a GitHub repository.
+Build and deployment
+[83] (361,297)<label id='pages-source-label'>Source />
+[84] (397,330)<button class='Button--secondary Button--medium Button' id='action-menu-8afe0f0c-cfe1-4ad4-a04b-8381d420c9ff-button' />
+	[85] (393,330)<span  />
+		[86] (393,330)<span  />
+			[87] (393,330)<span >Deploy from a branch />
+Branch
+GitHub Pages is currently disabled.
+          Select a source below to enable GitHub Pages for this repository.
+[88] (540,410)<a class='Link--inTextBlock' href='https://docs.github.com/articles/configuring-a-publishing-source-for-github-pages/'>Learn more about configuring the publishing source for your site />
+.
+[89] (370,461)<button class='Button--secondary Button--medium Button text-bold' id='pages_select_branch-button' />
+	[90] (366,461)<span  />
+		[91] (366,461)<span  />
+			[92] (366,461)<span >None />
+[93] (413,461)<button class='btn ml-1 tmp-ml-1'>Save />
+Visibility
+GitHub Enterprise
+With a GitHub Enterprise account, you can restrict access to your GitHub Pages site by publishing it privately. You can use privately published sites to share your internal documentation or knowledge base with members of your enterprise. You can try GitHub Enterprise risk-free for 30 days.
+[94] (578,599)<a class='Link Link--underline' href='https://docs.github.com/pages/getting-started-with-github-pages/changing-the-visibility-of-your-github-pages-site'>Learn more about the visibility of your GitHub Pages site. />
+[95] (391,639)<a class='Button--secondary Button--medium Button' href='/account/enterprises/new' />
+	[96] (391,639)<span  />
+		[97] (391,639)<span >Start free for 30 days />
+
+</current_dom>

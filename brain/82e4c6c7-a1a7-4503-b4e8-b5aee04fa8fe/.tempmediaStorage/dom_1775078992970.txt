@@ -1,0 +1,198 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (19,30)<button aria-label='Guide' class='style-scope yt-icon-button' id='button' />
+	[1] (19,30)<yt-icon  />
+[2] (61,30)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube Home' />
+	[3] (61,30)<div  />
+		[4] (61,30)<ytd-logo  />
+			[5] (61,30)<yt-icon  />
+[6] (470,30)<div  />
+	[7] (467,30)<form  />
+		[8] (467,30)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='Search' role='combobox' />
+	[9] (601,30)<div  />
+		[10] (601,30)<button aria-label='Clear search query' class='ytSearchboxComponentClearButton' />
+			[11] (601,30)<yt-touch-feedback-shape  />
+				[12] (601,30)<div  />
+[13] (626,30)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='Search' />
+	[14] (626,30)<span  />
+[15] (662,30)<button aria-label='Search with your voice' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[16] (662,30)<yt-touch-feedback-shape  />
+		[17] (662,30)<div  />
+[18] (244,90)<button class='ytChipShapeButtonReset' role='tab' />
+	[19] (244,90)<div >All />
+		All
+		[20] (244,90)<yt-touch-feedback-shape  />
+			[21] (244,90)<div  />
+[22] (275,90)<button class='ytChipShapeButtonReset' role='tab' />
+	[23] (275,90)<div >Shorts />
+		Shorts
+		[24] (275,90)<yt-touch-feedback-shape  />
+			[25] (275,90)<div  />
+[26] (314,90)<button class='ytChipShapeButtonReset' role='tab' />
+	[27] (314,90)<div >Videos />
+		Videos
+		[28] (314,90)<yt-touch-feedback-shape  />
+			[29] (314,90)<div  />
+[30] (360,90)<button class='ytChipShapeButtonReset' role='tab' />
+	[31] (360,90)<div >Unwatched />
+		Unwatched
+		[32] (360,90)<yt-touch-feedback-shape  />
+			[33] (360,90)<div  />
+[34] (409,90)<button class='ytChipShapeButtonReset' role='tab' />
+	[35] (409,90)<div >Watched />
+		Watched
+		[36] (409,90)<yt-touch-feedback-shape  />
+			[37] (409,90)<div  />
+[38] (470,90)<button class='ytChipShapeButtonReset' role='tab' />
+	[39] (470,90)<div >Recently uploaded />
+		Recently uploaded
+		[40] (470,90)<yt-touch-feedback-shape  />
+			[41] (470,90)<div  />
+[42] (524,90)<button class='ytChipShapeButtonReset' role='tab' />
+	[43] (524,90)<div >Live />
+		Live
+		[44] (524,90)<yt-touch-feedback-shape  />
+			[45] (524,90)<div  />
+[46] (859,91)<button aria-label='Search filters' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-trailing yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	Filters
+	[47] (859,91)<yt-touch-feedback-shape  />
+		[48] (859,91)<div  />
+[49] (363,275)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=CrEe3UDV1QI&pp=ygUdR0NGR2xvYmFsIEdtYWlsIHNlYXJjaCBlbWFpbHM%3D' id='thumbnail' />
+	[50] (363,423)<yt-image  />
+		[51] (363,275)<img  />
+	[52] (478,408)<ytd-thumbnail-overlay-time-status-renderer  />
+		[53] (479,408)<div  />
+			[54] (479,408)<badge-shape aria-label='11 minutes, 14 seconds' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[55] (479,408)<div >11:14 />
+[56] (693,234)<div  />
+	[57] (693,146)<div  />
+		[58] (693,136)<div  />
+			[59] (622,136)<h3  />
+				[60] (622,136)<a aria-label='How to use Gmail Search Operators (Find Emails Fast) 🔍 11 minutes, 14 seconds' class='yt-simple-endpoint style-scope ytd-video-renderer' href='/watch?v=CrEe3UDV1QI&pp=ygUdR0NGR2xvYmFsIEdtYWlsIHNlYXJjaCBlbWFpbHM%3D' id='video-title' title='How to use Gmail Search Operators (Find Emails Fast) 🔍' />
+					[61] (622,136)<yt-formatted-string >How to use Gmail Search Operators (Find Emails Fast) 🔍 />
+		[62] (693,160)<ytd-video-meta-block  />
+			[63] (693,160)<div  />
+				[64] (535,160)<div  />
+					[65] (516,160)<span >66K views />
+					[66] (549,160)<span >4 years ago />
+	[67] (693,197)<div  />
+		[68] (510,197)<a aria-label='Go to channel Simpletivity' class='style-scope ytd-video-renderer' href='/@Simpletivity' id='channel-thumbnail' />
+			[69] (508,196)<yt-img-shadow  />
+				[70] (508,196)<img  />
+		[71] (539,197)<ytd-channel-name  />
+			[72] (535,197)<div  />
+				[73] (535,197)<div  />
+					[74] (535,197)<yt-formatted-string  />
+						[75] (535,197)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@Simpletivity'>Simpletivity />
+			[76] (555,197)<ytd-badge-supported-renderer  />
+				[77] (555,197)<div  />
+					[78] (556,197)<badge-shape aria-label='Verified' class='yt-badge-shape yt-badge-shape--default yt-badge-shape--no-text yt-badge-shape--modern yt-badge-shape--typography' role='img' />
+						[79] (556,197)<div  />
+	[80] (693,235)<div  />
+		[81] (680,235)<yt-formatted-string  />
+			[82] (550,235)<span >Need to find a specific message in />
+			[83] (607,235)<span >Gmail />
+			[84] (654,235)<span >but can't seem to locate it? />
+			[85] (711,235)<span >Gmail search />
+			[86] (781,235)<span >operators allow you to use advanced />
+			[87] (843,235)<span >search />
+			[88] (856,235)<span >... />
+	[89] (693,263)<ytd-badge-supported-renderer  />
+		[90] (508,263)<div  />
+			[91] (508,263)<badge-shape aria-label='Closed captions' class='yt-badge-shape yt-badge-shape--default yt-badge-shape--typography' role='img' />
+				[92] (508,263)<div >CC />
+	[93] (693,314)<div  />
+		[94] (693,314)<ytd-expandable-metadata-renderer  />
+			[95] (693,314)<div  />
+				[96] (683,314)<div  />
+					[97] (520,314)<div  />
+						[98] (520,314)<yt-img-shadow  />
+							[99] (520,314)<img  />
+					[100] (554,314)<div  />
+						[101] (554,314)<yt-formatted-string  />
+							[102] (541,314)<span >9 />
+							[103] (556,314)<span >chapters />
+					[104] (717,314)<div class='style-scope ytd-expandable-metadata-renderer' id='collapsed-title' role='button'>Why search operators are better than advanced search | Search From a specific email address | Search After or Before a specific date | Using OR as a search operator | Using AND as a search operator | Search for a particular Label | Search for a specific Filename | Search Anywhere including Spam and Trash | Search for CC or BCC />
+						Why search operators are better than advanced search | Search From a specific email address | Search After or Before a specific date | Using OR as a search operator | Using AND as a search operator | Search for a particular Label | Search for a specific Filename | Search Anywhere including Spam and Trash | Search for CC or BCC
+				[105] (872,314)<div  />
+					[106] (872,314)<div  />
+						[107] (872,314)<ytd-button-renderer  />
+							[108] (872,314)<yt-button-shape  />
+								[109] (872,314)<button aria-label='More' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+									[110] (872,314)<yt-touch-feedback-shape  />
+										[111] (872,314)<div  />
+[112] (363,597)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=O_i2aUcBRLk&pp=ygUdR0NGR2xvYmFsIEdtYWlsIHNlYXJjaCBlbWFpbHM%3D' id='thumbnail' />
+	[113] (363,746)<yt-image  />
+		[114] (363,597)<img  />
+[115] (693,557)<div  />
+	[116] (693,468)<div  />
+		[117] (693,459)<div  />
+			[118] (559,459)<h3  />
+				[119] (559,459)<a aria-label='Gmail Search Basic Tutorial 5 minutes, 3 seconds' class='yt-simple-endpoint style-scope ytd-video-renderer' href='/watch?v=O_i2aUcBRLk&pp=ygUdR0NGR2xvYmFsIEdtYWlsIHNlYXJjaCBlbWFpbHM%3D' id='video-title' title='Gmail Search Basic Tutorial' />
+					[120] (559,459)<yt-formatted-string >Gmail Search Basic Tutorial />
+		[121] (693,483)<ytd-video-meta-block  />
+			[122] (693,483)<div  />
+				[123] (536,483)<div  />
+					[124] (517,483)<span >4.6K views />
+					[125] (551,483)<span >3 years ago />
+	[126] (693,520)<div  />
+		[127] (510,520)<a aria-label='Go to channel itGenius 🤓 Biz Tech Experts' class='style-scope ytd-video-renderer' href='/@itGenius_' id='channel-thumbnail' />
+			[128] (508,519)<yt-img-shadow  />
+				[129] (508,519)<img  />
+		[130] (559,520)<ytd-channel-name  />
+			[131] (559,520)<div  />
+				[132] (559,520)<div  />
+					[133] (559,520)<yt-formatted-string  />
+						[134] (559,520)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@itGenius_'>itGenius 🤓 Biz Tech Experts />
+	[135] (693,558)<div  />
+		[136] (668,558)<yt-formatted-string  />
+			[137] (579,558)<span >GET STARTED: https://www.itgenius.com/O_i2aUcBRLk />
+			[138] (676,558)<span >Gmail Search />
+			[139] (765,558)<span >Basic Tutorial Need Help With Google Workspace? />
+	[140] (693,586)<ytd-badge-supported-renderer  />
+		[141] (508,586)<div  />
+			[142] (508,586)<badge-shape aria-label='Closed captions' class='yt-badge-shape yt-badge-shape--default yt-badge-shape--typography' role='img' />
+				[143] (508,586)<div >CC />
+	[144] (693,637)<div  />
+		[145] (693,637)<ytd-expandable-metadata-renderer  />
+			[146] (693,637)<div  />
+				[147] (642,637)<div  />
+					[148] (520,637)<div  />
+						[149] (520,637)<yt-img-shadow  />
+							[150] (520,637)<img  />
+					[151] (554,637)<div  />
+						[152] (554,637)<yt-formatted-string  />
+							[153] (541,637)<span >6 />
+							[154] (556,637)<span >chapters />
+					[155] (676,637)<div class='style-scope ytd-expandable-metadata-renderer' id='collapsed-title' role='button' />
+						[156] (676,637)<yt-formatted-string >Intro | Peoples emails | Keywords | Advanced Search | Spreadsheets | Outro />
+				[157] (872,637)<div  />
+					[158] (872,637)<div  />
+						[159] (872,637)<ytd-button-renderer  />
+							[160] (872,637)<yt-button-shape  />
+								[161] (872,637)<button aria-label='More' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+									[162] (872,637)<yt-touch-feedback-shape  />
+										[163] (872,637)<div  />
+[164] (693,808)<feed-ad-metadata-view-model  />
+	[165] (693,808)<div  />
+		[166] (687,781)<span  />
+			[167] (587,781)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' />
+				[168] (587,781)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' href='https://www.googleadservices.com/pagead/aclk?sa=L&ai=Cr8ZoNY7Naf-xI42gzscP9Puq-QvAxvjThQGHpZnq0RSwkB8QAiAAYMn2t4fco5QRggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAb6uwPkDqAMEyAMKqgS3Ak_QKphPw5aEiOGAISrhugH3Ubum6uljJ0GzsqVHxFkPPTKDGa12NDRSLyRDNYkVt7vrdSgCqNMSbHZ3fnhcm_B-H7Gl-5t02-KFu6lLnPdu515dV_M9oDpx6wLEbGVkzOkou0TUCdOQ8ekggPNZhrvt2rx_IA3-GL8lJsBb8dlXr33vveghl-FNTTGhxrZjfmIGdUeDAqqpynTgv-1yKM-TBmTOnf3tpLdeZ-GYxO8lrbOXHUabaUX8WjzM7MeOgcbARnr2kgJjumg5uQsRuCVSJ1pC1qJSrxOza3Co4zrLj18tlBo683VS-ntGcwOR5IDl-cfTSkwnN92YWjhtrFf48Un7ECz3z67J5fyKJW1kck-CbbQWMQ3dr3XKKcHrb8OGfBeawKxFbk54zaOeGxSnm9K0RHOiiAXToJrTJZIFBwgTeODc_g6gBm6AB6yS8w2IBwGQBwKoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB-a8sQKoB8q6sQKoB_2ysQKoB_e4sQKoB_i4sQKoB8jPsQKoB8nPsQKoB63gsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5rhsQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHq8UbqAe3obECqAfVqbECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbEC0gg2CIDRgEAQAhhaMgiDgoSOgICACDoRitiAgICABIDAgICAgICAAipI2aDSNVAUWMCCxLnMzZMDmgkpaHR0cHM6Ly9oZWxsby5mdWxsc2FpbC5lZHUvYXJ0X2Rlc2lnbl80YXKxCbOg9To2rM7oyAkAyAmKApgLAboLXwgDEAUYBCAIKAEwHEABSABQAVhOYABoAHABiAEAmAEBogErCh0IASgB2rgEFTITOhEKDygwSOWFhaHoCpgZAbggAYABAdABAagCBcACAtgBAYACAYgCBboDBXZpY2Jm0AsS0gwCEAHaDCYKCxCQmdLB2JH59pgBEgIBAxoNGNOgmtMlIP2ntryhBUABSgIQH5oNARKqDQJVU8gNAdIN9AFodHRwczovL2hlbGxvLmZ1bGxzYWlsLmVkdS9hcnRfZGVzaWduXzRhcj9tbmNpZD0xMjIyNCZtbmNrZXl3b3JkPUFydCUyMHwlMjBQcm9zcCUyMHwlMjAxMjIyNCUyMHwlMjBEaXNjb3ZlcnklMjBBZCZ1dG1fbWVkaXVtPVBGVCZ1dG1fc291cmNlPUdETiUyMERpc2NvdmVyeSZzdGVwPWlucHV0Jm1jaGFtbWVyPTEmYWZmaWxpYXRlY29kZT03NjkzNjEzODEwMzUmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTEwMTA2NjA1NjUxuBP___________8BiBQEsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBqRe0BfD86c-jc7oXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=CjwKCAjwhLPOBhBiEiwA8_wJHGISMXPk962nvoXdwJAp-iCOuoGAAghvuBIbJj9g7W06YynxvewZExoCt9AQAvD_BwE&num=2&cid=CAESvAHg9pvnC5OmkSSc80qF60NcsGIJCN_gVX12N9y03w4P9Uk2tQoVCpE-nRTQqNJj7vYpISpgh1f4C3eIfLEzDLYsRsgdvJQPbY-LTKjtcPbm3_7VgWVOX72ca_G79HHoHGsqlDVWD47ITjL0zZWFyOg5F62vx6yleokNAFp2zPPvSAkacUA1B4RPEAk-B1TTk1SyAL7zecQ9h_jSaEnFdmNbnn4Qz_SGKO6DGv1V2yDgmdtllnqkwVe14Xz24A&sig=AOD64_3NV2J33HK71xw7Hp5IhbctlcHkLQ&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D'>True Artists See Beyond Color and Shape />
+		[169] (687,810)<span  />
+			[170] (623,810)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' />
+				[171] (623,810)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' href='https://www.googleadservices.com/pagead/aclk?sa=L&ai=Cr8ZoNY7Naf-xI42gzscP9Puq-QvAxvjThQGHpZnq0RSwkB8QAiAAYMn2t4fco5QRggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAb6uwPkDqAMEyAMKqgS3Ak_QKphPw5aEiOGAISrhugH3Ubum6uljJ0GzsqVHxFkPPTKDGa12NDRSLyRDNYkVt7vrdSgCqNMSbHZ3fnhcm_B-H7Gl-5t02-KFu6lLnPdu515dV_M9oDpx6wLEbGVkzOkou0TUCdOQ8ekggPNZhrvt2rx_IA3-GL8lJsBb8dlXr33vveghl-FNTTGhxrZjfmIGdUeDAqqpynTgv-1yKM-TBmTOnf3tpLdeZ-GYxO8lrbOXHUabaUX8WjzM7MeOgcbARnr2kgJjumg5uQsRuCVSJ1pC1qJSrxOza3Co4zrLj18tlBo683VS-ntGcwOR5IDl-cfTSkwnN92YWjhtrFf48Un7ECz3z67J5fyKJW1kck-CbbQWMQ3dr3XKKcHrb8OGfBeawKxFbk54zaOeGxSnm9K0RHOiiAXToJrTJZIFBwgTeODc_g6gBm6AB6yS8w2IBwGQBwKoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB-a8sQKoB8q6sQKoB_2ysQKoB_e4sQKoB_i4sQKoB8jPsQKoB8nPsQKoB63gsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5rhsQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHq8UbqAe3obECqAfVqbECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbEC0gg2CIDRgEAQAhhaMgiDgoSOgICACDoRitiAgICABIDAgICAgICAAipI2aDSNVAUWMCCxLnMzZMDmgkpaHR0cHM6Ly9oZWxsby5mdWxsc2FpbC5lZHUvYXJ0X2Rlc2lnbl80YXKxCbOg9To2rM7oyAkAyAmKApgLAboLXwgDEAUYBCAIKAEwHEABSABQAVhOYABoAHABiAEAmAEBogErCh0IASgB2rgEFTITOhEKDygwSOWFhaHoCpgZAbggAYABAdABAagCBcACAtgBAYACAYgCBboDBXZpY2Jm0AsS0gwCEAHaDCYKCxCQmdLB2JH59pgBEgIBAxoNGNOgmtMlIP2ntryhBUABSgIQH5oNARKqDQJVU8gNAdIN9AFodHRwczovL2hlbGxvLmZ1bGxzYWlsLmVkdS9hcnRfZGVzaWduXzRhcj9tbmNpZD0xMjIyNCZtbmNrZXl3b3JkPUFydCUyMHwlMjBQcm9zcCUyMHwlMjAxMjIyNCUyMHwlMjBEaXNjb3ZlcnklMjBBZCZ1dG1fbWVkaXVtPVBGVCZ1dG1fc291cmNlPUdETiUyMERpc2NvdmVyeSZzdGVwPWlucHV0Jm1jaGFtbWVyPTEmYWZmaWxpYXRlY29kZT03NjkzNjEzODEwMzUmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTEwMTA2NjA1NjUxuBP___________8BiBQEsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBqRe0BfD86c-jc7oXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=CjwKCAjwhLPOBhBiEiwA8_wJHGISMXPk962nvoXdwJAp-iCOuoGAAghvuBIbJj9g7W06YynxvewZExoCt9AQAvD_BwE&num=2&cid=CAESvAHg9pvnC5OmkSSc80qF60NcsGIJCN_gVX12N9y03w4P9Uk2tQoVCpE-nRTQqNJj7vYpISpgh1f4C3eIfLEzDLYsRsgdvJQPbY-LTKjtcPbm3_7VgWVOX72ca_G79HHoHGsqlDVWD47ITjL0zZWFyOg5F62vx6yleokNAFp2zPPvSAkacUA1B4RPEAk-B1TTk1SyAL7zecQ9h_jSaEnFdmNbnn4Qz_SGKO6DGv1V2yDgmdtllnqkwVe14Xz24A&sig=AOD64_3NV2J33HK71xw7Hp5IhbctlcHkLQ&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D'>Discover where your passion for art can take you with a degree from Full Sail University. />
+		[172] (687,834)<div  />
+			[173] (520,838)<ad-badge-view-model  />
+				[174] (520,838)<badge-shape  />
+					[175] (517,838)<div >Sponsored />
+			[176] (563,838)<ad-details-line-view-model  />
+				[177] (563,838)<span class='yt-core-attributed-string ytwAdDetailsLineViewModelHostTextStyleStandard yt-core-attributed-string--white-space-pre-wrap' role='text'>Full Sail University />
+	[178] (880,780)<div  />
+		[179] (880,780)<button-view-model  />
+			[180] (880,780)<button aria-label='My Ad Center' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+				[181] (880,780)<yt-touch-feedback-shape  />
+					[182] (880,780)<div  />
+
+</current_dom>

@@ -1,0 +1,30 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Information for firms trading in the Middle East: Department for Business and Trade have highlighted the
+[0] (780,45)<a href='https://www.icaew.com/insights/viewpoints-on-the-news/2026/mar-2026/support-for-uk-firms-trading-in-middle-east'>support available for exporters />
+[1] (59,145)<a href='https://www.icaew.com/' title='Home' />
+[2] (238,145)<a class='dropdown-trigger' href='https://www.icaew.com/membership' id='oy2f1g-dd-anchor' title='Membership'>Membership />
+[3] (314,145)<a class='dropdown-trigger' href='https://www.icaew.com/learning-and-development' id='8y5iya-dd-anchor' title='Learn'>Learn />
+[4] (378,145)<a class='dropdown-trigger' href='https://www.icaew.com/icaew-careers' id='vg28pk-dd-anchor' title='Careers'>Careers />
+[5] (453,145)<a class='dropdown-trigger' href='https://www.icaew.com/students' id='2nj5mn-dd-anchor' title='Students'>Students />
+[6] (536,145)<a class='dropdown-trigger' href='https://www.icaew.com/technical' id='ah9m36-dd-anchor' title='Resources'>Resources />
+[7] (629,145)<a class='dropdown-trigger' href='https://www.icaew.com/groups-and-networks' id='j3jvnt-dd-anchor' title='Communities'>Communities />
+[8] (716,145)<a class='dropdown-trigger' href='https://www.icaew.com/insights' id='ikjetz-dd-anchor' title='Insights'>Insights />
+[9] (798,145)<a class='dropdown-trigger' href='https://www.icaew.com/regulation' id='4wl60j-dd-anchor' title='Regulation'>Regulation />
+[10] (930,145)<a class='dropdown-trigger' href='#' id='oud0t7-dd-anchor' />
+	[11] (930,145)<span  />
+[12] (977,145)<a class='dropdown-trigger' href='#search' id='s17hq7-dd-anchor' />
+	[13] (977,145)<span  />
+Search
+[14] (461,548)<input id='site-search' placeholder='Enter your search term' />
+[15] (865,548)<a class='c-button button button--primary' href='#'>Search />
+Filters
+[16] (207,945)<a class='accordion-title' href='#' id='kfxw6c-label'>Content type />
+[17] (207,998)<fieldset  />
+	No content types available
+No results found for 'Malcolm Roach'
+No results found.
+
+</current_dom>

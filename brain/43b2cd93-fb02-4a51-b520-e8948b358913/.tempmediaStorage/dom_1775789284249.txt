@@ -1,0 +1,85 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to main content
+Accessibility help
+Accessibility feedback
+[0] (63,57)<a aria-label='Go to Google Home' href='https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwitsbrLouKTAxXfNt4AHTSnM2UQPAgJ' id='logo' title='Go to Google Home' />
+[1] (292,57)<textarea aria-label='Search' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (477,57)<div  />
+	[3] (476,57)<div aria-label=' Clear' class='vOY7J M2vV3' role='button' />
+		[4] (476,57)<span  />
+	[5] (488,57)<span  />
+[6] (501,57)<div aria-label='Search by voice' class='XDyW0e' role='button' />
+[7] (522,57)<div aria-label='Search by image' class='nDcEnd' role='button' />
+[8] (546,57)<button aria-label='Search' class='HZVG1b Tg7LZd' />
+	[9] (542,57)<div  />
+		[10] (542,57)<span  />
+[11] (901,57)<div aria-label='Settings' class='fLciMb' id='og-te' role='button' />
+[12] (925,57)<a aria-label='Google apps' class='gb_B' href='https://www.google.com/intl/en/about/products?tab=wh' role='button' />
+[13] (960,57)<a aria-label='Sign in' class='gb_A' href='https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3DWincham%2BGroup%2Binvestigation%2BGitHub%2BPages%2BUK%2BLanzarote%26sei%3D4mTYae20I5_ep84P4urMkQ0&ec=futura_srp_og_si_72236_p' />
+	[14] (960,55)<span >Sign in />
+[15] (124,124)<a class='C6AK7c' role='link' />
+	All
+[16] (153,124)<a class='C6AK7c' href='/search?sca_esv=ac692c75a76bde75&udm=18&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFZYo9qIX3pM4_jubAu4b8NBd9PCsYkuy4_4AgqEfrYV7CWVSYTQWSxUGM6QRAqRTxmc32cAM9Uu0o3rp-KJtctVp7FhlJorNrKJr0ALDTOn7-DdXBL8Sh6kGOhq8AMHr5cScnECRmqpQelXwTmSIQoDnzTD1OBABgnoGxUUeTPNfe_3PseKgrfNQjLdbry7tiDfQQA&q=Wincham+Group+investigation+GitHub+Pages+UK+Lanzarote&sa=X&ved=2ahUKEwitsbrLouKTAxXfNt4AHTSnM2UQs6gLegQIFBAB' />
+	[17] (153,124)<div  />
+		[18] (153,133)<span >Forums />
+[19] (190,124)<a class='C6AK7c' href='/search?sca_esv=ac692c75a76bde75&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFZYo9qIX3pM4_jubAu4b8NBd9PCsYkuy4_4AgqEfrYV7CWVSYTQWSxUGM6QRAqRTxmc32cAM9Uu0o3rp-KJtctVp7FhlJorNrKJr0ALDTOn7-DdXBL8Sh6kGOhq8AMHr5cScnECRmqpQelXwTmSIQoDnzTD1OBABgnoGxUUeTPNfe_3PseKgrfNQjLdbry7tiDfQQA&q=Wincham+Group+investigation+GitHub+Pages+UK+Lanzarote&sa=X&ved=2ahUKEwitsbrLouKTAxXfNt4AHTSnM2UQtKgLegQIExAB' />
+	[20] (190,124)<div  />
+		[21] (190,133)<span >Images />
+[22] (229,124)<a class='C6AK7c' href='/search?sca_esv=ac692c75a76bde75&udm=28&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFZYo9qIX3pM4_jubAu4b8NBd9PCsYkuy4_4AgqEfrYV7CWVSYTQWSxUGM6QRAqRTxmc32cAM9Uu0o3rp-KJtctVp7FhlJorNrKJr0ALDTOn7-DdXBL8Sh6kGOhq8AMHr5cScnECRmqpQelXwTmSIQoDnzTD1OBABgnoGxUUeTPNfe_3PseKgrfNQjLdbry7tiDfQQA&q=Wincham+Group+investigation+GitHub+Pages+UK+Lanzarote&ved=1t:220175&ictx=111' />
+	[23] (229,124)<div  />
+		[24] (229,133)<span >Shopping />
+[25] (278,124)<a class='C6AK7c' href='/search?sca_esv=ac692c75a76bde75&udm=39&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFZYo9qIX3pM4_jubAu4b8NBd9PCsYkuy4_4AgqEfrYV7CWVSYTQWSxUGM6QRAqRTxmc32cAM9Uu0o3rp-KJtctVp7FhlJorNrKJr0ALDTOn7-DdXBL8Sh6kGOhq8AMHr5cScnECRmqpQelXwTmSIQoDnzTD1OBABgnoGxUUeTPNfe_3PseKgrfNQjLdbry7tiDfQQA&q=Wincham+Group+investigation+GitHub+Pages+UK+Lanzarote&sa=X&ved=2ahUKEwitsbrLouKTAxXfNt4AHTSnM2UQs6gLegQIFRAB' />
+	[26] (278,124)<div  />
+		[27] (278,133)<span >Short videos />
+[28] (321,124)<a class='C6AK7c' href='/search?sca_esv=ac692c75a76bde75&udm=7&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFZYo9qIX3pM4_jubAu4b8NBd9PCsYkuy4_4AgqEfrYV7CWVSYTQWSxUGM6QRAqRTxmc32cAM9Uu0o3rp-KJtctVp7FhlJorNrKJr0ALDTOn7-DdXBL8Sh6kGOhq8AMHr5cScnECRmqpQelXwTmSIQoDnzTD1OBABgnoGxUUeTPNfe_3PseKgrfNQjLdbry7tiDfQQA&q=Wincham+Group+investigation+GitHub+Pages+UK+Lanzarote&sa=X&ved=2ahUKEwitsbrLouKTAxXfNt4AHTSnM2UQtKgLegQIFhAB' />
+	[29] (321,124)<div  />
+		[30] (321,133)<span >Videos />
+[31] (358,124)<div class='mTpL7c' role='button' />
+	[32] (358,124)<div  />
+		[33] (358,133)<div  />
+			[34] (353,127)<span >More />
+			[35] (366,127)<span  />
+Search Results
+Your search did not match any documents
+Need help?
+Check out
+[36] (253,233)<a class='AxFxRb' href='https://support.google.com/websearch/answer/134479?hl=en&sa=X&ved=2ahUKEwitsbrLouKTAxXfNt4AHTSnM2UQjfsDegQIBBAB'>other tips />
+for searching on Google.
+You can also try these searches:
+[37] (310,323)<a class='TjBpC' href='https://www.google.com/search?q=weather+tomorrow&sei=4mTYae20I5_ep84P4urMkQ0&sa=X&ved=2ahUKEwitsbrLouKTAxXfNt4AHTSnM2UQi_sDegQIBBAC' />
+	[38] (172,323)<span  />
+	[39] (218,323)<div >weather tomorrow />
+[40] (310,385)<a class='TjBpC' href='https://www.google.com/search?q=spanish+to+english&sei=4mTYae20I5_ep84P4urMkQ0&sa=X&ved=2ahUKEwitsbrLouKTAxXfNt4AHTSnM2UQi_sDegQIBBAD' />
+	[41] (172,385)<span  />
+	[42] (218,385)<div >spanish to english />
+[43] (310,447)<a class='TjBpC' href='https://www.google.com/search?q=time+in+tokyo&sei=4mTYae20I5_ep84P4urMkQ0&sa=X&ved=2ahUKEwitsbrLouKTAxXfNt4AHTSnM2UQi_sDegQIBBAE' />
+	[44] (172,447)<span  />
+	[45] (209,447)<div >time in tokyo />
+[46] (310,509)<a class='TjBpC' href='https://www.google.com/search?q=hardware+store+near+me&sei=4mTYae20I5_ep84P4urMkQ0&sa=X&ved=2ahUKEwitsbrLouKTAxXfNt4AHTSnM2UQi_sDegQIBBAF' />
+	[47] (172,509)<span  />
+	[48] (227,509)<div >hardware store near me />
+[49] (310,571)<a class='TjBpC' href='https://www.google.com/search?q=plane+tickets&sei=4mTYae20I5_ep84P4urMkQ0&sa=X&ved=2ahUKEwitsbrLouKTAxXfNt4AHTSnM2UQi_sDegQIBBAG' />
+	[50] (172,571)<span  />
+	[51] (209,571)<div >plane tickets />
+[52] (310,633)<a class='TjBpC' href='https://www.google.com/search?q=breaking+news&sei=4mTYae20I5_ep84P4urMkQ0&sa=X&ved=2ahUKEwitsbrLouKTAxXfNt4AHTSnM2UQi_sDegQIBBAH' />
+	[53] (172,633)<span  />
+	[54] (212,633)<div >breaking news />
+[55] (310,695)<a class='TjBpC' href='https://www.google.com/search?q=persian+cat&sei=4mTYae20I5_ep84P4urMkQ0&sa=X&ved=2ahUKEwitsbrLouKTAxXfNt4AHTSnM2UQi_sDegQIBBAI' />
+	[56] (172,695)<span  />
+	[57] (206,695)<div >persian cat />
+[58] (310,757)<a class='TjBpC' href='https://www.google.com/search?q=air+fryer&sei=4mTYae20I5_ep84P4urMkQ0&sa=X&ved=2ahUKEwitsbrLouKTAxXfNt4AHTSnM2UQi_sDegQIBBAJ' />
+	[59] (172,757)<span  />
+	[60] (201,757)<div >air fryer />
+[61] (310,819)<a class='TjBpC' href='https://www.google.com/search?q=anime+backgrounds&sei=4mTYae20I5_ep84P4urMkQ0&sa=X&ved=2ahUKEwitsbrLouKTAxXfNt4AHTSnM2UQi_sDegQIBBAK' />
+	[62] (172,819)<span  />
+	[63] (220,819)<div >anime backgrounds />
+Notices about Filtered Results
+In order to show you the most relevant results, we have omitted some entries very similar to the 0 already displayed.
+If you like, you can
+[64] (284,947)<a href='/search?q=Wincham+Group+investigation+GitHub+Pages+UK+Lanzarote&sca_esv=ac692c75a76bde75&filter=0'>repeat the search with the omitted results included />
+.
+
+</current_dom>

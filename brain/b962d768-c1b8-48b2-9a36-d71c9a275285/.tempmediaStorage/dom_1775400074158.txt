@@ -1,0 +1,43 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+We use cookies to track usage and preferences.
+[0] (589,25)<a class='cb-enable'>I Understand />
+[1] (667,25)<a class='cb-policy' href='http://www.winchampropertyshop.com/privacy_statement.asp'>Learn more />
++44(0)1260 299 700
+0034 965 830 991
+[2] (373,104)<a href='mailto:info@wincham.com'>info@wincham.com />
+[3] (451,93)<a class='youtube' href='https://www.youtube.com/channel/UCVmICs_pszqUgYYI6SjPHoA/videos' />
+[4] (484,93)<a class='facebook' href='https://www.facebook.com/WinchamInternationalLtd' />
+[5] (598,80)<div  />
+	[6] (550,80)<img  />
+	[7] (607,80)<span  />
+		[8] (607,80)<a class='VIpgJd-ZVi9od-xl07Ob-lTBxed' href='#' />
+			[9] (598,80)<span >Select Language />
+			[10] (636,82)<img  />
+			[11] (639,80)<span  />
+			[12] (641,82)<img  />
+			[13] (647,80)<span >▼ />
+[14] (121,213)<a href='index.asp' />
+	[15] (121,215)<img  />
+[16] (235,216)<a href='index.asp'>Home />
+[17] (305,216)<a class='current' href='aboutus.asp'>About Us />
+[18] (387,216)<a href='#'>For Sale />
+[19] (486,216)<a href='mtt.asp'>Meet The Team />
+[20] (585,216)<a href='contactus.asp'>Contact Us />
+[21] (744,217)<a class='button border item mfp-gallery' href='images/BarCode2.jpg'>Download APP />
+	[22] (703,215)<i  />
+[23] (871,217)<a class='button border' href='add-your-own-property.asp'>Sell Your Property />
+About Us
+The Wincham Property Shop
+[24] (843,404)<a href='index.asp'>Home />
+About Us
+The Wincham Property Shop is a value for money solution when buying or selling Spanish property.
+Our sophisticated, and practical property platform, makes it easy for you when you are either buying or selling Spanish Property and is where consumers turn to and engage with, when searching and researching property in Spain.
+Taking the best traditional marketing methods and combining them with the latest technology, Wincham ensure we maximise every marketing opportunity for our clients.
+Got any questions?
+If you have any questions, please feel free to ask.
+[25] (803,873)<a class='button fullwidth margin-top-20' href='contactus.asp'>Drop Us a Line />
+
+</current_dom>

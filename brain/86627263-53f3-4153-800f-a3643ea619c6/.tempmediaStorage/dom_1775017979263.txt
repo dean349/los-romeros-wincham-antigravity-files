@@ -1,0 +1,122 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+[0] (23,53)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (56,53)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (97,53)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/dean349' />
+	[3] (97,53)<span >dean349 />
+[4] (210,53)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/dean349/wincham-giambrone-precedent' />
+	[5] (210,53)<span >wincham-giambrone-precedent />
+[6] (672,53)<button aria-label='Search or jump to…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[7] (672,53)<span  />
+		[8] (680,53)<span >Type
+to search />
+			Type
+			/
+			to search
+[9] (758,53)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[10] (778,53)<button aria-label='Open Copilot…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_54jpb_' />
+[11] (824,53)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[12] (818,53)<span  />
+[13] (859,53)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[14] (889,53)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[15] (918,53)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[16] (947,53)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ styles-module__notificationIndicator__D_jL0 prc-Button-IconButton-fyge7' href='/notifications' />
+[17] (977,53)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[18] (977,53)<img  />
+Repository navigation
+[19] (38,125)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/wincham-giambrone-precedent' />
+	[20] (23,125)<span  />
+	[21] (47,125)<span >Code />
+[22] (99,125)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/wincham-giambrone-precedent/issues' />
+	[23] (83,125)<span  />
+	[24] (108,125)<span >Issues />
+[25] (178,125)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/wincham-giambrone-precedent/pulls' />
+	[26] (145,125)<span  />
+	[27] (187,125)<span >Pull requests />
+[28] (260,125)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/wincham-giambrone-precedent/actions' />
+	[29] (240,125)<span  />
+	[30] (269,125)<span >Actions />
+[31] (331,125)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/wincham-giambrone-precedent/projects' />
+	[32] (310,125)<span  />
+	[33] (340,125)<span >Projects />
+[34] (395,125)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/wincham-giambrone-precedent/wiki' />
+	[35] (382,125)<span  />
+	[36] (404,125)<span >Wiki />
+[37] (487,125)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/wincham-giambrone-precedent/security' />
+	[38] (438,125)<span  />
+	[39] (495,125)<span >Security and quality />
+[40] (586,125)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/wincham-giambrone-precedent/pulse' />
+	[41] (565,125)<span  />
+	[42] (595,125)<span >Insights />
+[43] (658,125)<a class='prc-components-UnderlineItem-7fP-n' href='/dean349/wincham-giambrone-precedent/settings' />
+	[44] (636,125)<span  />
+	[45] (667,125)<span >Settings />
+Settings: dean349/wincham-giambrone-precedent
+[46] (163,231)<a class='ActionListContent ActionListContent--visual16' href='/dean349/wincham-giambrone-precedent/settings' id='item-7fc42585-3cf2-4a03-8549-632b4e8971c1' />
+	[47] (172,231)<span >General />
+Access
+[48] (163,364)<a class='ActionListContent ActionListContent--visual16' href='/dean349/wincham-giambrone-precedent/settings/access' id='item-f8a56217-b437-41d1-81a2-dbd728ce381d' />
+	[49] (172,364)<span >Collaborators />
+[50] (163,418)<button class='ActionListContent ActionListContent--visual16' id='item-637aabe8-c700-4fcf-9922-b3243b87f2d3' />
+	[51] (163,418)<span >Moderation options />
+Code and automation
+[52] (163,551)<a class='ActionListContent ActionListContent--visual16' href='/dean349/wincham-giambrone-precedent/settings/branches' id='item-7cde2105-1065-4849-8335-43ad51b1c617' />
+	[53] (172,551)<span >Branches />
+[54] (163,605)<a class='ActionListContent ActionListContent--visual16' href='/dean349/wincham-giambrone-precedent/settings/tag_protection' id='item-ab8ea375-d515-4d26-a7cd-84c2a28c89c3' />
+	[55] (172,605)<span >Tags />
+[56] (163,660)<button class='ActionListContent ActionListContent--visual16' id='repo_rules' />
+	[57] (163,660)<span >Rules />
+[58] (163,714)<button class='ActionListContent ActionListContent--visual16' id='item-730c1140-f1cb-42cc-8aec-f428a0337ef4' />
+	[59] (163,714)<span >Actions />
+[60] (163,769)<a class='ActionListContent ActionListContent--visual16' href='/dean349/wincham-giambrone-precedent/settings/models/access-policy' id='item-e1882dc5-c678-4110-9732-7199a22e9feb' />
+	[61] (148,769)<span >Models />
+	Preview
+[62] (163,823)<a class='ActionListContent ActionListContent--visual16' href='/dean349/wincham-giambrone-precedent/settings/hooks' id='item-008b2465-0f78-470b-8942-782d80147885' />
+	[63] (172,823)<span >Webhooks />
+[64] (163,877)<button class='ActionListContent ActionListContent--visual16' id='item-156cd31c-07ab-4706-a92c-d001106398d3' />
+	[65] (163,877)<span >Copilot />
+[66] (163,932)<a class='ActionListContent ActionListContent--visual16' href='/dean349/wincham-giambrone-precedent/settings/environments' id='item-04f01ce7-0993-4bb0-8574-8d237b5005fc' />
+	[67] (172,932)<span >Environments />
+[68] (163,986)<a class='ActionListContent ActionListContent--visual16' href='/dean349/wincham-giambrone-precedent/settings/codespaces' id='item-5ba18574-9a0f-467c-b1c8-f597343747b1' />
+	[69] (172,986)<span >Codespaces />
+GitHub Pages
+[70] (320,322)<a class='Link--inTextBlock' href='https://pages.github.com'>GitHub Pages />
+is designed to host your personal, organization, or project pages from a GitHub repository.
+Build and deployment
+[71] (305,449)<label id='pages-source-label'>Source />
+[72] (355,499)<button class='Button--secondary Button--medium Button' id='action-menu-9ee9d86a-40b8-4265-a7e5-c8659777d3c7-button' />
+	[73] (349,499)<span  />
+		[74] (349,499)<span  />
+			[75] (349,499)<span >Deploy from a branch />
+Branch
+Your GitHub Pages site is currently being built from
+          the
+main
+branch.
+[76] (569,621)<a class='Link--inTextBlock' href='https://docs.github.com/articles/configuring-a-publishing-source-for-github-pages/'>Learn more about configuring the publishing source for your site />
+.
+[77] (325,699)<button class='Button--secondary Button--medium Button text-bold' id='pages_select_branch-button' />
+	[78] (319,699)<span  />
+		[79] (328,699)<span  />
+			[80] (328,699)<span >main />
+[81] (410,699)<button class='Button--secondary Button--medium Button text-bold' id='pages_select_dir-button' />
+	[82] (404,699)<span  />
+		[83] (413,699)<span  />
+			[84] (413,699)<span >/ (root) />
+Save
+Learn how to
+[85] (393,782)<a class='Link--inTextBlock' href='https://docs.github.com/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll'>add a Jekyll theme />
+to your site.
+Custom domain
+Custom domain
+Custom domains allow you to serve your site from a domain other than
+dean349.github.io
+.
+[86] (563,923)<a class='Link--inTextBlock' href='https://docs.github.com/pages/configuring-a-custom-domain-for-your-github-pages-site'>Learn more about configuring custom domains />
+.
+Save
+
+</current_dom>

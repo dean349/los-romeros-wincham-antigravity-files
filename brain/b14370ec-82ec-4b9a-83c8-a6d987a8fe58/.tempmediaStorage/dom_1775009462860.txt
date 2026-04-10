@@ -1,0 +1,82 @@
+Skip to main content
+Accessibility help
+Accessibility feedback
+[0] (131,86)<a aria-label='Go to Google Home' href='https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwiptYzBycuTAxXEVfEDHRQ0EdcQPAgJ' id='logo' title='Go to Google Home' />
+[1] (403,86)<textarea aria-label='Search' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (614,86)<div  />
+	[3] (612,86)<div aria-label=' Clear' class='vOY7J M2vV3' role='button' />
+		[4] (612,86)<span  />
+	[5] (630,86)<span  />
+[6] (648,86)<div aria-label='Search by voice' class='XDyW0e' role='button' />
+[7] (677,86)<div aria-label='Search by image' class='nDcEnd' role='button' />
+[8] (711,86)<button aria-label='Search' class='HZVG1b Tg7LZd' />
+	[9] (706,86)<div  />
+		[10] (706,86)<span  />
+[11] (939,86)<a aria-label='Google apps' class='gb_B' href='https://www.google.com/intl/en/about/products?tab=wh' role='button' />
+[12] (971,86)<a aria-label='Google Account: Dean Harrison  
+(dean@onelifesm.com)' class='gb_B gb_0a' href='https://accounts.google.com/SignOutOptions?hl=en&continue=https://www.google.com/search%3Fq%3Dsite%253Afind.icaew.com%2B%2522Wincham%2522&ec=futura_srp_og_si_72236_p' role='button' />
+[13] (117,188)<a class='XVMlrc C6AK7c' href='/search?q=site:find.icaew.com+%22Wincham%22&sca_esv=5c24bc5b4a069f32&sxsrf=ANbL-n7IrkNViJdnmFFfPg2FZGznfCh6AQ:1775009456664&udm=50&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3jljrY5CkLlk8Dq3IvwBz-S-fac5VpaUJQrvk4_-zpSlpwA8AVxh0KRzghNF-5DwK1TTQDmkkuNGtaYgDgB379e7vcGqtsDaGjSx2bmixBEAL8V8S-J-9orpNCF4S_kulUdR495OT3wZlaApE9eeUB-2CRL_7OlZBelIC4xpDmesxUV_Sw&aep=1&ntc=1&sa=X&ved=2ahUKEwiptYzBycuTAxXEVfEDHRQ0EdcQ2J8OegQIEBAE' />
+	[14] (117,188)<div  />
+		[15] (117,202)<div  />
+			[16] (117,193)<span >AI Mode />
+[17] (161,188)<a class='C6AK7c' role='link' />
+	All
+[18] (202,188)<a class='C6AK7c' href='/search?sca_esv=5c24bc5b4a069f32&sxsrf=ANbL-n7IrkNViJdnmFFfPg2FZGznfCh6AQ:1775009456664&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3jljrY5CkLlk8Dq3IvwBz-S-fac5VpaUJQrvk4_-zpSlpwA8AVxh0KRzghNF-5DwK1TTQDmkkuNGtaYgDgB379e7vcGqtsDaGjSx2bmixBEAL8V8S-J-9orpNCF4S_kulUdR495OT3wZlaApE9eeUB-2CRL_7OlZBelIC4xpDmesxUV_Sw&q=site:find.icaew.com+%22Wincham%22&sa=X&ved=2ahUKEwiptYzBycuTAxXEVfEDHRQ0EdcQtKgLegQIFRAB' />
+	[19] (202,188)<div  />
+		[20] (202,202)<span >Images />
+[21] (253,188)<a class='C6AK7c' href='/search?sca_esv=5c24bc5b4a069f32&sxsrf=ANbL-n7IrkNViJdnmFFfPg2FZGznfCh6AQ:1775009456664&udm=7&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3jljrY5CkLlk8Dq3IvwBz-S-fac5VpaUJQrvk4_-zpSlpwA8AVxh0KRzghNF-5DwK1TTQDmkkuNGtaYgDgB379e7vcGqtsDaGjSx2bmixBEAL8V8S-J-9orpNCF4S_kulUdR495OT3wZlaApE9eeUB-2CRL_7OlZBelIC4xpDmesxUV_Sw&q=site:find.icaew.com+%22Wincham%22&sa=X&ved=2ahUKEwiptYzBycuTAxXEVfEDHRQ0EdcQtKgLegQIFhAB' />
+	[22] (253,188)<div  />
+		[23] (253,202)<span >Videos />
+[24] (300,188)<a class='C6AK7c' href='https://maps.google.com/maps?sca_esv=5c24bc5b4a069f32&output=search&q=site:find.icaew.com+%22Wincham%22&source=lnms&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3jljrY5CkLlk8Dq3IvwBz-S-fac5VpaUJQrvk4_-zpSlpwA8AVxh0KRzghNF-5DwK1TTQDmkkuNGtaYgDgB379e7vcGqtsDaGjSx2bmixBEAL8V8S-J-9orpNCF4S_kulUdR495OT3wZlaApE9eeUB-2CRL_7OlZBelIC4xpDmesxUV_Sw&entry=mc&ved=1t:200715&ictx=111' />
+	[25] (300,188)<div  />
+		[26] (300,202)<span >Maps />
+[27] (353,188)<a class='C6AK7c' href='/search?sca_esv=5c24bc5b4a069f32&sxsrf=ANbL-n7IrkNViJdnmFFfPg2FZGznfCh6AQ:1775009456664&udm=28&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3jljrY5CkLlk8Dq3IvwBz-S-fac5VpaUJQrvk4_-zpSlpwA8AVxh0KRzghNF-5DwK1TTQDmkkuNGtaYgDgB379e7vcGqtsDaGjSx2bmixBEAL8V8S-J-9orpNCF4S_kulUdR495OT3wZlaApE9eeUB-2CRL_7OlZBelIC4xpDmesxUV_Sw&q=site:find.icaew.com+%22Wincham%22&ved=1t:220175&ictx=111' />
+	[28] (353,188)<div  />
+		[29] (353,202)<span >Shopping />
+[30] (407,188)<a class='C6AK7c' href='/search?sca_esv=5c24bc5b4a069f32&sxsrf=ANbL-n7IrkNViJdnmFFfPg2FZGznfCh6AQ:1775009456664&q=site:find.icaew.com+%22Wincham%22&tbm=nws&source=lnms&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3jljrY5CkLlk8Dq3IvwBz-S-fac5VpaUJQrvk4_-zpSlpwA8AVxh0KRzghNF-5DwK1TTQDmkkuNGtaYgDgB379e7vcGqtsDaGjSx2bmixBEAL8V8S-J-9orpNCF4S_kulUdR495OT3wZlaApE9eeUB-2CRL_7OlZBelIC4xpDmesxUV_Sw&sa=X&ved=2ahUKEwiptYzBycuTAxXEVfEDHRQ0EdcQ0pQJegQIEhAB' />
+	[31] (407,188)<div  />
+		[32] (407,202)<span >News />
+[33] (456,188)<div class='mTpL7c' role='button' />
+	[34] (456,188)<div  />
+		[35] (456,202)<div  />
+			[36] (450,193)<span >More />
+			[37] (469,193)<span  />
+[38] (512,188)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[39] (512,188)<div  />
+		[40] (512,202)<div  />
+			[41] (505,193)<span >Tools />
+			[42] (525,193)<span  />
+Search Results
+Web results
+[43] (103,367)<img  />
+[44] (280,335)<a class='zReHs' href='https://find.icaew.com/firms/congleton/adrem-accounting-ltd-bas/2nHMiQ' />
+	[45] (287,365)<h3 >Adrem Accounting Ltd - Find A Chartered Accountant />
+	[46] (219,308)<div  />
+		[47] (219,308)<div  />
+			[48] (108,308)<span  />
+				[49] (108,308)<div  />
+					[50] (108,308)<img  />
+			[51] (233,308)<div  />
+				[52] (233,293)<div  />
+					[53] (233,293)<span >ICAEW.com />
+				[54] (233,325)<div  />
+					[55] (233,325)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://find.icaew.com />
+						[56] (275,325)<span class='ylgVCe ob9lvb' role='text'>› firms › congleton › adrem-acc... />
+[57] (355,323)<div aria-label='About this result' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[58] (355,323)<span  />
+		[59] (355,325)<span  />
+leonard.jones@
+wincham
+.com. ICAEW Chartered Accountants. Leonard Edward Jones. ICAEW Chartered Accountant. Licensed Professionals. No licensed professionals ...
+[60] (473,451)<a class='vzmbzf' href='https://find.icaew.com/firms/congleton/adrem-accounting-ltd-bas/2nHMiQ#:~:text=leonard.jones%40wincham.com,No%20licensed%20professionals%20found.' />
+	[61] (473,451)<span >Read more />
+[62] (654,321)<div  />
+	[63] (633,321)<img  />
+	[64] (665,321)<span >Monica />
+[65] (812,321)<div >Log in to ask Monica />
+Footer Links
+Results are personalized
+-
+[66] (280,959)<a href='https://www.google.com/search?q=site:find.icaew.com+%22Wincham%22&peek_pws=0&sxsrf=ANbL-n7IrkNViJdnmFFfPg2FZGznfCh6AQ:1775009456664' />
+	[67] (280,959)<span  />
+		[68] (280,959)<span >Try without personalization />

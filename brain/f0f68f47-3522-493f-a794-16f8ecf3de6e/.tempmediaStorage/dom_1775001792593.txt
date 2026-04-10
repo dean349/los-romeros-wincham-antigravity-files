@@ -1,0 +1,130 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to main content
+Accessibility help
+Accessibility feedback
+[0] (63,57)<a aria-label='Go to Google Home' href='https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwj-h5fxrMuTAxWPR_EDHUH-JRAQPAgJ' id='logo' title='Go to Google Home' />
+[1] (292,57)<textarea aria-label='Search' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (477,57)<div  />
+	[3] (476,57)<div aria-label=' Clear' class='vOY7J M2vV3' role='button' />
+		[4] (476,57)<span  />
+	[5] (488,57)<span  />
+[6] (501,57)<div aria-label='Search by voice' class='XDyW0e' role='button' />
+[7] (522,57)<div aria-label='Search by image' class='nDcEnd' role='button' />
+[8] (546,57)<button aria-label='Search' class='HZVG1b Tg7LZd' />
+	[9] (542,57)<div  />
+		[10] (542,57)<span  />
+[11] (956,57)<a aria-label='Google apps' class='gb_B' href='https://www.google.com/intl/en/about/products?tab=wh' role='button' />
+[12] (979,57)<a aria-label='Google Account: Dean Harrison  
+(dean@onelifesm.com)' class='gb_B gb_0a' href='https://accounts.google.com/SignOutOptions?hl=en&continue=https://www.google.com/search%3Fq%3DFCA%2BRegister%2B615817%2BWincham&ec=futura_srp_og_si_72236_p' role='button' />
+[13] (133,124)<a class='XVMlrc C6AK7c' href='/search?q=FCA+Register+615817+Wincham&sca_esv=63b726b38d73526b&sxsrf=ANbL-n6fJcKedhL-ff4hTPqCQNCwgsOEGA:1775001772872&udm=50&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3u6MWRtAr31GIrXLfiKhJJ9zMfgfAzmC0EaStM63-fN2fJznjTITF3FGZoxrj5LOieUUMULhFrmNVa5nckeMXQACxtLgkOrOGbjmwswe8-d_pN58pKmMnNqSr7j1qKRn6L00bAl07x5UAgzZPBIkOBYKQtqYdHKYI1iFNqz3D88n43KdhA&aep=1&ntc=1&sa=X&ved=2ahUKEwj-h5fxrMuTAxWPR_EDHUH-JRAQ2J8OegQIDRAE' />
+	[14] (133,124)<div  />
+		[15] (133,133)<div  />
+			[16] (133,127)<span >AI Mode />
+[17] (164,124)<a class='C6AK7c' role='link' />
+	All
+[18] (192,124)<a class='C6AK7c' href='/search?sca_esv=63b726b38d73526b&sxsrf=ANbL-n6fJcKedhL-ff4hTPqCQNCwgsOEGA:1775001772872&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3u6MWRtAr31GIrXLfiKhJJ9zMfgfAzmC0EaStM63-fN2fJznjTITF3FGZoxrj5LOieUUMULhFrmNVa5nckeMXQACxtLgkOrOGbjmwswe8-d_pN58pKmMnNqSr7j1qKRn6L00bAl07x5UAgzZPBIkOBYKQtqYdHKYI1iFNqz3D88n43KdhA&q=FCA+Register+615817+Wincham&sa=X&ved=2ahUKEwj-h5fxrMuTAxWPR_EDHUH-JRAQtKgLegQIEhAB' />
+	[19] (192,124)<div  />
+		[20] (192,133)<span >Images />
+[21] (229,124)<a class='C6AK7c' href='/search?sca_esv=63b726b38d73526b&sxsrf=ANbL-n6fJcKedhL-ff4hTPqCQNCwgsOEGA:1775001772872&udm=18&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3u6MWRtAr31GIrXLfiKhJJ9zMfgfAzmC0EaStM63-fN2fJznjTITF3FGZoxrj5LOieUUMULhFrmNVa5nckeMXQACxtLgkOrOGbjmwswe8-d_pN58pKmMnNqSr7j1qKRn6L00bAl07x5UAgzZPBIkOBYKQtqYdHKYI1iFNqz3D88n43KdhA&q=FCA+Register+615817+Wincham&sa=X&ved=2ahUKEwj-h5fxrMuTAxWPR_EDHUH-JRAQs6gLegQIERAB' />
+	[22] (229,124)<div  />
+		[23] (229,133)<span >Forums />
+[24] (269,124)<a class='C6AK7c' href='/search?sca_esv=63b726b38d73526b&sxsrf=ANbL-n6fJcKedhL-ff4hTPqCQNCwgsOEGA:1775001772872&udm=28&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3u6MWRtAr31GIrXLfiKhJJ9zMfgfAzmC0EaStM63-fN2fJznjTITF3FGZoxrj5LOieUUMULhFrmNVa5nckeMXQACxtLgkOrOGbjmwswe8-d_pN58pKmMnNqSr7j1qKRn6L00bAl07x5UAgzZPBIkOBYKQtqYdHKYI1iFNqz3D88n43KdhA&q=FCA+Register+615817+Wincham&ved=1t:220175&ictx=111' />
+	[25] (269,124)<div  />
+		[26] (269,133)<span >Shopping />
+[27] (308,124)<a class='C6AK7c' href='/search?sca_esv=63b726b38d73526b&sxsrf=ANbL-n6fJcKedhL-ff4hTPqCQNCwgsOEGA:1775001772872&udm=7&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3u6MWRtAr31GIrXLfiKhJJ9zMfgfAzmC0EaStM63-fN2fJznjTITF3FGZoxrj5LOieUUMULhFrmNVa5nckeMXQACxtLgkOrOGbjmwswe8-d_pN58pKmMnNqSr7j1qKRn6L00bAl07x5UAgzZPBIkOBYKQtqYdHKYI1iFNqz3D88n43KdhA&q=FCA+Register+615817+Wincham&sa=X&ved=2ahUKEwj-h5fxrMuTAxWPR_EDHUH-JRAQtKgLegQIFBAB' />
+	[28] (308,124)<div  />
+		[29] (308,133)<span >Videos />
+[30] (352,124)<a class='C6AK7c' href='/search?sca_esv=63b726b38d73526b&sxsrf=ANbL-n6fJcKedhL-ff4hTPqCQNCwgsOEGA:1775001772872&udm=39&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3u6MWRtAr31GIrXLfiKhJJ9zMfgfAzmC0EaStM63-fN2fJznjTITF3FGZoxrj5LOieUUMULhFrmNVa5nckeMXQACxtLgkOrOGbjmwswe8-d_pN58pKmMnNqSr7j1qKRn6L00bAl07x5UAgzZPBIkOBYKQtqYdHKYI1iFNqz3D88n43KdhA&q=FCA+Register+615817+Wincham&sa=X&ved=2ahUKEwj-h5fxrMuTAxWPR_EDHUH-JRAQs6gLegQIExAB' />
+	[31] (352,124)<div  />
+		[32] (352,133)<span >Short videos />
+[33] (398,124)<div class='mTpL7c' role='button' />
+	[34] (398,124)<div  />
+		[35] (398,133)<div  />
+			[36] (393,127)<span >More />
+			[37] (406,127)<span  />
+[38] (436,124)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[39] (436,124)<div  />
+		[40] (436,133)<div  />
+			[41] (432,127)<span >Tools />
+			[42] (445,127)<span  />
+Search Results
+AI Overview
+[43] (688,200)<div aria-label='About this result' class='Mtffrd' role='button' />
+Belgrave Wincham Limited
+(often referred to as Wincham) has been associated with registration number
+615817
+.
+Financial Conduct Authority | FCA
+Key Details regarding this FCA registration:
+Status:
+The firm is listed as an
+Appointed Representative (AR)
+.
+Definition:
+As an AR, Belgrave Wincham Limited is not directly authorised by the FCA but carries out regulated business on behalf of a "principal firm" that is authorised and responsible for them.
+Context:
+Historically, this registration has been linked to websites such as "wincham.com" and "winchamiht.com".
+Verification:
+It is important to check the FCA Register directly for the most up-to-date information on their principal firm, specific permissions, and status, as AR status can change.
+Financial Conduct Authority | FCA
++1
+Disclaimer: The information provided is based on search results from April 2014 and the FCA register structure, which indicates this was an active registration at a certain point in time.
+[44] (581,296)<a aria-label='Belgrave Wincham Limited - FCA Register. Opens in new tab.' class='NDNGvf' href='https://register.fca.org.uk/s/firm?id=0010X00004bk1EJQAY#:~:text=This%20firm%20is%20an%20'Appointed,AR's%20principal(s)%20here.' />
+Belgrave Wincham Limited - FCA Register
+This firm is an 'Appointed Representative' (AR). This means it can carry out certain regulated business on behalf of a 'principal ...
+Financial Conduct Authority | FCA
+[45] (595,336)<div aria-label='About this result' class='xXnAhe' id='snui-atr-rmDMaZqaK_6J7NYPxKaXuQ0_12' role='button' />
+Spanish tax office closes inheritance tax avoidance schemes
+Apr 17, 2014 —
+... wincham.com” and “www.winchamiht.com” ... Wincham registered with the “Financial Conduct Authority (FCA) under registration nu...
+Olive Press News Spain
+[46] (406,553)<div aria-label='Show more AI Overview' class='Jzkafd' role='button' />
+	[47] (284,553)<div  />
+		[48] (284,553)<div >Show more />
+			Show more
+			[49] (305,553)<span  />
+Web results
+[50] (124,702)<img  />
+[51] (188,680)<a class='zReHs' href='https://www.fca.org.uk/firms/financial-services-register' />
+	[52] (193,701)<h3 >Financial Services Register />
+	[53] (185,663)<div  />
+		[54] (185,663)<div  />
+			[55] (127,663)<span  />
+				[56] (127,663)<div  />
+					[57] (127,663)<img  />
+			[58] (195,663)<div  />
+				[59] (195,653)<div  />
+					[60] (195,653)<span >Financial Conduct Authority | FCA />
+				[61] (195,674)<div  />
+					[62] (182,674)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://www.fca.org.uk />
+						[63] (212,674)<span class='ylgVCe ob9lvb' role='text'>› Firms />
+[64] (260,672)<div aria-label='About this result' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[65] (260,672)<span  />
+		[66] (260,674)<span  />
+Apr 27, 2016
+—
+The Financial Services
+Register
+is a public record of firms, individuals and other bodies that are PRA and/or
+FCA
+authorised.
+Missing:
+615817
+‎
+Wincham
+People also ask
+[67] (214,840)<div aria-label='About this result' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[68] (214,840)<span  />
+		[69] (214,841)<span  />
+[70] (290,893)<div class='dnXCYb' role='button' />
+	Can you check if a company is FCA registered?
+	[71] (290,893)<div  />
+[72] (290,951)<div class='dnXCYb' role='button' />
+	How do I find the FCA register online?
+	[73] (290,951)<div  />
+How do I check a financial advisor's credentials?
+
+</current_dom>

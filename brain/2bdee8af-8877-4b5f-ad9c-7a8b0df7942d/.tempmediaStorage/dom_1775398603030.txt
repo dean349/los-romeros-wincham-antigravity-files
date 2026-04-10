@@ -1,0 +1,147 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (628,26)<a href='Default.aspx'>Home />
+|
+[1] (687,26)<a href='#'>Services />
+|
+[2] (771,26)<a href='http://www.wincham.com/mtt.asp'>Meet the Team />
+|
+[3] (862,26)<a href='http://www.wincham.com/contactus.asp'>Contact Us />
+|
+[4] (947,26)<a href='http://www.winchamiht.com/winchamsupport/WRS.exe'>Live Support />
+Welcome! Philip and Beryl
+05/Apr/2026
+[5] (390,213)<a href='referral.aspx' />
+	[6] (390,148)<img  />
+	[7] (390,225)<font  />
+		[8] (390,225)<b >Refer a Friend />
+[9] (538,230)<a href='Default.aspx' />
+	[10] (538,182)<img  />
+	[11] (538,242)<b >Home />
+[12] (699,230)<a href='profile.aspx' />
+	[13] (699,182)<img  />
+	[14] (699,242)<b >Account Settings />
+[15] (860,230)<a href='../Logout.aspx?t=4' />
+	[16] (860,182)<img  />
+	[17] (860,242)<b >Logout />
+Your are here:
+[18] (137,302)<a href='default.aspx'>Home />
+/
+[19] (189,302)<a href='casedetail.aspx?cid=WI-13211'>WI-13211 />
+/
+[20] (254,302)<a href='clientcashbook.aspx?cid=WI-13211'>Cash Book />
+/ Cash Book
+[21] (694,318)<a href='clientcashbook.aspx?ccode=WI-13211&compid=376' id='goback_hl' />
+	[22] (694,308)<img  />
+[23] (770,308)<a href='clientcashbook.aspx?ccode=WI-13211&compid=376' id='gobacktxt_hl'>Go Back to Cash Book Listing />
+::       Cash Book Section     ::
+Account Summary
+Name
+Los Romeros Limited
+IBAN
+Cash Book Balance (Euro)
+€
+-70038.54
+Case No.
+WI-13211
+Bank Email
+Cash Book Balance (GBP)
+£
+Ex-Rate not available
+Bank Name
+Client Expenditure
+Bank Phone
+Bank Balance  [
+[24] (618,506)<a href='clientcasecashbook.aspx?cbkid=970&ccode=WI-13211&compid=376&iseurocb=1&updbank=1' id='banktot_hl'>Add / Update />
+]
+€ 0.00
+A/C Number
+Bank Fax
+Un Reconcile
+€ -70038.54
+Swift Code
+Bank Manager
+System Un Reconcile
+€ 0
+[25] (90,601)<a class='Menu1_1 tab Menu1_3' href='javascript:__doPostBack('Menu1','0')'>Cash Book />
+[26] (191,601)<a class='Menu1_1 tab Menu1_3 selectedTab Menu1_5' href='javascript:__doPostBack('Menu1','1')'>Previous Year Cash Book />
+[27] (279,601)<a class='Menu1_1 tab Menu1_3' href='javascript:__doPostBack('Menu1','2')'>Exit />
+Year
+Dates
+Total Balance
+Total Reconcile Balance
+Total Unreconcile
+Option1
+Year 6
+01/09/2017 - 31/08/2018
+€ -70038.54
+€ -70038.54
+---
+[28] (811,751)<a href='javascript:toggle('divtogg1','display1');' id='display1' />
+	[29] (811,751)<b >Hide Transactions />
+Reconcile
+Detail
+Amount_IN
+Amount_OUT
+Transaction_Detail
+Payment_Type
+PayRef
+Invoice_Number
+Transaction_Date
+System_Date
+Euro_Amount
+Ex_Rate
+Reconcile_Year
+User_ExRate
+Yes
+Telephone
+€ 0.00
+€ 53.02
+Telephone and Internet
+BACS
+NA
+11-Aug-2018
+05/04/2019
+£ 47.31
+1.1208
+Year 7
+Yes
+Electric
+€ 0.00
+€ 87.65
+Electric Bill
+BACS
+NA
+08-Aug-2018
+05/04/2019
+£ 78.20
+1.1208
+Year 7
+Yes
+Community Fees
+€ 0.00
+€ 58.77
+Community Fees
+BACS
+NA
+06-Aug-2018
+05/04/2019
+£ 52.44
+1.1208
+Year 7
+Yes
+Telephone
+€ 0.00
+€ 53.02
+Telephone and Internet
+BACS
+NA
+10-Jul-2018
+05/04/2019
+£ 46.59
+1.138
+Year 7
+
+</current_dom>

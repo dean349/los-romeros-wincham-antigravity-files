@@ -1,0 +1,29 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Accounts
+Next accounts made up to
+31 December 2025
+due by
+30 September 2026
+Last accounts made up to
+31 December 2024
+Confirmation statement
+Next statement date
+8 November 2026
+due by
+22 November 2026
+Last statement dated
+8 November 2025
+Nature of business (SIC)
+70229 - Management consultancy activities other than financial management
+[0] (264,720)<a class='govuk-link govuk-link--inverse' href='https://www.smartsurvey.co.uk/s/getcompanyinformation/'>Tell us what you think of this service
+(link opens a new window) />
+	(link opens a new window)
+[1] (729,720)<a class='govuk-link secondary-customer-insights govuk-link--inverse' href='/help/feedback?sourceurl=https://find-and-update.company-information.service.gov.uk/company/13091897' id='feedback-link'>Is there anything wrong with this page?
+(link opens a new window) />
+	(link opens a new window)
+[2] (774,1010)<a class='govuk-footer__link govuk-footer__copyright-logo underline' href='https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/' />
+
+</current_dom>

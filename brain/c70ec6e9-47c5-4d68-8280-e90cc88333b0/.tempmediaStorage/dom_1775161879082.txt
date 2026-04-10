@@ -1,0 +1,45 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+⚖️ Harrison Expert Advisors
+[0] (168,28)<a href='#claim'>The Claim />
+[1] (211,28)<a href='#advisers'>Advisers />
+[2] (252,28)<a href='#data'>Live Data />
+[3] (305,28)<a href='#glo'>GLO Programme />
+[4] (360,28)<a href='#team'>The Team />
+💱
+FX & Currency Risk Adviser
+Prohibits use of high-street banks (2–4% spread = £6,300–£12,600 lost on €315,000). Recommends FCA-regulated specialist FX brokers (Currencies Direct, Moneycorp, OFX — 0.3–0.6% spread). Models forward contracts to lock in exchange rates on the €9,450 AEAT retention refund — protecting value while AEAT takes up to 12 months to pay.
+EUR/GBP Strategy
+Forward Contracts
+Broker Selection
+FCA-Regulated
+🇪🇸 Spanish & Corporate Compliance
+🇪🇸
+Spanish Property Compliance Adviser
+Non-resident vendor specialist for the Canary Islands (Las Palmas / Lanzarote). Tracks the 3% buyer's retention (€9,450 withheld at Notary), the Modelo 210 non-resident CGT filing (due ~20 July 2026 via independent gestoria), Plusvalía Municipal tax, and the AEAT refund timeline. Produces a dated compliance checklist.
+Modelo 210/211
+Plusvalía
+AEAT Refund
+Canary Islands
+⚖️
+MVL Process Tracker (Insolvency Specialist)
+Guides the Members' Voluntary Liquidation — the HMRC-approved route to extract proceeds as a capital distribution (18–24% CGT) rather than a dividend (up to 39.35% income tax). Tracks IP appointment, Declaration of Solvency, HMRC clearance, creditor notices, and final distribution. Protects the £25,069 Director's Loan Account — repaid first, tax-free.
+MVL Stages
+IP Appointment
+HMRC Clearance
+Director's Loan
+🔌
+4 Live Data Connections
+Not working from memory or training data. Every legal citation, company filing, and statute is verified in real time against official government databases — the same sources a solicitor's clerk would check.
+🏢
+Companies House Live API
+📚
+UK Law MCP (Ansvar Systems)
+⚖️
+i.AI Lex — UK Government Legal Archive
+🌐
+Live Web & Research Tools
+
+</current_dom>

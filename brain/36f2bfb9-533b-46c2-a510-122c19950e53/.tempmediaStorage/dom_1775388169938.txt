@@ -1,0 +1,65 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (59,40)<a class='link-home style-scope primary-nav' href='https://archive.org/' title='Go home' />
+[1] (144,41)<a class='menu-item web  style-scope media-button' href='https://web.archive.org' title='Expand web menu' />
+	[2] (130,41)<span  />
+[3] (207,41)<a class='menu-item texts  style-scope media-button' href='https://archive.org/details/texts' title='Expand texts menu' />
+	[4] (188,41)<span  />
+	[5] (222,41)<span >Texts />
+[6] (274,41)<a class='menu-item video  style-scope media-button' href='https://archive.org/details/movies' title='Expand video menu' />
+	[7] (255,41)<span  />
+	[8] (288,41)<span >Video />
+[9] (340,41)<a class='menu-item audio  style-scope media-button' href='https://archive.org/details/audio' title='Expand audio menu' />
+	[10] (321,41)<span  />
+	[11] (355,41)<span >Audio />
+[12] (419,41)<a class='menu-item software  style-scope media-button' href='https://archive.org/details/software' title='Expand software menu' />
+	[13] (388,41)<span  />
+	[14] (433,41)<span >Software />
+[15] (500,41)<a class='menu-item images  style-scope media-button' href='https://archive.org/details/image' title='Expand images menu' />
+	[16] (478,41)<span  />
+	[17] (515,41)<span >Images />
+[18] (695,43)<button aria-label='Toggle login menu' class='logged-out-menu dropdown-toggle login-button' />
+[19] (734,43)<a class='style-scope login-button' href='https://archive.org/account/signup'>Sign up />
+|
+[20] (781,43)<a class='style-scope login-button' href='https://archive.org/account/login'>Log in />
+[21] (839,40)<a class='upload style-scope primary-nav' href='https://archive.org/upload' />
+	[22] (852,41)<span >Upload />
+Search the Archive
+[23] (947,41)<input class='search-field style-scope nav-search' id='query' placeholder='Search' />
+[24] (899,41)<button class='search style-scope nav-search' />
+[25] (253,109)<a class='about style-scope desktop-subnav' href='https://archive.org/about/'>About />
+[26] (305,109)<a class='blog style-scope desktop-subnav' href='https://blog.archive.org'>Blog />
+[27] (359,109)<a class='events style-scope desktop-subnav' href='https://archive.org/events'>Events />
+[28] (425,109)<a class='projects style-scope desktop-subnav' href='https://archive.org/projects/'>Projects />
+[29] (484,109)<a class='help style-scope desktop-subnav' href='https://archive.org/about/faqs.php'>Help />
+[30] (545,109)<a class='donate style-scope desktop-subnav' href='https://archive.org/donate?origin=iawww-TopNavDonateButton'>Donate />
+[31] (615,109)<a class='contact style-scope desktop-subnav' href='https://archive.org/about/contact'>Contact />
+[32] (672,109)<a class='jobs style-scope desktop-subnav' href='https://archive.org/about/jobs'>Jobs />
+[33] (735,109)<a class='volunteer style-scope desktop-subnav' href='https://archive.org/about/volunteer-positions'>Volunteer />
+[34] (990,165)<a class='social_button' href='#' title='Share on Facebook' />
+	[35] (988,163)<span  />
+[36] (990,206)<a class='social_button' href='#' title='Share on Twitter' />
+	[37] (988,204)<span  />
+[38] (500,739)<div  />
+	[39] (244,277)<a class='donation-button' href='//archive.org/donate/?origin=wbwww-CalndrDonateButton' />
+		[40] (246,277)<span >DONATE />
+	[41] (354,302)<a href='/' />
+		[42] (354,256)<div  />
+	Explore more than
+	1 trillion
+	[43] (584,246)<a href='https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/'>web pages />
+	saved over time
+	[44] (614,303)<input class='rbt-input-main form-control rbt-input' placeholder='Enter a URL or words related to a site’s home page' role='combobox' />
+	[45] (785,301)<button aria-label='Clear' class='close btn-close rbt-close'>Clear />
+		[46] (785,301)<span >× />
+		Clear
+	Calendar
+	[47] (395,416)<a href='/web/collections/20260000000000*/https://www.youtube.com/watch?v=FqSgK9Xid-k'>Collections />
+	[48] (477,416)<a href='/web/changes/https://www.youtube.com/watch?v=FqSgK9Xid-k'>Changes />
+	[49] (555,416)<a href='/details/https://www.youtube.com/watch?v=FqSgK9Xid-k'>Summary />
+	[50] (632,416)<a href='/web/sitemap/https://www.youtube.com/watch?v=FqSgK9Xid-k'>Site Map />
+	[51] (698,416)<a href='/web/*/https://www.youtube.com/watch?v=FqSgK9Xid-k*'>URLs />
+
+</current_dom>

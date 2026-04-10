@@ -1,0 +1,24 @@
+Information for firms trading in the Middle East: Department for Business and Trade have highlighted the
+[0] (780,45)<a href='https://www.icaew.com/insights/viewpoints-on-the-news/2026/mar-2026/support-for-uk-firms-trading-in-middle-east'>support available for exporters />
+[1] (59,145)<a href='https://www.icaew.com/' title='Home' />
+[2] (238,145)<a class='dropdown-trigger' href='https://www.icaew.com/membership' id='t04o22-dd-anchor' title='Membership'>Membership />
+[3] (314,145)<a class='dropdown-trigger' href='https://www.icaew.com/learning-and-development' id='8v5twx-dd-anchor' title='Learn'>Learn />
+[4] (378,145)<a class='dropdown-trigger' href='https://www.icaew.com/icaew-careers' id='vj7vl9-dd-anchor' title='Careers'>Careers />
+[5] (453,145)<a class='dropdown-trigger' href='https://www.icaew.com/students' id='pqlmr9-dd-anchor' title='Students'>Students />
+[6] (536,145)<a class='dropdown-trigger' href='https://www.icaew.com/technical' id='tmrd7q-dd-anchor' title='Resources'>Resources />
+[7] (629,145)<a class='dropdown-trigger' href='https://www.icaew.com/groups-and-networks' id='2b6m50-dd-anchor' title='Communities'>Communities />
+[8] (716,145)<a class='dropdown-trigger' href='https://www.icaew.com/insights' id='xm1t2x-dd-anchor' title='Insights'>Insights />
+[9] (798,145)<a class='dropdown-trigger' href='https://www.icaew.com/regulation' id='3dj38p-dd-anchor' title='Regulation'>Regulation />
+[10] (930,145)<a class='dropdown-trigger' href='#' id='cfy0nd-dd-anchor' />
+	[11] (930,145)<span  />
+[12] (977,145)<a class='dropdown-trigger' href='#search' id='su47ma-dd-anchor' />
+	[13] (977,145)<span  />
+Search
+[14] (461,548)<input id='site-search' placeholder='Enter your search term' />
+[15] (865,548)<a class='c-button button button--primary' href='#'>Search />
+Filters
+[16] (207,945)<a class='accordion-title' href='#' id='c9o1q3-label'>Content type />
+[17] (207,998)<fieldset  />
+	No content types available
+No results found for 'Wincham'
+No results found.

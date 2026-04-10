@@ -1,0 +1,55 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Spanish Wills will not protect you from Spanish IHT
+Title Deeds Insurance now included for ALL Wincham clients
+Budget 2013 Newsflash
+Increase in Transfer Tax on Resale Property Purchase’s
+Wincham Seminar proves a success at The Manchester Airport Marriott Hotel
+Wincham launches Marbella Office
+Wincham has success with "Tea on the Terrace"
+Spanish Energy Performance Certificates- your requirements explained
+Over 95% of these owners have spoken with one of our Spanish Tax Consultants and have received our free illustration and proposal demonstrating the potential Spanish Inheritance Taxes they or their Beneficiaries will face upon death. Within our proposal we supply details of the process and of owning a property in Spain in a UK Limited Company structure which help avoid Taxes in Spain.
+Many of our clients tell us that they have been advised by other professionals that Spanish taxation is likely to decrease in coming years and that Inheritance Tax should not be an issue.  However, this may not be the case, as the new Spanish Government try to bring financial stability to the Country.
+Capital Gains Tax (CGT)
+From January the 1st 2012 CGT for non-resident property owners in Spain will stand at 21% across the board. This follows a previous rise in 2010 from 18% to 19%. In 2007 the European Union put pressure on Spain to lower the CGT rate of 35% for non- residents (15% for residents) to 18% - deeming it to be an unfair penalty on non-residents. A subsequent rise of 1% in 2010 passed relatively unnoticed but it is now followed by a further 2% increase.
+Spanish Residents will also feel the sting with CGT figures rising to 21% up to 6000€, 25% between 6001€ and 24,000€ and 27% on higher figures.
+It is very important not to confuse CGT with Inheritance Tax as many people do. CGT is payable on profit made from the sale of assets. Inheritance Tax in Spain is paid by the Beneficiaries of a property on death of an owner.
+It should be further noted that UK Residents are obliged to submit a tax return in respect of CGT to HMRC. The current CGT rate in the UK is 28%. Relief against this tax can be claimed in respect of taxes paid in Spain as long as a suitable certificate from the Hacienda (Spanish Tax Office) has been received. The 3% retention retained by the buyer on sale cannot be claimed as relief from UK CGT.
+A further potential liability to a UK resident is the capital gain incurred in respect of the exchange rate gain made by the seller. This is calculated based on the exchange rate when the property was purchased against when the property was sold. This can create a CGT liability in the UK, even if the property was sold in Spain without a profit.
+Wealth Tax Reintroduced
+Enquiry Form
+[0] (777,147)<input class='txtinput placeholder' id='fname' placeholder='First Name' />
+*
+[1] (777,211)<input class='txtinput placeholder' id='lname' placeholder='Last Name' />
+*
+[2] (777,276)<input class='txtinput placeholder' id='email' placeholder='Email' />
+*
+[3] (777,340)<input class='txtinput placeholder' id='phone' placeholder='Contact Number' />
+*
+[4] (774,402)<select class='txtinput placeholder' id='srv_ddl' />
+[5] (777,465)<input class='txtinput placeholder' id='hear_txt' placeholder='How did you hear about us?' />
+*
+[6] (777,535)<textarea class='txtinput placeholder' id='enq' placeholder='Enquiry' />
+[7] (721,662)<button class='btn btn-1 boxh'>Submit />
+* = mandatory field
+[8] (720,823)<a class='normaltip' href='https://www.facebook.com/WinchamInternationalLtd' title='Facebook' />
+	[9] (720,781)<img  />
+[10] (770,823)<a class='normaltip' href='https://twitter.com/#!/Wincham_Int_Ltd' title='Twitter' />
+	[11] (770,781)<img  />
+[12] (820,823)<a class='normaltip' href='http://www.linkedin.com/company/wincham-international-ltd?goback=.nmp_*1_*1_*1_*1_*1_*1.npe_*1_en*4US_*1_*1_*1_*1' title='Linkedin' />
+	[13] (820,781)<img  />
+[14] (869,823)<a href='http://20131207154132/skype:mizra.khalid?call' />
+	[15] (869,781)<img  />
+The cookie settings on www.wincham.com are set to
+'allow all cookies'
+to give you the very best experience. If you continue without changing these settings you consent to this - but you can change your settings by clicking the
+Cookie Settings
+link at any time.
+[16] (820,765)<input id='EU_OPIN_AGREE' />
+[17] (915,765)<input id='EU_OPIN_CANCEL' />
+[18] (867,853)<input id='EU_OPIN_SETTINGS' />
+[19] (864,930)<a href='Privacy_Statement.asp'>Find out more about cookies />
+
+</current_dom>

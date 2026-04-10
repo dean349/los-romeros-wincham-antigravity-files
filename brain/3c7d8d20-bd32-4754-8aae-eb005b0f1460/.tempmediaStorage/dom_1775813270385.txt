@@ -1,0 +1,44 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+We use necessary cookies to make our site work. We'd like to set Google Analytics cookies to help us to improve our website by collecting and reporting information on how you use it. The cookies collect information in a way that does not directly identify anyone. We also occasionally use cookies to serve advertising to our site visitors, on social media and search engines. We won't set optional cookies unless you enable them. Using this tool will set a cookie on your device to remember your preferences.
+[0] (535,886)<a aria-label='Read more' class='cc-link' href='https://www.adremaccs.com/cookie-policy/'>Read more />
+[1] (607,941)<a aria-label='Functional only' class='cc-btn cc-dismiss cc-btn-no-href' href='#' role='button'>Functional only />
+[2] (846,941)<a aria-label='Accept cookies' class='cc-btn cc-save cc-allow cc-btn-no-href' href='#' role='button'>Accept cookies />
+[3] (289,302)<a href='/' />
+	[4] (289,167)<span  />
+		[5] (289,167)<img  />
+[6] (711,134)<div  />
+	[7] (711,115)<div  />
+		[8] (547,115)<div  />
+			[9] (547,115)<span  />
+				[10] (547,115)<span > />
+		[11] (646,115)<div  />
+			[12] (654,106)<h4  />
+				[13] (647,100)<span >Call Us Now />
+			[14] (654,126)<div  />
+				[15] (654,126)<p >03333 449 976 />
+[16] (711,232)<div  />
+	[17] (711,213)<div  />
+		[18] (547,213)<div  />
+			[19] (547,213)<span  />
+				[20] (547,213)<span > />
+		[21] (677,213)<div  />
+			[22] (685,204)<h4  />
+				[23] (631,199)<span >Email Us />
+			[24] (685,225)<div  />
+				[25] (685,225)<p >info@adremaccs.com />
+[26] (154,511)<a class='et_pb_button et_pb_button_0_tb_header et_pb_bg_layout_light' href='http://clients.karbonhq.com/uk2/2jX6VdvQb3lf/login'>Client Login />
+Our Personal and Professional Services Put Clients First
+DETAILS
+DETAILS
+[27] (113,943)<a class='n2-style-9f73558cd130b3ff9f25f7040a2168b2-heading  n2-ow ' href='https://charteredaccountantsworldwide.com/' />
+	[28] (113,943)<div  />
+		[29] (113,943)<div >DETAILS />
+DETAILS
+[30] (39,864)<div aria-label='previous arrow' class='n2-ss-widget n2-ss-widget-hide-mobilelandscape n2-ss-widget-hide-mobileportrait nextend-arrow nextend-arrow-animated n2-ow nextend-arrow-animated-horizontal nextend-arrow-previous n2-ib' id='n2-ss-3-arrow-previous' role='button' />
+	[31] (39,864)<div  />
+		[32] (39,864)<img  />
+
+</current_dom>

@@ -1,0 +1,190 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (484,13)<a href='Default.aspx'>Home />
+|
+[1] (565,13)<a href='#'>Services />
+|
+[2] (682,13)<a href='http://www.wincham.com/mtt.asp'>Meet the Team />
+|
+[3] (809,13)<a href='http://www.wincham.com/contactus.asp'>Contact Us />
+|
+[4] (927,13)<a href='http://www.winchamiht.com/winchamsupport/WRS.exe'>Live Support />
+Welcome! Philip and Beryl
+10/Apr/2026
+[5] (390,114)<a href='referral.aspx' />
+	[6] (390,82)<img  />
+	[7] (390,121)<font  />
+		[8] (390,121)<b >Refer a Friend />
+[9] (538,130)<a href='Default.aspx' />
+	[10] (538,106)<img  />
+	[11] (538,136)<b >Home />
+[12] (699,130)<a href='profile.aspx' />
+	[13] (699,106)<img  />
+	[14] (699,136)<b >Account Settings />
+[15] (860,130)<a href='../Logout.aspx?t=4' />
+	[16] (860,106)<img  />
+	[17] (860,136)<b >Logout />
+Your are here:
+[18] (188,164)<a href='default.aspx'>Home />
+/
+[19] (262,164)<a href='casedetail.aspx?cid=WI-25863'>WI-25863 />
+/ Document
+Case #: WI-25863
+(Property Sales Case)
+[20] (106,328)<a href='casedetail.aspx?cid=WI-25863'>Case Detail />
+	[21] (100,304)<img  />
+[22] (132,397)<a href='infosheetsview.aspx?cid=WI-25863'>Information Sheets />
+	[23] (100,373)<img  />
+[24] (102,466)<a href='clientnotes.aspx?cid=WI-25863'>Messages />
+	[25] (100,442)<img  />
+[26] (106,535)<a href='clientcasedocs.aspx?cid=WI-25863'>Documents />
+	[27] (100,512)<img  />
+::       Case Document      ::
+Note: Please download and install
+[28] (565,209)<a href='http://ardownload.adobe.com/pub/adobe/reader/win/9.x/9.0/enu/AdbeRdr90_en_US.exe'>Adobe Reader />
+	[29] (511,204)<img  />
+to view
+[30] (711,209)<a href='http://ardownload.adobe.com/pub/adobe/reader/win/9.x/9.0/enu/AdbeRdr90_en_US.exe'>PDF />
+files.
+[31] (338,225)<a class='Menu1_1 tab Menu1_3' href='javascript:__doPostBack('Menu1','0')'>Documents Sent To You />
+[32] (525,225)<a class='Menu1_1 tab Menu1_3' href='javascript:__doPostBack('Menu1','1')'>Documents Uploaded By You />
+[33] (696,225)<a class='Menu1_1 tab Menu1_3' href='javascript:__doPostBack('Menu1','2')'>Upload Document />
+[34] (847,225)<a class='Menu1_1 tab Menu1_3 selectedTab Menu1_5' href='javascript:__doPostBack('Menu1','3')'>Company Documents />
+Company Document(s)
+Subject
+Date
+Type
+Status
+Originator
+[35] (323,295)<a href='../companyfiles/WI-13211/DOC-5317.pdf'>Ordinary- Frederick />
+20/Aug/2015
+Share Certificate
+Active
+Melissa Boulton
+[36] (402,316)<a href='../companyfiles/WI-13211/DOC-5316.pdf'>Preference- Rebecca Patrimonio Familiar SL />
+20/Aug/2015
+Share Certificate
+Active
+Melissa Boulton
+[37] (316,337)<a href='../companyfiles/WI-13211/DOC-5315.pdf'>Preference- Mary />
+20/Aug/2015
+Share Certificate
+Active
+Melissa Boulton
+[38] (329,358)<a href='../companyfiles/WI-13211/DOC-5314.pdf'>Preference- Margaret />
+20/Aug/2015
+Share Certificate
+Active
+Melissa Boulton
+[39] (330,379)<a href='../companyfiles/WI-13211/DOC-5313.pdf'>Preference- Frederick />
+20/Aug/2015
+Share Certificate
+Active
+Melissa Boulton
+[40] (319,399)<a href='../companyfiles/WI-13211/DOC-5312.pdf'>Preference- Bryan />
+20/Aug/2015
+Share Certificate
+Active
+Melissa Boulton
+[41] (309,420)<a href='../companyfiles/WI-13211/DOC-5311.pdf'>Ordinary- Mary />
+20/Aug/2015
+Share Certificate
+Active
+Melissa Boulton
+[42] (320,441)<a href='../companyfiles/WI-13211/DOC-5310.doc'>Ordinary-Margaret />
+20/Aug/2015
+Share Certificate
+Active
+Melissa Boulton
+[43] (312,462)<a href='../companyfiles/WI-13211/DOC-5309.pdf'>Ordinary- Bryan />
+20/Aug/2015
+Share Certificate
+Active
+Melissa Boulton
+[44] (325,483)<a href='../companyfiles/WI-13211/DOC-5308.pdf'>Allotment of Shares />
+20/Aug/2015
+Share Allotment
+Active
+Melissa Boulton
+[45] (310,504)<a href='../companyfiles/WI-13211/DOC-5307.pdf'>TM01- Malcolm />
+20/Aug/2015
+Director Resignation
+Active
+Melissa Boulton
+[46] (313,525)<a href='../companyfiles/WI-13211/DOC-5306.pdf'>TM01- Margaret />
+20/Aug/2015
+Director Resignation
+Active
+Melissa Boulton
+[47] (313,545)<a href='../companyfiles/WI-13211/DOC-5305.pdf'>TM01- Frederick />
+20/Aug/2015
+Director Resignation
+Active
+Melissa Boulton
+[48] (300,566)<a href='../companyfiles/WI-13211/DOC-5304.pdf'>CIF Number />
+20/Aug/2015
+CIF Number
+Active
+Melissa Boulton
+[49] (311,587)<a href='../companyfiles/WI-13211/DOC-5303.pdf'>AP01- Margaret />
+20/Aug/2015
+Director Appointment
+Active
+Melissa Boulton
+[50] (312,608)<a href='../companyfiles/WI-13211/DOC-5302.pdf'>AP01- Frederick />
+20/Aug/2015
+Director Appointment
+Active
+Melissa Boulton
+[51] (301,629)<a href='../companyfiles/WI-13211/DOC-5301.pdf'>AP01- Bryan />
+20/Aug/2015
+Director Appointment
+Active
+Melissa Boulton
+[52] (333,650)<a href='../companyfiles/WI-13211/DOC-1712.pdf'>Showing New Director />
+17/Jun/2011
+Certificate of Good Standing
+Active
+Jon Hallatt
+[53] (292,671)<a href='../companyfiles/WI-13211/DOC-1298.pdf'>Apostilled />
+06/Aug/2010
+Certificate of Good Standing
+Active
+Jon Hallatt
+[54] (337,691)<a href='../companyfiles/WI-13211/DOC-1291.pdf'>Showing Both Directors />
+04/Aug/2010
+Certificate of Good Standing
+Active
+Jon Hallatt
+[55] (354,712)<a href='../companyfiles/WI-13211/DOC-1110.pdf'>Certificate Of Good Standing />
+13/Apr/2010
+Certificate of Good Standing
+Active
+Jon Hallatt
+[56] (350,733)<a href='../companyfiles/WI-13211/DOC-1109.pdf'>Certificate Of Incorporation />
+13/Apr/2010
+Certificate of Incorporation
+Active
+Jon Hallatt
+[57] (386,754)<a href='../companyfiles/WI-13211/DOC-1108.pdf'>Memorandum & Articles of Association />
+13/Apr/2010
+Article of Association
+Active
+Jon Hallatt
+Wincham Group of Companies ©2026
+UK Office Address:
+Wincham House | Greenfield Farm Trading Estate | Congleton | Cheshire | CW12 4TR
+UK Tel: +44 (0)1260 299 700 | Email:
+[58] (329,839)<a href='mailto:info@wincham.com'>info@wincham.com />
+Spain Office Address :
+Calpe, 03710 | Alicante | Spain
+Spain Tel: 0034 965 830 991 | Email:
+[59] (324,882)<a href='mailto:info@wincham.com'>info@wincham.com />
+Marbella Office Address :
+Avda Ricardo Soriano 72 - Portal B - Planta 1a | Marbella, 29601 | Costa del Sol | Spain
+Spain Tel: 0034 965 830 991 | Spain Fax: 0034 965 838 329 | Email:
+[60] (543,925)<a href='mailto:info@wincham.com'>info@wincham.com />
+
+</current_dom>

@@ -1,0 +1,18 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to main content
+[0] (232,45)<a class='govuk-header__link govuk-header__link--homepage' href='http://gov.uk/' />
+[1] (292,134)<a class='govuk-service-navigation__link' href='/'>Find and update company information />
+[2] (771,209)<a class='govuk-link' href='/signin' id='user-signin'>Sign in / Register />
+[3] (264,278)<a class='govuk-back-link' href='/'>Back to Companies House service />
+Advanced company search
+Fill in one or more fields to search the Companies House register.
+[4] (386,590)<span >Company name />
+[5] (386,681)<span >Registered office address />
+[6] (386,772)<span >Incorporation date />
+[7] (386,862)<span >Company status />
+[8] (386,953)<span >Nature of business />
+
+</current_dom>

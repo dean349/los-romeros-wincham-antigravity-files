@@ -1,0 +1,358 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (37,36)<a aria-label='Drive' class='gb_de gb_Vc' href='https://drive.google.com/?tab=oo&authuser=0' />
+	[1] (24,34)<img class='gb_0c gb_ae' role='presentation' />
+	[2] (49,34)<span >Drive />
+[3] (340,35)<input aria-label='Get answers from Drive' class='gb_ze a-WErN3d-CQWwNe' placeholder='Get answers from Drive' />
+[4] (553,34)<button aria-label='Advanced search' class='gb_Ue a-nb-Va-d-Gk-M' />
+[5] (148,34)<button aria-label='Search Google Drive' class='gb_Oe gb_Pe' role='button' />
+[6] (828,34)<div aria-label='Support' class='c-Po a-OkO9ve-gAsIFc-c Ewn2Sd' role='button' />
+[7] (851,34)<div aria-label='Settings' class='h-sb-Ic h-R-d a-c-d Hb-ja-hc' role='button' />
+	[8] (851,34)<div  />
+[9] (878,34)<button aria-label='Ask Gemini' class='VYBDae-c-d VYBDae-c-d-Qu-gc-Ca XyWBof' />
+	[10] (878,34)<div  />
+[11] (901,34)<a aria-label='Google apps' class='gb_B' href='https://www.google.com/intl/en/about/products?tab=oh' role='button' />
+[12] (955,34)<div class='gb_Xa gb_Qf gb_1' role='button' />
+	[13] (947,34)<div  />
+		[14] (947,34)<div  />
+			[15] (947,34)<img  />
+	[16] (978,34)<div  />
+		[17] (978,34)<div  />
+			[18] (978,34)<a aria-label='Google Account: Dean Harrison  
+(dean@onelifesm.com)' class='gb_B gb_0a gb_1' role='button' />
+[19] (35,108)<button class='brbsPe Ss7qXc a-qb-d' role='button' />
+	[20] (23,108)<span  />
+		[21] (23,108)<span  />
+	[22] (43,108)<span >New />
+Folders and views
+[23] (67,173)<div class='a-U-J a-U-xc-J' role='link' />
+	[24] (13,173)<div  />
+	[25] (70,173)<div  />
+		[26] (71,173)<div  />
+			[27] (27,173)<div  />
+				[28] (23,173)<div  />
+					[29] (23,173)<div  />
+						[30] (23,173)<div  />
+			[31] (79,173)<span >Home />
+[32] (67,208)<div class='a-U-J a-U-xc-J' role='link' />
+	[33] (13,208)<div  />
+	[34] (70,208)<div  />
+		[35] (71,208)<div  />
+			[36] (27,208)<div  />
+				[37] (23,208)<div  />
+					[38] (23,208)<div  />
+						[39] (23,208)<div  />
+			[40] (79,208)<span >Activity />
+[41] (67,243)<div class='a-U-J a-U-xc-J' role='link' />
+	[42] (13,243)<div  />
+	[43] (70,243)<div  />
+		[44] (71,243)<div  />
+			[45] (27,243)<div  />
+				[46] (23,243)<div  />
+					[47] (23,243)<div  />
+			[48] (79,243)<span >Projects />
+[49] (67,277)<div class='a-U-J a-U-xc-J' role='link' />
+	[50] (13,277)<div  />
+	[51] (70,277)<div  />
+		[52] (71,277)<div  />
+			[53] (27,277)<div  />
+				[54] (23,277)<div  />
+					[55] (23,277)<div  />
+						[56] (23,277)<div  />
+			[57] (79,277)<span >Workspaces />
+[58] (67,330)<div class='a-U-J a-U-xc-J' role='link' />
+	[59] (70,330)<div  />
+		[60] (71,330)<div  />
+			[61] (27,330)<div  />
+				[62] (23,330)<div  />
+					[63] (23,330)<div  />
+						[64] (23,330)<div  />
+			[65] (79,330)<span >My Drive />
+[66] (67,365)<div class='a-U-J a-U-xc-J' role='link' />
+	[67] (70,365)<div  />
+		[68] (71,365)<div  />
+			[69] (27,365)<div  />
+				[70] (23,365)<div  />
+					[71] (23,365)<div  />
+						[72] (23,365)<div  />
+			[73] (79,365)<span >Shared drives />
+[74] (67,417)<div class='a-U-J a-U-xc-J' role='link' />
+	[75] (13,417)<div  />
+	[76] (70,417)<div  />
+		[77] (71,417)<div  />
+			[78] (27,417)<div  />
+				[79] (23,417)<div  />
+					[80] (23,417)<div  />
+						[81] (23,417)<div  />
+			[82] (79,417)<span >Shared with me />
+[83] (67,452)<div class='a-U-J a-U-xc-J' role='link' />
+	[84] (13,452)<div  />
+	[85] (70,452)<div  />
+		[86] (71,452)<div  />
+			[87] (27,452)<div  />
+				[88] (23,452)<div  />
+					[89] (23,452)<div  />
+						[90] (23,452)<div  />
+			[91] (79,452)<span >Recent />
+[92] (67,486)<div class='a-U-J a-U-xc-J' role='link' />
+	[93] (13,486)<div  />
+	[94] (70,486)<div  />
+		[95] (71,486)<div  />
+			[96] (27,486)<div  />
+				[97] (23,486)<div  />
+					[98] (23,486)<div  />
+			[99] (79,486)<span >Starred />
+[100] (67,539)<div class='a-U-J a-U-xc-J' role='link' />
+	[101] (13,539)<div  />
+	[102] (70,539)<div  />
+		[103] (71,539)<div  />
+			[104] (27,539)<div  />
+				[105] (23,539)<div  />
+					[106] (23,539)<div  />
+						[107] (23,539)<div  />
+			[108] (79,539)<span >Spam />
+[109] (67,573)<div class='a-U-J a-U-xc-J' role='link' />
+	[110] (13,573)<div  />
+	[111] (70,573)<div  />
+		[112] (71,573)<div  />
+			[113] (27,573)<div  />
+				[114] (23,573)<div  />
+					[115] (23,573)<div  />
+						[116] (23,573)<div  />
+			[117] (79,573)<span >Trash />
+[118] (67,608)<div class='a-U-J a-U-xc-J' role='link' />
+	[119] (13,608)<div  />
+	[120] (70,608)<div  />
+		[121] (71,608)<div  />
+			[122] (27,608)<div  />
+				[123] (23,608)<div  />
+					[124] (23,608)<div  />
+						[125] (23,608)<div  />
+			[126] (79,608)<span >Storage />
+170.93 GB used
+Sync files between the cloud and your computer.
+[127] (32,783)<a class='uYQovc' href='https://support.google.com/drive/answer/10838124'>Learn more />
+[128] (43,820)<a class='KGYG1' href='https://support.google.com/a/users/answer/13022292'>Download />
+[129] (117,733)<div aria-label='Close' class='vxZAL' role='button' />
+[130] (67,894)<button class='g6YQRb a-da-U' />
+	[131] (67,894)<div class='a-U-J a-U-xc-J' role='link' />
+		[132] (12,894)<div  />
+		[133] (70,894)<div  />
+			[134] (70,894)<div  />
+				[135] (26,894)<div  />
+					[136] (22,894)<div  />
+						[137] (22,894)<div  />
+							[138] (22,894)<div  />
+				[139] (79,894)<span >Admin console />
+170.93 GB of shared 4 TB used
+[140] (132,578)<div  />
+[141] (552,526)<div class='q9i9I' scrollable='true' />
+	Welcome to Drive
+	[142] (950,112)<button aria-label='View details' class='pYTkkf-c-d pYTkkf-c-d-Qu-gc-Ca APUlSe' />
+		[143] (950,112)<div  />
+	[144] (189,164)<button class='mUIrbf-d mUIrbf-d-Qu-c-M1Soyc mUIrbf-d-Qu-dgl2Hf mUIrbf-kSE8rc-FoKg4d-nh-YoZ4jf d9cz0c' />
+		[145] (152,164)<span  />
+			[146] (152,164)<div  />
+		[147] (195,164)<span >Suggested folders />
+	WINCHAM
+	in My Drive
+	[148] (263,221)<button aria-label='More actions' class='pYTkkf-c-d pYTkkf-c-d-Qu-gc-Ca HVfGlf' />
+		[149] (263,221)<div  />
+	NOSSA PADEL
+	in My Drive
+	[150] (400,221)<button aria-label='More actions' class='pYTkkf-c-d pYTkkf-c-d-Qu-gc-Ca HVfGlf' />
+		[151] (400,221)<div  />
+	JETTDECK
+	in My Drive
+	[152] (537,221)<button aria-label='More actions' class='pYTkkf-c-d pYTkkf-c-d-Qu-gc-Ca HVfGlf' />
+		[153] (537,221)<div  />
+	ESSHR Claim
+	in My Drive
+	[154] (675,221)<button aria-label='More actions' class='pYTkkf-c-d pYTkkf-c-d-Qu-gc-Ca HVfGlf' />
+		[155] (675,221)<div  />
+	Dean Harrison - AI Consultancy Business - Business plan
+	in My Drive
+	[156] (812,221)<button aria-label='More actions' class='pYTkkf-c-d pYTkkf-c-d-Qu-gc-Ca HVfGlf' />
+		[157] (812,221)<div  />
+	AI
+	in My Drive
+	[158] (950,221)<button aria-label='More actions' class='pYTkkf-c-d pYTkkf-c-d-Qu-gc-Ca HVfGlf' />
+		[159] (950,221)<div  />
+	DAD - LANZAROTE
+	in My Drive
+	Pictures
+	in My Drive
+	BUILT2SCALE
+	in My Drive
+	Colab Notebooks
+	in My Drive
+	MARK HARRISON
+	in My Drive
+	GOOGLE WORKSPACE - DOMAIN AND EMAIL SETUP
+	in My Drive
+	[160] (183,295)<button class='mUIrbf-d mUIrbf-d-Qu-c-M1Soyc mUIrbf-d-Qu-dgl2Hf mUIrbf-kSE8rc-FoKg4d-nh-YoZ4jf d9cz0c' />
+		[161] (152,295)<span  />
+			[162] (152,295)<div  />
+		[163] (190,295)<span >Suggested files />
+	[164] (915,295)<button aria-label='List' class='VAKbPe VJmZo T4ACf rPoHZb WwL44e' role='radio' />
+		[165] (921,295)<span  />
+			[166] (921,295)<span  />
+				[167] (921,295)<div  />
+		[168] (915,295)<span  />
+	[169] (944,295)<button aria-label='Grid' class='VAKbPe VJmZo pVxgue rPoHZb WwL44e' role='radio' />
+		[170] (944,295)<div  />
+			[171] (944,295)<span  />
+				[172] (944,295)<span  />
+					[173] (944,295)<div  />
+	Name
+	Details
+	Owner
+	Location
+	Wincham_Nine_Task_Verification_Report.pdf
+	You created
+	•
+	9:03 AM
+	[174] (648,400)<div class='rxUYqf' role='button' />
+		me
+	[175] (771,400)<button class='mUIrbf-d mUIrbf-d-Qu-c-M1Soyc mUIrbf-d-Qu-zcdHbf mUIrbf-d-Qu-dgl2Hf mUIrbf-kSE8rc-FoKg4d-nh-YoZ4jf RZ87ne vKmmhc HWsIpe  IqQOrb OPBnBc vf9sSe sd-Tf' id='c459' />
+		[176] (753,400)<span  />
+			[177] (753,400)<div  />
+				[178] (753,400)<div  />
+		[179] (778,400)<span >WINCHAM />
+	[180] (946,400)<button aria-label='More actions (Alt+A)' class='pYTkkf-c-d pYTkkf-c-d-Qu-gc-Ca HVfGlf' />
+		[181] (946,400)<div  />
+	Wincham Scheme - Comparison Case - EDWIN COE LLP & THE GIAMBRONE PRECEDENT.pdf
+	You created
+	•
+	9:03 AM
+	[182] (648,452)<div class='rxUYqf' role='button' />
+		me
+	[183] (771,452)<button class='mUIrbf-d mUIrbf-d-Qu-c-M1Soyc mUIrbf-d-Qu-zcdHbf mUIrbf-d-Qu-dgl2Hf mUIrbf-kSE8rc-FoKg4d-nh-YoZ4jf RZ87ne vKmmhc HWsIpe  IqQOrb OPBnBc vf9sSe sd-Tf' id='c452' />
+		[184] (753,452)<span  />
+			[185] (753,452)<div  />
+				[186] (753,452)<div  />
+		[187] (778,452)<span >WINCHAM />
+	[188] (946,452)<button aria-label='More actions (Alt+A)' class='pYTkkf-c-d pYTkkf-c-d-Qu-gc-Ca HVfGlf' />
+		[189] (946,452)<div  />
+	Wincham_Public_Evidence_Dossier.pdf
+	You created
+	•
+	9:03 AM
+	[190] (648,504)<div class='rxUYqf' role='button' />
+		me
+	[191] (771,504)<button class='mUIrbf-d mUIrbf-d-Qu-c-M1Soyc mUIrbf-d-Qu-zcdHbf mUIrbf-d-Qu-dgl2Hf mUIrbf-kSE8rc-FoKg4d-nh-YoZ4jf RZ87ne vKmmhc HWsIpe  IqQOrb OPBnBc vf9sSe sd-Tf' id='c445' />
+		[192] (753,504)<span  />
+			[193] (753,504)<div  />
+				[194] (753,504)<div  />
+		[195] (778,504)<span >WINCHAM />
+	[196] (946,504)<button aria-label='More actions (Alt+A)' class='pYTkkf-c-d pYTkkf-c-d-Qu-gc-Ca HVfGlf' />
+		[197] (946,504)<div  />
+	Vision_Launch_UK_Agency_Pitch_Outreach.pdf
+	You opened
+	•
+	Mar 28
+	[198] (648,557)<div class='rxUYqf' role='button' />
+		me
+	[199] (789,557)<button class='mUIrbf-d mUIrbf-d-Qu-c-M1Soyc mUIrbf-d-Qu-zcdHbf mUIrbf-d-Qu-dgl2Hf mUIrbf-kSE8rc-FoKg4d-nh-YoZ4jf RZ87ne vKmmhc HWsIpe  IqQOrb OPBnBc vf9sSe sd-Tf' />
+		[200] (753,557)<span  />
+			[201] (753,557)<div  />
+				[202] (753,557)<div  />
+		[203] (796,557)<span >NOSSA Padel Launch />
+	[204] (946,557)<button aria-label='More actions (Alt+A)' class='pYTkkf-c-d pYTkkf-c-d-Qu-gc-Ca HVfGlf' />
+		[205] (946,557)<div  />
+	Ellis_Briefing_Document.pdf
+	You created
+	•
+	9:03 AM
+	[206] (648,609)<div class='rxUYqf' role='button' />
+		me
+	[207] (771,609)<button class='mUIrbf-d mUIrbf-d-Qu-c-M1Soyc mUIrbf-d-Qu-zcdHbf mUIrbf-d-Qu-dgl2Hf mUIrbf-kSE8rc-FoKg4d-nh-YoZ4jf RZ87ne vKmmhc HWsIpe  IqQOrb OPBnBc vf9sSe sd-Tf' id='c431' />
+		[208] (753,609)<span  />
+			[209] (753,609)<div  />
+				[210] (753,609)<div  />
+		[211] (778,609)<span >WINCHAM />
+	[212] (946,609)<button aria-label='More actions (Alt+A)' class='pYTkkf-c-d pYTkkf-c-d-Qu-gc-Ca HVfGlf' />
+		[213] (946,609)<div  />
+	Property Sale Repatriation Strategy
+	You modified
+	•
+	Mar 28
+	[214] (648,661)<div class='rxUYqf' role='button' />
+		me
+	[215] (768,661)<button class='mUIrbf-d mUIrbf-d-Qu-c-M1Soyc mUIrbf-d-Qu-zcdHbf mUIrbf-d-Qu-dgl2Hf mUIrbf-kSE8rc-FoKg4d-nh-YoZ4jf RZ87ne vKmmhc HWsIpe  IqQOrb OPBnBc vf9sSe sd-Tf' />
+		[216] (753,661)<span  />
+			[217] (753,661)<div  />
+				[218] (753,661)<div  />
+		[219] (775,661)<span >My Drive />
+	[220] (946,661)<button aria-label='More actions (Alt+A)' class='pYTkkf-c-d pYTkkf-c-d-Qu-gc-Ca HVfGlf' />
+		[221] (946,661)<div  />
+	Harrison v. Electric Surf Sports Legal Case Summary - Claims & Law Violations
+	You modified
+	•
+	Mar 28
+	[222] (648,713)<div class='rxUYqf' role='button' />
+		me
+	[223] (783,713)<button class='mUIrbf-d mUIrbf-d-Qu-c-M1Soyc mUIrbf-d-Qu-zcdHbf mUIrbf-d-Qu-dgl2Hf mUIrbf-kSE8rc-FoKg4d-nh-YoZ4jf RZ87ne vKmmhc HWsIpe  IqQOrb OPBnBc vf9sSe sd-Tf' />
+		[224] (753,713)<span  />
+			[225] (753,713)<div  />
+				[226] (753,713)<div  />
+		[227] (790,713)<span >Master File 3.2.28 />
+	[228] (946,713)<button aria-label='More actions (Alt+A)' class='pYTkkf-c-d pYTkkf-c-d-Qu-gc-Ca HVfGlf' />
+		[229] (946,713)<div  />
+	Wincham_Pitch_Report_For_Law_Firms.pdf
+	You created
+	•
+	9:03 AM
+	[230] (648,766)<div class='rxUYqf' role='button' />
+		me
+	[231] (771,766)<button class='mUIrbf-d mUIrbf-d-Qu-c-M1Soyc mUIrbf-d-Qu-zcdHbf mUIrbf-d-Qu-dgl2Hf mUIrbf-kSE8rc-FoKg4d-nh-YoZ4jf RZ87ne vKmmhc HWsIpe  IqQOrb OPBnBc vf9sSe sd-Tf' id='c410' />
+		[232] (753,766)<span  />
+			[233] (753,766)<div  />
+				[234] (753,766)<div  />
+		[235] (778,766)<span >WINCHAM />
+	[236] (946,766)<button aria-label='More actions (Alt+A)' class='pYTkkf-c-d pYTkkf-c-d-Qu-gc-Ca HVfGlf' />
+		[237] (946,766)<div  />
+	Wincham_TAM_Revised_Analysis.pdf
+	You created
+	•
+	9:03 AM
+	[238] (648,818)<div class='rxUYqf' role='button' />
+		me
+	[239] (771,818)<button class='mUIrbf-d mUIrbf-d-Qu-c-M1Soyc mUIrbf-d-Qu-zcdHbf mUIrbf-d-Qu-dgl2Hf mUIrbf-kSE8rc-FoKg4d-nh-YoZ4jf RZ87ne vKmmhc HWsIpe  IqQOrb OPBnBc vf9sSe sd-Tf' id='c403' />
+		[240] (753,818)<span  />
+			[241] (753,818)<div  />
+				[242] (753,818)<div  />
+		[243] (778,818)<span >WINCHAM />
+	[244] (946,818)<button aria-label='More actions (Alt+A)' class='pYTkkf-c-d pYTkkf-c-d-Qu-gc-Ca HVfGlf' />
+		[245] (946,818)<div  />
+	Wincham_Pitch_Report_EXTERNAL.pdf
+	You created
+	•
+	9:03 AM
+	[246] (648,870)<div class='rxUYqf' role='button' />
+		me
+	[247] (771,870)<button class='mUIrbf-d mUIrbf-d-Qu-c-M1Soyc mUIrbf-d-Qu-zcdHbf mUIrbf-d-Qu-dgl2Hf mUIrbf-kSE8rc-FoKg4d-nh-YoZ4jf RZ87ne vKmmhc HWsIpe  IqQOrb OPBnBc vf9sSe sd-Tf' id='c396' />
+		[248] (753,870)<span  />
+			[249] (753,870)<div  />
+				[250] (753,870)<div  />
+		[251] (778,870)<span >WINCHAM />
+	[252] (946,870)<button aria-label='More actions (Alt+A)' class='pYTkkf-c-d pYTkkf-c-d-Qu-gc-Ca HVfGlf' />
+		[253] (946,870)<div  />
+	[254] (179,931)<button aria-label='View more Suggested files' class='mUIrbf-d mUIrbf-d-Qu-dgl2Hf mUIrbf-kSE8rc-FoKg4d-nh-YoZ4jf' />
+		[255] (179,931)<span >View more />
+[256] (985,99)<div aria-label='Calendar' class='ONKrsd-jrnDlb-d Yb-Il-d ONKrsd-jrnDlb-pe' id='gsc-gab-6' role='tab' />
+	[257] (985,99)<div  />
+[258] (985,160)<div aria-label='Keep' class='ONKrsd-jrnDlb-d Yb-Il-d ONKrsd-jrnDlb-Eo' id='gsc-gab-2' role='tab' />
+	[259] (985,160)<div  />
+[260] (985,221)<div aria-label='Tasks' class='ONKrsd-jrnDlb-d Yb-Il-d ONKrsd-jrnDlb-pe' id='gsc-gab-4' role='tab' />
+	[261] (985,221)<div  />
+[262] (985,282)<div aria-label='Contacts' class='ONKrsd-jrnDlb-d Yb-Il-d ONKrsd-jrnDlb-pe' id='gsc-gab-9' role='tab' />
+	[263] (985,282)<div  />
+[264] (985,379)<div aria-label='Get Add-ons' class='ONKrsd-jrnDlb-d Yb-Il-d' id='qJTzr' role='tab' />
+	[265] (985,379)<div  />
+[266] (985,970)<div aria-label='Hide side panel' class='Yb-Il-d Kk7lMc-QWPxkf-d' role='button' />
+	[267] (985,970)<div  />
+
+</current_dom>

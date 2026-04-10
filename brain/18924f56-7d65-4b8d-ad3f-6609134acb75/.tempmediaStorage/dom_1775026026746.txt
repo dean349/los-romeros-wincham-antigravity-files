@@ -1,0 +1,116 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (422,8)<fieldset >Capital />
+	[1] (366,11)<input id='filter-category-capital' />
+	Capital
+	[2] (398,68)<label class='block-label selection-button-checkbox selection-button-checkbox-small govuk-!-margin-bottom-4'>Charges />
+		[3] (366,85)<input id='filter-category-mortgage' />
+[4] (656,8)<fieldset >Incorporation />
+	[5] (523,11)<input id='filter-category-incorporation' />
+	Incorporation
+	[6] (553,68)<label class='block-label selection-button-checkbox selection-button-checkbox-small govuk-!-margin-bottom-4'>Officers />
+		[7] (523,85)<input id='filter-category-officers' />
+Company Results (links open in a new window)
+Date
+(document was filed at Companies House)
+Description
+(of the document filed at Companies House)
+View / Download
+(PDF file, link opens in new window)
+10 Feb 2026
+Termination of appointment
+of Beryl Harrison as a director on 10 February 2026
+[8] (719,237)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzUwNDA3OTM3M2FkaXF6a2N4/document?format=pdf&download=0'>View PDF
+of Beryl Harrison as a director on 10 February 2026
+ - link opens in a new window  - 1 page />
+	Termination of appointment
+	of Beryl Harrison as a director on 10 February 2026
+ - link opens in a new window  - 1 page
+(1 page)
+19 Dec 2025
+Total exemption full accounts
+made up to 31 August 2025
+[9] (719,309)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzQ5NTM0Mzg5OWFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+made up to 31 August 2025
+ - link opens in a new window  - 5 pages />
+	Total exemption full accounts
+	made up to 31 August 2025
+ - link opens in a new window  - 5 pages
+(5 pages)
+[10] (734,354)<a class='link-updater-js govuk-link' href='/company/06993349/filing-history/MzQ5NTM0Mzg5OWFkaXF6a2N4/document?format=xhtml&download=1'>Download iXBRL />
+27 Oct 2025
+Secretary's details changed
+for Adrem Accounting Ltd on 1 September 2025
+[11] (719,411)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzQ4NjQwNzMxN2FkaXF6a2N4/document?format=pdf&download=0'>View PDF
+for Adrem Accounting Ltd on 1 September 2025
+ - link opens in a new window  - 1 page />
+	Secretary's details changed
+	for Adrem Accounting Ltd on 1 September 2025
+ - link opens in a new window  - 1 page
+(1 page)
+25 Sep 2025
+Registered office address changed
+from Wincham House Greenfield Farm Trading Estate Congleton Cheshire CW12 4TR to 1-2 Albert Chambers Canal Street Congleton CW12 4AA on 25 September 2025
+[12] (719,506)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzQ4MjY3ODc3MGFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+from Wincham House Greenfield Farm Trading Estate Congleton Cheshire CW12 4TR to 1-2 Albert Chambers Canal Street Congleton CW12 4AA on 25 September 2025
+ - link opens in a new window  - 1 page />
+	Registered office address changed
+	from Wincham House Greenfield Farm Trading Estate Congleton Cheshire CW12 4TR to 1-2 Albert Chambers Canal Street Congleton CW12 4AA on 25 September 2025
+ - link opens in a new window  - 1 page
+(1 page)
+27 Aug 2025
+Confirmation statement
+made on 18 August 2025 with no updates
+[13] (719,600)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzQ3ODgwMjk5M2FkaXF6a2N4/document?format=pdf&download=0'>View PDF
+made on 18 August 2025 with no updates
+ - link opens in a new window  - 3 pages />
+	Confirmation statement
+	made on 18 August 2025 with no updates
+ - link opens in a new window  - 3 pages
+(3 pages)
+19 Dec 2024
+Total exemption full accounts
+made up to 31 August 2024
+[14] (719,673)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzQ0ODM0NTM2NWFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+made up to 31 August 2024
+ - link opens in a new window  - 5 pages />
+	Total exemption full accounts
+	made up to 31 August 2024
+ - link opens in a new window  - 5 pages
+(5 pages)
+[15] (734,717)<a class='link-updater-js govuk-link' href='/company/06993349/filing-history/MzQ0ODM0NTM2NWFkaXF6a2N4/document?format=xhtml&download=1'>Download iXBRL />
+20 Aug 2024
+Confirmation statement
+made on 18 August 2024 with no updates
+[16] (719,775)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzQzMjczMjgxNWFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+made on 18 August 2024 with no updates
+ - link opens in a new window  - 3 pages />
+	Confirmation statement
+	made on 18 August 2024 with no updates
+ - link opens in a new window  - 3 pages
+(3 pages)
+25 Jun 2024
+Secretary's details changed
+for Wincham Accountancy Limited on 2 April 2024
+[17] (719,847)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzQyNjUxNDQwNWFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+for Wincham Accountancy Limited on 2 April 2024
+ - link opens in a new window  - 1 page />
+	Secretary's details changed
+	for Wincham Accountancy Limited on 2 April 2024
+ - link opens in a new window  - 1 page
+(1 page)
+14 Mar 2024
+Total exemption full accounts
+made up to 31 August 2023
+[18] (719,920)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzQxNDU0MzYzMmFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+made up to 31 August 2023
+ - link opens in a new window  - 5 pages />
+	Total exemption full accounts
+	made up to 31 August 2023
+ - link opens in a new window  - 5 pages
+(5 pages)
+[19] (734,964)<a class='link-updater-js govuk-link' href='/company/06993349/filing-history/MzQxNDU0MzYzMmFkaXF6a2N4/document?format=xhtml&download=1'>Download iXBRL />
+
+</current_dom>

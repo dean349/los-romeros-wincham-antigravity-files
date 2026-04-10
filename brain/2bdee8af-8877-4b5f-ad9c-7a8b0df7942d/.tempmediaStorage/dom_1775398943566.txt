@@ -1,0 +1,53 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Please find attached an Accounting Year End Checklist (INT-196906.pdf) along with an updated Letter of Engagement, which we would ask you to complete and submit to us as soon as the relevant details are available. Along with the Checklist there is a Help Sheet which details what information is required for us to produce the accounts. Upon receipt of all relevant documentation, we shall prepare your draft company accounts in due course. These will be issued to you for approval when preparation is complete.
+Please find a link (below) which sets out a director's responsibility for corporate administration. The link provides further detail about a director's responsibility to ensure how all transactions are recorded in the financial statements.
+[0] (566,178)<a href='https://www.icaew.com/regulation/membership/icaews-guide-to-directors-responsibilities/responsibilities-for-administration'>https://www.icaew.com/regulation/membership/icaews-guide-to-directors-responsibilities/responsibilities-for-administration />
+If you have any queries with regards to the process, please contact us by phone or email
+[1] (698,230)<a href='mailto:info@winchamaccountancy.com'>info@winchamaccountancy.com />
+, otherwise we look forward to receiving your completed form and accounting information as soon as possible.
+Kind Regards
+Wincham Accountancy Team
+Tel : +44 (0)3333 449 976
+[2] (349,375)<a href='http://www.winchamaccountancy.com'>www.winchamaccountancy.com />
+Attachment(s):
+[3] (396,428)<a href='viewdocument.aspx?e=zlpi9N3eDrTGS8eDr3FDpoEsdq7kDBHBHdfj87kDS8eDrTGjkjDsd&csid=WI-13211&sd=i9N7kDBHS8eDr3FDpoEsdq7kDBHRTReD&insid=196906&sd=iN7ks458FDpoEsdq7kDBHS8eDElDDFj9N7kDB''>Year End Check list />
+[4] (454,428)<a >| />
+[5] (545,428)<a href='https://tax.wincham.com/yearendchecklist/YearEndCheckListHelpSheetAccy.pdf'>Year End Check List Help Sheet />
+[6] (635,428)<a >| />
+[7] (745,428)<a href='https://tax.wincham.com/yearendchecklist/How_to_Operate_a_Company_CashBookAccy.pdf'>How to Operate a Company Cash Book />
+Dated :
+12/Sep/2022
+Message Type:
+Correspondence
+Added By :
+You
+Sent to :    
+                        (
+Spanish Consultant(Case Director),
+)
+Good Afternoon Mark
+Could you please let us know the following ASAP
+1: Are all the property taxes etc paid upto date.
+2: Dose the property  have a current electrical certificate
+3: What is the plussvilia likely to be if we were to sell outside the company.
+Best Regards
+Phil Harrison.
+Dated :
+03/Jun/2022
+Message Type:
+Emails - Wincham
+Added By :
+Case Director
+Sent to :    
+                        (
+)
+From:   	mark@wincham.com
+Date:   	Fri, 03 Jun 2022 13:16:27
+To:   	phil.harrison1904@gmail.com
+Subject:   	Wincham & Property
+Hello Phil,
+
+</current_dom>

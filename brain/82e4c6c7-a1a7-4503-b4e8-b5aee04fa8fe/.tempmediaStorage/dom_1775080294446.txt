@@ -1,0 +1,245 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (19,30)<button aria-label='Guide' class='style-scope yt-icon-button' id='button' />
+	[1] (19,30)<yt-icon  />
+		[2] (19,30)<span  />
+			[3] (19,30)<div  />
+[4] (61,30)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube Home' />
+	[5] (61,30)<div  />
+		[6] (61,30)<ytd-logo  />
+			[7] (61,30)<yt-icon  />
+				[8] (62,30)<span  />
+					[9] (62,30)<div  />
+[10] (470,30)<div  />
+	[11] (467,30)<form  />
+		[12] (467,30)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='Search' role='combobox' />
+	[13] (601,30)<div  />
+		[14] (601,30)<button aria-label='Clear search query' class='ytSearchboxComponentClearButton' />
+			[15] (601,30)<yt-touch-feedback-shape  />
+				[16] (601,30)<div  />
+[17] (626,30)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='Search' />
+	[18] (626,30)<span  />
+		[19] (626,30)<span  />
+			[20] (626,30)<div  />
+[21] (662,30)<button aria-label='Search with your voice' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[22] (662,30)<yt-touch-feedback-shape  />
+		[23] (662,30)<div  />
+[24] (898,30)<button aria-label='Create' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	Create
+	[25] (898,30)<yt-touch-feedback-shape  />
+		[26] (898,30)<div  />
+[27] (938,30)<button aria-label='Notifications' class='style-scope yt-icon-button' id='button' />
+	[28] (938,29)<yt-icon-badge-shape  />
+		[29] (938,30)<div  />
+			[30] (938,30)<div  />
+				[31] (938,30)<span  />
+					[32] (938,30)<span  />
+						[33] (938,30)<div  />
+[34] (968,30)<button aria-label='Account menu' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[35] (968,30)<yt-img-shadow  />
+		[36] (968,30)<img  />
+[37] (19,106)<a aria-label='Home' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/' id='endpoint' title='Home' />
+	[38] (19,96)<yt-icon  />
+		[39] (19,96)<span  />
+			[40] (19,96)<div  />
+	[41] (19,123)<span >Home />
+[42] (19,186)<a aria-label='Shorts' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/shorts/' id='endpoint' title='Shorts' />
+	[43] (19,176)<yt-icon  />
+		[44] (19,176)<span  />
+			[45] (19,176)<div  />
+	[46] (19,203)<span >Shorts />
+[47] (19,267)<a aria-label='Subscriptions' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/feed/subscriptions' id='endpoint' title='Subscriptions' />
+	[48] (19,257)<yt-icon  />
+		[49] (19,257)<span  />
+			[50] (19,257)<div  />
+	[51] (19,284)<span >Subscriptions />
+[52] (19,347)<a aria-label='You' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/feed/you' id='endpoint' title='You' />
+	[53] (19,337)<yt-icon  />
+		[54] (19,337)<span  />
+			[55] (19,337)<div  />
+	[56] (19,365)<span >You />
+[57] (320,207)<yt-image  />
+[58] (436,192)<ytd-thumbnail-overlay-time-status-renderer  />
+	[59] (437,192)<div  />
+		[60] (437,192)<badge-shape aria-label='8 minutes, 27 seconds' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+			[61] (437,192)<div >8:27 />
+Online Free PDF
+Tools to handle
+simple
+tasks: https://bit.ly/44KLUZz Watch related playlists and videos - All
+PDF
+videos on ...
+4K
+[62] (649,99)<div  />
+	[63] (649,99)<ytd-expandable-metadata-renderer  />
+		[64] (649,99)<div  />
+			[65] (639,99)<div  />
+				[66] (476,99)<div  />
+					[67] (476,99)<yt-img-shadow  />
+						[68] (476,99)<img  />
+				[69] (512,99)<div  />
+					[70] (512,99)<yt-formatted-string  />
+						[71] (499,99)<span >10 />
+						[72] (516,99)<span >chapters />
+				[73] (675,99)<div class='style-scope ytd-expandable-metadata-renderer' id='collapsed-title' role='button' />
+					[74] (673,118)<yt-formatted-string >Introduction | Meaning of Redact | Why redact or remove sensitive content? | What Information Should You Blackout in a Document? | Practical Demonstrations | Mark for redaction | Redaction Properties | Search & Redact | Remove Hidden Data | Wrap up />
+			[75] (828,99)<div  />
+				[76] (828,99)<div  />
+					[77] (828,99)<ytd-button-renderer  />
+						[78] (828,99)<yt-button-shape  />
+							[79] (828,99)<button aria-label='More' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+								[80] (828,99)<yt-touch-feedback-shape  />
+									[81] (828,99)<div  />
+[82] (320,381)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=CmDNosiuerM&pp=ygUraG93IHRvIHJlZGFjdCBQREYgZnJlZSBvbmxpbmUgYmVnaW5uZXIgZWFzeQ%3D%3D' id='thumbnail' />
+	[83] (320,530)<yt-image  />
+		[84] (320,381)<img  />
+	[85] (436,514)<ytd-thumbnail-overlay-time-status-renderer  />
+		[86] (437,514)<div  />
+			[87] (437,514)<badge-shape aria-label='8 minutes, 35 seconds' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[88] (437,514)<div >8:35 />
+[89] (649,343)<div  />
+	[90] (649,253)<div  />
+		[91] (649,243)<div  />
+			[92] (608,243)<h3  />
+				[93] (608,243)<a aria-label='How To Create a Fillable PDF Form For FREE 2025! (No Adobe Required) 8 minutes, 35 seconds' class='yt-simple-endpoint style-scope ytd-video-renderer' href='/watch?v=CmDNosiuerM&pp=ygUraG93IHRvIHJlZGFjdCBQREYgZnJlZSBvbmxpbmUgYmVnaW5uZXIgZWFzeQ%3D%3D' id='video-title' title='How To Create a Fillable PDF Form For FREE 2025! (No Adobe Required)' />
+					[94] (608,243)<yt-formatted-string >How To Create a Fillable PDF Form For FREE 2025! (No Adobe Required) />
+			[95] (830,242)<div  />
+				[96] (830,238)<ytd-menu-renderer  />
+					[97] (830,238)<yt-icon-button  />
+						[98] (830,238)<button aria-label='Action menu' class='style-scope yt-icon-button' id='button' />
+							[99] (830,238)<yt-icon  />
+								[100] (830,238)<span  />
+									[101] (830,238)<div  />
+		[102] (649,267)<ytd-video-meta-block  />
+			[103] (649,267)<div  />
+				[104] (492,267)<div  />
+					[105] (474,267)<span >114K views />
+					[106] (507,267)<span >1 year ago />
+	[107] (649,304)<div  />
+		[108] (466,304)<a aria-label='Go to channel Aurelius Tjin' class='style-scope ytd-video-renderer' href='/@AureliusTjin' id='channel-thumbnail' />
+			[109] (464,303)<yt-img-shadow  />
+				[110] (464,303)<img  />
+		[111] (496,304)<ytd-channel-name  />
+			[112] (492,304)<div  />
+				[113] (492,304)<div  />
+					[114] (492,304)<yt-formatted-string  />
+						[115] (492,304)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@AureliusTjin'>Aurelius Tjin />
+			[116] (513,304)<ytd-badge-supported-renderer  />
+				[117] (513,304)<div  />
+					[118] (514,304)<badge-shape aria-label='Verified' class='yt-badge-shape yt-badge-shape--default yt-badge-shape--no-text yt-badge-shape--modern yt-badge-shape--typography' role='img' />
+						[119] (514,304)<div  />
+							[120] (514,304)<span  />
+								[121] (514,304)<div  />
+	[122] (649,342)<div  />
+		[123] (638,342)<yt-formatted-string  />
+			[124] (500,342)<span >Discover how to create fillable />
+			[125] (549,342)<span >PDF />
+			[126] (686,342)<span >forms quickly and effortlessly in this tutorial. Whether you're designing a professional fillable ... />
+	[127] (649,370)<ytd-badge-supported-renderer  />
+		[128] (464,370)<div  />
+			[129] (464,370)<badge-shape aria-label='4K' class='yt-badge-shape yt-badge-shape--default yt-badge-shape--typography' role='img' />
+				[130] (464,370)<div >4K />
+		[131] (478,370)<div  />
+			[132] (478,370)<badge-shape aria-label='Closed captions' class='yt-badge-shape yt-badge-shape--default yt-badge-shape--typography' role='img' />
+				[133] (478,370)<div >CC />
+	[134] (649,423)<div  />
+		[135] (649,423)<ytd-expandable-metadata-renderer  />
+			[136] (649,423)<div  />
+				[137] (639,423)<div  />
+					[138] (484,423)<div  />
+						[139] (471,423)<yt-icon  />
+							[140] (471,423)<span  />
+								[141] (471,423)<div  />
+						[142] (490,423)<yt-formatted-string >Summary />
+					[143] (662,423)<div class='style-scope ytd-expandable-metadata-renderer' id='collapsed-title' role='button'>Learn to build interactive PDF forms for free, without Adobe! This tutorial demonstrates how to use Sejda to transform static PDFs into fillable documents with text fields, dropdowns, and checkboxes. Design the form in Canva, then upload and customize it with Sejda's easy-to-use tools. />
+						Learn to build interactive PDF forms for free, without Adobe! This tutorial demonstrates how to use Sejda to transform static PDFs into fillable documents with text fields, dropdowns, and checkboxes. Design the form in Canva, then upload and customize it with Sejda's easy-to-use tools.
+				[144] (828,423)<div  />
+					[145] (828,423)<div  />
+						[146] (828,423)<ytd-button-renderer  />
+							[147] (828,423)<yt-button-shape  />
+								[148] (828,423)<button aria-label='More' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+									[149] (828,423)<yt-touch-feedback-shape  />
+										[150] (828,423)<div  />
+[151] (320,704)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=yLZkoIZoglY&pp=ygUraG93IHRvIHJlZGFjdCBQREYgZnJlZSBvbmxpbmUgYmVnaW5uZXIgZWFzeQ%3D%3D' id='thumbnail' />
+	[152] (320,853)<yt-image  />
+		[153] (320,704)<img  />
+	[154] (436,837)<ytd-thumbnail-overlay-time-status-renderer  />
+		[155] (437,837)<div  />
+			[156] (437,837)<badge-shape aria-label='8 minutes, 8 seconds' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[157] (437,837)<div >8:08 />
+[158] (649,631)<div  />
+	[159] (649,575)<div  />
+		[160] (649,565)<div  />
+			[161] (564,565)<h3  />
+				[162] (564,565)<a aria-label='Selling AI candle PDFs for $10k/week (COPY THIS) 8 minutes, 8 seconds' class='yt-simple-endpoint style-scope ytd-video-renderer' href='/watch?v=yLZkoIZoglY&pp=ygUraG93IHRvIHJlZGFjdCBQREYgZnJlZSBvbmxpbmUgYmVnaW5uZXIgZWFzeQ%3D%3D' id='video-title' title='Selling AI candle PDFs for $10k/week (COPY THIS)' />
+					[163] (564,565)<yt-formatted-string >Selling AI candle PDFs for $10k/week (COPY THIS) />
+			[164] (830,564)<div  />
+				[165] (830,561)<ytd-menu-renderer  />
+					[166] (830,561)<yt-icon-button  />
+						[167] (830,561)<button aria-label='Action menu' class='style-scope yt-icon-button' id='button' />
+							[168] (830,561)<yt-icon  />
+								[169] (830,561)<span  />
+									[170] (830,561)<div  />
+		[171] (649,589)<ytd-video-meta-block  />
+			[172] (649,589)<div  />
+				[173] (491,589)<div  />
+					[174] (473,589)<span >2.4K views />
+					[175] (506,589)<span >4 days ago />
+	[176] (649,627)<div  />
+		[177] (466,627)<a aria-label='Go to channel Frank Garrett' class='style-scope ytd-video-renderer' href='/@frankgarrettbiz' id='channel-thumbnail' />
+			[178] (464,625)<yt-img-shadow  />
+				[179] (464,625)<img  />
+		[180] (493,627)<ytd-channel-name  />
+			[181] (493,627)<div  />
+				[182] (493,627)<div  />
+					[183] (493,627)<yt-formatted-string  />
+						[184] (493,627)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@frankgarrettbiz'>Frank Garrett />
+	[185] (649,664)<div  />
+		[186] (631,664)<yt-formatted-string  />
+			[187] (479,664)<span >Start a passive />
+			[188] (507,664)<span >PDF />
+			[189] (537,664)<span >business, selling />
+			[190] (577,664)<span >simple PDF />
+			[191] (600,664)<span >files />
+			[192] (616,664)<span >online />
+			[193] (714,664)<span >https://learn-passivepdfmethod.com Monetize your Facebook ... />
+	[194] (649,693)<ytd-badge-supported-renderer  />
+		[195] (466,693)<div  />
+			[196] (466,693)<badge-shape aria-label='New' class='yt-badge-shape yt-badge-shape--default yt-badge-shape--typography' role='img' />
+				[197] (466,693)<div >New />
+[198] (649,987)<div  />
+	[199] (649,898)<div  />
+		[200] (649,888)<div  />
+			[201] (593,888)<h3  />
+				[202] (593,888)<a aria-label='How to Sanitize PDFs in Adobe Acrobat Pro (UPDATED Interface) 3 minutes, 33 seconds' class='yt-simple-endpoint style-scope ytd-video-renderer' href='/watch?v=Ej2JlweVZ8g&pp=ygUraG93IHRvIHJlZGFjdCBQREYgZnJlZSBvbmxpbmUgYmVnaW5uZXIgZWFzeQ%3D%3D' id='video-title' title='How to Sanitize PDFs in Adobe Acrobat Pro (UPDATED Interface)' />
+					[203] (593,888)<yt-formatted-string >How to Sanitize PDFs in Adobe Acrobat Pro (UPDATED Interface) />
+			[204] (830,887)<div  />
+				[205] (830,884)<ytd-menu-renderer  />
+					[206] (830,884)<yt-icon-button  />
+						[207] (830,884)<button aria-label='Action menu' class='style-scope yt-icon-button' id='button' />
+							[208] (830,884)<yt-icon  />
+								[209] (830,884)<span  />
+									[210] (830,884)<div  />
+		[211] (649,912)<ytd-video-meta-block  />
+			[212] (649,912)<div  />
+				[213] (497,912)<div  />
+					[214] (473,912)<span >2.2K views />
+					[215] (512,912)<span >10 months ago />
+	[216] (649,950)<div  />
+		[217] (466,950)<a aria-label='Go to channel Erin Wright Writing' class='style-scope ytd-video-renderer' href='/@erinwrightwriting' id='channel-thumbnail' />
+			[218] (464,948)<yt-img-shadow  />
+				[219] (464,948)<img  />
+		[220] (500,950)<ytd-channel-name  />
+			[221] (500,950)<div  />
+				[222] (500,950)<div  />
+					[223] (500,950)<yt-formatted-string  />
+						[224] (500,950)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@erinwrightwriting'>Erin Wright Writing />
+	[225] (649,987)<div  />
+		[226] (634,987)<yt-formatted-string  />
+			[227] (488,987)<span >Learn how to sanitize />
+			[228] (526,987)<span >PDFs />
+			[229] (672,987)<span >in Adobe Acrobat Pro using the updated interface. The sanitization process permanently removes ... />
+
+</current_dom>

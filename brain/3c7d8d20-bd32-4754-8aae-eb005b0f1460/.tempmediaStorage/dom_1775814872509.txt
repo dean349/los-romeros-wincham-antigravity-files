@@ -1,0 +1,56 @@
+[0] (204,90)<a href='https://www.ssllabs.com/index.html' />
+	[1] (204,64)<img  />
+[2] (790,50)<a class='link' href='https://www.ssllabs.com/index.html'>Home />
+[3] (876,50)<a class='link' href='https://www.ssllabs.com/projects/index.html'>Projects />
+Qualys Free Trial
+You are here:
+[4] (139,128)<a href='/index.html'>Home />
+>
+[5] (195,128)<a href='/projects/index.html'>Projects />
+>
+[6] (279,128)<a href='/ssltest/index.html'>SSL Server Test />
+>
+            www.wincham.com
+SSL Report:
+www.wincham.com
+(109.123.101.242)
+Assessed on:
+Fri, 10 Apr 2026 09:38:56 UTC
+| HIDDEN
+|
+[7] (406,201)<a href='analyze.html?d=www.wincham.com&hideResults=on&clearCache=on'>Clear cache />
+Scan Another »
+Summary
+Overall Rating
+B
+0
+20
+40
+60
+80
+100
+Certificate
+Protocol Support
+Key Exchange
+Cipher Strength
+Visit our
+[8] (336,593)<a href='https://www.ssllabs.com/projects/documentation/index.html'>documentation page />
+for more information, configuration guides, and books. Known issues are documented
+[9] (951,593)<a href='https://community.qualys.com/docs/DOC-4865'>here />
+.
+This server supports weak Diffie-Hellman (DH) key exchange parameters. Grade capped to B.
+[10] (884,640)<a href='https://weakdh.org' />
+	[11] (884,640)<span >MORE INFO » />
+This server accepts RC4 cipher, but only with older protocols. Grade capped to B.
+[12] (848,687)<a href='https://blog.qualys.com/product-tech/2013/03/19/rc4-in-tls-is-broken-now-what' />
+	[13] (848,687)<span >MORE INFO » />
+This server supports TLS 1.0 and TLS 1.1.
+                            Grade capped to B.
+[14] (784,734)<a href='https://blog.qualys.com/ssllabs/2018/11/19/grade-change-for-tls-1-0-and-tls-1-1-protocols' />
+	[15] (784,734)<span >MORE INFO » />
+This server does not support TLS 1.3.
+[16] (712,781)<a href='https://notifications.qualys.com/product/2025/02/26/key-changes-in-ssl-labs-grading-and-qualys-certview#major-grade-changes-in-certview-and-ssllabs-effective-post-march-release' />
+	[17] (712,781)<span >MORE INFO » />
+This site works only in browsers with SNI support.
+Certificate #1: RSA 2048 bits (SHA256withRSA)
+Server Key and Certificate #1

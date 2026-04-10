@@ -1,0 +1,193 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (19,30)<button aria-label='Guide' class='style-scope yt-icon-button' id='button' />
+	[1] (19,30)<yt-icon  />
+[2] (61,30)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube Home' />
+	[3] (61,30)<div  />
+		[4] (61,30)<ytd-logo  />
+			[5] (61,30)<yt-icon  />
+[6] (470,30)<div  />
+	[7] (467,30)<form  />
+		[8] (467,30)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='Search' role='combobox' />
+	[9] (601,30)<div  />
+		[10] (601,30)<button aria-label='Clear search query' class='ytSearchboxComponentClearButton' />
+			[11] (601,30)<yt-touch-feedback-shape  />
+				[12] (601,30)<div  />
+[13] (626,30)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='Search' />
+	[14] (626,30)<span  />
+[15] (662,30)<button aria-label='Search with your voice' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[16] (662,30)<yt-touch-feedback-shape  />
+		[17] (662,30)<div  />
+[18] (244,90)<button class='ytChipShapeButtonReset' role='tab' />
+	[19] (244,90)<div >All />
+		All
+		[20] (244,90)<yt-touch-feedback-shape  />
+			[21] (244,90)<div  />
+[22] (276,90)<button class='ytChipShapeButtonReset' role='tab' />
+	[23] (276,90)<div >Videos />
+		Videos
+		[24] (276,90)<yt-touch-feedback-shape  />
+			[25] (276,90)<div  />
+[26] (322,90)<button class='ytChipShapeButtonReset' role='tab' />
+	[27] (322,90)<div >Unwatched />
+		Unwatched
+		[28] (322,90)<yt-touch-feedback-shape  />
+			[29] (322,90)<div  />
+[30] (371,90)<button class='ytChipShapeButtonReset' role='tab' />
+	[31] (371,90)<div >Watched />
+		Watched
+		[32] (371,90)<yt-touch-feedback-shape  />
+			[33] (371,90)<div  />
+[34] (432,90)<button class='ytChipShapeButtonReset' role='tab' />
+	[35] (432,90)<div >Recently uploaded />
+		Recently uploaded
+		[36] (432,90)<yt-touch-feedback-shape  />
+			[37] (432,90)<div  />
+[38] (485,90)<button class='ytChipShapeButtonReset' role='tab' />
+	[39] (485,90)<div >Live />
+		Live
+		[40] (485,90)<yt-touch-feedback-shape  />
+			[41] (485,90)<div  />
+[42] (531,90)<button class='ytChipShapeButtonReset' role='tab' />
+	[43] (531,90)<div >Subscriptions />
+		Subscriptions
+		[44] (531,90)<yt-touch-feedback-shape  />
+			[45] (531,90)<div  />
+[46] (859,91)<button aria-label='Search filters' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-trailing yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	Filters
+	[47] (859,91)<yt-touch-feedback-shape  />
+		[48] (859,91)<div  />
+[49] (363,275)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=CtRgwJaW2N4&pp=ygUvc2VhcmNoIGdtYWlsIGVtYWlscyB0dXRvcmlhbCBiZWdpbm5lciAzIG1pbnV0ZXM%3D' id='thumbnail' />
+	[50] (363,423)<yt-image  />
+[51] (693,220)<div  />
+	[52] (693,146)<div  />
+		[53] (693,136)<div  />
+			[54] (574,136)<h3  />
+				[55] (574,136)<a aria-label='Gmail Tutorial for Beginners | 2023 11 minutes, 36 seconds' class='yt-simple-endpoint style-scope ytd-video-renderer' href='/watch?v=CtRgwJaW2N4&pp=ygUvc2VhcmNoIGdtYWlsIGVtYWlscyB0dXRvcmlhbCBiZWdpbm5lciAzIG1pbnV0ZXM%3D' id='video-title' title='Gmail Tutorial for Beginners | 2023' />
+					[56] (574,136)<yt-formatted-string >Gmail Tutorial for Beginners | 2023 />
+		[57] (693,160)<ytd-video-meta-block  />
+			[58] (693,160)<div  />
+				[59] (537,160)<div  />
+					[60] (518,160)<span >764K views />
+					[61] (553,160)<span >5 years ago />
+	[62] (693,197)<div  />
+		[63] (510,197)<a aria-label='Go to channel How Do You Do?' class='style-scope ytd-video-renderer' href='/@HowDoYouDo_' id='channel-thumbnail' />
+			[64] (508,196)<yt-img-shadow  />
+				[65] (508,196)<img  />
+		[66] (542,197)<ytd-channel-name  />
+			[67] (542,197)<div  />
+				[68] (542,197)<div  />
+					[69] (542,197)<yt-formatted-string  />
+						[70] (542,197)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@HowDoYouDo_'>How Do You Do? />
+	[71] (693,235)<div  />
+		[72] (676,235)<yt-formatted-string  />
+			[73] (527,235)<span >Today's video is a />
+			[74] (571,235)<span >Gmail tutorial />
+			[75] (595,235)<span >for />
+			[76] (615,235)<span >beginners />
+			[77] (658,235)<span >! in 2023, Google and />
+			[78] (696,235)<span >Gmail />
+			[79] (778,235)<span >are more popular than ever especially with Google ... />
+	[80] (693,286)<div  />
+		[81] (693,286)<ytd-expandable-metadata-renderer  />
+			[82] (693,286)<div  />
+				[83] (683,286)<div  />
+					[84] (520,286)<div  />
+						[85] (520,286)<yt-img-shadow  />
+							[86] (520,286)<img  />
+					[87] (556,286)<div  />
+						[88] (556,286)<yt-formatted-string  />
+							[89] (543,286)<span >12 />
+							[90] (559,286)<span >chapters />
+					[91] (718,286)<div class='style-scope ytd-expandable-metadata-renderer' id='collapsed-title' role='button'>Intro | Composing an E-mail | Auto-Fill (aka smart compose) | Undo Send | Schedule Send | Changing default text style | E-mail grouping | Adding an e-mail signature | Out of office message | E-mail forwarding | Finding and searching for mail | Outro />
+						Intro | Composing an E-mail | Auto-Fill (aka smart compose) | Undo Send | Schedule Send | Changing default text style | E-mail grouping | Adding an e-mail signature | Out of office message | E-mail forwarding | Finding and searching for mail | Outro
+				[92] (872,286)<div  />
+					[93] (872,286)<div  />
+						[94] (872,286)<ytd-button-renderer  />
+							[95] (872,286)<yt-button-shape  />
+								[96] (872,286)<button aria-label='More' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+									[97] (872,286)<yt-touch-feedback-shape  />
+										[98] (872,286)<div  />
+[99] (363,597)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=oLdHnWLbn4A&pp=ygUvc2VhcmNoIGdtYWlsIGVtYWlscyB0dXRvcmlhbCBiZWdpbm5lciAzIG1pbnV0ZXM%3D' id='thumbnail' />
+	[100] (363,746)<yt-image  />
+[101] (693,557)<div  />
+	[102] (693,468)<div  />
+		[103] (693,459)<div  />
+			[104] (574,459)<h3  />
+				[105] (574,459)<a aria-label='BEST Way to Organize Gmail Inbox 8 minutes, 23 seconds' class='yt-simple-endpoint style-scope ytd-video-renderer' href='/watch?v=oLdHnWLbn4A&pp=ygUvc2VhcmNoIGdtYWlsIGVtYWlscyB0dXRvcmlhbCBiZWdpbm5lciAzIG1pbnV0ZXM%3D' id='video-title' title='BEST Way to Organize Gmail Inbox' />
+					[106] (574,459)<yt-formatted-string >BEST Way to Organize Gmail Inbox />
+		[107] (693,483)<ytd-video-meta-block  />
+			[108] (693,483)<div  />
+				[109] (537,483)<div  />
+					[110] (518,483)<span >932K views />
+					[111] (553,483)<span >3 years ago />
+	[112] (693,520)<div  />
+		[113] (510,520)<a aria-label='Go to channel Kevin Stratvert' class='style-scope ytd-video-renderer' href='/@KevinStratvert' id='channel-thumbnail' />
+			[114] (508,519)<yt-img-shadow  />
+				[115] (508,519)<img  />
+		[116] (543,520)<ytd-channel-name  />
+			[117] (539,520)<div  />
+				[118] (539,520)<div  />
+					[119] (539,520)<yt-formatted-string  />
+						[120] (539,520)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@KevinStratvert'>Kevin Stratvert />
+			[121] (563,520)<ytd-badge-supported-renderer  />
+				[122] (563,520)<div  />
+					[123] (564,520)<badge-shape aria-label='Verified' class='yt-badge-shape yt-badge-shape--default yt-badge-shape--no-text yt-badge-shape--modern yt-badge-shape--typography' role='img' />
+						[124] (564,520)<div  />
+	[125] (693,558)<div  />
+		[126] (671,558)<yt-formatted-string  />
+			[127] (580,558)<span >In this step-by-step overview, learn how to organize your />
+			[128] (665,558)<span >email />
+			[129] (707,558)<span >and get to inbox zero in />
+			[130] (749,558)<span >Gmail />
+			[131] (798,558)<span >from an ex-Google employee. />
+	[132] (693,586)<ytd-badge-supported-renderer  />
+		[133] (508,586)<div  />
+			[134] (508,586)<badge-shape aria-label='4K' class='yt-badge-shape yt-badge-shape--default yt-badge-shape--typography' role='img' />
+				[135] (508,586)<div >4K />
+		[136] (522,586)<div  />
+			[137] (522,586)<badge-shape aria-label='Closed captions' class='yt-badge-shape yt-badge-shape--default yt-badge-shape--typography' role='img' />
+				[138] (522,586)<div >CC />
+	[139] (693,637)<div  />
+		[140] (693,637)<ytd-expandable-metadata-renderer  />
+			[141] (693,637)<div  />
+				[142] (683,637)<div  />
+					[143] (520,637)<div  />
+						[144] (520,637)<yt-img-shadow  />
+							[145] (520,637)<img  />
+					[146] (554,637)<div  />
+						[147] (554,637)<yt-formatted-string  />
+							[148] (541,637)<span >9 />
+							[149] (556,637)<span >chapters />
+					[150] (717,637)<div class='style-scope ytd-expandable-metadata-renderer' id='collapsed-title' role='button' />
+						[151] (712,647)<yt-formatted-string >Introduction | Email categories | Create new labels | Colorize labels | Enable multiple inboxes | Triage email | Clear out inbox | Tips and tricks | Wrap up />
+				[152] (872,637)<div  />
+					[153] (872,637)<div  />
+						[154] (872,637)<ytd-button-renderer  />
+							[155] (872,637)<yt-button-shape  />
+								[156] (872,637)<button aria-label='More' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+									[157] (872,637)<yt-touch-feedback-shape  />
+										[158] (872,637)<div  />
+[159] (693,825)<feed-ad-metadata-view-model  />
+	[160] (693,825)<div  />
+		[161] (687,799)<span  />
+			[162] (583,799)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' />
+				[163] (583,799)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' href='https://www.google.com/aclk?sa=L&ai=DChsSEwiQgfKozc2TAxWmg8IIHQrnHZAYACICCAEQChoCamY&co=1&ase=2&gclid=EAIaIQobChMIkIHyqM3NkwMVpoPCCB0K5x2QEAEYASAAEgJii_D_BwE&num=1&cid=CAASZeRo6l-En7VyCs9oM43YITNXSb1F0B_y8LJ8Okd3qOOxQlO7vs-6svdM0QWWtA4rH7x1W8NR6nnHP0vBqCdt07m6Y2BKwEgQM4XJDeL1eb5sE0DtrfJ8-ygyRXLj7-JOnYi6bImF&cce=2&category=acrcp_v1_32&sig=AOD64_04_IHggThcYBfcfvAgHZgwvlmKtQ&adurl=https://email.quickfix360.com/%3Fgad_source%3D2%26gad_campaignid%3D21817618921&ms=[CLICK_MS]&nx=[NX]&ny=[NY]&nb=0'>Gmail Support - View my email account />
+		[164] (687,827)<span  />
+			[165] (685,827)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' />
+				[166] (685,827)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' href='https://www.google.com/aclk?sa=L&ai=DChsSEwiQgfKozc2TAxWmg8IIHQrnHZAYACICCAEQChoCamY&co=1&ase=2&gclid=EAIaIQobChMIkIHyqM3NkwMVpoPCCB0K5x2QEAEYASAAEgJii_D_BwE&num=1&cid=CAASZeRo6l-En7VyCs9oM43YITNXSb1F0B_y8LJ8Okd3qOOxQlO7vs-6svdM0QWWtA4rH7x1W8NR6nnHP0vBqCdt07m6Y2BKwEgQM4XJDeL1eb5sE0DtrfJ8-ygyRXLj7-JOnYi6bImF&cce=2&category=acrcp_v1_32&sig=AOD64_04_IHggThcYBfcfvAgHZgwvlmKtQ&adurl=https://email.quickfix360.com/%3Fgad_source%3D2%26gad_campaignid%3D21817618921&ms=[CLICK_MS]&nx=[NX]&ny=[NY]&nb=7'>QuickFix360 INC Can Help You Recover Your Email Account and password. Get 247 Solution. Email Problems? Get your issue Fixed... />
+		[167] (687,851)<div  />
+			[168] (520,855)<ad-badge-view-model  />
+				[169] (520,855)<badge-shape  />
+					[170] (517,855)<div >Sponsored />
+			[171] (596,855)<ad-details-line-view-model  />
+				[172] (596,855)<span class='yt-core-attributed-string ytwAdDetailsLineViewModelHostTextStyleStandard yt-core-attributed-string--white-space-pre-wrap' role='text'>https://email.quickfix360.com/email/help />
+	[173] (880,798)<div  />
+		[174] (880,798)<button-view-model  />
+			[175] (880,798)<button aria-label='My Ad Center' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+				[176] (880,798)<yt-touch-feedback-shape  />
+					[177] (880,798)<div  />
+
+</current_dom>

@@ -1,0 +1,44 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Simple, Intelligent, Professional Services
+[0] (108,225)<a href='home.asp'>Home />
+[1] (178,225)<a >About Us />
+	[2] (200,225)<span  />
+[3] (260,225)<a >Services />
+	[4] (280,225)<span  />
+[5] (358,225)<a >Meet The Team />
+	[6] (396,225)<span  />
+[7] (458,225)<a href='contactus.asp'>Contact Us />
+[8] (567,225)<a class='aselected' href='brexit.asp' />
+	[9] (565,224)<img  />
+News Updates
+HMRC tells Brits to declare overseas earnings in tax evasion crackdown
+Spanish Inheritance and Gift Tax increase for 2017 within numerous regions of Spain
+Wincham Property Services & Management
+Inheritance Tax increases in the Murcia & Valencia Region
+Spanish Energy Performance Certificates- your requirements explained
+Wincham has success with "Tea on the Terrace"
+Wincham launches Marbella Office
+HMRC tells Brits to declare overseas earnings in tax evasion crackdown
+THE British government has told its taxpayers, including those living abroad, that they must declare their earnings on overseas assets by September 30 or face penalties.
+HM Revenue and Customs (HMRC), the country’s tax collecting authority, said the call was aimed at those who have not informed officials of assets and earnings outside the country. It relates to earnings which come under income, capital gains or inheritance levies.
+The deadline follows the passing of new tax rules in Britain which are designed to target those who stash undeclared earnings foreign assets, according to Treasury sources.
+It comes as Britain is set to join the Common Reporting Standard (CRS) system this October which allows a total of 100 countries, including Spain, to share financial accounts data.
+Mel Stride, the British government’s Financial Secretary to the Treasury, said he urged anyone who had not already contacted HMRC to declare overseas assets to do so.
+User Login
+Login Email:
+[10] (777,536)<input class='txtinput placeholder' id='loginemail_txt' />
+Password:
+[11] (777,628)<input class='txtinput placeholder' id='loginpwd_txt' />
+[12] (716,694)<button class='btn btn-1 boxh'>Login />
+[13] (826,672)<a href='javascript:void(0)'>Forgotten Password />
+[14] (826,708)<a href='enquiry.asp'>Register As a Client />
+[15] (829,744)<a href='https://tax.wincham.com/registerAgent.aspx'>Register As an Agent />
+Enquiry Form
+[16] (777,949)<input class='txtinput placeholder' id='fname' placeholder='First Name' />
+*
+*
+
+</current_dom>

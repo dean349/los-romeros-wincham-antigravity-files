@@ -1,0 +1,202 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+30 Dec 2019
+Termination of appointment
+of Kevin John Stockwell as a director on 23 December 2019
+[0] (660,18)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzI1MzMxOTY0MWFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+of Kevin John Stockwell as a director on 23 December 2019
+ - link opens in a new window  - 1 page />
+	Termination of appointment
+	of Kevin John Stockwell as a director on 23 December 2019
+ - link opens in a new window  - 1 page
+(1 page)
+27 Dec 2019
+Statement of capital following an allotment of shares
+on 24 December 2019
+GBP 159,636
+[1] (660,71)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzI1MzIyNDAzOGFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+on 24 December 2019
+- link opens in a new window  - 3 pages />
+	Statement of capital following an allotment of shares
+	on 24 December 2019
+	GBP 159,636
+	- link opens in a new window  - 3 pages
+(3 pages)
+04 Dec 2019
+Total exemption full accounts
+made up to 31 August 2019
+[2] (660,123)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzI1MTE3MDkxMWFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+made up to 31 August 2019
+ - link opens in a new window  - 7 pages />
+	Total exemption full accounts
+	made up to 31 August 2019
+ - link opens in a new window  - 7 pages
+(7 pages)
+[3] (671,153)<a class='link-updater-js govuk-link' href='/company/06993349/filing-history/MzI1MTE3MDkxMWFkaXF6a2N4/document?format=xhtml&download=1'>Download iXBRL />
+08 Oct 2019
+Appointment
+of Mr Mark Damion Roach as a director on 7 October 2019
+[4] (660,191)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzI0NjI2NTYwMmFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+of Mr Mark Damion Roach as a director on 7 October 2019
+ - link opens in a new window  - 2 pages />
+	Appointment
+	of Mr Mark Damion Roach as a director on 7 October 2019
+ - link opens in a new window  - 2 pages
+(2 pages)
+07 Oct 2019
+Appointment
+of Mr Kevin John Stockwell as a director on 7 October 2019
+[5] (660,238)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzI0NjE5MjI5MmFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+of Mr Kevin John Stockwell as a director on 7 October 2019
+ - link opens in a new window  - 2 pages />
+	Appointment
+	of Mr Kevin John Stockwell as a director on 7 October 2019
+ - link opens in a new window  - 2 pages
+(2 pages)
+07 Oct 2019
+Termination of appointment
+of Mark Damion Roach as a director on 7 October 2019
+[6] (660,286)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzI0NjE5MTkyM2FkaXF6a2N4/document?format=pdf&download=0'>View PDF
+of Mark Damion Roach as a director on 7 October 2019
+ - link opens in a new window  - 1 page />
+	Termination of appointment
+	of Mark Damion Roach as a director on 7 October 2019
+ - link opens in a new window  - 1 page
+(1 page)
+21 Aug 2019
+Confirmation statement
+made on 18 August 2019 with updates
+[7] (660,334)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzI0MjI0MDY4NmFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+made on 18 August 2019 with updates
+ - link opens in a new window  - 4 pages />
+	Confirmation statement
+	made on 18 August 2019 with updates
+ - link opens in a new window  - 4 pages
+(4 pages)
+15 Apr 2019
+Total exemption full accounts
+made up to 31 August 2018
+[8] (660,382)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzIzMjA3ODU1OGFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+made up to 31 August 2018
+ - link opens in a new window  - 7 pages />
+	Total exemption full accounts
+	made up to 31 August 2018
+ - link opens in a new window  - 7 pages
+(7 pages)
+[9] (671,411)<a class='link-updater-js govuk-link' href='/company/06993349/filing-history/MzIzMjA3ODU1OGFkaXF6a2N4/document?format=xhtml&download=1'>Download iXBRL />
+25 Jan 2019
+Appointment
+of Mr Mark Damion Roach as a director on 22 January 2019
+[10] (660,449)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzIyNTQxMjQ1NGFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+of Mr Mark Damion Roach as a director on 22 January 2019
+ - link opens in a new window  - 2 pages />
+	Appointment
+	of Mr Mark Damion Roach as a director on 22 January 2019
+ - link opens in a new window  - 2 pages
+(2 pages)
+25 Jan 2019
+Termination of appointment
+of Bryan Frederick Stockwell as a director on 22 January 2019
+[11] (660,497)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzIyNTQxMjM4NmFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+of Bryan Frederick Stockwell as a director on 22 January 2019
+ - link opens in a new window  - 1 page />
+	Termination of appointment
+	of Bryan Frederick Stockwell as a director on 22 January 2019
+ - link opens in a new window  - 1 page
+(1 page)
+25 Jan 2019
+Change
+of details for Mrs Mary Ann Stockwell as a person with significant control on 4 January 2019
+[12] (660,550)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzIyNTQxMjI5M2FkaXF6a2N4/document?format=pdf&download=0'>View PDF
+of details for Mrs Mary Ann Stockwell as a person with significant control on 4 January 2019
+ - link opens in a new window  - 2 pages />
+	Change
+	of details for Mrs Mary Ann Stockwell as a person with significant control on 4 January 2019
+ - link opens in a new window  - 2 pages
+(2 pages)
+25 Jan 2019
+Cessation
+of Bryan Frederick Stockwell as a person with significant control on 4 January 2019
+[13] (660,602)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzIyNTQxMjI4MmFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+of Bryan Frederick Stockwell as a person with significant control on 4 January 2019
+ - link opens in a new window  - 1 page />
+	Cessation
+	of Bryan Frederick Stockwell as a person with significant control on 4 January 2019
+ - link opens in a new window  - 1 page
+(1 page)
+24 Aug 2018
+Confirmation statement
+made on 18 August 2018 with no updates
+[14] (660,650)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzIxMjg3NTE4OGFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+made on 18 August 2018 with no updates
+ - link opens in a new window  - 3 pages />
+	Confirmation statement
+	made on 18 August 2018 with no updates
+ - link opens in a new window  - 3 pages
+(3 pages)
+17 Apr 2018
+Total exemption full accounts
+made up to 31 August 2017
+[15] (660,698)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzIwMjc2OTI4MGFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+made up to 31 August 2017
+ - link opens in a new window  - 7 pages />
+	Total exemption full accounts
+	made up to 31 August 2017
+ - link opens in a new window  - 7 pages
+(7 pages)
+[16] (671,727)<a class='link-updater-js govuk-link' href='/company/06993349/filing-history/MzIwMjc2OTI4MGFkaXF6a2N4/document?format=xhtml&download=1'>Download iXBRL />
+18 Aug 2017
+Confirmation statement
+made on 18 August 2017 with no updates
+[17] (660,765)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzE4MzI1MTk4NmFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+made on 18 August 2017 with no updates
+ - link opens in a new window  - 3 pages />
+	Confirmation statement
+	made on 18 August 2017 with no updates
+ - link opens in a new window  - 3 pages
+(3 pages)
+18 Aug 2017
+Change
+of details for Mrs Mary Ann Stockwell as a person with significant control on 18 August 2017
+[18] (660,818)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzE4MzI1MTg0N2FkaXF6a2N4/document?format=pdf&download=0'>View PDF
+of details for Mrs Mary Ann Stockwell as a person with significant control on 18 August 2017
+ - link opens in a new window  - 2 pages />
+	Change
+	of details for Mrs Mary Ann Stockwell as a person with significant control on 18 August 2017
+ - link opens in a new window  - 2 pages
+(2 pages)
+18 Aug 2017
+Director's details changed
+for Bryan Frederick Stockwell on 18 August 2017
+[19] (660,871)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzE4MzI1MTc1M2FkaXF6a2N4/document?format=pdf&download=0'>View PDF
+for Bryan Frederick Stockwell on 18 August 2017
+ - link opens in a new window  - 2 pages />
+	Director's details changed
+	for Bryan Frederick Stockwell on 18 August 2017
+ - link opens in a new window  - 2 pages
+(2 pages)
+18 Aug 2017
+Change
+of details for Mr Bryan Frederick Stockwell as a person with significant control on 18 August 2017
+[20] (660,923)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzE4MzI1MTU3OGFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+of details for Mr Bryan Frederick Stockwell as a person with significant control on 18 August 2017
+ - link opens in a new window  - 2 pages />
+	Change
+	of details for Mr Bryan Frederick Stockwell as a person with significant control on 18 August 2017
+ - link opens in a new window  - 2 pages
+(2 pages)
+09 Nov 2016
+Total exemption small company accounts
+made up to 31 August 2016
+[21] (660,976)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzE2MTU3OTUxM2FkaXF6a2N4/document?format=pdf&download=0'>View PDF
+made up to 31 August 2016
+ - link opens in a new window  - 5 pages />
+	Total exemption small company accounts
+	made up to 31 August 2016
+ - link opens in a new window  - 5 pages
+(5 pages)
+Download iXBRL
+
+</current_dom>

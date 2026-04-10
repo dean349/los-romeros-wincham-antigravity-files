@@ -1,0 +1,63 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Total Cost:
+Total Cost:
+€
+14910
+CONTINGENT BENEFICIARIES
+Number Of Contingent Beneficiaries:
+2
+Age Range:
+Pre-existing Estate Value:
+Gross Inheritance:
+Tax Free Allowance:
+Under 21 Tax Free Allowance:
+Net Taxable:
+Tax Payable:
+Legal Costs:
+Total Cost:
+Group:2
+---
+€ 100000
+€ 100000
+€ 15957
+---
+€ 84043
+€ 9910
+€ 5000
+€ 14910
+Group:2
+---
+€ 100000
+€ 100000
+€ 15957
+---
+€ 84043
+€ 9910
+€ 5000
+€ 14910
+Total Cost:
+€
+29820
+Grand Total Cost:
+€
+44730
+Spanish Tax Free Allowances as at 1st December 2007
+Group  1
+€  15957
+Descendents and Adoptive children under 21
+Group  2
+€  15957
+Descendents and Adoptive children over 21, Spouse, Parents, and Adoptive Parents
+Group  3
+€  7993
+Brothers\Sisters, Nephews\Nieces, Aunts\Uncles
+Group  4
+€  0
+Relatives in 4th degree and Friends
+Assumptions
+The calculations are based on the Spanish national rates of Tax and allowances currently set by Madrid. Depending on the locality of the property and other factors, there may be Regional variations in the Tax applicable. The information provided is only a guide.
+
+</current_dom>

@@ -1,0 +1,28 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+This website uses cookies to track visits and to ensure you get the best experience on our website.
+[0] (568,941)<a aria-label='learn more about cookies' class='cc-link' href='/cookiepolicy' role='button'>Learn more />
+[1] (954,941)<a aria-label='dismiss cookie message' class='cc-btn cc-dismiss' role='button'>Got it! />
+info@winchamaccountants.co.uk
+01260 299 700
+[2] (115,154)<a href='/' />
+	[3] (115,157)<img  />
+[4] (421,157)<a href='/'>Home />
+[5] (504,157)<a href='about-us'>Who We Are />
+[6] (599,157)<a href='meettheteam'>Our Team />
+[7] (686,157)<a href='propertyinvestmentstrategy'>Services />
+[8] (778,157)<a href='/contact-us'>Contact us />
+[9] (884,154)<a class='btn-style-one' href='enquiry'>Enquiry />
+Welcome to Wincham Accountants
+Simple, Intelligent, Professional Services
+Smarter Way to Buy UK Investment Property into a UK Limited Company
+Maximise Tax Efficiency with a UK Company Structure
+[10] (293,689)<a href='#' title='Professional guidance on structuring property acquisitions'>Professional guidance on structuring property acquisitions />
+[11] (295,755)<a href='#' title='Assistance with setting up a UK Limited Company structure'>Assistance with setting up a UK Limited Company structure />
+[12] (267,820)<a href='#' title='Tax-efficient solutions tailored to property investors'>Tax-efficient solutions tailored to property investors />
+Enhanced asset protection and long-term planning
+Ongoing support with compliance and accounting
+
+</current_dom>

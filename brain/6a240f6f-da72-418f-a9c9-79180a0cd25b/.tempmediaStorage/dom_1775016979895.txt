@@ -1,0 +1,32 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+🏠 Los Romeros Ltd
+[0] (199,44)<a href='#why-ai'>Why This Works />
+[1] (299,44)<a href='#specialists'>Specialist Advisers />
+[2] (383,44)<a href='#live-data'>Live Data />
+[3] (450,44)<a href='#documents'>Documents />
+[4] (520,44)<a href='#next-steps'>Next Steps />
+"This doesn't replace a professional's signature on a legal document. What it does is make sure you walk into any lawyer or accountant's office already knowing what they should be doing, why they're doing it, and whether their bill is reasonable."
+A UK solicitor working on a cross-border property disposal, MVL, and professional negligence claim from scratch would spend
+40–120 billable hours
+on investigation, research, and document preparation before drafting a single letter. Every piece of that work has already been done. Below is an itemised breakdown of every professional engagement that this work has either fully replaced, shortened, or dramatically front-loaded — based on real UK market rates for each specialist.
+Estimated Professional Fees Saved or Avoided
+£27,400 – £52,750
+Itemised across 7 specialist disciplines below. Does not include the £40,000+ tax saving from the MVL route, the £8,000–£12,000 FX broker saving, or the £86,310–£149,807 Wincham claim quantum — those are listed separately.
+Professional work done / fee avoided
+Market rate
+Estimated saving
+Forensic corporate investigation — Wincham Group
+17-year Companies House filing audit; 8-entity corporate map; director/PSC forensic analysis; secretary-shuffle documentation; 600+ page master report produced. A junior solicitor or paralegal would spend 3–5 days at a commercial firm doing this work.
+£250–£350/hr
+(paralegal/junior)
+£3,000–£5,600
+Pre-Action Protocol Letter of Claim (professional negligence)
+Full PAP-compliant Letter of Claim drafted and amended twice (v1: 28 March; v2: 31 March 2026), covering two independent heads of negligence, legal basis (Hedley Byrne, Bolam, CA 2006 ss.172–174, SGSA 1982 s.13, Limitation Act 1980 ss.2 & 14A), and itemised quantum table. A specialist negligence solicitor typically charges £1,500–£5,000 to draft the initial PAP letter alone.
+£300–£500/hr
+(specialist negligence)
+£1,500–£5,000
+
+</current_dom>

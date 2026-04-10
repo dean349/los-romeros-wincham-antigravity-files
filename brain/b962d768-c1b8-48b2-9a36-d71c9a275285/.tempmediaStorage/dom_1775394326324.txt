@@ -1,0 +1,261 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (26,46)<button aria-label='Guide' class='style-scope yt-icon-button' id='button' />
+	[1] (26,46)<yt-icon  />
+		[2] (26,46)<span  />
+			[3] (26,46)<div  />
+[4] (86,46)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube Home' />
+	[5] (86,46)<div  />
+		[6] (86,45)<ytd-logo  />
+			[7] (86,46)<yt-icon  />
+				[8] (87,46)<span  />
+					[9] (87,46)<div  />
+[10] (458,46)<div  />
+	[11] (463,46)<form  />
+		[12] (463,46)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='Search' role='combobox' />
+[13] (678,46)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='Search' />
+	[14] (678,46)<span  />
+		[15] (678,46)<span  />
+			[16] (678,46)<div  />
+[17] (727,46)<button aria-label='Search with your voice' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[18] (727,46)<yt-touch-feedback-shape  />
+		[19] (727,46)<div  />
+[20] (857,46)<button aria-label='Create' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	Create
+	[21] (857,46)<yt-touch-feedback-shape  />
+		[22] (857,46)<div  />
+[23] (913,46)<button aria-label='Notifications' class='style-scope yt-icon-button' id='button' />
+	[24] (913,44)<yt-icon-badge-shape  />
+		[25] (913,46)<div  />
+			[26] (913,46)<div  />
+				[27] (913,46)<span  />
+					[28] (913,46)<span  />
+						[29] (913,46)<div  />
+[30] (955,46)<button aria-label='Account menu' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[31] (955,46)<yt-img-shadow  />
+		[32] (955,46)<img  />
+Watch How to Avoid Spanish Inheritance Tax
+[33] (70,139)<a class='yt-simple-endpoint style-scope ytd-video-owner-renderer' href='/@winchaminternational7043' />
+	[34] (65,137)<yt-img-shadow  />
+		[35] (65,137)<img  />
+[36] (148,124)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@winchaminternational7043'>Wincham International />
+10 subscribers
+[37] (259,139)<button aria-label='Subscribe to Wincham International.' class='yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	Subscribe
+	[38] (259,139)<yt-touch-feedback-shape  />
+		[39] (259,139)<div  />
+[40] (401,139)<button aria-label='like this video along with 7 other people' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--segmented-start yt-spec-button-shape-next--enable-backdrop-filter-experiment'>7 />
+	7
+	[41] (401,139)<yt-touch-feedback-shape  />
+		[42] (401,139)<div  />
+[43] (444,139)<button aria-label='Dislike this video' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--segmented-end yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[44] (444,139)<yt-touch-feedback-shape  />
+		[45] (444,139)<div  />
+[46] (502,139)<button aria-label='Share' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment'>Share />
+	Share
+	[47] (502,139)<yt-touch-feedback-shape  />
+		[48] (502,139)<div  />
+[49] (571,139)<button aria-label='Ask' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment'>Ask />
+	Ask
+	[50] (571,139)<yt-touch-feedback-shape  />
+		[51] (571,139)<div  />
+[52] (619,139)<button aria-label='More actions' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[53] (619,139)<yt-touch-feedback-shape  />
+		[54] (619,139)<div  />
+5,186 views
+Jul 20, 2014
+Wincham Consultants supply owners or prospective buyers of Spanish property legal and Taxation advice to structure the ownership of their Spanish property to significantly limit themselves and their Beneficiaries from Spanish Tax liabilities. 
+
+Whether you currently own a property in Spain, are about to purchase one or own the property in an Offshore or Spanish SL Company, we have a solution and method to help purchase or transfer your property into a UK Limited Company to avoid Inheritance Tax in Spain. 
+
+Most people are unaware of the fact that when they or their partner dies the survivor may be liable for Inheritance Tax both in their country of domicile and in Spain. The additional Tax that their children will pay when the second partner or parent dies is an even bigger surprise. The third explosive fact is that the property cannot be sold to fund the taxes ! 
+
+Don't let the tax man take away your legacy.
+
+Click on link below to save a fortune.
+[55] (108,757)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color' href='https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDhsb3BjNUoya2xORnVpMGFjLTFjUC1ibTExd3xBQ3Jtc0tua19IOUtHMGg5VDBLNmpSbHlHTXdMbW9tS29RMk12NnVpYXMyUm1qeV9DUjBJbkZRdUhvUDVfdW8xRUhoYlNmN09qeC1NMFFSVUs0cFplTTN5Z0V2ajM0RVVIcnRzX3B4R1VBaEdYWk05MHZ1RHpTYw&q=http%3A%2F%2Fgoo.gl%2FxKZR0A&v=W0tOJmiV6p0'>http://goo.gl/xKZR0A />
+Ask
+Get answers, explore topics, and more
+[56] (112,982)<button aria-label='Ask questions' class='yt-spec-button-shape-next yt-spec-button-shape-next--outline yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment'>Ask questions />
+	Ask questions
+	[57] (112,982)<yt-touch-feedback-shape  />
+		[58] (112,982)<div  />
+[59] (706,124)<yt-thumbnail-bottom-overlay-view-model  />
+	[60] (750,124)<div  />
+		[61] (750,121)<yt-thumbnail-badge-view-model  />
+			[62] (750,121)<badge-shape  />
+				[63] (750,121)<div >18:18 />
+Spanish wills & inheritance
+Michael Davies /Your Spanish Inheritance Lawyer
+443 views
+•
+2 years ago
+[64] (791,240)<div  />
+	[65] (709,240)<a class='yt-lockup-view-model__content-image' href='/watch?v=RH5LNtLBWHY' />
+		[66] (706,235)<yt-thumbnail-view-model  />
+			[67] (706,235)<div  />
+				[68] (706,235)<img  />
+			[69] (706,293)<yt-thumbnail-bottom-overlay-view-model  />
+				[70] (750,293)<div  />
+					[71] (750,290)<yt-thumbnail-badge-view-model  />
+						[72] (750,290)<badge-shape  />
+							[73] (750,290)<div >13:01 />
+	[74] (856,240)<div  />
+		[75] (856,240)<yt-lockup-metadata-view-model  />
+			[76] (856,240)<div  />
+				[77] (856,190)<h3  />
+					[78] (856,190)<a aria-label='BREAKING: Missing US airman RESCUED from Iran: 'WE GOT HIM' 13 minutes, 1 second' class='yt-lockup-metadata-view-model__title' href='/watch?v=RH5LNtLBWHY' />
+						[79] (844,206)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text'>BREAKING: Missing US airman RESCUED from Iran: 'WE GOT HIM' />
+				[80] (856,273)<div  />
+					[81] (856,274)<yt-content-metadata-view-model  />
+						[82] (856,241)<div  />
+							[83] (799,241)<span class='yt-core-attributed-string ytContentMetadataViewModelMetadataText yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>Fox News />
+								[84] (818,241)<span  />
+									[85] (819,241)<span  />
+										[86] (819,243)<span class='ytIconWrapperHost yt-core-attributed-string__image-element yt-core-attributed-string__image-element--image-alignment-vertical-center' role='img' />
+											[87] (819,243)<span  />
+												[88] (819,243)<div  />
+						[89] (856,274)<div  />
+							[90] (795,274)<span class='yt-core-attributed-string ytContentMetadataViewModelMetadataText yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>302K views />
+							[91] (822,274)<span >• />
+							[92] (849,274)<span class='yt-core-attributed-string ytContentMetadataViewModelMetadataText yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>2 hours ago />
+						[93] (856,307)<div  />
+							[94] (785,307)<div  />
+								[95] (785,307)<yt-badge-view-model  />
+									[96] (785,307)<badge-shape  />
+										[97] (785,307)<div >New />
+			[98] (933,177)<div  />
+				[99] (933,177)<button-view-model  />
+					[100] (933,177)<button aria-label='More actions' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+						[101] (933,177)<yt-touch-feedback-shape  />
+							[102] (933,177)<div  />
+[103] (791,413)<div  />
+	[104] (709,413)<a class='yt-lockup-view-model__content-image' href='/watch?v=ovrBNOuyYsY&pp=ugUEEgJlbg%3D%3D' />
+		[105] (706,413)<yt-thumbnail-view-model  />
+			[106] (706,413)<div  />
+				[107] (706,413)<img  />
+			[108] (706,471)<yt-thumbnail-bottom-overlay-view-model  />
+				[109] (750,471)<div  />
+					[110] (750,468)<yt-thumbnail-badge-view-model  />
+						[111] (750,468)<badge-shape  />
+							[112] (750,468)<div >14:11 />
+	[113] (856,413)<div  />
+		[114] (856,401)<yt-lockup-metadata-view-model  />
+			[115] (856,401)<div  />
+				[116] (856,368)<h3  />
+					[117] (856,368)<a aria-label='Moving to Spain in 2026? The Good, the Bad & the Reality 14 minutes, 11 seconds' class='yt-lockup-metadata-view-model__title' href='/watch?v=ovrBNOuyYsY&pp=ugUEEgJlbg%3D%3D' />
+						[118] (842,367)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text'>Moving to Spain in 2026? The Good, the Bad & the Reality />
+				[119] (856,434)<div  />
+					[120] (856,436)<yt-content-metadata-view-model  />
+						[121] (856,419)<div  />
+							[122] (807,419)<span class='yt-core-attributed-string ytContentMetadataViewModelMetadataText yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>Spain Speaks />
+								[123] (834,419)<span  />
+									[124] (836,419)<span  />
+										[125] (836,421)<span class='ytIconWrapperHost yt-core-attributed-string__image-element yt-core-attributed-string__image-element--image-alignment-vertical-center' role='img' />
+											[126] (836,421)<span  />
+												[127] (836,421)<div  />
+						[128] (856,452)<div  />
+							[129] (793,452)<span class='yt-core-attributed-string ytContentMetadataViewModelMetadataText yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>23K views />
+							[130] (817,452)<span >• />
+							[131] (848,452)<span class='yt-core-attributed-string ytContentMetadataViewModelMetadataText yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>3 months ago />
+			[132] (933,355)<div  />
+				[133] (933,355)<button-view-model  />
+					[134] (933,355)<button aria-label='More actions' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+						[135] (933,355)<yt-touch-feedback-shape  />
+							[136] (933,355)<div  />
+[137] (791,586)<div  />
+	[138] (709,586)<a class='yt-lockup-view-model__content-image' href='/watch?v=w4gcfxSsAs4&pp=ugUHEgVlbi1VUw%3D%3D' />
+		[139] (706,582)<yt-thumbnail-view-model  />
+			[140] (706,582)<div  />
+				[141] (706,582)<img  />
+			[142] (706,640)<yt-thumbnail-bottom-overlay-view-model  />
+				[143] (753,640)<div  />
+					[144] (753,637)<yt-thumbnail-badge-view-model  />
+						[145] (753,637)<badge-shape  />
+							[146] (753,637)<div >5:41 />
+	[147] (856,586)<div  />
+		[148] (856,586)<yt-lockup-metadata-view-model  />
+			[149] (856,586)<div  />
+				[150] (856,537)<h3  />
+					[151] (856,537)<a aria-label='This Ski Season Broke Vail Resorts And Now They’re Being Sued 5 minutes, 41 seconds' class='yt-lockup-metadata-view-model__title' href='/watch?v=w4gcfxSsAs4&pp=ugUHEgVlbi1VUw%3D%3D' />
+						[152] (846,553)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text'>This Ski Season Broke Vail Resorts And Now They’re Being Sued />
+				[153] (856,619)<div  />
+					[154] (856,621)<yt-content-metadata-view-model  />
+						[155] (856,588)<div  />
+							[156] (799,588)<span class='yt-core-attributed-string ytContentMetadataViewModelMetadataText yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>Outdoor Thor />
+						[157] (856,621)<div  />
+							[158] (795,621)<span class='yt-core-attributed-string ytContentMetadataViewModelMetadataText yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>181K views />
+							[159] (822,621)<span >• />
+							[160] (847,621)<span class='yt-core-attributed-string ytContentMetadataViewModelMetadataText yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>6 days ago />
+						[161] (856,654)<div  />
+							[162] (785,654)<div  />
+								[163] (785,654)<yt-badge-view-model  />
+									[164] (785,654)<badge-shape  />
+										[165] (785,654)<div >New />
+			[166] (933,524)<div  />
+				[167] (933,524)<button-view-model  />
+					[168] (933,524)<button aria-label='More actions' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+						[169] (933,524)<yt-touch-feedback-shape  />
+							[170] (933,524)<div  />
+[171] (791,760)<div  />
+	[172] (709,760)<a class='yt-lockup-view-model__content-image' href='/watch?v=PJ_9A8w0QtE' />
+		[173] (706,760)<yt-thumbnail-view-model  />
+			[174] (706,760)<div  />
+				[175] (706,760)<img  />
+			[176] (706,818)<yt-thumbnail-bottom-overlay-view-model  />
+				[177] (753,818)<div  />
+					[178] (753,815)<yt-thumbnail-badge-view-model  />
+						[179] (753,815)<badge-shape  />
+							[180] (753,815)<div >7:40 />
+	[181] (856,760)<div  />
+		[182] (856,748)<yt-lockup-metadata-view-model  />
+			[183] (856,748)<div  />
+				[184] (856,715)<h3  />
+					[185] (856,715)<a aria-label='Inheritance and Gift Tax in Spain 7 minutes, 40 seconds' class='yt-lockup-metadata-view-model__title' href='/watch?v=PJ_9A8w0QtE' />
+						[186] (834,714)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text'>Inheritance and Gift Tax in Spain />
+				[187] (856,781)<div  />
+					[188] (856,783)<yt-content-metadata-view-model  />
+						[189] (856,766)<div  />
+							[190] (856,766)<span class='yt-core-attributed-string ytContentMetadataViewModelMetadataText yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>Daniel Bertomeu | Spain Real Estate & Tax Lawyer />
+						[191] (856,799)<div  />
+							[192] (793,799)<span class='yt-core-attributed-string ytContentMetadataViewModelMetadataText yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>242 views />
+							[193] (816,799)<span >• />
+							[194] (841,799)<span class='yt-core-attributed-string ytContentMetadataViewModelMetadataText yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>1 year ago />
+			[195] (933,702)<div  />
+				[196] (933,702)<button-view-model  />
+					[197] (933,702)<button aria-label='More actions' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+						[198] (933,702)<yt-touch-feedback-shape  />
+							[199] (933,702)<div  />
+[200] (791,929)<div  />
+	[201] (709,929)<a class='yt-lockup-view-model__content-image' href='/watch?v=fyXJMeSVdbg' />
+		[202] (706,929)<yt-thumbnail-view-model  />
+			[203] (706,929)<div  />
+				[204] (706,929)<img  />
+			[205] (706,987)<yt-thumbnail-bottom-overlay-view-model  />
+				[206] (753,987)<div  />
+					[207] (753,984)<yt-thumbnail-badge-view-model  />
+						[208] (753,984)<badge-shape  />
+							[209] (753,984)<div >6:00 />
+	[210] (856,929)<div  />
+		[211] (856,917)<yt-lockup-metadata-view-model  />
+			[212] (856,917)<div  />
+				[213] (856,884)<h3  />
+					[214] (856,884)<a aria-label='5 Things to Do BEFORE You Buy a Property in Spain! 6 minutes' class='yt-lockup-metadata-view-model__title' href='/watch?v=fyXJMeSVdbg'>5 Things to Do BEFORE You Buy a Property in Spain! />
+						5 Things to Do BEFORE You Buy a Property in Spain!
+				[215] (856,950)<div  />
+					[216] (856,951)<yt-content-metadata-view-model  />
+						[217] (856,935)<div  />
+							[218] (806,935)<span class='yt-core-attributed-string ytContentMetadataViewModelMetadataText yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>Cloud Nine Spain />
+						[219] (856,968)<div  />
+							[220] (793,968)<span class='yt-core-attributed-string ytContentMetadataViewModelMetadataText yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>78K views />
+							[221] (817,968)<span >• />
+							[222] (844,968)<span class='yt-core-attributed-string ytContentMetadataViewModelMetadataText yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>2 years ago />
+			[223] (933,871)<div  />
+				[224] (933,871)<button-view-model  />
+					[225] (933,871)<button aria-label='More actions' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+						[226] (933,871)<yt-touch-feedback-shape  />
+							[227] (933,871)<div  />
+
+</current_dom>

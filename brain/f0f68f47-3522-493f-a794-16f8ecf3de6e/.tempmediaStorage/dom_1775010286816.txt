@@ -1,0 +1,24 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (108,82)<a class='mast-head__link' href='./' id='masthead-fca-logo'>Financial conduct authority Opens in a new window />
+	[1] (108,86)<img  />
+	Financial conduct authority Opens in a new window
+The Financial Services Register
+[2] (55,227)<a aria-label='Home' class='global-nav__home global-nav__link--current' href='https://register.fca.org.uk/s/' id='masthead-home-link' />
+[3] (137,227)<a class='global-nav__link' href='https://register.fca.org.uk/s/prohibited-individual?predefined=PI' id='masthead-link-0-item'>Individual prohibitions />
+[4] (233,227)<a class='global-nav__link' href='https://register.fca.org.uk/s/fund-search' id='masthead-link-1-item'>Fund search />
+[5] (313,227)<a class='global-nav__link' href='https://register.fca.org.uk/s/resources#Other_registers' id='masthead-link-2-item'>Other registers />
+[6] (423,227)<button class='global-nav__expand' id='masthead-link-3-item' />
+	[7] (411,226)<span >Data and downloads />
+Welcome to the Financial Services Register
+In the UK, nearly all financial service activities must be authorised by the Financial Conduct Authority. You can search our Register for firms and individuals and the activities firms have permissions for.
+Using an authorised firm, with the correct permissions, will greatly reduce the risk of harm. It won’t remove all risk.
+The Register does not confirm whether the Financial Services Compensation Scheme (FSCS) or Financial Ombudsman Service (FOS) protection will definitely apply if something goes wrong.
+For more consumer information see our
+[8] (303,823)<a class='text-link text-color_black' href='https://www.fca.org.uk/consumers'>FCA Consumer pages />
+.
+How to use the Register
+
+</current_dom>

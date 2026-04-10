@@ -1,0 +1,71 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Simple, Intelligent, Professional Services
+[0] (99,148)<a class='aselected' href='home.asp'>Home />
+[1] (203,148)<a >About Us />
+	[2] (235,148)<span  />
+[3] (323,148)<a >Services />
+	[4] (353,148)<span  />
+[5] (467,148)<a >Meet The Team />
+	[6] (523,148)<span  />
+[7] (614,148)<a href='contactus.asp'>Contact Us />
+[8] (775,148)<a class='aselected' href='brexit.asp' />
+	[9] (772,147)<img  />
+[10] (330,276)<a href='enquiry.asp?o=sx47GvW1vFcm9&i=1wCnThY' />
+	[11] (330,233)<img  />
+[12] (553,322)<a href='#fragment-1' />
+	[13] (531,330)<span >Wincham Group />
+[14] (553,384)<a href='#fragment-2' />
+	[15] (546,382)<span >Accountancy />
+[16] (553,451)<a href='#fragment-3' />
+	[17] (532,468)<span >Spanish Property Purchase />
+[18] (553,518)<a href='#fragment-4' />
+	[19] (556,516)<span >Wills & Probate />
+[20] (553,585)<a href='#fragment-5' />
+	[21] (555,593)<span >Spanish Inheritance Tax />
+[22] (553,652)<a href='#fragment-6' />
+	[23] (534,660)<span >Corporate Services />
+[24] (553,719)<a href='#fragment-7' />
+	[25] (552,727)<span >Spanish Property Shop />
+[26] (117,572)<a href='aboutus.asp'>Wincham Group />
+Wincham Group comprises of legal, taxation, accountancy and credit management practice, specialising in clients with international assets.
+Based in Congleton, Cheshire (UK) and Calpe, Alicante (Spain) and with combined experience of over 65 years our professionals are leaders in their field and dedicated to exceptional client service.
+Wincham are the market Leaders in helping Client's purchase and own Spanish property within a UK Limited Company structure as we manage over 500 UK Companies that own Spanish property.
+[27] (416,777)<a class='midbtn' href='aboutus.asp'>Read More />
+UK Property Investment Strategy
+If you are purchasing a UK investment property, Wincham can assist you in acquiring it through a UK Limited Company structure, helping you maximise tax efficiency and protect your investment.
+User Login
+Login Email:
+[28] (783,293)<input class='txtinput placeholder' id='loginemail_txt' />
+Password:
+[29] (783,354)<input class='txtinput placeholder' id='loginpwd_txt' />
+[30] (693,397)<button class='btn btn-1 boxh'>Login />
+[31] (855,382)<a href='javascript:void(0)'>Forgotten Password />
+[32] (854,406)<a href='enquiry.asp'>Register As a Client />
+[33] (860,430)<a href='https://tax.wincham.com/registerAgent.aspx'>Register As an Agent />
+Enquiry Form
+[34] (783,565)<input class='txtinput placeholder' id='fname' placeholder='First Name' />
+*
+[35] (783,607)<input class='txtinput placeholder' id='lname' placeholder='Last Name' />
+*
+[36] (783,649)<input class='txtinput placeholder' id='email' placeholder='Email' />
+*
+*
+*
+*
+Yes!  I would like to receive Newsletters about property, laws, industry news & Wincham services
+Submit
+* = mandatory field
+The cookie settings on www.wincham.com are set to
+'allow all cookies'
+to give you the very best experience. If you continue without changing these settings you consent to this - but you can change your settings by clicking the
+Cookie Settings
+link at any time.
+[37] (735,846)<input id='EU_OPIN_AGREE' />
+[38] (875,846)<input id='EU_OPIN_CANCEL' />
+[39] (805,904)<input id='EU_OPIN_SETTINGS' />
+[40] (800,954)<a href='Privacy_Statement.asp'>Find out more about cookies />
+
+</current_dom>

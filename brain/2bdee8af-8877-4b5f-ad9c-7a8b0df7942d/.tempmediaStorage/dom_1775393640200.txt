@@ -1,0 +1,75 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (628,26)<a href='Default.aspx'>Home />
+|
+[1] (687,26)<a href='#'>Services />
+|
+[2] (771,26)<a href='http://www.wincham.com/mtt.asp'>Meet the Team />
+|
+[3] (862,26)<a href='http://www.wincham.com/contactus.asp'>Contact Us />
+|
+[4] (947,26)<a href='http://www.winchamiht.com/winchamsupport/WRS.exe'>Live Support />
+Welcome! Philip and Beryl
+05/Apr/2026
+[5] (390,213)<a href='referral.aspx' />
+	[6] (390,148)<img  />
+	[7] (390,225)<font  />
+		[8] (390,225)<b >Refer a Friend />
+[9] (538,230)<a href='Default.aspx' />
+	[10] (538,182)<img  />
+	[11] (538,242)<b >Home />
+[12] (699,230)<a href='profile.aspx' />
+	[13] (699,182)<img  />
+	[14] (699,242)<b >Account Settings />
+[15] (860,230)<a href='../Logout.aspx?t=4' />
+	[16] (860,182)<img  />
+	[17] (860,242)<b >Logout />
+Your are here:
+[18] (151,297)<a href='default.aspx'>Home />
+/
+[19] (204,297)<a href='casedetail.aspx?cid=WI-13211'>WI-13211 />
+/ Case Detail
+Case #: WI-13211
+(Company Purchases Case)
+[20] (138,444)<a href='clientcompany.aspx?cid=WI-13211' />
+	[21] (138,444)<b >Los Romeros Limited />
+[22] (92,586)<a href='casedetail.aspx?cid=WI-13211'>Case Detail />
+	[23] (87,540)<img  />
+[24] (101,723)<a href='ViewProposal.aspx?cid=WI-13211'>Tax Illustration />
+	[25] (87,676)<img  />
+[26] (110,860)<a href='infosheetsview.aspx?cid=WI-13211'>Information Sheets />
+	[27] (87,813)<img  />
+[28] (87,950)<img  />
+Messages
+::       Case Details     ::
+Case No.:
+WI-13211
+(
+Property Sales
+Case)
+[29] (731,448)<a href='clientcases.aspx?cid=WI-13211' />
+	[30] (731,410)<img  />
+[31] (808,410)<a href='clientcases.aspx?cid=WI-13211' />
+	[32] (808,410)<b >Edit Case Detail />
+[33] (589,721)<fieldset  />
+	[34] (835,508)<legend >Property Detail />
+		Property Detail
+	Estimated Value of Property:
+	€
+	185000
+	Property Location:
+	Spain - Canary Islands
+	Town/Region in the Country:
+	Lanzarote
+	Property Address:
+	TBA
+	Estimated Value of your Estate in the UK (£):
+	£0 - 150,000
+	Do you have a mortgage?
+	Outstanding Mortgage?
+	€NA
+	Would you like information on our staged payment option?
+
+</current_dom>

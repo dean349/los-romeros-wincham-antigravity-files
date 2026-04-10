@@ -1,0 +1,138 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (26,46)<button aria-label='Guide' class='style-scope yt-icon-button' id='button' />
+	[1] (26,46)<yt-icon  />
+		[2] (26,46)<span  />
+			[3] (26,46)<div  />
+[4] (86,46)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube Home' />
+	[5] (86,46)<div  />
+		[6] (86,45)<ytd-logo  />
+			[7] (86,46)<yt-icon  />
+				[8] (87,46)<span  />
+					[9] (87,46)<div  />
+[10] (458,46)<div  />
+	[11] (454,46)<form  />
+		[12] (454,46)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='Search' role='combobox' />
+	[13] (642,46)<div  />
+		[14] (642,46)<button aria-label='Clear search query' class='ytSearchboxComponentClearButton' />
+			[15] (642,46)<yt-touch-feedback-shape  />
+				[16] (642,46)<div  />
+[17] (678,46)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='Search' />
+	[18] (678,46)<span  />
+		[19] (678,46)<span  />
+			[20] (678,46)<div  />
+[21] (727,46)<button aria-label='Search with your voice' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[22] (727,46)<yt-touch-feedback-shape  />
+		[23] (727,46)<div  />
+[24] (857,46)<button aria-label='Create' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	Create
+	[25] (857,46)<yt-touch-feedback-shape  />
+		[26] (857,46)<div  />
+[27] (913,46)<button aria-label='Notifications' class='style-scope yt-icon-button' id='button' />
+	[28] (913,44)<yt-icon-badge-shape  />
+		[29] (913,46)<div  />
+			[30] (913,46)<div  />
+				[31] (913,46)<span  />
+[32] (955,46)<button aria-label='Account menu' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[33] (955,46)<yt-img-shadow  />
+		[34] (955,46)<img  />
+[35] (26,160)<a aria-label='Home' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/' id='endpoint' title='Home' />
+	[36] (26,145)<yt-icon  />
+	[37] (26,186)<span >Home />
+[38] (26,282)<a aria-label='Shorts' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/shorts/' id='endpoint' title='Shorts' />
+	[39] (26,267)<yt-icon  />
+	[40] (26,308)<span >Shorts />
+[41] (26,404)<a aria-label='Subscriptions' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/feed/subscriptions' id='endpoint' title='Subscriptions' />
+	[42] (26,389)<yt-icon  />
+	[43] (26,430)<span >Subscriptions />
+[44] (26,526)<a aria-label='You' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/feed/you' id='endpoint' title='You' />
+	[45] (26,511)<yt-icon  />
+	[46] (26,552)<span >You />
+[47] (937,122)<button aria-label='Search filters' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-trailing yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	Filters
+	[48] (937,122)<yt-touch-feedback-shape  />
+		[49] (937,122)<div  />
+Explore more
+[50] (253,495)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=TZUTe7s11-I&pp=ygU_V2luY2hhbSBJbnRlcm5hdGlvbmFsICIxNi41JSIgT1IgV2luY2hhbSAiMTYlIiBPUiBXaW5jaGFtICIxMCUi' id='thumbnail' />
+	[51] (253,720)<yt-image  />
+		[52] (253,495)<img  />
+	[53] (415,696)<ytd-thumbnail-overlay-time-status-renderer  />
+		[54] (416,696)<div  />
+			[55] (416,696)<badge-shape aria-label='22 minutes, 48 seconds' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[56] (416,696)<div >22:48 />
+[57] (710,437)<div  />
+	[58] (710,300)<div  />
+		[59] (710,285)<div  />
+			[60] (617,285)<h3  />
+				[61] (617,285)<a aria-label='Claude Code + Nano Banana 2 = Insane $10,000 Websites 22 minutes' class='yt-simple-endpoint style-scope ytd-video-renderer' href='/watch?v=TZUTe7s11-I&pp=ygU_V2luY2hhbSBJbnRlcm5hdGlvbmFsICIxNi41JSIgT1IgV2luY2hhbSAiMTYlIiBPUiBXaW5jaGFtICIxMCUi' id='video-title' title='Claude Code + Nano Banana 2 = Insane $10,000 Websites' />
+					[62] (617,285)<yt-formatted-string >Claude Code + Nano Banana 2 = Insane $10,000 Websites />
+			[63] (957,283)<div  />
+				[64] (957,278)<ytd-menu-renderer  />
+					[65] (957,278)<yt-icon-button  />
+						[66] (957,278)<button aria-label='Action menu' class='style-scope yt-icon-button' id='button' />
+							[67] (957,278)<yt-icon  />
+		[68] (710,321)<ytd-video-meta-block  />
+			[69] (710,321)<div  />
+				[70] (499,321)<div  />
+					[71] (470,321)<span >420K views />
+					[72] (522,321)<span >3 weeks ago />
+	[73] (710,378)<div  />
+		[74] (460,378)<a aria-label='Go to channel Jack Roberts' class='style-scope ytd-video-renderer' href='/@Itssssss_Jack' id='channel-thumbnail' />
+			[75] (457,376)<yt-img-shadow  />
+				[76] (457,376)<img  />
+		[77] (497,378)<ytd-channel-name  />
+			[78] (497,378)<div  />
+				[79] (497,378)<div  />
+					[80] (497,378)<yt-formatted-string  />
+						[81] (497,378)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@Itssssss_Jack'>Jack Roberts />
+	[82] (710,435)<div  />
+		[83] (697,435)<yt-formatted-string >ALL Systems: https://bit.ly/4kol0y5 FREE Resources: https://bit.ly/4lI98Ih 🎙️ My Goofy pod: https://bit.ly/46nLQ3U *Overview* ... />
+	[84] (710,478)<ytd-badge-supported-renderer  />
+		[85] (456,478)<div  />
+			[86] (456,478)<badge-shape aria-label='4K' class='yt-badge-shape yt-badge-shape--default yt-badge-shape--typography' role='img' />
+				[87] (456,478)<div >4K />
+	[88] (710,558)<div  />
+		[89] (710,558)<ytd-expandable-metadata-renderer  />
+			[90] (710,558)<div  />
+				[91] (695,558)<div  />
+					[92] (484,558)<div  />
+						[93] (466,558)<yt-icon  />
+						[94] (493,558)<yt-formatted-string >Summary />
+					[95] (728,558)<div class='style-scope ytd-expandable-metadata-renderer' id='collapsed-title' role='button'>Discover how to leverage advanced AI models to construct professional, multi-page websites featuring custom animations and responsive designs. This guide covers techniques for extracting branding, generating assets, and deploying sites directly to hosting platforms. Learn to optimize for search engines and create stunning user experiences without writing code. />
+						Discover how to leverage advanced AI models to construct professional, multi-page websites featuring custom animations and responsive designs. This guide covers techniques for extracting branding, generating assets, and deploying sites directly to hosting platforms. Learn to optimize for search engines and create stunning user experiences without writing code.
+				[96] (954,558)<div  />
+					[97] (954,558)<div  />
+						[98] (954,558)<ytd-button-renderer  />
+							[99] (954,558)<yt-button-shape  />
+								[100] (954,558)<button aria-label='More' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+									[101] (954,558)<yt-touch-feedback-shape  />
+										[102] (954,558)<div  />
+[103] (253,983)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=Sfa7FC0f-NQ&pp=ygU_V2luY2hhbSBJbnRlcm5hdGlvbmFsICIxNi41JSIgT1IgV2luY2hhbSAiMTYlIiBPUiBXaW5jaGFtICIxMCUi0gcJCdkKAYcqIYzv' id='thumbnail' />
+[104] (710,923)<div  />
+	[105] (710,788)<div  />
+		[106] (710,774)<div  />
+			[107] (583,774)<h3  />
+				[108] (583,774)<a aria-label='5 Monica AI Features You Can’t Afford to Miss 3 minutes, 20 seconds' class='yt-simple-endpoint style-scope ytd-video-renderer' href='/watch?v=Sfa7FC0f-NQ&pp=ygU_V2luY2hhbSBJbnRlcm5hdGlvbmFsICIxNi41JSIgT1IgV2luY2hhbSAiMTYlIiBPUiBXaW5jaGFtICIxMCUi0gcJCdkKAYcqIYzv' id='video-title' title='5 Monica AI Features You Can’t Afford to Miss' />
+					[109] (583,774)<yt-formatted-string >5 Monica AI Features You Can’t Afford to Miss />
+		[110] (710,810)<ytd-video-meta-block  />
+			[111] (710,810)<div  />
+				[112] (499,810)<div  />
+					[113] (468,810)<span >413 views />
+					[114] (519,810)<span >7 months ago />
+	[115] (710,867)<div  />
+		[116] (460,867)<a aria-label='Go to channel Petter AI Hustle' class='style-scope ytd-video-renderer' href='/@PetterAIHustle' id='channel-thumbnail' />
+			[117] (457,864)<yt-img-shadow  />
+				[118] (457,864)<img  />
+		[119] (502,867)<ytd-channel-name  />
+			[120] (502,867)<div  />
+				[121] (502,867)<div  />
+					[122] (502,867)<yt-formatted-string  />
+						[123] (502,867)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@PetterAIHustle'>Petter AI Hustle />
+	[124] (710,923)<div  />
+		[125] (696,923)<yt-formatted-string >https://fas.st/t/JYyHxAgZ] Discover 5 MONICA AI Features You Can't Afford to Miss! If you've been looking for an all-in-one AI ... />
+	[126] (710,966)<ytd-badge-supported-renderer  />
+		4K
+
+</current_dom>

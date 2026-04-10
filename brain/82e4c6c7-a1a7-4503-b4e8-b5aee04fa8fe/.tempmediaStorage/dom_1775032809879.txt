@@ -1,0 +1,124 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,111)<fieldset >Filter by category />
+	Filter by category
+	Filter by category
+	[1] (260,73)<label class='block-label selection-button-checkbox selected' />
+		[2] (210,91)<input id='show-filing-type' />
+		[3] (265,73)<strong >Show filing type />
+	[4] (422,125)<fieldset >Confirmation statement filters, selecting an input will reload the page. />
+		Confirmation statement filters, selecting an input will reload the page.
+		[5] (400,36)<label class='block-label selection-button-checkbox selection-button-checkbox-small govuk-!-margin-bottom-4'>Accounts />
+			[6] (366,54)<input id='filter-category-accounts' />
+		[7] (395,111)<label class='block-label selection-button-checkbox selection-button-checkbox-small govuk-!-margin-bottom-4'>Capital />
+			[8] (366,128)<input id='filter-category-capital' />
+		[9] (398,185)<label class='block-label selection-button-checkbox selection-button-checkbox-small govuk-!-margin-bottom-4'>Charges />
+			[10] (366,202)<input id='filter-category-mortgage' />
+	[11] (656,125)<fieldset >Confirmation statement filters, selecting an input will reload the page. />
+		Confirmation statement filters, selecting an input will reload the page.
+		[12] (629,36)<label class='block-label selection-button-checkbox selection-button-checkbox-small govuk-!-margin-bottom-4'>Confirmation statements / Annual returns />
+			[13] (523,54)<input id='filter-category-confirmation-statement' />
+		[14] (566,111)<label class='block-label selection-button-checkbox selection-button-checkbox-small govuk-!-margin-bottom-4'>Incorporation />
+			[15] (523,128)<input id='filter-category-incorporation' />
+		[16] (553,185)<label class='block-label selection-button-checkbox selection-button-checkbox-small govuk-!-margin-bottom-4'>Officers />
+			[17] (523,202)<input id='filter-category-officers' />
+Company Results (links open in a new window)
+Date
+(document was filed at Companies House)
+Type
+Description
+(of the document filed at Companies House)
+View / Download
+(PDF file, link opens in new window)
+10 Feb 2026
+TM01
+Termination of appointment
+of Beryl Harrison as a director on 10 February 2026
+[18] (719,361)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzUwNDA3OTM3M2FkaXF6a2N4/document?format=pdf&download=0'>View PDF
+of Beryl Harrison as a director on 10 February 2026
+ - link opens in a new window  - 1 page />
+	Termination of appointment
+	of Beryl Harrison as a director on 10 February 2026
+ - link opens in a new window  - 1 page
+(1 page)
+19 Dec 2025
+AA
+Total exemption full accounts
+made up to 31 August 2025
+[19] (719,441)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzQ5NTM0Mzg5OWFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+made up to 31 August 2025
+ - link opens in a new window  - 5 pages />
+	Total exemption full accounts
+	made up to 31 August 2025
+ - link opens in a new window  - 5 pages
+(5 pages)
+[20] (734,485)<a class='link-updater-js govuk-link' href='/company/06993349/filing-history/MzQ5NTM0Mzg5OWFkaXF6a2N4/document?format=xhtml&download=1'>Download iXBRL />
+27 Oct 2025
+CH04
+Secretary's details changed
+for Adrem Accounting Ltd on 1 September 2025
+[21] (719,550)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzQ4NjQwNzMxN2FkaXF6a2N4/document?format=pdf&download=0'>View PDF
+for Adrem Accounting Ltd on 1 September 2025
+ - link opens in a new window  - 1 page />
+	Secretary's details changed
+	for Adrem Accounting Ltd on 1 September 2025
+ - link opens in a new window  - 1 page
+(1 page)
+25 Sep 2025
+AD01
+Registered office address changed
+from Wincham House Greenfield Farm Trading Estate Congleton Cheshire CW12 4TR to 1-2 Albert Chambers Canal Street Congleton CW12 4AA on 25 September 2025
+[22] (719,652)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzQ4MjY3ODc3MGFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+from Wincham House Greenfield Farm Trading Estate Congleton Cheshire CW12 4TR to 1-2 Albert Chambers Canal Street Congleton CW12 4AA on 25 September 2025
+ - link opens in a new window  - 1 page />
+	Registered office address changed
+	from Wincham House Greenfield Farm Trading Estate Congleton Cheshire CW12 4TR to 1-2 Albert Chambers Canal Street Congleton CW12 4AA on 25 September 2025
+ - link opens in a new window  - 1 page
+(1 page)
+27 Aug 2025
+CS01
+Confirmation statement
+made on 18 August 2025 with no updates
+[23] (719,747)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzQ3ODgwMjk5M2FkaXF6a2N4/document?format=pdf&download=0'>View PDF
+made on 18 August 2025 with no updates
+ - link opens in a new window  - 3 pages />
+	Confirmation statement
+	made on 18 August 2025 with no updates
+ - link opens in a new window  - 3 pages
+(3 pages)
+19 Dec 2024
+AA
+Total exemption full accounts
+made up to 31 August 2024
+[24] (719,819)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzQ0ODM0NTM2NWFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+made up to 31 August 2024
+ - link opens in a new window  - 5 pages />
+	Total exemption full accounts
+	made up to 31 August 2024
+ - link opens in a new window  - 5 pages
+(5 pages)
+[25] (734,864)<a class='link-updater-js govuk-link' href='/company/06993349/filing-history/MzQ0ODM0NTM2NWFkaXF6a2N4/document?format=xhtml&download=1'>Download iXBRL />
+20 Aug 2024
+CS01
+Confirmation statement
+made on 18 August 2024 with no updates
+[26] (719,922)<a class='download link-updater-js govuk-link' href='/company/06993349/filing-history/MzQzMjczMjgxNWFkaXF6a2N4/document?format=pdf&download=0'>View PDF
+made on 18 August 2024 with no updates
+ - link opens in a new window  - 3 pages />
+	Confirmation statement
+	made on 18 August 2024 with no updates
+ - link opens in a new window  - 3 pages
+(3 pages)
+25 Jun 2024
+CH04
+Secretary's details changed
+for Wincham Accountancy Limited on 2 April 2024
+View PDF
+Secretary's details changed
+for Wincham Accountancy Limited on 2 April 2024
+ - link opens in a new window  - 1 page
+(1 page)
+
+</current_dom>

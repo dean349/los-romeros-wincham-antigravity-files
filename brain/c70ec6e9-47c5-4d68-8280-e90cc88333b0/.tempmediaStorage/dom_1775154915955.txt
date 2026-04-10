@@ -1,0 +1,98 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Wincham Legal Case UK Type Class Action
+Complete Starling to Tide migration: eradicate all Starling Bank bran…
+[0] (419,42)<tr  />
+	[1] (228,42)<a aria-label='deploy_pages, (Submodule)' class='Link--primary' href='/dean349/lanzarote-repatriation-explainer/blob/main/deploy_pages' title='deploy_pages' />
+		[2] (228,42)<span >deploy_pages />
+	[3] (492,42)<a class='Link--secondary' href='/dean349/lanzarote-repatriation-explainer/commit/c147950be8917f6cc08aff43a49e4cdf235a5824' title='Complete Starling to Tide migration: eradicate all Starling Bank brand references across all HTML and MD files'>Complete Starling to Tide migration: eradicate all Starling Bank bran… />
+[4] (419,87)<tr  />
+	[5] (228,87)<a aria-label='deploy_report, (Submodule)' class='Link--primary' href='/dean349/lanzarote-repatriation-explainer/blob/main/deploy_report' title='deploy_report' />
+		[6] (228,87)<span >deploy_report />
+	[7] (492,87)<a class='Link--secondary' href='/dean349/lanzarote-repatriation-explainer/commit/c147950be8917f6cc08aff43a49e4cdf235a5824' title='Complete Starling to Tide migration: eradicate all Starling Bank brand references across all HTML and MD files'>Complete Starling to Tide migration: eradicate all Starling Bank bran… />
+[8] (419,131)<tr  />
+	[9] (249,132)<a aria-label='philip-harrison-case-report, (Submodule)' class='Link--primary' href='/dean349/lanzarote-repatriation-explainer/blob/main/philip-harrison-case-report' title='philip-harrison-case-report' />
+		[10] (249,132)<span >philip-harrison-case-report />
+	[11] (492,132)<a class='Link--secondary' href='/dean349/lanzarote-repatriation-explainer/commit/c147950be8917f6cc08aff43a49e4cdf235a5824' title='Complete Starling to Tide migration: eradicate all Starling Bank brand references across all HTML and MD files'>Complete Starling to Tide migration: eradicate all Starling Bank bran… />
+[12] (419,176)<tr  />
+	[13] (225,176)<a aria-label='temp_repos, (Directory)' class='Link--primary' href='/dean349/lanzarote-repatriation-explainer/tree/main/temp_repos' title='temp_repos'>temp_repos />
+	[14] (492,176)<a class='Link--secondary' href='/dean349/lanzarote-repatriation-explainer/commit/c147950be8917f6cc08aff43a49e4cdf235a5824' title='Complete Starling to Tide migration: eradicate all Starling Bank brand references across all HTML and MD files'>Complete Starling to Tide migration: eradicate all Starling Bank bran… />
+[15] (419,220)<tr  />
+	[16] (221,221)<a aria-label='.gitignore, (File)' class='Link--primary' href='/dean349/lanzarote-repatriation-explainer/blob/main/.gitignore' title='.gitignore'>.gitignore />
+	[17] (453,221)<a class='Link--secondary' href='/dean349/lanzarote-repatriation-explainer/commit/8792a91a20362756aec77e211a6ea822972c0724' title='Add explainer landing page for GitHub Pages'>Add explainer landing page for GitHub Pages />
+[18] (419,265)<tr  />
+	[19] (219,266)<a aria-label='.nojekyll, (File)' class='Link--primary' href='/dean349/lanzarote-repatriation-explainer/blob/main/.nojekyll' title='.nojekyll'>.nojekyll />
+	[20] (453,266)<a class='Link--secondary' href='/dean349/lanzarote-repatriation-explainer/commit/8792a91a20362756aec77e211a6ea822972c0724' title='Add explainer landing page for GitHub Pages'>Add explainer landing page for GitHub Pages />
+[21] (419,310)<tr  />
+	[22] (237,310)<a aria-label='accounts_2025.html, (File)' class='Link--primary' href='/dean349/lanzarote-repatriation-explainer/blob/main/accounts_2025.html' title='accounts_2025.html'>accounts_2025.html />
+	[23] (492,310)<a class='Link--secondary' href='/dean349/lanzarote-repatriation-explainer/commit/c147950be8917f6cc08aff43a49e4cdf235a5824' title='Complete Starling to Tide migration: eradicate all Starling Bank brand references across all HTML and MD files'>Complete Starling to Tide migration: eradicate all Starling Bank bran… />
+[24] (419,354)<tr  />
+	[25] (227,355)<a aria-label='build_html.py, (File)' class='Link--primary' href='/dean349/lanzarote-repatriation-explainer/blob/main/build_html.py' title='build_html.py'>build_html.py />
+	[26] (492,355)<a class='Link--secondary' href='/dean349/lanzarote-repatriation-explainer/commit/c147950be8917f6cc08aff43a49e4cdf235a5824' title='Complete Starling to Tide migration: eradicate all Starling Bank brand references across all HTML and MD files'>Complete Starling to Tide migration: eradicate all Starling Bank bran… />
+[27] (419,399)<tr  />
+	[28] (230,399)<a aria-label='cgt-report.html, (File)' class='Link--primary' href='/dean349/lanzarote-repatriation-explainer/blob/main/cgt-report.html' title='cgt-report.html'>cgt-report.html />
+	[29] (450,399)<a class='Link--secondary' href='/dean349/lanzarote-repatriation-explainer/commit/479c184af0a9b02a6d7db8fb808ae4c988d7b1e3' title='Added 25k tax-free exception to Tide guide'>Added 25k tax-free exception to Tide guide />
+[30] (419,443)<tr  />
+	[31] (230,444)<a aria-label='ch_history.html, (File)' class='Link--primary' href='/dean349/lanzarote-repatriation-explainer/blob/main/ch_history.html' title='ch_history.html'>ch_history.html />
+	[32] (492,444)<a class='Link--secondary' href='/dean349/lanzarote-repatriation-explainer/commit/c147950be8917f6cc08aff43a49e4cdf235a5824' title='Complete Starling to Tide migration: eradicate all Starling Bank brand references across all HTML and MD files'>Complete Starling to Tide migration: eradicate all Starling Bank bran… />
+[33] (419,488)<tr  />
+	[34] (234,489)<a aria-label='convert_all_md.py, (File)' class='Link--primary' href='/dean349/lanzarote-repatriation-explainer/blob/main/convert_all_md.py' title='convert_all_md.py'>convert_all_md.py />
+	[35] (492,489)<a class='Link--secondary' href='/dean349/lanzarote-repatriation-explainer/commit/c147950be8917f6cc08aff43a49e4cdf235a5824' title='Complete Starling to Tide migration: eradicate all Starling Bank brand references across all HTML and MD files'>Complete Starling to Tide migration: eradicate all Starling Bank bran… />
+[36] (419,533)<tr  />
+	[37] (243,533)<a aria-label='convert_html_to_pdf.py, (File)' class='Link--primary' href='/dean349/lanzarote-repatriation-explainer/blob/main/convert_html_to_pdf.py' title='convert_html_to_pdf.py'>convert_html_to_pdf.py />
+	[38] (492,533)<a class='Link--secondary' href='/dean349/lanzarote-repatriation-explainer/commit/c147950be8917f6cc08aff43a49e4cdf235a5824' title='Complete Starling to Tide migration: eradicate all Starling Bank brand references across all HTML and MD files'>Complete Starling to Tide migration: eradicate all Starling Bank bran… />
+[39] (419,577)<tr  />
+	[40] (243,578)<a aria-label='convert_pitch_report.py, (File)' class='Link--primary' href='/dean349/lanzarote-repatriation-explainer/blob/main/convert_pitch_report.py' title='convert_pitch_report.py'>convert_pitch_report.py />
+	[41] (492,578)<a class='Link--secondary' href='/dean349/lanzarote-repatriation-explainer/commit/c147950be8917f6cc08aff43a49e4cdf235a5824' title='Complete Starling to Tide migration: eradicate all Starling Bank brand references across all HTML and MD files'>Complete Starling to Tide migration: eradicate all Starling Bank bran… />
+[42] (419,622)<tr  />
+	[43] (234,622)<a aria-label='convert_report.py, (File)' class='Link--primary' href='/dean349/lanzarote-repatriation-explainer/blob/main/convert_report.py' title='convert_report.py'>convert_report.py />
+	[44] (492,622)<a class='Link--secondary' href='/dean349/lanzarote-repatriation-explainer/commit/c147950be8917f6cc08aff43a49e4cdf235a5824' title='Complete Starling to Tide migration: eradicate all Starling Bank brand references across all HTML and MD files'>Complete Starling to Tide migration: eradicate all Starling Bank bran… />
+[45] (419,666)<tr  />
+	[46] (246,667)<a aria-label='convert_updated_mds.py, (File)' class='Link--primary' href='/dean349/lanzarote-repatriation-explainer/blob/main/convert_updated_mds.py' title='convert_updated_mds.py'>convert_updated_mds.py />
+	[47] (492,667)<a class='Link--secondary' href='/dean349/lanzarote-repatriation-explainer/commit/c147950be8917f6cc08aff43a49e4cdf235a5824' title='Complete Starling to Tide migration: eradicate all Starling Bank brand references across all HTML and MD files'>Complete Starling to Tide migration: eradicate all Starling Bank bran… />
+[48] (419,711)<tr  />
+	[49] (252,712)<a aria-label='divorce_financial_report.html, (File)' class='Link--primary' href='/dean349/lanzarote-repatriation-explainer/blob/main/divorce_financial_report.html' title='divorce_financial_report.html'>divorce_financial_report.html />
+	[50] (492,712)<a class='Link--secondary' href='/dean349/lanzarote-repatriation-explainer/commit/c147950be8917f6cc08aff43a49e4cdf235a5824' title='Complete Starling to Tide migration: eradicate all Starling Bank brand references across all HTML and MD files'>Complete Starling to Tide migration: eradicate all Starling Bank bran… />
+[51] (419,756)<tr  />
+	[52] (250,756)<a aria-label='divorce_financial_report.md, (File)' class='Link--primary' href='/dean349/lanzarote-repatriation-explainer/blob/main/divorce_financial_report.md' title='divorce_financial_report.md'>divorce_financial_report.md />
+	[53] (492,756)<a class='Link--secondary' href='/dean349/lanzarote-repatriation-explainer/commit/c147950be8917f6cc08aff43a49e4cdf235a5824' title='Complete Starling to Tide migration: eradicate all Starling Bank brand references across all HTML and MD files'>Complete Starling to Tide migration: eradicate all Starling Bank bran… />
+[54] (419,800)<tr  />
+	[55] (255,801)<a aria-label='divorce_financial_report_v2.md, (File)' class='Link--primary' href='/dean349/lanzarote-repatriation-explainer/blob/main/divorce_financial_report_v2.md' title='divorce_financial_report_v2.md'>divorce_financial_report_v2.md />
+	[56] (492,801)<a class='Link--secondary' href='/dean349/lanzarote-repatriation-explainer/commit/c147950be8917f6cc08aff43a49e4cdf235a5824' title='Complete Starling to Tide migration: eradicate all Starling Bank brand references across all HTML and MD files'>Complete Starling to Tide migration: eradicate all Starling Bank bran… />
+[57] (419,845)<tr  />
+	[58] (228,845)<a aria-label='explainer.html, (File)' class='Link--primary' href='/dean349/lanzarote-repatriation-explainer/blob/main/explainer.html' title='explainer.html'>explainer.html />
+	[59] (490,845)<a class='Link--secondary' href='/dean349/lanzarote-repatriation-explainer/commit/b7742efffb085a162b36571e4d25de0ce9e430ae' title='feat: add i.AI Lex as 4th live data connection; update all connection counts'>feat: add i.AI Lex as 4th live data connection; update all connection… />
+[60] (419,890)<tr  />
+	[61] (238,890)<a aria-label='extract_financials.py, (File)' class='Link--primary' href='/dean349/lanzarote-repatriation-explainer/blob/main/extract_financials.py' title='extract_financials.py'>extract_financials.py />
+	[62] (492,890)<a class='Link--secondary' href='/dean349/lanzarote-repatriation-explainer/commit/c147950be8917f6cc08aff43a49e4cdf235a5824' title='Complete Starling to Tide migration: eradicate all Starling Bank brand references across all HTML and MD files'>Complete Starling to Tide migration: eradicate all Starling Bank bran… />
+[63] (419,934)<tr  />
+	[64] (225,935)<a aria-label='fetch_ch.ps1, (File)' class='Link--primary' href='/dean349/lanzarote-repatriation-explainer/blob/main/fetch_ch.ps1' title='fetch_ch.ps1'>fetch_ch.ps1 />
+	[65] (492,935)<a class='Link--secondary' href='/dean349/lanzarote-repatriation-explainer/commit/c147950be8917f6cc08aff43a49e4cdf235a5824' title='Complete Starling to Tide migration: eradicate all Starling Bank brand references across all HTML and MD files'>Complete Starling to Tide migration: eradicate all Starling Bank bran… />
+[66] (419,979)<tr  />
+	[67] (224,979)<a aria-label='fetch_ch.py, (File)' class='Link--primary' href='/dean349/lanzarote-repatriation-explainer/blob/main/fetch_ch.py' title='fetch_ch.py'>fetch_ch.py />
+	Complete Starling to Tide migration: eradicate all Starling Bank bran…
+[68] (691,5)<a class='Link--primary no-underline Link' href='/dean349/lanzarote-repatriation-explainer/releases'>Releases />
+No releases published
+[69] (703,65)<a class='Link--inTextBlock' href='/dean349/lanzarote-repatriation-explainer/releases/new'>Create a new release />
+[70] (746,124)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/dean349/lanzarote-repatriation-explainer/deployments'>Deployments />
+	[71] (733,124)<span >8 />
+[72] (727,166)<a class='Link--primary Link text-bold mx-2 tmp-mx-2' href='/dean349/lanzarote-repatriation-explainer/deployments/github-pages'>github-pages />
+	[73] (750,166)<relative-time  />
+[74] (702,206)<a class='Link--inTextBlock Link' href='/dean349/lanzarote-repatriation-explainer/deployments'>+ 7 deployments />
+[75] (746,267)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/users/dean349/packages?repo_name=lanzarote-repatriation-explainer'>Packages />
+No packages published
+[76] (710,326)<a class='Link--inTextBlock' href='/dean349/lanzarote-repatriation-explainer/packages'>Publish your first package />
+[77] (746,385)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/dean349/lanzarote-repatriation-explainer/graphs/contributors'>Contributors />
+	[78] (730,385)<span >1 />
+[79] (683,433)<a class='mr-2' href='https://github.com/dean349' />
+	[80] (683,433)<img  />
+[81] (710,433)<a class='Link--primary no-underline flex-self-center' href='https://github.com/dean349' />
+	[82] (710,433)<strong >dean349 />
+Languages
+[83] (701,566)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/dean349/lanzarote-repatriation-explainer/search?l=html' />
+	[84] (696,566)<span >HTML />
+	[85] (716,566)<span >100.0% />
+
+</current_dom>

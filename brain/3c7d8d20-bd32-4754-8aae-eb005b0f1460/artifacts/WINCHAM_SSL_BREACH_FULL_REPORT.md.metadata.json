@@ -1,0 +1,5 @@
+{
+  "artifactType": "ARTIFACT_TYPE_OTHER",
+  "summary": "Comprehensive standalone forensic report on Wincham Group SSL certificate failure and potential data breach. Documents: (1) original breach on 5 April 2026 showing NET::ERR_CERT_DATE_INVALID; (2) ~116 day breach duration from Dec 2025 to 7 April 2026 verified via SSL Labs certificate dates and Wayback Machine gap; (3) reactive renewal of wincham.com certificate just 48 hours after breach documentation; (4) current Grade B SSL configurations; (5) winchamiht.com permanently failed; (6) full regulatory analysis under UK GDPR Articles 5, 32, 33, 34 and ICAEW conduct standards; (7) complete evidence index with 17 screenshots; (8) draft ICO referral text ready for submission.",
+  "updatedAt": "2026-04-10T11:15:52.720864600Z"
+}

@@ -1,0 +1,51 @@
+[0] (293,58)<label class='split-search__term-label'>Who or what specialism are you
+      looking for? />
+[1] (293,129)<input aria-label='Who or what specialism are you looking for?' class='form-control form-control-lg' id='term' placeholder='e.g. James Smith or Audit' />
+[2] (567,58)<label >And/or where? (firms only) />
+[3] (567,129)<input aria-label='Where are you looking for?' class='pac-target-input' id='autocomplete' placeholder='e.g. London or SW1' />
+[4] (780,126)<button class='split-search__button'>Find />
+About us
+[5] (68,559)<a href='https://www.icaew.com/about-icaew/who-we-are' title='Who we are'>Who we are />
+[6] (68,601)<a href='https://www.icaew.com/about-icaew/who-we-are/governance' title='Governance'>Governance />
+[7] (118,643)<a href='https://www.icaew.com/about-icaew/who-we-are/icaew-annual-and-special-meetings' title='ICAEW Annual and Special meetings'>ICAEW Annual and Special meetings />
+[8] (99,685)<a href='https://www.icaew.com/about-icaew/regulation-and-the-public-interest' title='Acting in the public interest'>Acting in the public interest />
+[9] (108,728)<a href='https://www.icaew.com/about-icaew/what-is-chartered-accountancy' title='What is chartered accountancy?'>What is chartered accountancy? />
+[10] (89,770)<a href='https://www.icaew.com/insights/diversity-and-inclusion' title='Diversity and Inclusion'>Diversity and Inclusion />
+[11] (100,812)<a href='https://www.icaew.com/about-icaew/find-a-chartered-accountant' title='Find a chartered accountant'>Find a chartered accountant />
+[12] (82,854)<a href='https://www.icaew.com/about-icaew/who-we-are/awards-and-bursaries/icaew-foundation' title='ICAEW Foundation'>ICAEW Foundation />
+[13] (71,896)<a href='https://www.icaew.com/about-icaew/news' title='Media Centre'>Media Centre />
+[14] (72,938)<a href='https://www.icaew.com/about-icaew/vacancies' title='Job vacancies'>Job vacancies />
+Contact us
+[15] (266,559)<a href='https://www.icaew.com/contact-us' title='Contact us'>Contact us />
+[16] (316,601)<a href='https://www.icaew.com/contact-us/feedback-and-complaints' title='Make a complaint or give feedback'>Make a complaint or give feedback />
+[17] (306,643)<a href='https://www.icaew.com/icaew-systems-status-update' title='ICAEW systems: status update'>ICAEW systems: status update />
+[18] (265,685)<a href='https://www.icaew.com/contact-us/uk-offices' title='UK offices'>UK offices />
+[19] (261,728)<a href='https://www.icaew.com/contact-us/regions' title='Regions'>Regions />
+[20] (285,770)<a href='https://www.icaew.com/contact-us/international-offices' title='International offices'>International offices />
+[21] (257,812)<a href='https://www.caba.org.uk/' title='CABA'>CABA />
+[22] (275,854)<a href='https://www.icaew.com/about-icaew/who-we-are/who-we-work-with/partner-with-us' title='Partner with us'>Partner with us />
+Information services
+[23] (521,559)<a href='https://www.icaew.com/technical/practice-resources/run-and-grow/support-for-member-firms/core-accounting-and-tax-service' title='Bloomsbury Accounting and Tax Service'>Bloomsbury Accounting and Tax Service />
+[24] (454,601)<a href='https://www.icaew.com/library' title='Library'>Library />
+[25] (500,643)<a href='https://www.icaew.com/library/guide-to-services' title='Guide to Library services FAQ'>Guide to Library services FAQ />
+[26] (478,685)<a href='https://www.icaew.com/library/company-research' title='Company research'>Company research />
+[27] (480,728)<a href='https://www.icaew.com/library/historical-resources' title='Historical resources'>Historical resources />
+[28] (475,770)<a href='https://www.icaew.com/library/library-collection' title='Library collection'>Library collection />
+Legal
+[29] (686,559)<a href='https://www.icaew.com/icaew-policies' title='ICAEW policies'>ICAEW policies />
+[30] (709,601)<a href='https://www.icaew.com/-/media/corporate/files/policies/modern-slavery-statement.ashx' title='Modern Slavery Statement'>Modern Slavery Statement />
+[31] (685,643)<a href='https://www.icaew.com/icaew-policies/privacy-notices' title='Privacy notices'>Privacy notices />
+[32] (671,685)<a href='https://www.icaew.com/icaew-policies/cookies' title='Cookies'>Cookies />
+[33] (713,728)<a href='https://www.icaew.com/icaew-policies/permissions' title='Reproducing ICAEW content'>Reproducing ICAEW content />
+[34] (715,770)<a href='https://www.icaew.com/icaew-policies/copyright-notice-and-disclaimer' title='Legal notice and terms of use'>Legal notice and terms of use />
+[35] (695,812)<a href='https://www.icaew.com/icaew-policies/links-policy' title='Website links policy'>Website links policy />
+[36] (723,854)<a href='https://www.icaew.com/icaew-policies/chatbot-miaplus-fair-usage-policy' title='Chatbot MiaPlus fair usage policy'>Chatbot MiaPlus fair usage policy />
+[37] (701,896)<a href='https://www.icaew.com/icaew-policies/chatbot-miaplus-end-of-licence-agreement' title='Chatbot MiaPlus EULA'>Chatbot MiaPlus EULA />
+Events
+[38] (863,559)<a href='https://events.icaew.com' title='All events'>All events />
+[39] (900,601)<a href='https://www.icaew.com/learning-and-development/academy/cpd-course-catalogue' title='A-Z of CPD courses by topic'>A-Z of CPD courses by topic />
+[40] (863,643)<a href='https://events.icaew.com/search?st_t=49&st_ti=435' title='Webinars'>Webinars />
+[41] (887,685)<a href='https://events.icaew.com/search?st_t=49&st_ti=12104' title='On demand webinars'>On demand webinars />
+[42] (890,728)<a href='https://www.icaew.com/learning-and-development/events' title='ICAEW flagship events'>ICAEW flagship events />
+[43] (898,770)<a href='https://www.icaew.com/learning-and-development/events/icaew-annual-conference' title='ICAEW Annual Conference'>ICAEW Annual Conference />
+[44] (874,812)<a href='https://www.icaew.com/events-support' title='Events support'>Events support />

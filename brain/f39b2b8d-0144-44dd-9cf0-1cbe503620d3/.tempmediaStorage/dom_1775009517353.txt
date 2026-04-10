@@ -1,0 +1,49 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Starling help
+[0] (365,242)<a class='Header_tab__c43HH' href='/personal/'>Personal />
+[1] (500,242)<a class='Header_tab__c43HH Header_active__h+Ufs' href='/business/'>Business />
+[2] (635,242)<a class='Header_tab__c43HH' href='/joint/'>Joint />
+[3] (500,407)<input placeholder='Search our frequently asked questions' />
+Top questions
+[4] (500,598)<li  />
+	[5] (500,598)<a href='/business/topics/setting-up-an-account/are-there-any-business-account-fees/' />
+		[6] (356,598)<span >Are there any business account fees? />
+		[7] (476,598)<span >-
+Business />
+[8] (500,664)<li  />
+	[9] (500,664)<a href='/business/topics/setting-up-an-account/do-you-offer-business-accounts-to-charities/' />
+		[10] (375,664)<span >Do you offer business accounts to charities? />
+		[11] (513,664)<span >-
+Business />
+[12] (500,730)<li  />
+	[13] (500,730)<a href='/business/topics/setting-up-an-account/i-already-have-one-business-account-can-i-open-another-one/' />
+		[14] (421,730)<span >I already have one business account. Can I open another one? />
+		[15] (606,730)<span >-
+Business />
+[16] (500,796)<li  />
+	[17] (500,796)<a href='/business/topics/marketplace/how-do-i-integrate-my-starling-business-account-with-xero/' />
+		[18] (413,796)<span >How do I integrate my Starling business account with Xero? />
+		[19] (589,796)<span >-
+Business />
+[20] (500,862)<li  />
+	[21] (500,862)<a href='/business/topics/marketplace/how-do-i-integrate-my-starling-business-account-with-freeagent/' />
+		[22] (428,862)<span >How do I integrate my Starling business account with FreeAgent? />
+		[23] (619,862)<span >-
+Business />
+[24] (500,928)<li  />
+	[25] (500,928)<a href='/business/topics/setting-up-an-account/i-opened-a-business-account-can-i-also-open-a-personal-account/' />
+		[26] (431,928)<span >I opened a business account, can I also open a personal account? />
+		[27] (626,928)<span >-
+Business />
+Top questions
+[28] (216,742)<a href='/business/topics/accounting/how-do-i-account-for-custom-vat-rates-postponed-vat-accounting-and-domestic-reverse-charge-on-a-vat-return/'>How do I account for custom VAT rates, postponed VAT accounting and domestic reverse charge on a VAT return? />
+How can I access my data from previous financial periods?
+[29] (771,702)<a href='/business/topics/accounting/how-long-do-i-need-to-keep-my-records/'>How long do I need to keep my records? />
+[30] (202,951)<a href='/business/topics/accounting/do-i-have-to-attach-receipts-to-every-transaction/'>Do I have to attach receipts to every transaction? />
+Why can’t I add my receipts in Accounting?
+[31] (760,951)<a href='/business/topics/accounting/do-i-have-to-review-every-single-past-transaction-manually/'>Do I have to review every single past transaction manually? />
+
+</current_dom>
