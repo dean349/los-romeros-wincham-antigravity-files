@@ -1,6 +1,0 @@
-{
-  "artifactType":  "ARTIFACT_TYPE_OTHER",
-  "summary":  "Complete inventory of all 38 HTML files across 7 GitHub repositories in the UK Lanzarote Repatriation workspace. Each repo section lists every HTML file with its title and description. The bottom summary table now includes a 'GitHub Readme Repo Description' column (between Pages URL and HTML Files count) containing a thorough, content-based description synthesised from scanning every file in each repo directory — suitable for use directly as a GitHub README description.",
-  "updatedAt":  "2026-04-01T15:22:18.929476100Z",
-  "version":  "1"
-}

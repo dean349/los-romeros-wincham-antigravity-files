@@ -1,5 +1,0 @@
-{
-  "artifactType":  "ARTIFACT_TYPE_OTHER",
-  "summary":  "Final installation report for all UK government and legal MCP servers, skills, and tools installed into the UK_Lanzarote_Repatriation workspace. Confirms workspace isolation (not global), lists all installed components with their verification status, explains the scope-locking mechanism via .mcp.json, and documents the one outstanding action needed from the user to activate the servers in Claude Desktop.",
-  "updatedAt":  "2026-04-02T07:53:56.721911100Z"
-}

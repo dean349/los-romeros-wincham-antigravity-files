@@ -1,6 +1,0 @@
-{
-  "artifactType":  "ARTIFACT_TYPE_IMPLEMENTATION_PLAN",
-  "summary":  "Full analysis of the UK_Lanzarote_Repatriation workspace structure, Git repo inventory, and a proposed folder reorganisation plan. Answers the user's specific concern about GitHub repos being broken by moves, and identifies safe vs risky files to relocate.",
-  "updatedAt":  "2026-04-02T14:08:35.430457Z",
-  "requestFeedback":  true
-}

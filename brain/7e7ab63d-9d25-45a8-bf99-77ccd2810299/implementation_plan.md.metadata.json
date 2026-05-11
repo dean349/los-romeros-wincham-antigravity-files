@@ -1,7 +1,0 @@
-{
-  "artifactType": "ARTIFACT_TYPE_IMPLEMENTATION_PLAN",
-  "summary": "Implementation plan for building the Los Romeros Brand Command Center landing page.\nFeatures responsive HTML, design system generation, magic component generation, and Github deployment.",
-  "updatedAt": "2026-04-10T14:26:36.570051100Z",
-  "version": "1",
-  "requestFeedback": true
-}

@@ -1,6 +1,0 @@
-{
-  "artifactType":  "ARTIFACT_TYPE_IMPLEMENTATION_PLAN",
-  "summary":  "System Architecture & Database Schema artifact for VELYON - Legal Command Center. Features a detailed Next.js frontend, Supabase backend with extensive RLS, Edge Functions for RAG, and pgvector schemas.",
-  "updatedAt":  "2026-04-08T05:55:59.196986400Z",
-  "requestFeedback":  true
-}
